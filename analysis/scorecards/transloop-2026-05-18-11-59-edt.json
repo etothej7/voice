@@ -1,0 +1,302 @@
+{
+  "call": "transloop-2026-05-18-11-59-edt",
+  "source": {
+    "recording": "Optimus _ Transloop  - 2026_05_18 11_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Transloop  - 2026_05_18 11_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 4233,
+      "questions": 18,
+      "speech_min": 18.4,
+      "loudness_mean": 0.935,
+      "loudness_cv": 0.657,
+      "f0_std_semitones": 9.44,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 54.7,
+      "arousal": 0.523,
+      "dominance": 0.575,
+      "valence": 0.507,
+      "arousal_thirds": [
+        0.522,
+        0.527,
+        0.518
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Max Riemer": {
+      "words": 1123,
+      "questions": 15,
+      "speech_min": 4.5,
+      "loudness_mean": 1.053,
+      "loudness_cv": 0.621,
+      "f0_std_semitones": 9.55,
+      "pace_peaks_per_sec": 4.13,
+      "talk_share_pct": 14.5,
+      "arousal": 0.449,
+      "dominance": 0.505,
+      "valence": 0.486,
+      "arousal_thirds": [
+        0.443,
+        0.456,
+        null
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Nick Pease": {
+      "words": 731,
+      "questions": 7,
+      "speech_min": 3.5,
+      "loudness_mean": 0.93,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 9.98,
+      "pace_peaks_per_sec": 3.96,
+      "talk_share_pct": 9.4,
+      "arousal": 0.473,
+      "dominance": 0.544,
+      "valence": 0.521,
+      "arousal_thirds": [
+        0.512,
+        0.493,
+        0.449
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Robert Pantalone": {
+      "words": 1090,
+      "questions": 6,
+      "speech_min": 3.8,
+      "loudness_mean": 1.126,
+      "loudness_cv": 0.648,
+      "f0_std_semitones": 9.83,
+      "pace_peaks_per_sec": 4.4,
+      "talk_share_pct": 14.1,
+      "arousal": 0.561,
+      "dominance": 0.597,
+      "valence": 0.581,
+      "arousal_thirds": [
+        null,
+        0.511,
+        0.603
+      ],
+      "seconds_analyzed": 162.0
+    },
+    "Ryan Castello": {
+      "words": 564,
+      "questions": 3,
+      "speech_min": 1.9,
+      "loudness_mean": 0.984,
+      "loudness_cv": 0.647,
+      "f0_std_semitones": 8.28,
+      "pace_peaks_per_sec": 4.27,
+      "talk_share_pct": 7.3,
+      "arousal": 0.545,
+      "dominance": 0.583,
+      "valence": 0.527,
+      "arousal_thirds": [
+        0.595,
+        null,
+        0.515
+      ],
+      "seconds_analyzed": 148.0
+    }
+  },
+  "call_summary": "Optimus (founder Ed Stockman and Max Riemer) pitched their transportation-data prospecting platform to Transloop's sales leadership (Nick Pease, Robert Pantalone, Ryan Castello) as a potential replacement for ZoomInfo, whose contract renews in mid-July. Ed delivered an extended background/vision pitch and pulled Transloop's own lanes and customers up live, while Max demoed lane/ICP filtering tailored to buyer-requested examples (outbound Pulaski VA, a Toto NJ\u2192Grand Prairie TX Home Depot lane). Buyers were genuinely engaged \u2014 Robert especially around ICP \u2014 and the call closed with agreement in principle to run a short multi-seat trial plus a Bob\u2194Max follow-up, but no specific date was locked.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed sounded prepared and animated (pitch variation and pace above his own baseline) and was responsive to buyers rather than scripted, most notably answering Nick's data-security concern in specific terms and pulling Transloop's real lanes/customers on the spot. His talk share (54.7%) was high, but the engagement was two-way.",
+          "evidence": [
+            {
+              "timestamp": "00:29:55",
+              "quote": "I see lucky Ohio to Bennettville, South Carolina. Um, I see Trinity, Alabama to Bennettville, South Carolina."
+            },
+            {
+              "timestamp": "00:27:38",
+              "quote": "each one of the clients TMS integrations are siloed and and firewalled"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain it: Optimus gives brokers data-backed leads (which shippers to call and why, based on lane and capacity fit) to replace tools like ZoomInfo. The claims were concrete and quantified.",
+          "evidence": [
+            {
+              "timestamp": "00:10:45",
+              "quote": "the narrative behind these 2,000 is we have a delivery 1.2 miles away from your facility"
+            },
+            {
+              "timestamp": "00:12:37",
+              "quote": "we aggregate data from eight different sources. So when you buy Optimus, you're not buying a Zoom Info, you're not buying a Seamless, you're not buying an Apollo"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Highly tailored to Transloop \u2014 Ed tied the pitch to their July ZoomInfo renewal and their hunter/farmer model, and pulled their actual lanes and named customers live to prove shipper intelligence.",
+          "evidence": [
+            {
+              "timestamp": "00:29:55",
+              "quote": "I see First Solar, Certainted, Dyson Crop, Quanx, Cargill, FedEx, Walmart, East Coast Warehouse and Distribution, USPS. All of this sound familiar?"
+            },
+            {
+              "timestamp": "00:32:44",
+              "quote": "I want the farmers to have this product and farmers oftentimes don't need a Zoom Info license"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked strong qualifying questions (headcount, TMS, incumbent spend) and explicitly surfaced the mid-July renewal as the buying window, but he left the call before any next step was dated, so the trial and follow-up remained concrete-in-principle but undated.",
+          "evidence": [
+            {
+              "timestamp": "00:26:27",
+              "quote": "the the TMS integration, if we did do a TM, what TMS are you on?"
+            },
+            {
+              "timestamp": "00:37:19",
+              "quote": "Do you have any idea what you pay for Zoom info right now? We hear such a wide range."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Cut the ~9-minute personal-background monologue roughly in half and reinvest that time up front asking about Transloop's current prospecting workflow and pain before pitching the solution \u2014 you are carrying more than half the talk time on what is meant to be a discovery call."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Low-key in tone (arousal below his own baseline) but genuinely responsive \u2014 he reconfigured the live demo to buyers' exact requests, including running Robert's specific Toto NJ\u2192Grand Prairie lane on the spot. He is not marked down for a quiet delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:25:12",
+              "quote": "So, like Norfolk Solution. Yeah, there's a lot. And they they run this identical lane and you can filter down by volume."
+            },
+            {
+              "timestamp": "00:18:57",
+              "quote": "we got rid of the enterprise shippers and we did small, medium, large. I filtered out flatbed and then outbound Palaski, Virginia within 25 miles of that city"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max landed a clear, concrete one-liner: find shippers that match the margin/lane profile of your existing wins \u2014 starting with your own warm relationships \u2014 and call them.",
+          "evidence": [
+            {
+              "timestamp": "00:43:29",
+              "quote": "you have this margin percentage with this type of shipper. Let's find other ones that match up with that and call them."
+            },
+            {
+              "timestamp": "00:20:17",
+              "quote": "really warm leads if you already work with Steel Dynamics. Uh, just easy conversations to have to ask the person you already have a relationship with as a warm intro"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The demo was built around Transloop's own examples \u2014 Robert's Pulaski VA reference and his specific old lane \u2014 rather than a canned dataset, making the tool's fit tangible for the buyer.",
+          "evidence": [
+            {
+              "timestamp": "00:24:08",
+              "quote": "could you real quick just uh for filtering for like a lane? So, say for example... I did a outbound Toto, New Jersey to uh Grand Prairie, Texas"
+            },
+            {
+              "timestamp": "00:20:17",
+              "quote": "over about a 60-day running period, they've moved this lane or they've moved outbound Palaski one time"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were mostly rapport and demo-logistics rather than needs discovery, the trial was prospect-initiated by Ryan rather than proposed by Max, and the next step was left explicitly undated with no named reps or success criteria.",
+          "evidence": [
+            {
+              "timestamp": "00:42:43",
+              "quote": "We'll uh we'll be in touch for sure. We'll get some reps in there."
+            },
+            {
+              "timestamp": "00:02:21",
+              "quote": "are there some cradle to grave guys, some strictly sales with ops behind them or a lot of Chicago style?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the call ends, convert the 'we'll be in touch' trial agreement into a scheduled session \u2014 put a specific start date, named reps/AMs, and a defined success metric (e.g., lanes found or meetings booked) on the calendar rather than leaving it open-ended."
+    }
+  },
+  "buyers": {
+    "Nick Pease": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Volunteered the buying trigger and timing unprompted",
+          "timestamp": "00:37:19",
+          "quote": "our contract for Zoom Info is up in the middle of July, I want to say. Um, so I think that would, you know, that's the opportunity, at least on our side... potentially making a change away from them"
+        },
+        {
+          "signal": "Positive assessment of fit and value",
+          "timestamp": "00:38:30",
+          "quote": "I think it's a really cool tool, you know, what you guys are building and um, I do think you definitely could land business fairly quick if you know the lanes"
+        },
+        {
+          "signal": "Serious-evaluation objection on data security (depth signals real diligence, not dismissal)",
+          "timestamp": "00:26:27",
+          "quote": "big thing is you know data integrity... our internal business is extremely important... what sort of information is flowing into your system based upon our existing customers"
+        },
+        {
+          "signal": "Soft commitment but delegated next steps and hopped off early (energy faded across the call)",
+          "timestamp": "00:37:19",
+          "quote": "I think definitely worthy of keeping the conversation going"
+        }
+      ]
+    },
+    "Robert Pantalone": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Owned a concrete follow-up himself",
+          "timestamp": "00:42:43",
+          "quote": "Let's uh let's uh let's follow up Ryan with with Max later... Max, maybe me and you jam on the side and I can see some more of your filtering"
+        },
+        {
+          "signal": "Deep, specific product question tying the tool to their CRM workflow",
+          "timestamp": "00:14:37",
+          "quote": "integration with Salesforce to where the... DC um and the lane information does that integrate with Salesforce uh live... to where we could potentially be stronger with our filtering and reporting data uh within our CRM?"
+        },
+        {
+          "signal": "Explicit enthusiasm and self-identified fit with his coaching mandate",
+          "timestamp": "00:39:36",
+          "quote": "it makes me excited for ICP. I'm a big ICP guy"
+        },
+        {
+          "signal": "Disclosed his own fast internal reaction to the tool",
+          "timestamp": "00:42:43",
+          "quote": "I don't know if Bob's ever replied to a Slack that fast uh when we were talk looking at the tool"
+        }
+      ]
+    },
+    "Ryan Castello": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Directly requested a trial and framed it as a head-to-head test against the incumbent",
+          "timestamp": "00:41:09",
+          "quote": "do you guys do any sort of like trials where we get like five seats for like a week or something where we can have some reps try it out and see if it is beneficial and kind of how it compares to what we're currently using?"
+        },
+        {
+          "signal": "Prioritized getting the trial question in even as the call was ending",
+          "timestamp": "00:41:09",
+          "quote": "Sorry, I just got one last question."
+        },
+        {
+          "signal": "Recalled prior contact, indicating ongoing consideration",
+          "timestamp": "00:41:09",
+          "quote": "Max, I think we might have chatted about that after that first demo, but I couldn't remember at that time"
+        }
+      ]
+    }
+  }
+}

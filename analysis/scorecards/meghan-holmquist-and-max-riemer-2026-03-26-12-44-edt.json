@@ -1,0 +1,139 @@
+{
+  "call": "meghan-holmquist-and-max-riemer-2026-03-26-12-44-edt",
+  "source": {
+    "recording": "Meghan Holmquist and Max Riemer - 2026_03_26 12_44 EDT - Recording.mp4",
+    "notes": "Meghan Holmquist and Max Riemer - 2026_03_26 12_44 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1475,
+      "questions": 7,
+      "speech_min": 5.8,
+      "loudness_mean": 0.902,
+      "loudness_cv": 0.601,
+      "f0_std_semitones": 7.14,
+      "pace_peaks_per_sec": 4.12,
+      "talk_share_pct": 58.1,
+      "arousal": 0.435,
+      "dominance": 0.505,
+      "valence": 0.501,
+      "arousal_thirds": [
+        0.448,
+        0.415,
+        0.44
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Meghan Holmquist": {
+      "words": 1063,
+      "questions": 14,
+      "speech_min": 4.8,
+      "loudness_mean": 0.861,
+      "loudness_cv": 0.651,
+      "f0_std_semitones": 7.41,
+      "pace_peaks_per_sec": 3.79,
+      "talk_share_pct": 41.9,
+      "arousal": 0.442,
+      "dominance": 0.485,
+      "valence": 0.484,
+      "arousal_thirds": [
+        0.463,
+        0.412,
+        null
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Meghan Holmquist (Nuva Cargo) booked an evaluation demo of Optimus after a senior manager flagged it, wanting to understand whether the sales-intelligence platform could fit or replace part of their tech stack. Max Riemer front-loaded qualifying questions on revenue, seat count, and existing tools, then proactively surfaced two disqualifiers \u2014 the enterprise-license price versus their small user count, and Optimus's lack of Mexico/cross-border data \u2014 while demoing prospecting, account-management, and the Jared AI assistant. Both agreed it is a strong concept but not a fit right now, ending with Max sending Loom videos and the recording for future consideration.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive \u2014 he adapted the demo to her cross-border business and volunteered fit concerns rather than reciting a script; his delivery ran slightly below his own pitch-variation baseline but was steadier than usual, not a red flag.",
+          "evidence": [
+            {
+              "timestamp": "00:09:40",
+              "quote": "I think another reason why it wouldn't make sense right now for you specifically or your team specifically is that we don't show Mexico."
+            },
+            {
+              "timestamp": "00:11:05",
+              "quote": "I know Laredo is close to the border, pretty big hub over there."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "He gave a concrete, quantified value prop: real shipment data from ~$25B in transactions where every lead is pre-qualified because it's proven brokered freight.",
+          "evidence": [
+            {
+              "timestamp": "00:09:40",
+              "quote": "we have about $25 billion worth of transactions. And so everything you in here theoretically is a brokered freight move. And so we like to say that every lead in here is a qualified lead because you know that they are routing freight through a third party."
+            },
+            {
+              "timestamp": "00:03:55",
+              "quote": "we pull actual shipment related data so lanes that they run volumes uh trading partners etc etc"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He tailored the pitch to Nuva Cargo specifically \u2014 probing the Merged Transportation acquisition, using the Laredo border hub as the demo example, and honestly flagging that the Mexico gap makes it a poor fit for their cross-border network today.",
+          "evidence": [
+            {
+              "timestamp": "00:09:40",
+              "quote": "we don't show Mexico. Everything is intra US or domestic US right now."
+            },
+            {
+              "timestamp": "00:03:55",
+              "quote": "do y'all work with uh any vendors like Zoom Info or Seamless or Apollo right now?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "His qualifying questions on revenue, seats, and current tools were productive, but the call closed on a vague, undated 'reach out whenever the timing's right' rather than a concrete, dated next step.",
+          "evidence": [
+            {
+              "timestamp": "00:05:11",
+              "quote": "So, what did y'all do last year? Or do you have like a an idea?"
+            },
+            {
+              "timestamp": "00:16:00",
+              "quote": "I'll send you over those videos right after this and if any more questions pop up and whenever the timing's right, I'm easy to reach."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Even on a genuine no-fit-now call, lock in a specific dated follow-up tied to the buyer's own timeline (e.g., 'let's reconnect once the Merged Transportation integration wraps in Q3, or when the Mexico data ships') instead of leaving it open-ended."
+    }
+  },
+  "buyers": {
+    "Meghan Holmquist": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Explicitly agreed it is not a fit for now, citing timing and fit",
+          "timestamp": "00:14:56",
+          "quote": "it seems like yes, I agree with you. It might not be uh a fit right now"
+        },
+        {
+          "signal": "Only a soft, undated internal next step \u2014 no buyer-owned commitment or scheduled follow-up",
+          "timestamp": "00:14:56",
+          "quote": "I'll pass this information along and just make sure we keep it in mind for the future."
+        },
+        {
+          "signal": "Genuine engagement via probing questions on data validation, though aimed at understanding rather than buying",
+          "timestamp": "00:12:21",
+          "quote": "Do you validate that with LinkedIn or how do you do that?"
+        },
+        {
+          "signal": "Positive but non-committal sentiment about the product",
+          "timestamp": "00:16:53",
+          "quote": "I think it's a a cool proposition. I do."
+        }
+      ]
+    }
+  }
+}

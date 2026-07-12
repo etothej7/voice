@@ -1,0 +1,147 @@
+{
+  "call": "sims-global-2026-04-27-13-59-edt",
+  "source": {
+    "recording": "Optimus _ Sims Global  - 2026_04_27 13_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Sims Global  - 2026_04_27 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Chase Bayuk": {
+      "words": 1764,
+      "questions": 11,
+      "speech_min": 7.0,
+      "loudness_mean": 0.813,
+      "loudness_cv": 0.733,
+      "f0_std_semitones": 8.16,
+      "pace_peaks_per_sec": 3.88,
+      "talk_share_pct": 46.3,
+      "arousal": 0.479,
+      "dominance": 0.526,
+      "valence": 0.487,
+      "arousal_thirds": [
+        0.472,
+        0.5,
+        0.469
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Max Riemer": {
+      "words": 2047,
+      "questions": 20,
+      "speech_min": 7.3,
+      "loudness_mean": 0.777,
+      "loudness_cv": 0.74,
+      "f0_std_semitones": 8.45,
+      "pace_peaks_per_sec": 3.88,
+      "talk_share_pct": 53.7,
+      "arousal": 0.479,
+      "dominance": 0.529,
+      "valence": 0.532,
+      "arousal_thirds": [
+        0.494,
+        0.464,
+        0.471
+      ],
+      "seconds_analyzed": 176.0
+    }
+  },
+  "call_summary": "The scheduled product conversation never happened: the intended decision-maker Ted (and Jimmy) did not join, so the ~27 minutes between Optimus's Max Riemer and Sims Global's Chase Bayuk were almost entirely rapport \u2014 baseball stadiums, European travel, and family \u2014 punctuated by connection glitches. Chase volunteered rich business context (a multi-year sole-logistics contract shipping data-center enclosures for Meta/Google/Microsoft and a recently doubled trailer fleet), but no product was pitched, no value proposition was stated, and the call closed with a loose agreement to reschedule around Ted's availability.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was warm, attentive, and genuinely responsive rather than scripted \u2014 he asked natural follow-ups, tracked details Chase raised, and stayed flexible when the meeting fell apart; acoustics back this up (8.45 st pitch variation, steady arousal, and valence +1.6 vs his own baseline).",
+          "evidence": [
+            {
+              "timestamp": "00:15:04",
+              "quote": "I don't have anything else until 3. So, I mean, if we need to stay on a little bit longer, I'm I'm okay with it."
+            },
+            {
+              "timestamp": "00:21:21",
+              "quote": "Now, are you your last name? Where is that from?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "No value proposition was ever delivered \u2014 a neutral listener could not state in one sentence why Sims Global should care, because the product was never described even though Chase said Ted was joining specifically to see it.",
+          "evidence": [
+            {
+              "timestamp": "00:08:29",
+              "quote": "he wants to see the product and and have the conversation"
+            },
+            {
+              "timestamp": "00:07:19",
+              "quote": "Yes. So, it could be about I'm not sure what their conversation's on."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Chase handed over highly specific, tailorable context (doubled trailer fleet, a sole-logistics data-center contract, driver qualification) but Max acknowledged it socially without connecting any product capability to Sims' network, lanes, or capacity needs.",
+          "evidence": [
+            {
+              "timestamp": "00:09:37",
+              "quote": "we've basically doubled our trailer fleet over the past few months."
+            },
+            {
+              "timestamp": "00:09:37",
+              "quote": "they locked in a multi-year contract earlier this this year to we're the their sole logistics partner."
+            },
+            {
+              "timestamp": "00:10:41",
+              "quote": "So, you going to broker carrier?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Nearly all of Max's many questions were personal rapport rather than business discovery, and the call ended with open availability rather than a concrete, dated next step \u2014 the reschedule was owned and driven by the buyer.",
+          "evidence": [
+            {
+              "timestamp": "00:24:32",
+              "quote": "Any day but Thursday would be best."
+            },
+            {
+              "timestamp": "00:24:32",
+              "quote": "Tuesday, Wednesday, and Friday are pretty flexible."
+            },
+            {
+              "timestamp": "00:21:21",
+              "quote": "I have to ask too, what where is your family from?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "When your primary contact no-shows, convert the wait into real discovery with whoever is on the call and lock an exact date/time before hanging up \u2014 pick up Chase's 'doubled our trailer fleet' and the data-center contract to probe their lanes, capacity gaps, and current tooling, then propose a specific slot instead of leaving the reschedule open-ended."
+    }
+  },
+  "buyers": {
+    "Chase Bayuk": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Owned the reschedule as a buyer-driven next step",
+          "timestamp": "00:24:32",
+          "quote": "let me let me get with Ted and and figure out a time that um is better for him"
+        },
+        {
+          "signal": "Committed to securing the decision-maker's attendance next time",
+          "timestamp": "00:24:32",
+          "quote": "I'll try to make sure before the call that Ted's still available"
+        },
+        {
+          "signal": "Volunteered detailed, sales-relevant business context unprompted (openness)",
+          "timestamp": "00:09:37",
+          "quote": "we've basically doubled our trailer fleet over the past few months."
+        },
+        {
+          "signal": "Framed product interest as Ted's rather than his own \u2014 no personal buying signal",
+          "timestamp": "00:08:29",
+          "quote": "he wants to see the product and and have the conversation"
+        }
+      ]
+    }
+  }
+}

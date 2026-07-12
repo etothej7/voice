@@ -1,0 +1,143 @@
+{
+  "call": "joe-gramc-2026-05-26-10-29-edt",
+  "source": {
+    "recording": "Optimus _ Joe Gramc - 2026_05_26 10_29 EDT - Recording.mp4",
+    "notes": "Optimus _ Joe Gramc - 2026_05_26 10_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Drew Cherba": {
+      "words": 1781,
+      "questions": 10,
+      "speech_min": 7.3,
+      "loudness_mean": 0.933,
+      "loudness_cv": 0.611,
+      "f0_std_semitones": 7.37,
+      "pace_peaks_per_sec": 4.07,
+      "talk_share_pct": 42.9,
+      "arousal": 0.466,
+      "dominance": 0.511,
+      "valence": 0.474,
+      "arousal_thirds": [
+        0.522,
+        0.431,
+        0.471
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Max Riemer": {
+      "words": 2373,
+      "questions": 10,
+      "speech_min": 9.6,
+      "loudness_mean": 0.96,
+      "loudness_cv": 0.603,
+      "f0_std_semitones": 7.56,
+      "pace_peaks_per_sec": 4.09,
+      "talk_share_pct": 57.1,
+      "arousal": 0.502,
+      "dominance": 0.52,
+      "valence": 0.476,
+      "arousal_thirds": [
+        0.534,
+        0.485,
+        0.473
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) ran an introductory demo for Drew Cherba, a consultant sitting in for FiveStar's Joe Gramc, who no-showed. Max clearly framed Optimus as a 'shipper intelligence platform built for sales' with a concrete proof point and asked solid discovery questions, but the pitch stayed generic to FiveStar's Northeast Ohio freight and ended with only a vague, undated follow-up. Drew was intellectually engaged and cast himself as the eventual implementer, yet repeatedly described himself as a peripheral observer and made no commitment.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was responsive and conversational rather than scripted\u2014he adapted to Drew's summaries, dug into FiveStar's stack, and openly flagged uncertainty about a competitor rather than bluffing; acoustically he was slightly below his own baseline on pitch variation but steadier on volume, well within normal range.",
+          "evidence": [
+            {
+              "timestamp": "00:15:57",
+              "quote": "Can you give me the rundown of the current tools or data that y'all are"
+            },
+            {
+              "timestamp": "00:21:53",
+              "quote": "we were told last week by another prospect that they were literally deciding between us and gen logs was that they are also getting factoring data"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate the value in one sentence\u2014verified shipper data (lanes, volumes, commodities, contacts) so reps make specific calls instead of generic outreach\u2014and Max backed it with a concrete, quantified proof point and a clear competitive differentiator.",
+          "evidence": [
+            {
+              "timestamp": "00:05:41",
+              "quote": "I would say it is a shipper intelligence platform built for sales"
+            },
+            {
+              "timestamp": "00:11:21",
+              "quote": "within the first seven days a dude went and ran 14 loads with them in the first month"
+            },
+            {
+              "timestamp": "00:21:53",
+              "quote": "they do only have cameras on highways and interstates. So they don't know where a shipment picked up or where it got delivered"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "The pitch remained a generic product tour\u2014Drew supplied all the FiveStar specifics (Northeast Ohio hub, local spiderweb strategy, two reps, SalesFlare/expired Apollo/Gen Logs), but Max never connected Optimus to FiveStar's actual lanes, region, or freight network, only lightly referencing their rep/account-manager structure at the very end.",
+          "evidence": [
+            {
+              "timestamp": "00:11:21",
+              "quote": "when you call someone and you're able to pinpoint something specific like a high volume DC or like a specific lane"
+            },
+            {
+              "timestamp": "00:18:14",
+              "quote": "How many sales reps do y'all have?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked productive questions about tools, team structure, and competitor usage, but the call ended with no concrete dated next step\u2014he deferred to chasing the absent Joe with a vague timeframe and failed to lock any commitment from Drew, the very person who said he would drive adoption.",
+          "evidence": [
+            {
+              "timestamp": "00:20:46",
+              "quote": "how's Gen Logs been on the sales side? Do y'all use it for like procurement"
+            },
+            {
+              "timestamp": "00:26:06",
+              "quote": "I'll reach out to Joe and then we'll try and get something else here maybe this week"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock a specific dated next step with whoever is actually in the room\u2014here, book a concrete follow-up demo on the calendar with Drew (your likely implementer/champion) and secure a time for Joe, instead of leaving it at 'I'll reach out to Joe... maybe this week.'"
+    }
+  },
+  "buyers": {
+    "Drew Cherba": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Genuine, own-words enthusiasm for the positioning",
+          "timestamp": "00:05:41",
+          "quote": "I like that. Shipper intelligence built for sales. Okay."
+        },
+        {
+          "signal": "Question depth\u2014actively qualifying how the data is ethically sourced",
+          "timestamp": "00:06:41",
+          "quote": "that's kind of the I guess the legit ethical way that you were able to get your hands on the documents was you were um providing a service to the factoring companies"
+        },
+        {
+          "signal": "Positions himself as the future implementer/champion",
+          "timestamp": "00:23:59",
+          "quote": "he's not the one that's going to end up you know getting the sales reps to implement it. That's probably going to be my job"
+        },
+        {
+          "signal": "Distances himself and makes no commitment or buyer-owned next step",
+          "timestamp": "00:22:54",
+          "quote": "I am I'm kind of an a an observer slash like partial implementer"
+        }
+      ]
+    }
+  }
+}

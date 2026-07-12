@@ -1,0 +1,158 @@
+{
+  "call": "waabi-network-builder-2026-05-22-15-00-edt",
+  "source": {
+    "recording": "Waabi network builder  - 2026_05_22 15_00 EDT - Recording.mp4",
+    "notes": "Waabi network builder  - 2026_05_22 15_00 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Joe Shone": {
+      "words": 2281,
+      "questions": 18,
+      "speech_min": 8.6,
+      "loudness_mean": 0.968,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 7.49,
+      "pace_peaks_per_sec": 4.03,
+      "talk_share_pct": 55.1,
+      "arousal": 0.535,
+      "dominance": 0.574,
+      "valence": 0.551,
+      "arousal_thirds": [
+        0.56,
+        0.539,
+        0.513
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Max Riemer": {
+      "words": 1529,
+      "questions": 8,
+      "speech_min": 6.5,
+      "loudness_mean": 1.045,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 8.87,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 36.9,
+      "arousal": 0.478,
+      "dominance": 0.536,
+      "valence": 0.5,
+      "arousal_thirds": [
+        0.462,
+        0.49,
+        0.507
+      ],
+      "seconds_analyzed": 164.0
+    },
+    "Toby Pasquale": {
+      "words": 331,
+      "questions": 4,
+      "speech_min": 1.3,
+      "loudness_mean": 1.019,
+      "loudness_cv": 0.647,
+      "f0_std_semitones": 6.18,
+      "pace_peaks_per_sec": 3.91,
+      "talk_share_pct": 8.0,
+      "arousal": 0.556,
+      "dominance": 0.598,
+      "valence": 0.559,
+      "arousal_thirds": [
+        null,
+        0.559,
+        0.552
+      ],
+      "seconds_analyzed": 103.0
+    }
+  },
+  "call_summary": "On this May 22 renewal call, Max Riemer of Optimus demoed a beta facility/lane-overlap tool to Waabi's Joe Shone, whose autonomous-vehicle team needs granular, extractable network data to map partner and lane overlaps at scale. Joe was transparent that his contract ends July 6, that he is under internal pressure to cancel, and that he is evaluating competing data providers, so he will only renew if Optimus can deliver exportable network data \u2014 a use case Max acknowledged falls outside the standard ICP. The call closed with agreement to assess feasibility and pricing internally with Ed and to reconvene the week of June 1.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max came prepared with a beta tool built specifically for Joe's prior use-case email and stayed responsive throughout, paraphrasing Joe's needs and asking a sharp clarifying question rather than reciting a script; his acoustics (pitch variation 8.87 st, steady arousal near his own baseline) match an engaged, non-scripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:05:30",
+              "quote": "Okay, got it. So you would also want to see trading partners basically"
+            },
+            {
+              "timestamp": "00:19:18",
+              "quote": "does it depend on the state or are all of the lanes that your trucks run intrastate?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated a concrete or quantified reason Joe should renew; he outsourced the value definition to the buyer and, on cost, offered only that 'there's always a price,' so a neutral listener could not state the value in one sentence.",
+          "evidence": [
+            {
+              "timestamp": "00:04:30",
+              "quote": "What is going to be the best is going to bring the most value to you and your team?"
+            },
+            {
+              "timestamp": "00:21:30",
+              "quote": "I think there's always a a price, you know."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was clearly tailored to Joe's autonomous-network use case \u2014 a purpose-built beta, Toby introduced as an Amazon Logistics veteran, and a concrete proposal mapping Joe's own prospects and inbound/outbound lanes.",
+          "evidence": [
+            {
+              "timestamp": "00:02:49",
+              "quote": "I sent Toby your email or the thread that we had with Ed basically describing your use case and we're trying to build out something that would give you the data that you're looking for."
+            },
+            {
+              "timestamp": "00:20:16",
+              "quote": "on the network builder so we have like the search by facility or lane if we had instead of that it was you put in like his prospects so he could put in you know Walmart Kroger America, Niagara, those guys, and then select like outbound and inbound state."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max proactively surfaced the contract trajectory and landed a dated next step (feasibility review plus a week-of-June-1 check-in), though the buyer drove the timeline and the close was left soft ('we'll be in touch') rather than a firmly booked date against the July 6 deadline.",
+          "evidence": [
+            {
+              "timestamp": "00:16:14",
+              "quote": "a good purpose for this call was to sort of see where this was where this sort of contract was headed."
+            },
+            {
+              "timestamp": "00:23:25",
+              "quote": "I think that's a good next step and uh we'll be in we'll be in touch then."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Come to the June 1 meeting owning the close: bring a concrete feasibility answer and rough pricing/terms for the network-data extract, state the value in Joe's own quantified terms (overlap mapping across his 75 engaged partners that skips weeks of manual discovery), and lock a specific decision date ahead of the July 6 renewal instead of ending on 'we'll be in touch.'"
+    }
+  },
+  "buyers": {
+    "Joe Shone": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Buyer-owned next step \u2014 Joe himself proposed and scheduled the follow-up",
+          "timestamp": "00:23:25",
+          "quote": "maybe set up time the week of the 1 of June just to chat and check in and and see if this is realistic or not"
+        },
+        {
+          "signal": "Openness to renew on restructured terms if the capability exists",
+          "timestamp": "00:15:21",
+          "quote": "if there's a proposal from you guys to get exactly what I just described and extract it, like I'm happy to rethink our contract, our terms"
+        },
+        {
+          "signal": "Active cancellation pressure \u2014 current product no longer valued",
+          "timestamp": "00:09:10",
+          "quote": "I am getting pressure to cancel that contract um unless I can find a valid reason to use this customer data um because the contact data is not useful to me anymore"
+        },
+        {
+          "signal": "Competitive threat \u2014 evaluating alternative data providers",
+          "timestamp": "00:16:14",
+          "quote": "we're talking to other data companies about acquiring this data"
+        }
+      ]
+    }
+  }
+}

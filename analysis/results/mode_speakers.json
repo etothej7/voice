@@ -1,0 +1,694 @@
+{
+  "talk_shares_transcript_truth": {
+    "Ed": 47.8,
+    "Mike(+Them)": 49.8,
+    "Max": 2.4
+  },
+  "speakers": {
+    "Mike Sinkovitz (MODE)": {
+      "talk_time_min": 13.7,
+      "talk_share_pct": 52.4,
+      "n_turns": 68,
+      "longest_turn_sec": 69.7,
+      "mean_turn_sec": 12.1,
+      "loudness_mean": 0.872,
+      "loudness_cv": 0.663,
+      "f0_std_semitones": 8.25,
+      "f0_mean_semitones": 28.85,
+      "pace_peaks_per_sec": 3.5,
+      "median_response_latency_sec": 0.62,
+      "fast_cutins_under_300ms": 8
+    },
+    "Max Riemer (Optimus)": {
+      "talk_time_min": 0.0,
+      "talk_share_pct": 0.0,
+      "n_turns": 0,
+      "longest_turn_sec": 0,
+      "mean_turn_sec": 0,
+      "loudness_mean": 0,
+      "loudness_cv": 0,
+      "f0_std_semitones": 0,
+      "f0_mean_semitones": 0,
+      "pace_peaks_per_sec": 0,
+      "median_response_latency_sec": null,
+      "fast_cutins_under_300ms": 0
+    },
+    "Ed Stockman (Optimus)": {
+      "talk_time_min": 12.5,
+      "talk_share_pct": 47.6,
+      "n_turns": 60,
+      "longest_turn_sec": 66.0,
+      "mean_turn_sec": 12.5,
+      "loudness_mean": 0.956,
+      "loudness_cv": 0.608,
+      "f0_std_semitones": 10.76,
+      "f0_mean_semitones": 24.0,
+      "pace_peaks_per_sec": 3.65,
+      "median_response_latency_sec": 0.36,
+      "fast_cutins_under_300ms": 12
+    }
+  },
+  "n_turn_switches": 50,
+  "turns": [
+    [
+      138.28,
+      139.0,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      147.25,
+      148.25,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      148.26,
+      150.43,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      152.28,
+      161.07,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      163.44,
+      166.03,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      167.63,
+      176.86,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      177.93,
+      186.76,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      188.85,
+      190.16,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      192.59,
+      199.76,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      201.28,
+      203.52,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      204.76,
+      206.04,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      207.72,
+      212.81,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      214.29,
+      233.31,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      235.44,
+      256.67,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      258.35,
+      293.43,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      295.14,
+      311.38,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      312.76,
+      359.52,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      360.66,
+      368.48,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      370.1,
+      402.65,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      404.28,
+      415.11,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      416.89,
+      421.13,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      422.87,
+      453.56,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      454.91,
+      457.91,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      457.92,
+      462.65,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      463.86,
+      473.28,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      474.44,
+      476.66,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      477.8,
+      480.37,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      481.69,
+      497.32,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      498.32,
+      566.71,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      566.72,
+      575.71,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      575.72,
+      645.45,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      646.98,
+      671.84,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      671.85,
+      692.84,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      693.3,
+      696.52,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      698.95,
+      703.04,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      706.35,
+      713.11,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      713.12,
+      716.71,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      718.18,
+      719.14,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      723.65,
+      726.71,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      731.72,
+      738.11,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      739.18,
+      805.21,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      805.72,
+      814.52,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      814.53,
+      847.53,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      848.15,
+      852.87,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      854.74,
+      857.24,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      857.25,
+      867.15,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      868.77,
+      872.76,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      874.15,
+      876.1,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      876.27,
+      892.44,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      893.81,
+      911.3,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      911.31,
+      914.44,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      915.99,
+      918.82,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      920.66,
+      935.67,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      937.07,
+      947.14,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      948.44,
+      951.1,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      952.73,
+      954.15,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      957.88,
+      962.62,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      963.47,
+      966.71,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      967.67,
+      969.19,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      981.3,
+      982.34,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      983.77,
+      1003.19,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1005.29,
+      1038.14,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1040.96,
+      1077.36,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1078.83,
+      1089.05,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1090.28,
+      1098.67,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1099.03,
+      1109.27,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1110.75,
+      1142.7,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1142.71,
+      1191.87,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1191.97,
+      1196.52,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1198.47,
+      1226.9,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1227.96,
+      1242.18,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1243.4,
+      1244.79,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1244.97,
+      1286.1,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1287.24,
+      1288.24,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1288.25,
+      1289.91,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1291.33,
+      1299.26,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1301.01,
+      1325.22,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1326.7,
+      1328.94,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1329.79,
+      1333.53,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1337.24,
+      1349.9,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1357.1,
+      1361.54,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1369.37,
+      1379.88,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1381.24,
+      1397.71,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1398.7,
+      1403.48,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1405.81,
+      1441.57,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1442.65,
+      1444.39,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1445.85,
+      1447.37,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1448.1,
+      1464.34,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1466.14,
+      1487.26,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1488.41,
+      1505.1,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1506.55,
+      1526.09,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1527.11,
+      1535.11,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1535.12,
+      1553.63,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1554.7,
+      1576.56,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1577.97,
+      1583.4,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1584.56,
+      1596.52,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1598.06,
+      1599.8,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1601.22,
+      1611.97,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1615.81,
+      1617.9,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1618.44,
+      1645.02,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1646.22,
+      1669.4,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1669.41,
+      1671.14,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1674.75,
+      1684.76,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1686.07,
+      1696.2,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1697.35,
+      1702.58,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1704.3,
+      1707.4,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1709.81,
+      1712.05,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1714.32,
+      1719.39,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1722.67,
+      1730.17,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1731.24,
+      1733.42,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1734.43,
+      1766.93,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1767.56,
+      1772.8,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1773.62,
+      1790.85,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1792.42,
+      1795.66,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1797.18,
+      1803.18,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1803.19,
+      1809.3,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1809.31,
+      1811.39,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1812.49,
+      1814.23,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1815.91,
+      1830.35,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1831.36,
+      1835.55,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1837.02,
+      1853.96,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1855.06,
+      1874.65,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1877.89,
+      1885.0,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1886.51,
+      1888.08,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1892.3,
+      1900.24,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1900.78,
+      1914.53,
+      "Mike Sinkovitz (MODE)"
+    ],
+    [
+      1914.81,
+      1915.85,
+      "Ed Stockman (Optimus)"
+    ],
+    [
+      1915.86,
+      1917.72,
+      "Mike Sinkovitz (MODE)"
+    ]
+  ]
+}

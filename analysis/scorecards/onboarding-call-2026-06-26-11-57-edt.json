@@ -1,0 +1,328 @@
+{
+  "call": "onboarding-call-2026-06-26-11-57-edt",
+  "source": {
+    "recording": "Optimus onboarding call  - 2026_06_26 11_57 EDT - Recording.mp4",
+    "notes": "Optimus onboarding call  - 2026_06_26 11_57 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Cory Petersen": {
+      "words": 5,
+      "questions": 0,
+      "speech_min": 0.1,
+      "loudness_mean": 0.849,
+      "loudness_cv": 0.568,
+      "f0_std_semitones": 1.36,
+      "pace_peaks_per_sec": 4.22,
+      "talk_share_pct": 0.3,
+      "arousal": 0.358,
+      "dominance": 0.417,
+      "valence": 0.261,
+      "arousal_thirds": [
+        0.358,
+        null,
+        null
+      ],
+      "seconds_analyzed": 5.0
+    },
+    "Derek Holst": {
+      "words": 8,
+      "questions": 0,
+      "speech_min": 0.0,
+      "loudness_mean": 0.808,
+      "loudness_cv": 0.531,
+      "f0_std_semitones": 0.93,
+      "pace_peaks_per_sec": 3.6,
+      "talk_share_pct": 0.5,
+      "arousal": 0.489,
+      "dominance": 0.527,
+      "valence": 0.63,
+      "arousal_thirds": [
+        0.489,
+        null,
+        null
+      ],
+      "seconds_analyzed": 3.0
+    },
+    "Gary Horton": {
+      "words": 8,
+      "questions": 0,
+      "speech_min": 0.0,
+      "loudness_mean": null,
+      "loudness_cv": null,
+      "f0_std_semitones": null,
+      "pace_peaks_per_sec": null,
+      "talk_share_pct": 0.5,
+      "arousal": 0.588,
+      "dominance": 0.546,
+      "valence": 0.469,
+      "arousal_thirds": [
+        0.588,
+        null,
+        null
+      ],
+      "seconds_analyzed": 8.0
+    },
+    "Kristen Haley": {
+      "words": 2,
+      "questions": 0,
+      "speech_min": 0.0,
+      "loudness_mean": null,
+      "loudness_cv": null,
+      "f0_std_semitones": null,
+      "pace_peaks_per_sec": null,
+      "talk_share_pct": 0.1
+    },
+    "Max Riemer": {
+      "words": 1485,
+      "questions": 8,
+      "speech_min": 5.5,
+      "loudness_mean": 1.034,
+      "loudness_cv": 0.61,
+      "f0_std_semitones": 9.76,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 85.1,
+      "arousal": 0.511,
+      "dominance": 0.558,
+      "valence": 0.486,
+      "arousal_thirds": [
+        0.526,
+        0.518,
+        0.492
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Rick Lefler": {
+      "words": 41,
+      "questions": 1,
+      "speech_min": 0.1,
+      "loudness_mean": 0.664,
+      "loudness_cv": 0.67,
+      "f0_std_semitones": 10.63,
+      "pace_peaks_per_sec": 4.6,
+      "talk_share_pct": 2.4,
+      "arousal": 0.444,
+      "dominance": 0.495,
+      "valence": 0.388,
+      "arousal_thirds": [
+        null,
+        null,
+        0.444
+      ],
+      "seconds_analyzed": 14.0
+    },
+    "Robert Fortmeyer": {
+      "words": 99,
+      "questions": 1,
+      "speech_min": 0.3,
+      "loudness_mean": 0.867,
+      "loudness_cv": 0.703,
+      "f0_std_semitones": 7.23,
+      "pace_peaks_per_sec": 3.6,
+      "talk_share_pct": 5.7,
+      "arousal": 0.485,
+      "dominance": 0.496,
+      "valence": 0.473,
+      "arousal_thirds": [
+        0.493,
+        null,
+        0.331
+      ],
+      "seconds_analyzed": 48.0
+    },
+    "Tyler Van Kooten": {
+      "words": 96,
+      "questions": 6,
+      "speech_min": 0.3,
+      "loudness_mean": 1.022,
+      "loudness_cv": 0.671,
+      "f0_std_semitones": 7.33,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 5.5,
+      "arousal": 0.537,
+      "dominance": 0.558,
+      "valence": 0.517,
+      "arousal_thirds": [
+        0.465,
+        0.602,
+        0.561
+      ],
+      "seconds_analyzed": 41.0
+    }
+  },
+  "call_summary": "This was an onboarding/demo call for the Optimus platform with the Circle Delivers / New Core sales team. Max Riemer (Optimus) drove ~85% of the talk time, walking the group through lane-level freight data, shipper profiles, satellite facility views, network maps, and the pending HubSpot integration, then set operational next steps for login distribution and integrations. Engagement was concentrated in Tyler Van Kooten (implementation questions) and Robert Fortmeyer (admin rollout), while most attendees were passive.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded prepared and expressive (pitch variation 9.76 st, +0.8 vs his own baseline) and answered each buyer question directly rather than reciting a script, though he briefly stalled on Tyler's phrasing before recovering.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "Which office are you calling from,"
+            },
+            {
+              "timestamp": "00:07:18",
+              "quote": "Our main source is going to be our factoring partnerships."
+            },
+            {
+              "timestamp": "00:08:46",
+              "quote": "What do you mean?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize the value in one sentence \u2014 lane- and freight-specific data to target the sales process and surface unseen leads/vendors \u2014 but the claims stay directional and are never quantified.",
+          "evidence": [
+            {
+              "timestamp": "00:03:32",
+              "quote": "The goal here is to one surface up leads, give you some more data, lane specific data, freight specific data for the sales process"
+            },
+            {
+              "timestamp": "00:04:48",
+              "quote": "Just a lot more data to have a more targeted approach in the sales process along with the account management side."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He tied the demo to the prospect's own footprint \u2014 pulling up New Core's network and contacts and referencing Circle's HubSpot, and choosing Chicago (Tyler's office) as the example \u2014 though much of the walkthrough was a general platform tour rather than their specific lanes.",
+          "evidence": [
+            {
+              "timestamp": "00:06:06",
+              "quote": "This is going to be about a 60-day volume here 10 lanes."
+            },
+            {
+              "timestamp": "00:08:46",
+              "quote": "it'll pick up everything that's already in circles HubSpot and populate it"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "He landed concrete operational next steps (send logins, HubSpot and Highway integrations), but his questions were rapport/logistics only \u2014 no discovery into the team's target accounts, lanes, or how they'd measure success, and the next steps carry no firm date.",
+          "evidence": [
+            {
+              "timestamp": "00:02:14",
+              "quote": "I'm just going to send everyone in here or everyone that was invited uh their link to log in"
+            },
+            {
+              "timestamp": "00:03:32",
+              "quote": "if you don't receive the link within like 10 minutes, just let me know and we'll try and get a a work around it"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Open the next session with 2-3 discovery questions about each rep's target accounts and priority lanes, then build the demo around their actual data and quantify the payoff (e.g., number of unseen lanes/vendors surfaced), rather than delivering a general feature tour."
+    }
+  },
+  "buyers": {
+    "Tyler Van Kooten": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Asked an implementation-depth question about data provenance",
+          "timestamp": "00:07:18",
+          "quote": "where are you guys pulling this data from?"
+        },
+        {
+          "signal": "Probed how leads flow between HubSpot and Optimus \u2014 thinking about real workflow fit",
+          "timestamp": "00:08:46",
+          "quote": "will our full HubSpot be integrated into Optimus or will we have to push through the leads that we want to show the data on"
+        },
+        {
+          "signal": "Verbal affirmation on getting a satisfactory answer",
+          "timestamp": "00:08:46",
+          "quote": "Perfect."
+        },
+        {
+          "signal": "Vocal arousal built over the call (0.465 -> 0.602 -> 0.561), consistent with rising engagement",
+          "timestamp": "00:08:46",
+          "quote": "Cool."
+        }
+      ]
+    },
+    "Robert Fortmeyer": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Owned a concrete buyer-side next step \u2014 rolling the tool out to his team",
+          "timestamp": "00:11:04",
+          "quote": "we're looking forward to uh getting our admin login and adding our team and starting to play around"
+        },
+        {
+          "signal": "Closing forward-looking commitment",
+          "timestamp": "00:11:04",
+          "quote": "Awesome. Looking forward to it. Thank you."
+        },
+        {
+          "signal": "Coordinated attendance/logistics but asked no value-related questions; vocal arousal faded across the call (0.493 -> 0.331)",
+          "timestamp": "00:00:00",
+          "quote": "I know Phil's traveling. Michael St. Julian can't join."
+        }
+      ]
+    },
+    "Rick Lefler": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Asked a use-case-specific question about parent/child account hierarchy, indicating he's evaluating fit for his own workflow",
+          "timestamp": "00:08:46",
+          "quote": "If you click into Home Depot, for example, will it show you the hierarchy ultimate parent for children account that are linked to it?"
+        },
+        {
+          "signal": "Polite close but no commitment or follow-up beyond the single question",
+          "timestamp": "00:11:04",
+          "quote": "Thank you."
+        }
+      ]
+    },
+    "Cory Petersen": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Only contribution was relaying another attendee's absence; asked no questions and made no commitments (0.3% talk share, 0 questions)",
+          "timestamp": "00:00:00",
+          "quote": "No, he he's tied up."
+        }
+      ]
+    },
+    "Derek Holst": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Effectively silent throughout \u2014 one stray word, no questions or commitments (0.5% talk share, 0 questions)",
+          "timestamp": "00:02:14",
+          "quote": "Stop."
+        }
+      ]
+    },
+    "Gary Horton": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Only an early off-topic aside; no engagement with the platform or next steps (0.5% talk share, 0 questions)",
+          "timestamp": "00:00:00",
+          "quote": "Yes. John and stuff. Yay."
+        }
+      ]
+    },
+    "Kristen Haley": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Limited to brief backchannel acknowledgements with no substantive input (0.1% talk share, 0 questions)",
+          "timestamp": "00:00:00",
+          "quote": "Right."
+        },
+        {
+          "signal": "Second backchannel token, no questions or commitments",
+          "timestamp": "00:00:00",
+          "quote": "Exactly."
+        }
+      ]
+    }
+  }
+}

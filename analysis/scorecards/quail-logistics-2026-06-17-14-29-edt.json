@@ -1,0 +1,147 @@
+{
+  "call": "quail-logistics-2026-06-17-14-29-edt",
+  "source": {
+    "recording": "Optimus _ Quail Logistics  - 2026_06_17 14_29 EDT - Recording.mp4",
+    "notes": "Optimus _ Quail Logistics  - 2026_06_17 14_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Anthony Watson": {
+      "words": 928,
+      "questions": 11,
+      "speech_min": 3.0,
+      "loudness_mean": 0.852,
+      "loudness_cv": 0.672,
+      "f0_std_semitones": 11.31,
+      "pace_peaks_per_sec": 4.28,
+      "talk_share_pct": 44.6,
+      "arousal": 0.505,
+      "dominance": 0.537,
+      "valence": 0.517,
+      "arousal_thirds": [
+        0.492,
+        0.502,
+        0.531
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Max Riemer": {
+      "words": 1152,
+      "questions": 3,
+      "speech_min": 4.3,
+      "loudness_mean": 1.058,
+      "loudness_cv": 0.597,
+      "f0_std_semitones": 9.26,
+      "pace_peaks_per_sec": 4.29,
+      "talk_share_pct": 55.4,
+      "arousal": 0.511,
+      "dominance": 0.563,
+      "valence": 0.475,
+      "arousal_thirds": [
+        0.525,
+        0.509,
+        0.509
+      ],
+      "seconds_analyzed": 187.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) pitched a freight-transportation data and CRM platform to Anthony Watson of Quail Logistics, a holding company that acquires freight brokerages and is building internal tools on top of GenLogs and Apollo. The through-line of the call was Anthony repeatedly asking whether Optimus overlaps too much with what Quail is already building; Max differentiated on data (invoice/POD flow-of-goods vs. GenLogs' camera guesswork, $25\u201330B in annual factoring transactions). The call ended with Max upgrading Anthony to a real pilot account and Anthony committing to test it for at least an hour before end of week and loop in his CTO/partner.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly listening and responsive, reflecting Anthony's exact tech stack back to him and answering the overlap question directly rather than reciting a deck; acoustically he ran faster and steadier than his own 45-call baseline (pace z +1.6, loudness CV z -1.6), reading as engaged rather than scripted.",
+          "evidence": [
+            {
+              "timestamp": "00:05:19",
+              "quote": "So you're using I'm guessing you're using gen logs as far as like seeing some shipments, truck activity, things like that and then using Apollo for the context side of things."
+            },
+            {
+              "timestamp": "00:13:00",
+              "quote": "let me uh let me get you on a uh a real pilot account."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate the value in one sentence: unlike GenLogs' camera-based guesswork, Optimus sees the actual flow of goods from factoring invoices and POD scans across $25\u201330B in transactions, with exclusivity at 3 of the top 5 factoring companies. The claims were concrete and quantified.",
+          "evidence": [
+            {
+              "timestamp": "00:06:18",
+              "quote": "once a truck leaves the interstate, it's really, you know, guesswork in terms of where it picked up or where it's going, where it's delivering"
+            },
+            {
+              "timestamp": "00:09:20",
+              "quote": "we do have exclusivity contracts with three of the top five factoring companies."
+            },
+            {
+              "timestamp": "00:09:20",
+              "quote": "there's about 25 to 30 billion worth that we get per year in"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max engaged with Anthony's build-vs-buy model and mid-market acquisition thesis, but the bulk of the pitch was a generic product/data tour; he never tied Optimus to Quail's specific portfolio companies, lanes, freight types, or capacity, leaving Anthony to conclude it mostly duplicates what they already have.",
+          "evidence": [
+            {
+              "timestamp": "00:10:15",
+              "quote": "we integrate with those to push contacts over, push company information over."
+            },
+            {
+              "timestamp": "00:11:15",
+              "quote": "in the mid-market we'll say like 50 million to 150 million."
+            },
+            {
+              "timestamp": "00:12:04",
+              "quote": "everyone wants to build their own CRM and not pay for it which is great in theory if you have the team to do it"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max secured a concrete dated next step and proactively upgraded the passive 5-unlock trial to a real pilot, but he asked almost no discovery questions (3 total, mostly confirmatory) and never probed the central overlap objection or defined what a 'clear win' would look like, letting Anthony own and scope the entire evaluation.",
+          "evidence": [
+            {
+              "timestamp": "00:13:00",
+              "quote": "The uh trial is only five five unlocks. So, let me give you some more credits in that to really dive into it."
+            },
+            {
+              "timestamp": "00:05:19",
+              "quote": "It sounds It sounds pretty similar."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before pitching next time, run 3\u20134 sharp discovery questions to surface the prospect's decision criteria and specific lanes \u2014 especially 'What would Optimus need to show to beat your internal build?' \u2014 so you can tailor the value prop to their freight network and shape the evaluation instead of letting the buyer define it."
+    }
+  },
+  "buyers": {
+    "Anthony Watson": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Buyer-owned, dated commitment to evaluate",
+          "timestamp": "00:13:00",
+          "quote": "my deliverable is to to kind of play with that for at least an hour before end of week and kind of get some notes back"
+        },
+        {
+          "signal": "Substantive, engaged questioning about how the data actually works (11 questions overall)",
+          "timestamp": "00:08:27",
+          "quote": "in theory, can I just go to that same person, plug it into our guts, too?"
+        },
+        {
+          "signal": "Core objection: fears too much overlap with what Quail is already building",
+          "timestamp": "00:09:20",
+          "quote": "if it just overlaps too much with what we've already built, this doesn't make sense"
+        },
+        {
+          "signal": "Lukewarm fit driven by timing \u2014 already has GenLogs in place",
+          "timestamp": "00:08:27",
+          "quote": "if we hadn't had Jedlogs already, then it would have been probably a good fit how they slid in, right?"
+        }
+      ]
+    }
+  }
+}

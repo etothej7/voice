@@ -1,0 +1,155 @@
+{
+  "call": "wsi-2026-06-22-09-59-cdt",
+  "source": {
+    "recording": "Optimus _ WSI - 2026_06_22 09_59 CDT - Recording.mp4",
+    "notes": "Optimus _ WSI - 2026_06_22 09_59 CDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 3157,
+      "questions": 9,
+      "speech_min": 11.2,
+      "loudness_mean": 1.063,
+      "loudness_cv": 0.579,
+      "f0_std_semitones": 12.85,
+      "pace_peaks_per_sec": 4.76,
+      "talk_share_pct": 57.3,
+      "arousal": 0.425,
+      "dominance": 0.5,
+      "valence": 0.458,
+      "arousal_thirds": [
+        0.456,
+        0.402,
+        0.415
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Taylor Hannah": {
+      "words": 2357,
+      "questions": 28,
+      "speech_min": 8.2,
+      "loudness_mean": 1.04,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 10.91,
+      "pace_peaks_per_sec": 4.59,
+      "talk_share_pct": 42.7,
+      "arousal": 0.453,
+      "dominance": 0.515,
+      "valence": 0.449,
+      "arousal_thirds": [
+        0.465,
+        0.429,
+        0.471
+      ],
+      "seconds_analyzed": 188.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) gave WSI's Taylor Hannah a live demo of Optimus, a transportation-specific prospecting/CRM tool built on verified contacts and lane data sourced from bills of lading and PODs, positioned against WSI's incumbent ZoomInfo + HubSpot stack. Taylor \u2014 a BD/account manager and possible incoming sales manager \u2014 drove the session with deep, use-case-specific questions and reacted positively, citing ZoomInfo's stale contacts and single-license bottleneck as pains the tool addresses. The call ended with Max proposing a one-week, credit-based pilot for WSI's top reps; Taylor agreed to brief her colleague Dave (the absent decision-maker) the same day, and Max committed to follow up later that week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was responsive and adaptive throughout \u2014 he rolled with Dave's absence, answered Taylor's questions directly (including admitting product gaps), and committed to chase down her workflow request; his intonation was highly expressive relative to his own baseline (+3.6 z on pitch variation), so the calm arousal reads as a relaxed demo style rather than disengagement.",
+          "evidence": [
+            {
+              "timestamp": "00:04:42",
+              "quote": "It's all good. What is um what is your role?"
+            },
+            {
+              "timestamp": "00:25:43",
+              "quote": "I need to make sure you can sort by like make that a filter for like just yours. So, I'll look at that after this."
+            },
+            {
+              "timestamp": "00:10:12",
+              "quote": "not yet. That's something else that we're diving into is the best way to be able to select"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could state it in one sentence: Optimus gives freight brokers transportation-specific, non-scraped shipper/lane data with contacts re-verified every 30 days and unlimited enterprise seats \u2014 directly answering Taylor's ZoomInfo pains. He backed it with concrete numbers rather than generalities.",
+          "evidence": [
+            {
+              "timestamp": "00:21:20",
+              "quote": "there's 62,822 total in here. If we fish filter this to small medium, there's almost 50 grand."
+            },
+            {
+              "timestamp": "00:13:29",
+              "quote": "each contact has a 30-day TTL. So as soon as it enriches 30 days later, it'll go back and enrich again to make sure that the title is still right, that person still works there"
+            },
+            {
+              "timestamp": "00:31:00",
+              "quote": "we also do unlimited seats on the enterprise licenses. We don't want to limit the amount of people that can be on the platform."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "He adapted well to Taylor's role and stack (AM-upsell use case, HubSpot integration, unlimited seats for their license bottleneck), but the actual demo ran entirely on generic example companies and lanes and he never pulled up or asked for WSI's own lanes, customers, or carriers \u2014 the core relevance lever for a lane-data tool.",
+          "evidence": [
+            {
+              "timestamp": "00:06:51",
+              "quote": "I'm going to use Chattanooga to Dallas just as an example."
+            },
+            {
+              "timestamp": "00:17:45",
+              "quote": "I can type Cisco point Dallas. Not sure what that is, but"
+            },
+            {
+              "timestamp": "00:30:12",
+              "quote": "That's sort of where we see a lot of early wins, too, is account management. Looking up your current customers, finding ways to upsell"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive scoping questions (role, current tools, team size, TMS) and landed a concrete next step \u2014 a one-week pilot for their top reps plus a follow-up he owns later this week \u2014 though the next step was tied to a soft timeframe rather than a booked date.",
+          "evidence": [
+            {
+              "timestamp": "00:29:52",
+              "quote": "How many um sales reps y'all have right now?"
+            },
+            {
+              "timestamp": "00:34:02",
+              "quote": "if we wanted to get a couple of your sales reps, preferably, you know, your top dogs that would use it"
+            },
+            {
+              "timestamp": "00:35:03",
+              "quote": "I'll reach out to y'all later this week and we can see if pilots's the next step."
+            }
+          ]
+        }
+      },
+      "coaching_action": "On your next demo, ground the value in the prospect's own freight: early on, ask for and run a live search on WSI's actual top lanes, customers, or carriers instead of generic example companies, then book a specific date for the pilot rather than leaving it as 'later this week.'"
+    }
+  },
+  "buyers": {
+    "Taylor Hannah": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Deep, strategic questioning about product roadmap and fit (28 questions), probing beyond features into integration strategy",
+          "timestamp": "00:20:13",
+          "quote": "Do you all have a timeline you're looking to phase out HubSpot or even when you all get your CRM stood up, do you feel like that integration is going to stick or do you have any thoughts on that?"
+        },
+        {
+          "signal": "Volunteered an acute pain the tool directly solves, signaling clear fit",
+          "timestamp": "00:14:41",
+          "quote": "the biggest problem we have is that person no longer works there. I can't tell you how many times I've called and actually gotten through to someone and been told that person hasn't been with the company for 10, 15 years sometimes."
+        },
+        {
+          "signal": "Articulated the concrete business driver behind evaluating the tool",
+          "timestamp": "00:31:00",
+          "quote": "we only have one Zoom Info license and that's getting really clunky um because we keep we keep running into each other"
+        },
+        {
+          "signal": "Owns a same-day follow-up but the decision is gated by an absent decision-maker she flags as unreliable, capping momentum",
+          "timestamp": "00:35:03",
+          "quote": "he's not always on the money with quick follow-ups. I'm the first to admit that. Um, so if you don't hear from us in a day or two, I'd definitely ping us again"
+        }
+      ]
+    }
+  }
+}

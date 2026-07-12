@@ -1,0 +1,147 @@
+{
+  "call": "buck-transport-onboarding-2026-05-14-12-58-edt",
+  "source": {
+    "recording": "Buck Transport onboarding - 2026_05_14 12_58 EDT - Recording.mp4",
+    "notes": "Buck Transport onboarding - 2026_05_14 12_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1363,
+      "questions": 8,
+      "speech_min": 4.9,
+      "loudness_mean": 0.915,
+      "loudness_cv": 0.664,
+      "f0_std_semitones": 6.46,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 65.7,
+      "arousal": 0.521,
+      "dominance": 0.531,
+      "valence": 0.472,
+      "arousal_thirds": [
+        0.544,
+        0.515,
+        0.49
+      ],
+      "seconds_analyzed": 169.0
+    },
+    "Thomas Thompson": {
+      "words": 712,
+      "questions": 7,
+      "speech_min": 2.8,
+      "loudness_mean": 0.946,
+      "loudness_cv": 0.656,
+      "f0_std_semitones": 6.06,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 34.3,
+      "arousal": 0.515,
+      "dominance": 0.548,
+      "valence": 0.513,
+      "arousal_thirds": [
+        null,
+        0.528,
+        0.475
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "This was an onboarding/check-in call with Buck Transport, an existing paying customer, held during a volatile freight market ('DOT week'). Seller Max Riemer walked admin Thomas Thompson through inviting additional users, confirming the HubSpot integration, and using the new return-lane (backhaul) filter, while acknowledging a live login-timeout bug the buyer hit mid-call. Thomas committed to migrating his ~5-person team off ZoomInfo to Optimus the following week and to funneling team feedback through himself.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max is genuinely conversational and responsive rather than scripted, asking follow-ups tied to what Thomas actually said and addressing his live login problem in real time; his pitch variation is well below his own baseline (f0_std z=-4.9, flatter than usual), but per the tone-alone rule his transcript responsiveness carries the criterion.",
+          "evidence": [
+            {
+              "timestamp": "00:04:33",
+              "quote": "Is that customer acquisition wise or like uh revenue gross profit?"
+            },
+            {
+              "timestamp": "00:07:45",
+              "quote": "it's pretty aggressive on like the the login time"
+            },
+            {
+              "timestamp": "00:00:00",
+              "quote": "Y'all have a bunch of uh capacity like is it tight if you have people sitting out"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max describes features mechanically and never frames a crisp, quantified reason to care \u2014 notably, it was the buyer, not Max, who articulated the value ('this beats Zoom info'); his strongest concrete claim is about support speed, not the product's core value.",
+          "evidence": [
+            {
+              "timestamp": "00:09:39",
+              "quote": "we added a return lane filter"
+            },
+            {
+              "timestamp": "00:12:36",
+              "quote": "We texted him during the meeting and four hours later it was live."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The conversation was tailored to a freight brokerage and to Thomas's admin role \u2014 the backhaul return-lane filter speaks directly to his lanes, and the admin/sales-rep invite flow addresses his tiered multi-rep org.",
+          "evidence": [
+            {
+              "timestamp": "00:09:39",
+              "quote": "when you have an origin and destination and you click include return lanes that will show the back"
+            },
+            {
+              "timestamp": "00:06:44",
+              "quote": "as an admin you can invite reps, take them off and handle the integrations and then the sales reps just have access to like the UI"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked useful qualifying questions about their stack and setup, but he never converted momentum into a concrete, dated next step he owned \u2014 the 'next week' migration was the buyer's own plan and Max closed with an open-ended 'have them email me' and 'we'll be in touch.'",
+          "evidence": [
+            {
+              "timestamp": "00:05:40",
+              "quote": "are y'all in HubSpot?"
+            },
+            {
+              "timestamp": "00:11:37",
+              "quote": "next week when when those guys are live, have them email me, text me, call me. Any feedback, good and bad."
+            },
+            {
+              "timestamp": "00:12:36",
+              "quote": "Best of luck finishing up the week. Have a good weekend and uh we'll be in touch."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, book a specific dated follow-up you own instead of leaving it open \u2014 e.g., 'Let's put 15 minutes on the calendar next Friday once your five reps are live to catch any issues,' rather than 'have them email me' and 'we'll be in touch.'"
+    }
+  },
+  "buyers": {
+    "Thomas Thompson": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Own-words commitment to roll the whole team onto Optimus",
+          "timestamp": "00:08:42",
+          "quote": "I'm going to be moving them over to this probably next week"
+        },
+        {
+          "signal": "Rates the product above the incumbent tool",
+          "timestamp": "00:08:42",
+          "quote": "I think this uh this beats Zoom info"
+        },
+        {
+          "signal": "Already hands-on and testing features live during the call",
+          "timestamp": "00:09:39",
+          "quote": "It is. I'm playing with it right now."
+        },
+        {
+          "signal": "Pull-demand for the upcoming CRM, expressing dissatisfaction with current HubSpot",
+          "timestamp": "00:10:40",
+          "quote": "let me know because I'm I'm not a big fan of uh HubSpot"
+        }
+      ]
+    }
+  }
+}

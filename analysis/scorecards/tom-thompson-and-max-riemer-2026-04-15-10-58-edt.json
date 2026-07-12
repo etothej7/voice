@@ -1,0 +1,143 @@
+{
+  "call": "tom-thompson-and-max-riemer-2026-04-15-10-58-edt",
+  "source": {
+    "recording": "Tom Thompson and Max Riemer - 2026_04_15 10_58 EDT - Recording.mp4",
+    "notes": "Tom Thompson and Max Riemer - 2026_04_15 10_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 2094,
+      "questions": 16,
+      "speech_min": 8.5,
+      "loudness_mean": 0.923,
+      "loudness_cv": 0.648,
+      "f0_std_semitones": 7.33,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 59.5,
+      "arousal": 0.44,
+      "dominance": 0.469,
+      "valence": 0.461,
+      "arousal_thirds": [
+        0.443,
+        0.431,
+        0.445
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Thomas Thompson": {
+      "words": 1426,
+      "questions": 14,
+      "speech_min": 6.0,
+      "loudness_mean": 0.94,
+      "loudness_cv": 0.642,
+      "f0_std_semitones": 6.99,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 40.5,
+      "arousal": 0.465,
+      "dominance": 0.515,
+      "valence": 0.518,
+      "arousal_thirds": [
+        0.484,
+        0.462,
+        0.463
+      ],
+      "seconds_analyzed": 174.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus gave Thomas Thompson (running Buck, a ~$75-100M/yr agency under Armstrong) a demo of the freight-specific Shipper IQ data/prospecting platform, tailoring lane and facility examples to Buck's Houston operation. Thomas responded very positively, calling it a time-saving game-changer over Zoom Info, and the call moved into pricing where Max dropped from $2,000 to $1,500/month and Thomas floated an upfront annual payment for a further discount. They agreed to reconnect tomorrow morning after Max checks the discount with CEO Ed Stockman, with the next onboarding class on May 4th.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was genuinely responsive, building on Thomas's operating-model and tool-stack comments in real time rather than reciting features; his lower-than-baseline energy (arousal z -1.4) is tone only and did not reduce his attentiveness.",
+          "evidence": [
+            {
+              "timestamp": "00:11:06",
+              "quote": "if you if you land an enterprise shipper that does 300 loads a week, one guy can't cover that."
+            },
+            {
+              "timestamp": "00:14:27",
+              "quote": "It's actually already integrated as well. So that would be a smooth transition if things worked out."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "The core pitch is easy to restate in one sentence: a Zoom Info-style contact/lane tool built only for freight, sourced from real bills of lading and limited to domestic full truckload data.",
+          "evidence": [
+            {
+              "timestamp": "00:13:21",
+              "quote": "like a Zoom info but built specifically for freight brokerages like the contacts,"
+            },
+            {
+              "timestamp": "00:22:39",
+              "quote": "everything in Optimus right now is going to be domestic full truckload so there's no data on here that isn't moved on a you know 18-wheeler"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the demo directly to Buck's Houston footprint, using Houston-Chicago lanes and a Houston-area Sysco facility view rather than generic examples.",
+          "evidence": [
+            {
+              "timestamp": "00:16:33",
+              "quote": "if you're in Houston and you, you know, you got a lot of trucks in Houston, um, let's just say you want to go to Chicago, that's a strong a strong lane for you."
+            },
+            {
+              "timestamp": "00:20:11",
+              "quote": "if I select these right here with Cisco, I think that's what I clicked on. I'm going to highlight those facilities right here. These are going to be all the outbound points with the volume and then the top lanes that we see."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive qualifying questions (tool stack, seat count, revenue) and closed with a concrete, dated next step to reconnect the following morning after checking pricing internally.",
+          "evidence": [
+            {
+              "timestamp": "00:12:12",
+              "quote": "what what's sort of like the process or tool stack look like right now?"
+            },
+            {
+              "timestamp": "00:22:39",
+              "quote": "And then how many reps do you think out of your 20 or so employees would actually like be on the platform?"
+            },
+            {
+              "timestamp": "00:26:04",
+              "quote": "I'll shoot you over an email and then we can just hop back on another call tomorrow."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Stop cutting price reactively \u2014 after Thomas benchmarks against Zoom Info, restate the quantified freight-specific value and ask for a conditional commitment ('if I get you the upfront-payment discount, are you ready to sign?') before lowering the number."
+    }
+  },
+  "buyers": {
+    "Thomas Thompson": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Own-words commitment to trial the product",
+          "timestamp": "00:21:46",
+          "quote": "I definitely want to try it out."
+        },
+        {
+          "signal": "Strong positive framing of the value",
+          "timestamp": "00:22:39",
+          "quote": "So, that's a game changer alone."
+        },
+        {
+          "signal": "Buyer-initiated buying signal: offered to prepay a full year for a discount",
+          "timestamp": "00:25:02",
+          "quote": "Could Could we get a deal if we pay for the whole thing up front? like we pay for a whole year."
+        },
+        {
+          "signal": "Signaled readiness to close conditioned only on price",
+          "timestamp": "00:25:02",
+          "quote": "if you guys can can come down on that a bit, then I think that that this is a no-brainer for us"
+        }
+      ]
+    }
+  }
+}

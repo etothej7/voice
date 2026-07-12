@@ -1,0 +1,143 @@
+{
+  "call": "brian-park-and-max-riemer-2026-05-20-13-29-edt",
+  "source": {
+    "recording": "Brian Park and Max Riemer - 2026_05_20 13_29 EDT - Recording.mp4",
+    "notes": "Brian Park and Max Riemer - 2026_05_20 13_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Brian Park": {
+      "words": 363,
+      "questions": 2,
+      "speech_min": 1.6,
+      "loudness_mean": 0.92,
+      "loudness_cv": 0.65,
+      "f0_std_semitones": 7.66,
+      "pace_peaks_per_sec": 4.26,
+      "talk_share_pct": 15.2,
+      "arousal": 0.409,
+      "dominance": 0.477,
+      "valence": 0.392,
+      "arousal_thirds": [
+        null,
+        null,
+        0.409
+      ],
+      "seconds_analyzed": 164.0
+    },
+    "Max Riemer": {
+      "words": 2023,
+      "questions": 10,
+      "speech_min": 8.8,
+      "loudness_mean": 0.977,
+      "loudness_cv": 0.625,
+      "f0_std_semitones": 8.23,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 84.8,
+      "arousal": 0.542,
+      "dominance": 0.543,
+      "valence": 0.498,
+      "arousal_thirds": [
+        0.62,
+        0.497,
+        0.493
+      ],
+      "seconds_analyzed": 171.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) ran a screen-share demo of the platform's shipper-profile and prospecting data for Brian Park, who runs a new over-the-road division inside an LA-based international freight forwarder (10,000+ containers/year, 10-12 sellers across 7 branches). Max clearly landed the core value prop \u2014 data 'ammo' so reps pitch with real shipper intelligence instead of generic outreach \u2014 and covered pricing ($1,500/mo, unlimited seats) and sourcing (15-20B in factored invoices, 62,000 profiles), but the demo used generic example shippers rather than Brian's freight world and repeatedly could not meet Brian's stated top priority: automated/mass cold outreach, which is 3-6 months out. The call closed with a vague, buyer-owned next step \u2014 Brian will brief upper management and reply next week while also evaluating competing providers.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was fluent and prepared through the demo, answered directly and honestly rather than reciting a script, and adapted to Brian's questions; good pitch variation (8.23 st) and steady volume (CV 0.625) support an engaged, attentive delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:24:49",
+              "quote": "What uh CRM do you all use?"
+            },
+            {
+              "timestamp": "00:24:49",
+              "quote": "I don't think so right now."
+            },
+            {
+              "timestamp": "00:19:47",
+              "quote": "we're going to click destination inbound South Carolina. And all of these points are shipping into that facility in South Carolina."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it in one sentence: Optimus gives reps concrete shipper data (lanes, volumes, contacts) so they prospect with a real value prop instead of a generic pitch, backed by quantified sourcing.",
+          "evidence": [
+            {
+              "timestamp": "00:17:26",
+              "quote": "shipper profiles designed to give sales reps enough ammo for when they're prospecting and when they're making these calls and emails, they actually have a a real value proposition rather than just a generic pitch"
+            },
+            {
+              "timestamp": "00:27:35",
+              "quote": "See about 15 to 20 billion in transactions a year."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "The walkthrough used generic example shippers and lanes (New Core steel, San Diego to Dallas) rather than Brian's freight-forwarding/OTR container world; the only tailoring was sizing pricing to his 10-12 users, so the demo never showed value specific to his network or role.",
+          "evidence": [
+            {
+              "timestamp": "00:18:39",
+              "quote": "if I click into new core"
+            },
+            {
+              "timestamp": "00:20:49",
+              "quote": "I'll use San Diego as an example."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max opened with one good discovery question but did little needs probing afterward and, at the close, accepted a vague buyer-owned 'next week' timeline without proposing or booking a concrete dated follow-up with the decision-maker.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "Can you um can you give me a quick rundown of the company sales reps, y'all's roles, and sort of how you heard about"
+            },
+            {
+              "timestamp": "00:30:06",
+              "quote": "Okay, sounds good."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Run real discovery before you demo \u2014 ask the buyer's #1 priority and current outreach process up front, then tailor every screen you show to their own lanes and commodities (freight forwarding / OTR containers) instead of generic example shippers."
+    }
+  },
+  "buyers": {
+    "Brian Park": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Asked procurement-depth pricing questions, indicating genuine evaluation",
+          "timestamp": "00:28:49",
+          "quote": "10 to 12 users, one year contract, 1,500 per months. And is there a uh setup fee or the integration fee?"
+        },
+        {
+          "signal": "His stated top priority (automated/mass cold outreach) is a fit gap the product doesn't yet meet, tempering interest",
+          "timestamp": "00:23:26",
+          "quote": "the main reason that I was looking for the uh the AI system for the sales tool was to I wouldn't say minimize uh just take care of the all those cold curling cold emails"
+        },
+        {
+          "signal": "Actively comparison shopping, so commitment is contingent and low",
+          "timestamp": "00:30:06",
+          "quote": "we actually we do have a couple of uh different meeting as well with the other uh providers"
+        },
+        {
+          "signal": "Deferred the decision to management with a vague self-owned next step rather than a firm commitment",
+          "timestamp": "00:30:06",
+          "quote": "So I think I got all the information I need to for me to report to the uh upper management and we'll see how it goes"
+        }
+      ]
+    }
+  }
+}

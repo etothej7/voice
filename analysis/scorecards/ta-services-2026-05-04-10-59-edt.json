@@ -1,0 +1,219 @@
+{
+  "call": "ta-services-2026-05-04-10-59-edt",
+  "source": {
+    "recording": "Optimus _ TA Services - 2026_05_04 10_59 EDT - Recording.mp4",
+    "notes": "Optimus _ TA Services - 2026_05_04 10_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Chase Wilder": {
+      "words": 5247,
+      "questions": 33,
+      "speech_min": 21.3,
+      "loudness_mean": 0.784,
+      "loudness_cv": 0.708,
+      "f0_std_semitones": 7.92,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 44.8,
+      "arousal": 0.469,
+      "dominance": 0.536,
+      "valence": 0.505,
+      "arousal_thirds": [
+        0.48,
+        0.442,
+        0.478
+      ],
+      "seconds_analyzed": 166.0
+    },
+    "Ed Stockman": {
+      "words": 4432,
+      "questions": 23,
+      "speech_min": 19.6,
+      "loudness_mean": 0.768,
+      "loudness_cv": 0.715,
+      "f0_std_semitones": 8.08,
+      "pace_peaks_per_sec": 3.97,
+      "talk_share_pct": 37.8,
+      "arousal": 0.491,
+      "dominance": 0.546,
+      "valence": 0.53,
+      "arousal_thirds": [
+        0.532,
+        0.456,
+        0.482
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Max Riemer": {
+      "words": 2037,
+      "questions": 12,
+      "speech_min": 7.7,
+      "loudness_mean": 0.889,
+      "loudness_cv": 0.69,
+      "f0_std_semitones": 7.57,
+      "pace_peaks_per_sec": 4.02,
+      "talk_share_pct": 17.4,
+      "arousal": 0.436,
+      "dominance": 0.497,
+      "valence": 0.51,
+      "arousal_thirds": [
+        0.417,
+        0.411,
+        0.496
+      ],
+      "seconds_analyzed": 170.0
+    }
+  },
+  "call_summary": "Optimus (founder Ed Stockman and Max Riemer) pitched TA Services' VP of Business Development, Chase Wilder, on shipping-intelligence software positioned as a focused alternative to ZoomInfo, integrating with TA's Mloud TMS and HubSpot to surface warm leads through lane and network overlap. Chase was highly engaged, ran the team through concrete flatbed/steel use cases, and repeatedly praised the value prop, but flagged TA is locked into a ZoomInfo contract through year-end, so near-term movement is limited. The call closed with Max committing to send pricing options (enterprise $12,500/mo, ~50% discount to $6,250, or rev-share) and 1-minute Loom videos that same day; no follow-up meeting was scheduled.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed listened actively and built on Chase's own points rather than reciting a script, and showed real domain fluency by identifying Ford's plant live; his energy faded slightly over the call (arousal thirds 0.532 to 0.456 to 0.482) but his pitch variation (8.08 st) and responsiveness were healthy.",
+          "evidence": [
+            {
+              "timestamp": "00:22:48",
+              "quote": "you hit the nail on the head. Like it's it's about knowing the network, doing the prospecting before you call, adding clear value."
+            },
+            {
+              "timestamp": "00:35:58",
+              "quote": "It's the Louisville um SUV plant. That's exactly it."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed articulated a one-sentence-explainable value prop: overlay the broker's TMS network against Optimus's factoring/POD/invoice data to expose hidden lanes at existing customers and warm 'layups' among their vendors and customers.",
+          "evidence": [
+            {
+              "timestamp": "00:17:40",
+              "quote": "we could take that network, overlap it with our network, which typically comes from factoring data and pods and invoices"
+            },
+            {
+              "timestamp": "00:18:37",
+              "quote": "you already deal with shipper ABC here are five vendors that ship to them and here are five customers that they ship to like here are layups"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed tailored everything to TA's flatbed/steel network and existing customers, walking a Houston-to-Dallas flatbed search and a New Core to Home Depot to Quikrete layup, and spoke directly to their Mloud/Mercury Gate stack.",
+          "evidence": [
+            {
+              "timestamp": "00:49:16",
+              "quote": "if you could put in a flatbed equipment type from Houston to Dallas. Um, you know, we could go ahead and find other shippers that have very, very similar lanes."
+            },
+            {
+              "timestamp": "00:51:46",
+              "quote": "here are my leads because we have a mutual customer in Home Depot"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked genuinely productive qualifying questions about tech stack and org headcount, but he exited at the pricing moment for an 11:00 without securing a concrete, dated next step or booking a follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:38:35",
+              "quote": "talk to me a little bit about your tech set, your TMS, what email provider you use. Do you guys use any VoIP systems for dialing or anything like that?"
+            },
+            {
+              "timestamp": "01:02:19",
+              "quote": "I need to jump, but um uh maybe maybe that's an idea worthwhile chatting about."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before dropping off for a hard stop, lock a specific dated next step (e.g., propose a calendar date to review the pricing breakdown together) instead of leaving the timeline open-ended to the buyer's year-end contract window."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive, adapting the demo to Chase's chosen lanes and follow-up questions and staying composed when features stalled; his tone was low-key relative to his own baseline (arousal z -1.6) but per the tone rule that does not warrant a markdown given his responsiveness.",
+          "evidence": [
+            {
+              "timestamp": "00:27:21",
+              "quote": "is there like what's a good like lane that you would want to look up?"
+            },
+            {
+              "timestamp": "00:58:05",
+              "quote": "Are the AM are they strictly like farming or are they still actively selling too?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max made the value concrete on both product (warm intros via shared vendors/customers) and price, giving quantified, specific numbers a neutral listener could restate.",
+          "evidence": [
+            {
+              "timestamp": "00:28:49",
+              "quote": "maybe Steel Dynamics is a sub or it's someone that utilizes the New Core carrier base. That's an easy warm introduction to Steel Dynamics."
+            },
+            {
+              "timestamp": "01:05:47",
+              "quote": "If we did 125 a month, base price, 50% discount, $6,250 fixed cost."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the demo to TA's flatbed lanes, drew on his own flatbed-heavy broker book, and sized pricing specifically to TA's >$700M revenue and their existing ZoomInfo contract.",
+          "evidence": [
+            {
+              "timestamp": "00:32:15",
+              "quote": "My book when I was a broker was a ton of flatbed as well. I think 90% of my book was flatbed."
+            },
+            {
+              "timestamp": "01:04:24",
+              "quote": "with TA's size of over 700 million that enters our like enterprise license which is 12,500 a month"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked useful qualifying questions on how TA pays for ZoomInfo and committed to a concrete, same-day deliverable, though he stopped short of booking an actual next meeting.",
+          "evidence": [
+            {
+              "timestamp": "01:03:28",
+              "quote": "Do y'all pay Zoom info on a user like per user or a number of license?"
+            },
+            {
+              "timestamp": "01:09:56",
+              "quote": "I'll send that over today."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Pre-test the live demo and know every data field cold so a headline feature like key contacts doesn't fail mid-call and force deferrals to engineering, which undercuts credibility for a data-quality product."
+    }
+  },
+  "buyers": {
+    "Chase Wilder": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Repeated unsolicited, own-words endorsement of the value proposition",
+          "timestamp": "00:10:57",
+          "quote": "I saw Optimus and I was looking into it and the value prop here is very strong"
+        },
+        {
+          "signal": "Deep, evaluative question depth throughout (33 questions), probing data sources, integrations, and export",
+          "timestamp": "01:03:28",
+          "quote": "This integrates with HubSpot. What other uh what other integrations are there?"
+        },
+        {
+          "signal": "Explicit intent to displace the incumbent and requested pricing, calling it workable",
+          "timestamp": "01:05:47",
+          "quote": "that's pretty in line. It's not that it's not that different. Uh, so it's definitely workable."
+        },
+        {
+          "signal": "Timing objection that caps near-term urgency: locked into ZoomInfo through year-end",
+          "timestamp": "00:13:06",
+          "quote": "any meaningful progress here won't be until a bit later"
+        }
+      ]
+    }
+  }
+}

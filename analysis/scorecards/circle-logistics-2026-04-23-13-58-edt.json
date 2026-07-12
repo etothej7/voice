@@ -1,0 +1,267 @@
+{
+  "call": "circle-logistics-2026-04-23-13-58-edt",
+  "source": {
+    "recording": "Optimus _ Circle Logistics - 2026_04_23 13_58 EDT - Recording.mp4",
+    "notes": "Optimus _ Circle Logistics - 2026_04_23 13_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 5422,
+      "questions": 22,
+      "speech_min": 23.9,
+      "loudness_mean": 0.783,
+      "loudness_cv": 0.69,
+      "f0_std_semitones": 8.87,
+      "pace_peaks_per_sec": 4.13,
+      "talk_share_pct": 68.2,
+      "arousal": 0.508,
+      "dominance": 0.56,
+      "valence": 0.509,
+      "arousal_thirds": [
+        0.471,
+        0.539,
+        0.501
+      ],
+      "seconds_analyzed": 176.0
+    },
+    "Max Riemer": {
+      "words": 1192,
+      "questions": 10,
+      "speech_min": 4.7,
+      "loudness_mean": 0.964,
+      "loudness_cv": 0.682,
+      "f0_std_semitones": 9.18,
+      "pace_peaks_per_sec": 4.06,
+      "talk_share_pct": 15.0,
+      "arousal": 0.452,
+      "dominance": 0.496,
+      "valence": 0.471,
+      "arousal_thirds": [
+        0.468,
+        0.43,
+        0.427
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Michael St Julien": {
+      "words": 739,
+      "questions": 2,
+      "speech_min": 3.0,
+      "loudness_mean": 0.993,
+      "loudness_cv": 0.676,
+      "f0_std_semitones": 8.93,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 9.3,
+      "arousal": 0.472,
+      "dominance": 0.549,
+      "valence": 0.512,
+      "arousal_thirds": [
+        0.471,
+        null,
+        0.472
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Robert Fortmeyer": {
+      "words": 592,
+      "questions": 4,
+      "speech_min": 2.6,
+      "loudness_mean": 0.905,
+      "loudness_cv": 0.673,
+      "f0_std_semitones": 11.1,
+      "pace_peaks_per_sec": 4.14,
+      "talk_share_pct": 7.5,
+      "arousal": 0.499,
+      "dominance": 0.549,
+      "valence": 0.525,
+      "arousal_thirds": [
+        0.541,
+        0.473,
+        null
+      ],
+      "seconds_analyzed": 176.0
+    }
+  },
+  "call_summary": "Optimus (CEO Ed Stockman and Max Riemer) pitched Circle Logistics on a data-driven sales platform (Co-pilot/Autopilot) that surfaces lanes, shippers, and contacts so brokers can find and close business while consolidating vendor spend. Max demoed lead-gen and lane-mapping tooling tailored to Circle's Pittsburgh branch and Ford relationship, while Robert Fortmeyer (executive/GC) probed data sourcing and HubSpot screen-switching and Michael St Julien (branch leader) validated the problem from his own cold-calling experience. Both buyers expressed interest gated on a clear ROI, disclosed vendor costs (Zoom Info ~$100k/145 seats, HubSpot, ORUM), and agreed to an internal ROI discussion pending Optimus materials\u2014but no follow-up meeting was dated.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was highly responsive to the buyers' actual concerns rather than reciting a script\u2014when Robert pushed on screen-switching he framed a 'current state / ideal state / happy medium' answer on the fly, and his pitch variation ran well above his own baseline (f0_std z=+1.3), signaling engaged, non-scripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:23:39",
+              "quote": "Um I'll give you the current state um and then I'll give you the ideal state."
+            },
+            {
+              "timestamp": "00:30:30",
+              "quote": "My push back on that would be if we don't have the ideal workflow in today's state, are you better off without this tool or are you better off having these folks have this extra layer of data"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it: Optimus gives brokers proprietary lane/shipper data plus contacts to close new deals and grow wallet share while cutting existing vendor spend, backed by a concrete ROI guarantee tied to Zoom Info's ~$100k cost.",
+          "evidence": [
+            {
+              "timestamp": "00:10:58",
+              "quote": "And I want to blow those other subscriptions out of the water."
+            },
+            {
+              "timestamp": "00:34:47",
+              "quote": "we can't lose that platform because they generated us more money than it costs. Like it has to be obvious for us."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was specifically tailored to Circle\u2014Ed anchored examples on Ford (one of Circle's largest customers) and tied the pricing plan directly to their Zoom Info seat count and 13\u201314 month contract runway.",
+          "evidence": [
+            {
+              "timestamp": "00:17:25",
+              "quote": "Do do Ford? I was just in Ford."
+            },
+            {
+              "timestamp": "00:07:57",
+              "quote": "If you're really good and you service Ford, let's look at other auto manufacturers. Let's look at who ships into Ford."
+            },
+            {
+              "timestamp": "00:47:35",
+              "quote": "my number one goal is to make sure that by month 12 or 13 we're fully ramped and you can cut that subscription and uh migrate over."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Discovery itself was strong\u2014Ed uncovered the vendor stack, annual costs, contract timing, and hunter/farmer roles\u2014but the call ended with only open-ended next steps (send materials, share vendor data) and no scheduled follow-up date or meeting.",
+          "evidence": [
+            {
+              "timestamp": "00:41:14",
+              "quote": "can you share some of your vendors today on the sales side um the Zoom Infos or whoever you guys are using and any type of ballpark annual cost"
+            },
+            {
+              "timestamp": "00:44:12",
+              "quote": "I will I will take, uh, the pen here and, uh, we'll put something in writing and and send it over."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, book a specific dated follow-up (e.g., a 30-minute ROI review next week) instead of leaving 'send materials' as an open-ended action item."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max opened with genuine, responsive rapport (a broker 'PTSD' story that landed with Michael) and asked sharp qualifying questions late in the call; his below-baseline vocal arousal (z=-1.1) is tone alone and is not held against him given his clear transcript engagement.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "I know when I was a broker, it was always uh I was more worried when I wasn't busy because that meant I wasn't moving freight."
+            },
+            {
+              "timestamp": "00:44:12",
+              "quote": "So, Michael, you're in Pittsburgh. Are y'all's offices are they pretty centralized in terms of like operating like choosing tools?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "During the demo Max connected features to a usable outcome\u2014know your ICP, then surface warm intros and contacts to open upsell and prospecting calls\u2014which a neutral listener could summarize in a sentence.",
+          "evidence": [
+            {
+              "timestamp": "00:13:08",
+              "quote": "We want your sales reps, everyone to know what their ICP is, you know, what they're good at."
+            },
+            {
+              "timestamp": "00:14:24",
+              "quote": "These are nice warm intros to get. Um it's also good just points to have when making a call to them if you work with any of these people."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max customized the live demo to Circle's context\u2014filtering to Pennsylvania 'for Pittsburgh purposes' and probing how Circle rolls out tools across offices\u2014rather than showing a generic walkthrough.",
+          "evidence": [
+            {
+              "timestamp": "00:14:24",
+              "quote": "let's just say Pennsylvania for Pittsburgh purposes and we have 544."
+            },
+            {
+              "timestamp": "00:45:18",
+              "quote": "basically a headquarters wants to add in Zoom info, it's going to get branched out to each office for those users."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive qualifying questions about centralization and footprint that surfaced buying-relevant structure (145 seats, 18 offices, 40 P&Ls), advancing the account picture even though Ed owned the formal next steps.",
+          "evidence": [
+            {
+              "timestamp": "00:46:15",
+              "quote": "How many offices are there?"
+            },
+            {
+              "timestamp": "00:44:12",
+              "quote": "Are y'all's offices are they pretty centralized in terms of like operating like choosing tools?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Pre-load and rehearse a saved demo view (e.g., the Ford / Pennsylvania filters) so you don't have to backtrack mid-demo\u2014as happened when you realized you'd only clicked 'Enterprise'\u2014and keep the buyer's attention on the value, not the navigation."
+    }
+  },
+  "buyers": {
+    "Michael St Julien": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Validated the core problem viscerally from his own recent cold-calling experience\u2014a strong own-words buying signal",
+          "timestamp": "00:33:50",
+          "quote": "I am for the first time in my career, uh, making a lot of cold calls... my first time seeing the inefficiencies of what I've been asking people to do for so long. So, I definitely like where you're going with it"
+        },
+        {
+          "signal": "Explicitly gated buy-in on establishing ROI rather than committing",
+          "timestamp": "00:33:50",
+          "quote": "If if there's a way where we could figure out an ROI to make this kind of connect, um, I think there's value to it."
+        },
+        {
+          "signal": "Voiced a real objection about subscription fatigue and market timing",
+          "timestamp": "00:35:50",
+          "quote": "are we doing the right thing by adding more subscriptions"
+        },
+        {
+          "signal": "Affirmed the pain of disparate, non-communicating systems that Optimus targets",
+          "timestamp": "00:36:45",
+          "quote": "you're dialing with with a purpose and knowing what you're dialing into on every call. It's just it's there's value there."
+        }
+      ]
+    },
+    "Robert Fortmeyer": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Owned the buyer-side next step\u2014an internal ROI discussion\u2014and requested materials to circulate",
+          "timestamp": "00:39:54",
+          "quote": "part of that ROI discussion internally. You know, what's the what's the cost potentially look like... if you could send over any you know materials that would help in that conversation that we can circulate internally"
+        },
+        {
+          "signal": "Disclosed detailed vendor economics, a meaningful engagement/buying signal",
+          "timestamp": "00:42:19",
+          "quote": "Zoom Info is about a 100,000 a year between all of our bulk credits and all of our user seats. That's 145 user seats"
+        },
+        {
+          "signal": "Raised a substantive functional objection around call-heavy workflow and missing calling/KPI functionality",
+          "timestamp": "00:28:16",
+          "quote": "we're very call heavy, not very email heavy. So... you don't have the... calling functionality and KPIs and whatnot built into Kier. So, we'd still have to live in HubSpot."
+        },
+        {
+          "signal": "Asked a deep, informed question probing the data-sourcing strategy versus a competitor",
+          "timestamp": "00:19:53",
+          "quote": "what's your strategy on collecting the lane and volume information?"
+        }
+      ]
+    }
+  }
+}

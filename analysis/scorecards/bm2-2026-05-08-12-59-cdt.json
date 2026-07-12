@@ -1,0 +1,139 @@
+{
+  "call": "bm2-2026-05-08-12-59-cdt",
+  "source": {
+    "recording": "Optimus _ BM2  - 2026_05_08 12_59 CDT - Recording.mp4",
+    "notes": "Optimus _ BM2  - 2026_05_08 12_59 CDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 5590,
+      "questions": 42,
+      "speech_min": 21.3,
+      "loudness_mean": 0.978,
+      "loudness_cv": 0.713,
+      "f0_std_semitones": 13.02,
+      "pace_peaks_per_sec": 3.96,
+      "talk_share_pct": 62.3,
+      "arousal": 0.578,
+      "dominance": 0.599,
+      "valence": 0.506,
+      "arousal_thirds": [
+        0.576,
+        0.572,
+        0.586
+      ],
+      "seconds_analyzed": 166.0
+    },
+    "Pete Katai": {
+      "words": 3384,
+      "questions": 20,
+      "speech_min": 12.2,
+      "loudness_mean": 0.97,
+      "loudness_cv": 0.705,
+      "f0_std_semitones": 12.9,
+      "pace_peaks_per_sec": 3.89,
+      "talk_share_pct": 37.7,
+      "arousal": 0.572,
+      "dominance": 0.597,
+      "valence": 0.513,
+      "arousal_thirds": [
+        0.555,
+        0.523,
+        0.624
+      ],
+      "seconds_analyzed": 169.0
+    }
+  },
+  "call_summary": "Optimus rep Max Riemer gave BM2's Pete Katai \u2014 a 30-year freight veteran running BM2's ~20-person Chicago office \u2014 a live, buyer-driven demo of the Optimus shipper/lane-intelligence platform, positioned against BM2's incumbent ZoomInfo. Pete steered much of the session by stress-testing his own accounts (Costco, Peloton, Fresh Pet, QVC) for contact accuracy and reacted warmly, but deferred pricing and the decision to his colleague TD, naming BM2's existing ZoomInfo contract as the main blocker. The next step is buyer-owned and soft: Pete will check the ZoomInfo terms with TD, who is expected to follow up with Max the following week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was genuinely responsive \u2014 he dropped his own agenda to run a live demo the moment Pete asked and improvised searches on every account Pete threw at him, answering specific probes precisely rather than reciting. Acoustics back this up: he ran well above his own 19-call baseline for animation (pitch-variation z=+4.1, arousal z=+2.2), consistent with real engagement, not a script.",
+          "evidence": [
+            {
+              "timestamp": "00:10:17",
+              "quote": "Of course."
+            },
+            {
+              "timestamp": "00:13:10",
+              "quote": "We don't care about the carrier. We don't care about the rates. We care about what was shipped, what it was shipped on, where it picked up, all of that stuff."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it: Optimus surfaces factoring-sourced shipper and lane data so reps can double down on lanes they already run well, priced as one flat enterprise fee for unlimited users to make ROI obvious. Pete himself paraphrased the value back, which confirms it landed, though Max never quantified the ROI or accuracy lift over ZoomInfo.",
+          "evidence": [
+            {
+              "timestamp": "00:28:31",
+              "quote": "these are leads that it would be dumb for you not to call basically because they are doing exactly what you are best at."
+            },
+            {
+              "timestamp": "00:39:16",
+              "quote": "So, it's one enterprise price point, you know, annual contract per month payments."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to BM2 throughout \u2014 Max used a Chicago-to-Dallas backhaul scenario built around Pete's own market, confirmed the Revanova/Salesforce integration BM2 runs, and tied the 'farmer' upsell use case directly to the exact accounts Pete had just searched.",
+          "evidence": [
+            {
+              "timestamp": "00:11:08",
+              "quote": "maybe it's Chicago. If I could type, we'll do 25 miles and it's going to Dallas, Texas. for your contracted lane is Dallas to Chicago. So now you need a back haul to get these guys back out of Chicago."
+            },
+            {
+              "timestamp": "00:40:28",
+              "quote": "if there's, you know, people that are strictly farmers to go into, you know, the pelatons and the fresh pet and find lanes that you aren't moving, win more."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max did little proactive discovery of goals or pain, and his one commercial qualifying question was deflected without a follow-up. He also never drove a concrete, dated next step \u2014 he let the follow-up default to a soft, buyer-owned 'probably next week' with TD and never proposed booking time or reserving a July cohort spot.",
+          "evidence": [
+            {
+              "timestamp": "00:39:16",
+              "quote": "Do you um do you know how much y'all are paying right now for Zoom info?"
+            },
+            {
+              "timestamp": "00:44:46",
+              "quote": "I'll get back with TD and I think he'll probably call you next week."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before hanging up, propose and book a specific next step on the calendar \u2014 e.g., 'Can I hold your team a spot in the July cohort and get 20 minutes with you and TD on [date] to compare the ZoomInfo numbers?' \u2014 instead of letting the buyer route the follow-up to TD undated."
+    }
+  },
+  "buyers": {
+    "Pete Katai": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Repeated, unsolicited verbal preference over the incumbent tool",
+          "timestamp": "00:30:31",
+          "quote": "compared to what we've got with uh with Zoom Info, like to me this makes more sense."
+        },
+        {
+          "signal": "Deep hands-on evaluation \u2014 stress-tested contact accuracy against his own accounts and judged it favorably (rising acoustic arousal, 0.62 in the final third)",
+          "timestamp": "00:21:46",
+          "quote": "it sounds to me this is a lot more pinpoint and accurate data."
+        },
+        {
+          "signal": "Decision and dollars delegated to a colleague, with the incumbent contract as the stated blocker (non-committal himself)",
+          "timestamp": "00:31:33",
+          "quote": "I was going to leave the pricing conversation to TD because I know he was going to discuss it because we want to see what we can do with Zoom info."
+        },
+        {
+          "signal": "Next step is buyer-owned but soft and routed through TD, not a personal commitment or date",
+          "timestamp": "00:44:46",
+          "quote": "I'll get back with TD and I think he'll probably call you next week."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "call": "tj-2026-06-25-09-59-edt",
+  "source": {
+    "recording": "Optimus _ TJ  - 2026_06_25 09_59 EDT - Recording.mp4",
+    "notes": "Optimus _ TJ  - 2026_06_25 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 3090,
+      "questions": 19,
+      "speech_min": 14.7,
+      "loudness_mean": 0.844,
+      "loudness_cv": 0.705,
+      "f0_std_semitones": 10.13,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 68.1,
+      "arousal": 0.502,
+      "dominance": 0.559,
+      "valence": 0.5,
+      "arousal_thirds": [
+        0.525,
+        0.505,
+        0.478
+      ],
+      "seconds_analyzed": 159.0
+    },
+    "Max Riemer": {
+      "words": 181,
+      "questions": 3,
+      "speech_min": 0.5,
+      "loudness_mean": 1.052,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 9.31,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 4.0,
+      "arousal": 0.472,
+      "dominance": 0.527,
+      "valence": 0.514,
+      "arousal_thirds": [
+        0.471,
+        0.422,
+        0.481
+      ],
+      "seconds_analyzed": 43.0
+    },
+    "TJ Brown": {
+      "words": 1264,
+      "questions": 12,
+      "speech_min": 4.9,
+      "loudness_mean": 0.893,
+      "loudness_cv": 0.699,
+      "f0_std_semitones": 9.02,
+      "pace_peaks_per_sec": 3.96,
+      "talk_share_pct": 27.9,
+      "arousal": 0.485,
+      "dominance": 0.544,
+      "valence": 0.633,
+      "arousal_thirds": [
+        0.471,
+        0.512,
+        0.475
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Optimus (Ed Stockman, with Max Riemer supporting) pitched TJ Brown, who runs a small family-owned flatbed/open-deck brokerage, on an AI-driven warm-outreach service that mines 12 months of TMS data to find and contact shippers whose freight overlaps Optimus's network. Ed led almost the entire call, tailoring the approach to TJ's stated preference for standard open-deck loads over permit-heavy heavy haul, and the parties agreed to a three-month, zero-dollar trial with a mutual confidentiality clause. TJ was highly engaged and left with buyer-owned commitments to send data and domains and to loop in the brokerage owner.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly prepared and responsive, pivoting off TJ's heavy-haul concern to ask a sharp ICP question and mirroring TJ's philosophy back to him; acoustically his pitch variation was well above his own baseline (f0_std z=+2.0) with steady arousal, indicating an engaged, non-scripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:09:51",
+              "quote": "What would be your ideal customer that you would want to chase? Do you have one example of a customer right now that you would want 50 of?"
+            },
+            {
+              "timestamp": "00:14:09",
+              "quote": "You are a small family-owned shop that really really cares about your customer base and and your people and handholding those customers and delivering a top-notch experience."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize the offer: AI agents overlap TJ's freight data with Optimus's to send warm, personalized outreach that tees up qualified meetings; the concrete sample message makes it vivid, though he never attaches a quantified outcome (e.g., meetings or loads per month).",
+          "evidence": [
+            {
+              "timestamp": "00:04:41",
+              "quote": "leveraging our own bots, our own AI agents that will automatically look through your data, that will automatically compare that and overlap that to our data and start trying to do some very basic outreach to the folks that overlap"
+            },
+            {
+              "timestamp": "00:06:19",
+              "quote": "I know you move uh Akan, Ohio loads and I move about 15 inbounds a week. I always have this excess capacity in this particular area. Like, do you have time for a call this afternoon?"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tightly tailored to TJ's network and role, distinguishing his flatbed/open-deck 'standard' lanes from permit-heavy heavy haul and reflecting his position as head of a small family-owned brokerage.",
+          "evidence": [
+            {
+              "timestamp": "00:10:56",
+              "quote": "you're looking for flatbed, open deck, specialized, more specialized than dry van and reefer type moves uh that are a little bit more um what I would call standard for flatbed moves"
+            },
+            {
+              "timestamp": "00:15:26",
+              "quote": "I'm going to treat myself as if I was a head of sales coming into your business, which is very different than me going into a head of sales somewhere else."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked a productive ICP-defining question and closed on concrete, near-dated next steps: a 12-month data export, a 10-shipper sample list within a week, and roughly 20 outbounds the following week.",
+          "evidence": [
+            {
+              "timestamp": "00:23:20",
+              "quote": "if we're all trending in the right direction, then um you know, we could trigger maybe like 20 outbounds the first week"
+            },
+            {
+              "timestamp": "00:24:27",
+              "quote": "If you can do an export, a 12-month export, that will help build that ICP."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Anchor your value proposition to a measurable target for the trial \u2014 commit to a specific number of qualified meetings or booked loads over the three months \u2014 so TJ can judge ROI on numbers rather than on philosophy and trust."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max spoke very little (4% of words) but his contributions were on-topic and responsive, directly fielding TJ's integration question; per the tone-alone guidance he is not marked down for being low-key, though his near-absence limits any real read.",
+          "evidence": [
+            {
+              "timestamp": "00:03:32",
+              "quote": "So, y'all are y'all are using HubSpot? Sweet."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated why TJ should care; his only substantive contribution was a status update on integrations, deferring the entire value narrative to Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:03:32",
+              "quote": "I know we're still waiting on I guess it's like an approval process from Outlook and Google as far as like the email integrations go. Uh, but those are in the works."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The little Max said was relevant to TJ's actual stack, confirming HubSpot and Outlook and framing the integration timeline against them.",
+          "evidence": [
+            {
+              "timestamp": "00:03:32",
+              "quote": "And then Outlook for Microsoft email."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max surfaced TJ's tech stack with a direct question and took ownership of concrete follow-ups, including sourcing domains and sharing the recording once it processes.",
+          "evidence": [
+            {
+              "timestamp": "00:27:51",
+              "quote": "as soon as I get that, I'll share it with you, TJ."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Take an active role next call \u2014 own and deliver at least one substantive part of the pitch (for example, the integration value story) instead of limiting yourself to status updates and logistics."
+    }
+  },
+  "buyers": {
+    "TJ Brown": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Volunteered enthusiasm about the product early and unprompted",
+          "timestamp": "00:02:37",
+          "quote": "this is such a user friendly interface. It was so cool. I'm like so impressed by it."
+        },
+        {
+          "signal": "Own-words commitment to supply the data needed to start",
+          "timestamp": "00:24:27",
+          "quote": "we have it because we're switching TMS's. So, I have 12 months of data."
+        },
+        {
+          "signal": "Buyer-owned next step to provide outreach domains",
+          "timestamp": "00:23:20",
+          "quote": "We have quite a few domains that we just purchased. We don't utilize. It'd be nice to use them. So, as soon as I get that, I'll send you something"
+        },
+        {
+          "signal": "Moved to formalize and expand to the decision-maker (the owner)",
+          "timestamp": "00:27:51",
+          "quote": "I would love to loop in. uh Scott on this as well."
+        }
+      ]
+    }
+  }
+}

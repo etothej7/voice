@@ -1,0 +1,1156 @@
+[
+  {
+    "slug": "andy-zurcher-and-max-riemer-2026-05-22-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 5353,
+      "Andy": 1875,
+      "Max Riemer": 1111
+    },
+    "externals": [
+      "Andy"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "brian-park-and-max-riemer-2026-05-20-13-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2023,
+      "Brian Park": 363
+    },
+    "externals": [
+      "Brian Park"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "buck-transport-onboarding-2026-05-12-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 28
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "buck-transport-onboarding-2026-05-14-12-58-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1363,
+      "Thomas Thompson": 712
+    },
+    "externals": [
+      "Thomas Thompson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "check-in-w-fred-2026-03-11-10-00-edt",
+    "status": "new",
+    "speakers": {
+      "Fred Farias": 1234,
+      "Max Riemer": 861
+    },
+    "externals": [
+      "Fred Farias"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "circle-huddle-2026-06-23-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 2427,
+      "Toby Pasquale": 1172,
+      "Max Riemer": 621
+    },
+    "externals": [
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "express-onboarding-2026-05-12-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Rachel Church": 2324,
+      "Max Riemer": 1770
+    },
+    "externals": [
+      "Rachel Church"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "freight-coach-onboarding-2026-06-04-15-59-edt",
+    "status": "new",
+    "speakers": {
+      "Chris Jolly": 1944,
+      "Max Riemer": 1608
+    },
+    "externals": [
+      "Chris Jolly"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "gray-hart-and-max-riemer-2026-05-29-14-01-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "gray-hart-and-max-riemer-2026-06-01-14-01-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 211
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "henry-byers-and-max-riemer-2026-05-11-09-04-cdt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "levi-west-and-max-riemer-2026-03-13-15-27-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1215,
+      "Levi West": 813
+    },
+    "externals": [
+      "Levi West"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "matthew-harrison-and-max-riemer-2026-04-28-14-30-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2228,
+      "MATTHEW HARRISON": 1818,
+      "Energy Logistics Management": 467
+    },
+    "externals": [
+      "Energy Logistics Management",
+      "MATTHEW HARRISON"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "max-paul-2026-06-04-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Paul Estrada": 3519,
+      "Max Riemer": 3353
+    },
+    "externals": [
+      "Paul Estrada"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "max-toby-sync-2026-07-06-12-01-edt",
+    "status": "new",
+    "speakers": {
+      "Toby Pasquale": 2863,
+      "Max Riemer": 2440
+    },
+    "externals": [
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "meghan-holmquist-and-max-riemer-2026-03-26-12-44-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1475,
+      "Meghan Holmquist": 1063
+    },
+    "externals": [
+      "Meghan Holmquist"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "al-hwy-partnership-details-2026-06-02-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 2819,
+      "Ryan Stephenson": 1640,
+      "Max Riemer": 1085
+    },
+    "externals": [
+      "Ryan Stephenson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "alg-2026-03-30-12-58-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 4679,
+      "Teo Rotstein": 1110,
+      "Associated Logistics Group": 1073,
+      "Max Riemer": 536
+    },
+    "externals": [
+      "Teo Rotstein",
+      "Associated Logistics Group"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "alg-trial-review-2026-04-23-12-29-edt",
+    "status": "new",
+    "speakers": {
+      "Teo Rotstein": 3501,
+      "Max Riemer": 946
+    },
+    "externals": [
+      "Teo Rotstein"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "alg-trial-walkthrough-2026-04-13-12-57-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2308,
+      "Teo Rotstein": 552,
+      "Brock Lavins": 216,
+      "Scott Teed": 151
+    },
+    "externals": [
+      "Scott Teed",
+      "Teo Rotstein",
+      "Brock Lavins"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "allen-lund-2026-04-14-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ryan Stephenson": 2899,
+      "Max Riemer": 1695
+    },
+    "externals": [
+      "Ryan Stephenson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "amanda-brotz-ulh-2026-03-26-09-59-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "armstrong-2026-06-15-12-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1725,
+      "Omar Munoz": 1356,
+      "Ryan Phegley": 473
+    },
+    "externals": [
+      "Omar Munoz",
+      "Ryan Phegley"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "bm2-2026-05-08-12-59-cdt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 5590,
+      "Pete Katai": 3384
+    },
+    "externals": [
+      "Pete Katai"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "bm2-trial-review-2026-03-30-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 2524,
+      "Talmadge Studer": 1267
+    },
+    "externals": [
+      "Talmadge Studer"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "bm2-trial-review-2026-03-19-09-57-edt",
+    "status": "new",
+    "speakers": {
+      "Tyler Kendall": 3464,
+      "Max Riemer": 1070
+    },
+    "externals": [
+      "Tyler Kendall"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "cat-global-2026-04-09-12-27-edt",
+    "status": "new",
+    "speakers": {
+      "Shawn": 3118,
+      "Ed Stockman": 2919,
+      "Max Riemer": 817,
+      "Dom": 189
+    },
+    "externals": [
+      "Shawn",
+      "Dom"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "cat-trial-review-2026-04-20-10-01-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "cat-trial-review-2026-04-20-15-31-edt",
+    "status": "new",
+    "speakers": {
+      "Shawn Greenwood": 3118,
+      "Max Riemer": 749,
+      "Ed Stockman": 373
+    },
+    "externals": [
+      "Shawn Greenwood"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "cake-freight-2026-05-20-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Kelly Swanberg": 2824,
+      "Max Riemer": 1289
+    },
+    "externals": [
+      "Kelly Swanberg"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "circle-2026-05-05-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 4476,
+      "Chad Buchanan": 3255,
+      "Derek Holst": 1775,
+      "Michael St Julien": 846,
+      "Max Riemer": 654
+    },
+    "externals": [
+      "Michael St Julien",
+      "Derek Holst",
+      "Chad Buchanan"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "circle-tech-call-2026-06-25-15-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 4180,
+      "Robert Fortmeyer": 1295,
+      "Toby Pasquale": 653,
+      "Philip Barnes": 603,
+      "Max Riemer": 206,
+      "Alec Stopher": 12
+    },
+    "externals": [
+      "Robert Fortmeyer",
+      "Philip Barnes",
+      "Alec Stopher",
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "circle-logistics-2026-04-23-13-58-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 5422,
+      "Max Riemer": 1192,
+      "Michael St Julien": 739,
+      "Robert Fortmeyer": 592
+    },
+    "externals": [
+      "Michael St Julien",
+      "Robert Fortmeyer"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "despir-2026-06-15-12-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2291,
+      "Kevin Nelson": 1028
+    },
+    "externals": [
+      "Kevin Nelson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "dynamic-connections-2026-05-14-15-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1724,
+      "A.J. Todd": 1025
+    },
+    "externals": [
+      "A.J. Todd"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "efl-2026-05-06-12-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 6221,
+      "NEIL": 2009,
+      "Cooper R": 913,
+      "Max Riemer": 852,
+      "Maggie Yepez": 359
+    },
+    "externals": [
+      "Cooper R",
+      "NEIL",
+      "Maggie Yepez"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "efl-2026-06-16-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 447,
+      "Max Riemer": 253
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "efl-follow-up-2026-06-30-11-03-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1829,
+      "Maggie Yepez": 1683,
+      "NEIL": 510,
+      "Alex Rosen": 46,
+      "Alexander Rosen": 9
+    },
+    "externals": [
+      "Alexander Rosen",
+      "Maggie Yepez",
+      "Alex Rosen",
+      "NEIL"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "einride-2026-03-13-12-58-edt",
+    "status": "new",
+    "speakers": {
+      "Adam Osborn": 3653,
+      "Ed Stockman": 2208,
+      "Max Riemer": 342
+    },
+    "externals": [
+      "Adam Osborn"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "fetch-2026-05-01-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Brett Lankford": 4512,
+      "Ed Stockman": 3174,
+      "Max Riemer": 533
+    },
+    "externals": [
+      "Brett Lankford"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "fetch-2026-05-05-15-59-edt",
+    "status": "new",
+    "speakers": {
+      "Brett Lankford": 2370,
+      "Ed Stockman": 709,
+      "Max Riemer": 187
+    },
+    "externals": [
+      "Brett Lankford"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "fetch-term-review-2026-04-27-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Brett Lankford": 5202,
+      "Ed Stockman": 4997,
+      "Max Riemer": 717
+    },
+    "externals": [
+      "Brett Lankford"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "fetch-2026-05-26-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Brooke C": 2041,
+      "Toby Pasquale": 1294,
+      "Max Riemer": 883
+    },
+    "externals": [
+      "Brooke C",
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "flock-demo-2026-06-30-09-29-edt",
+    "status": "scored",
+    "speakers": {
+      "Michael Munday": 2723,
+      "Max Riemer": 1276
+    },
+    "externals": [
+      "Michael Munday"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "freight-buffalo-2026-05-12-15-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 27
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "freight-buffalo-2026-05-12-16-23-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1327,
+      "Mike Mcmahon": 1087
+    },
+    "externals": [
+      "Mike Mcmahon"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "freightplus-io-2026-07-07-13-59-edt",
+    "status": "scored",
+    "speakers": {
+      "Shane Duncan": 4293,
+      "Max Riemer": 2505
+    },
+    "externals": [
+      "Shane Duncan"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "giltner-2026-06-10-13-00-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 2836,
+      "Greg Paulson": 1304,
+      "Max Riemer": 1043,
+      "Todd Baughman": 534,
+      "Michelle Baughman": 315,
+      "Scott Thompson": 302,
+      "Megan Loveday": 140,
+      "Robert Grimm": 33
+    },
+    "externals": [
+      "Michelle Baughman",
+      "Scott Thompson",
+      "Greg Paulson",
+      "Robert Grimm",
+      "Todd Baughman",
+      "Megan Loveday"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "jp-logistics-2026-06-05-13-59-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "jack-hedden-2026-06-09-11-29-edt",
+    "status": "new",
+    "speakers": {
+      "Jack Hedden": 1113,
+      "Max Riemer": 371
+    },
+    "externals": [
+      "Jack Hedden"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "joe-gramc-2026-05-26-10-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2373,
+      "Drew Cherba": 1781
+    },
+    "externals": [
+      "Drew Cherba"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "kti-proposal-review-2026-03-17-13-59-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "kti-proposal-review-2026-03-20-10-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 694,
+      "Stephany": 182
+    },
+    "externals": [
+      "Stephany"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "kenco-2026-03-17-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2613
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "lrgistics-2026-07-02-13-59-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "m7-2026-06-02-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 864,
+      "Isaac Casias": 864
+    },
+    "externals": [
+      "Isaac Casias"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "mode-review-2026-07-09-11-29-edt",
+    "status": "scored",
+    "speakers": {
+      "Michael Sinkovitz": 2463,
+      "Ed Stockman": 2325,
+      "Max Riemer": 164
+    },
+    "externals": [
+      "Michael Sinkovitz"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "mvt-2026-06-05-11-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1417,
+      "Marco Estrada": 1315
+    },
+    "externals": [
+      "Marco Estrada"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "otr-trial-review-2026-04-01-15-58-edt",
+    "status": "new",
+    "speakers": {
+      "Kevin Green": 3469,
+      "Max Riemer": 1629,
+      "Ed Stockman": 977
+    },
+    "externals": [
+      "Kevin Green"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "one-logistics-2026-05-14-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Victor Louis": 3257,
+      "Max Riemer": 2161
+    },
+    "externals": [
+      "Victor Louis"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "quail-logistics-2026-06-17-14-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1152,
+      "Anthony Watson": 928
+    },
+    "externals": [
+      "Anthony Watson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "quiktrip-2026-06-15-10-58-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1969,
+      "Richard Ross": 1175
+    },
+    "externals": [
+      "Richard Ross"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "r2-2026-06-16-14-59-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "rachel-sand-2026-06-16-12-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1832,
+      "Rachel Sand": 1021
+    },
+    "externals": [
+      "Rachel Sand"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "sio-crash-course-2026-03-17-09-29-edt",
+    "status": "new",
+    "speakers": {},
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "show-me-logistics-2026-06-25-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 3852
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "sims-global-2026-04-27-13-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2047,
+      "Chase Bayuk": 1764
+    },
+    "externals": [
+      "Chase Bayuk"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "sims-global-2026-04-13-13-58-edt",
+    "status": "new",
+    "speakers": {
+      "Chase Bayuk": 2084,
+      "Ed Stockman": 1631,
+      "Max Riemer": 1408
+    },
+    "externals": [
+      "Chase Bayuk"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "t3ra-logistics-2026-06-02-15-29-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 25
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "ta-services-2026-05-04-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Chase Wilder": 5247,
+      "Ed Stockman": 4432,
+      "Max Riemer": 2037
+    },
+    "externals": [
+      "Chase Wilder"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "tj-2026-06-25-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 3090,
+      "TJ Brown": 1264,
+      "Max Riemer": 181
+    },
+    "externals": [
+      "TJ Brown"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "tls-2026-06-09-12-59-edt",
+    "status": "new",
+    "speakers": {
+      "Daniel McDonough": 1938,
+      "Max Riemer": 1423
+    },
+    "externals": [
+      "Daniel McDonough"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "timco-2026-04-20-14-28-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 524,
+      "Ed Stockman": 314
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "timco-2026-04-21-11-58-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 8818,
+      "Max Riemer": 875
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "transloop-2026-05-18-11-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 4233,
+      "Max Riemer": 1123,
+      "Robert Pantalone": 1090,
+      "Nick Pease": 731,
+      "Ryan Castello": 564
+    },
+    "externals": [
+      "Nick Pease",
+      "Ryan Castello",
+      "Robert Pantalone"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "transloop-2026-06-03-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 2105,
+      "Nick Reasoner": 1259,
+      "Max Riemer": 752,
+      "John Wilson": 425,
+      "Ryan Castello": 153
+    },
+    "externals": [
+      "Ryan Castello",
+      "John Wilson",
+      "Nick Reasoner"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "tuckey-2026-05-20-14-00-edt",
+    "status": "new",
+    "speakers": {
+      "Reid Meierkort": 2069,
+      "Max Riemer": 1073
+    },
+    "externals": [
+      "Reid Meierkort"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "vic-2026-05-26-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Victor Louis": 968,
+      "Max Riemer": 204
+    },
+    "externals": [
+      "Victor Louis"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "wsi-2026-06-17-10-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 26
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "wsi-2026-06-22-09-59-cdt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 3157,
+      "Taylor Hannah": 2357
+    },
+    "externals": [
+      "Taylor Hannah"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "waabi-2026-05-27-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Tobias Pasquale": 1448,
+      "Joe Shone": 1396,
+      "Max Riemer": 1054,
+      "Adam Zino": 498
+    },
+    "externals": [
+      "Adam Zino",
+      "Tobias Pasquale",
+      "Joe Shone"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "kevin-despir-2026-03-17-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 26
+    },
+    "externals": [],
+    "internal": true
+  },
+  {
+    "slug": "flock-demo-2026-06-30-09-29-edt",
+    "status": "scored",
+    "speakers": {
+      "Michael Munday": 2723,
+      "Max Riemer": 1276
+    },
+    "externals": [
+      "Michael Munday"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "freightplus-io-2026-07-07-13-59-edt",
+    "status": "scored",
+    "speakers": {
+      "Shane Duncan": 4293,
+      "Max Riemer": 2505
+    },
+    "externals": [
+      "Shane Duncan"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "mode-review-2026-07-09-11-29-edt",
+    "status": "scored",
+    "speakers": {
+      "Michael Sinkovitz": 2463,
+      "Ed Stockman": 2325,
+      "Max Riemer": 164
+    },
+    "externals": [
+      "Michael Sinkovitz"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "demo-2026-06-16-12-28-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2028,
+      "Alex Schnitzer": 1301,
+      "Roshan Thakker": 524
+    },
+    "externals": [
+      "Roshan Thakker",
+      "Alex Schnitzer"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "demo-2026-06-23-15-59-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1873,
+      "Jacob York": 987
+    },
+    "externals": [
+      "Jacob York"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "onboarding-call-2026-06-26-11-57-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 1485,
+      "Robert Fortmeyer": 99,
+      "Tyler Van Kooten": 96,
+      "Rick Lefler": 41,
+      "Gary Horton": 8,
+      "Derek Holst": 8,
+      "Cory Petersen": 5,
+      "Kristen Haley": 2
+    },
+    "externals": [
+      "Kristen Haley",
+      "Tyler Van Kooten",
+      "Rick Lefler",
+      "Gary Horton",
+      "Robert Fortmeyer",
+      "Cory Petersen",
+      "Derek Holst"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "team-chip-reeves-2026-05-19-09-59-edt",
+    "status": "new",
+    "speakers": {
+      "Chip Reeves": 2684,
+      "Max Riemer": 1937
+    },
+    "externals": [
+      "Chip Reeves"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "trial-review-2026-06-25-14-59-edt",
+    "status": "new",
+    "speakers": {
+      "Rachel Sand": 1694,
+      "Max Riemer": 1025,
+      "Desiree Nelson": 46
+    },
+    "externals": [
+      "Rachel Sand",
+      "Desiree Nelson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "tom-thompson-and-max-riemer-2026-04-15-10-58-edt",
+    "status": "new",
+    "speakers": {
+      "Max Riemer": 2094,
+      "Thomas Thompson": 1426
+    },
+    "externals": [
+      "Thomas Thompson"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "waabi-gameplan-2026-05-28-11-29-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 1878,
+      "Toby Pasquale": 1623,
+      "Max Riemer": 614
+    },
+    "externals": [
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "waabi-huddle-up-2026-05-26-11-00-edt",
+    "status": "new",
+    "speakers": {
+      "Ed Stockman": 3902,
+      "Max Riemer": 1773,
+      "Toby Pasquale": 1044
+    },
+    "externals": [
+      "Toby Pasquale"
+    ],
+    "internal": false
+  },
+  {
+    "slug": "waabi-network-builder-2026-05-22-15-00-edt",
+    "status": "new",
+    "speakers": {
+      "Joe Shone": 2281,
+      "Max Riemer": 1529,
+      "Toby Pasquale": 331
+    },
+    "externals": [
+      "Joe Shone",
+      "Toby Pasquale"
+    ],
+    "internal": false
+  }
+]

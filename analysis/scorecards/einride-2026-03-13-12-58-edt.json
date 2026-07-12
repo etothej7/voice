@@ -1,0 +1,223 @@
+{
+  "call": "einride-2026-03-13-12-58-edt",
+  "source": {
+    "recording": "Optimus _ Einride - 2026_03_13 12_58 EDT - Recording.mp4",
+    "notes": "Optimus _ Einride - 2026_03_13 12_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Adam Osborn": {
+      "words": 3653,
+      "questions": 21,
+      "speech_min": 15.3,
+      "loudness_mean": 0.885,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 9.62,
+      "pace_peaks_per_sec": 4.05,
+      "talk_share_pct": 58.9,
+      "arousal": 0.411,
+      "dominance": 0.487,
+      "valence": 0.456,
+      "arousal_thirds": [
+        0.397,
+        0.426,
+        0.407
+      ],
+      "seconds_analyzed": 181.0
+    },
+    "Ed Stockman": {
+      "words": 2208,
+      "questions": 19,
+      "speech_min": 8.6,
+      "loudness_mean": 0.916,
+      "loudness_cv": 0.636,
+      "f0_std_semitones": 8.89,
+      "pace_peaks_per_sec": 4.12,
+      "talk_share_pct": 35.6,
+      "arousal": 0.418,
+      "dominance": 0.497,
+      "valence": 0.479,
+      "arousal_thirds": [
+        0.452,
+        0.432,
+        0.383
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Max Riemer": {
+      "words": 342,
+      "questions": 7,
+      "speech_min": 1.5,
+      "loudness_mean": 0.926,
+      "loudness_cv": 0.612,
+      "f0_std_semitones": 8.77,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 5.5,
+      "arousal": 0.493,
+      "dominance": 0.516,
+      "valence": 0.47,
+      "arousal_thirds": [
+        0.493,
+        null,
+        null
+      ],
+      "seconds_analyzed": 176.0
+    }
+  },
+  "call_summary": "Discovery-and-demo call between Optimus (Ed Stockman, Max Riemer) and Adam Osborn of an asset-based EV/autonomous carrier who needs to find local freight within a 150-200 mile radius of his charging terminals (Chicago, Kernney NJ) to boost asset utilization and win backhauls. Max demoed new origin/destination radius filtering on Adam's actual lanes and shippers (Costco, Cisco), while Ed differentiated Optimus's funded/transacted, geocoded data from Genlogs's inferred data and candidly conceded the dataset underreports high-volume dedicated-carrier and private-fleet loads \u2014 Adam's central data-quality concern. The call ended with a trial plan (more credits or a paid profile) plus Adam cross-referencing against his own customer data, with a decision expected soon; Adam is weighing Optimus against Genlogs with budget for only one.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was highly responsive and consultative \u2014 probing on competitors, engaging Adam's specific data-quality concern, and even steering him to Genlogs where it was a better fit; although his vocal energy faded and sat well below his own baseline (arousal z -4.7), his sharp questions and honest, tailored answers show genuine attentiveness, not scripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:08:04",
+              "quote": "who would who would you bucket as our competitors for this?"
+            },
+            {
+              "timestamp": "00:26:46",
+              "quote": "if you're looking for something that's far more specialized like around private fleet data um you know I'd probably steer you towards Genox"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus shows real, funded, geocoded shipper transactions with actual facility names and paperwork, versus competitors that infer pickup and delivery \u2014 so the lane data is precise, not assumed.",
+          "evidence": [
+            {
+              "timestamp": "00:18:43",
+              "quote": "these are these are integrated transactions that we have seen be funded that means transacted like an actual paid transaction"
+            },
+            {
+              "timestamp": "00:20:03",
+              "quote": "they're inferring and making assumptions about where it picks up and where it delivers to"
+            },
+            {
+              "timestamp": "00:21:22",
+              "quote": "we do not take any type of inferred data"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was built around Adam's actual terminals (Chicago, Kernney), his 150-200 mile EV range constraint, and his asset-utilization use case, culminating in a head-to-head trial framed on his own parameters.",
+          "evidence": [
+            {
+              "timestamp": "00:16:01",
+              "quote": "Max, do you want to show the facility uh stuff as well specifically for Kernney?"
+            },
+            {
+              "timestamp": "00:29:13",
+              "quote": "if you're able to put in Kernney and 200 mile radius uh on both sides and um you're able to start, you know, making those cold calls"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked strong, productive questions throughout, but he never secured a specific dated next step \u2014 he asked the buyer to define the next move and left the follow-up cadence and decision timeline entirely buyer-driven, with only a loose 'regroup next week.'",
+          "evidence": [
+            {
+              "timestamp": "00:31:36",
+              "quote": "that's the more relevant data set or would you would you leverage two data sets?"
+            },
+            {
+              "timestamp": "00:33:42",
+              "quote": "Um where what do you think is the best next step?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, propose and lock a specific dated checkpoint with success criteria \u2014 e.g., 'let's hold 30 minutes on [date] to review your Kernney/Cisco cross-reference and any qualified-shipper calls' \u2014 instead of leaving the next step and decision timeline for the buyer to define."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "In his demo-driver role Max was responsive and collaborative, adjusting filters to Adam's requests in real time and explicitly inviting course-correction; his acoustics sat right at his own baseline with the highest arousal of the three speakers.",
+          "evidence": [
+            {
+              "timestamp": "00:10:17",
+              "quote": "this is what I'm thinking and Ed or Adam sort of pop in if you thought think or are thinking differently of this"
+            },
+            {
+              "timestamp": "00:16:01",
+              "quote": "Cisco has nine matching facilities within a 50-mi radius of that area"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max made the core value tangible by showing exactly how the new filter isolates matching lanes and cuts the noise that previously required manual map-clicking, backed by concrete counts (nine matching facilities).",
+          "evidence": [
+            {
+              "timestamp": "00:11:34",
+              "quote": "before we had the the matching lanes, it was we showed the top lanes and then you had to go click in the map to sort of find the network"
+            },
+            {
+              "timestamp": "00:16:01",
+              "quote": "Cisco has nine matching facilities within a 50-mi radius of that area"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The entire demo used Adam's real geography and shippers \u2014 Chicago and Kernney terminals, enterprise names like Costco and Cisco, and the 50/200-mile radii that map to his EV range.",
+          "evidence": [
+            {
+              "timestamp": "00:10:17",
+              "quote": "going with let's just use Chicago as an example. And if we did enterprise, we'll throw large in there, too."
+            },
+            {
+              "timestamp": "00:16:01",
+              "quote": "Cisco has nine matching facilities within a 50-mi radius of that area"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were mostly demo-navigation rather than discovery, and while he owns the trial logistics, he committed only to an open-ended 'shoot you a note' and a loose 'week or so, then regroup' with no firm date.",
+          "evidence": [
+            {
+              "timestamp": "00:16:01",
+              "quote": "Is this it right here?"
+            },
+            {
+              "timestamp": "00:38:06",
+              "quote": "we just have you on there for like a week or so and then we can regroup after that"
+            }
+          ]
+        }
+      },
+      "coaching_action": "During the demo, pause after each feature to confirm it actually solves the problem Adam raised \u2014 e.g., 'does this list view fix the aggregation issue you mentioned?' \u2014 turning the screen-share into two-way discovery rather than one-way narration."
+    }
+  },
+  "buyers": {
+    "Adam Osborn": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Imminent, buyer-owned decision and self-initiated follow-up",
+          "timestamp": "00:38:06",
+          "quote": "We're going to make a decision pretty quick, so I'll keep you guys posted"
+        },
+        {
+          "signal": "Proactive plan to validate data quality fast against his own customer data",
+          "timestamp": "00:37:20",
+          "quote": "So I have their data sets I can cross reference and we can get there pretty quick to understand data quality"
+        },
+        {
+          "signal": "Positive ROI framing on price \u2014 objection-free reaction to the quote",
+          "timestamp": "00:32:50",
+          "quote": "30, 40 grand, something like that, like that's not going to take long for us to to recoup if we land a large enterprise shipper"
+        },
+        {
+          "signal": "Material, unresolved objection: factoring-sourced data misses his highest-volume targets, and he is choosing between two vendors with budget for one",
+          "timestamp": "00:22:58",
+          "quote": "unlikely that they're all using factoring companies so that volume disappears"
+        }
+      ]
+    }
+  }
+}

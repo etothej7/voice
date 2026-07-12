@@ -1,0 +1,223 @@
+{
+  "call": "cat-trial-review-2026-04-20-15-31-edt",
+  "source": {
+    "recording": "Optimus _ CAT trial review - 2026_04_20 15_31 EDT - Recording.mp4",
+    "notes": "Optimus _ CAT trial review - 2026_04_20 15_31 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 373,
+      "questions": 2,
+      "speech_min": 1.4,
+      "loudness_mean": 0.842,
+      "loudness_cv": 0.722,
+      "f0_std_semitones": 7.52,
+      "pace_peaks_per_sec": 4.02,
+      "talk_share_pct": 8.8,
+      "arousal": 0.465,
+      "dominance": 0.53,
+      "valence": 0.524,
+      "arousal_thirds": [
+        null,
+        null,
+        0.465
+      ],
+      "seconds_analyzed": 100.0
+    },
+    "Max Riemer": {
+      "words": 749,
+      "questions": 10,
+      "speech_min": 2.5,
+      "loudness_mean": 0.94,
+      "loudness_cv": 0.702,
+      "f0_std_semitones": 8.88,
+      "pace_peaks_per_sec": 4.03,
+      "talk_share_pct": 17.7,
+      "arousal": 0.522,
+      "dominance": 0.554,
+      "valence": 0.504,
+      "arousal_thirds": [
+        0.566,
+        0.523,
+        0.472
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Shawn Greenwood": {
+      "words": 3118,
+      "questions": 24,
+      "speech_min": 10.5,
+      "loudness_mean": 0.905,
+      "loudness_cv": 0.707,
+      "f0_std_semitones": 8.67,
+      "pace_peaks_per_sec": 4.02,
+      "talk_share_pct": 73.5,
+      "arousal": 0.433,
+      "dominance": 0.489,
+      "valence": 0.462,
+      "arousal_thirds": [
+        0.5,
+        0.416,
+        0.363
+      ],
+      "seconds_analyzed": 164.0
+    }
+  },
+  "call_summary": "This was a trial-review call for the Optimus prospecting platform with Shawn Greenwood, a freight-brokerage manager, who candidly reported the tool isn't valuable for his office right now \u2014 his team lacks repeat lanes, spends only ~10% of the week prospecting, and hit a bug where contacts wouldn't load for both SMB and enterprise searches. Max Riemer ran attentive discovery and reframed the tool around Shawn's actual priority (upselling existing customers), proposing a focused Friday exercise, while Ed Stockman joined late to troubleshoot a specific missing-customer data issue live. Next steps are largely seller-owned (Max to set up Friday and follow up Thursday; Ed to investigate the data), with Shawn only softly agreeing to talk to his team.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max stayed responsive throughout, probing the bug report and building follow-ups directly on Shawn's answers rather than reading a script; his acoustic energy also ran above his own baseline (arousal z +0.7, valence z +0.8).",
+          "evidence": [
+            {
+              "timestamp": "00:01:24",
+              "quote": "Do you know do you know what specific like large company you use?"
+            },
+            {
+              "timestamp": "00:07:54",
+              "quote": "Are those so you growing like those new accounts?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "After Shawn said the tool wasn't valuable, Max reframed it into a clear one-sentence use case \u2014 mine existing customers for upsell talking points where you already have relationships \u2014 though he leaned on 'a decent amount of wins' rather than a hard number.",
+          "evidence": [
+            {
+              "timestamp": "00:19:48",
+              "quote": "That's where we've seen a decent amount of wins."
+            },
+            {
+              "timestamp": "00:19:48",
+              "quote": "there's revenue where you already have relationships. So, let's see if we can spark something there."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored to Shawn's specific situation \u2014 existing-account focus, three sales reps and account managers, and Friday being the slow day \u2014 and designed the proposed exercise around exactly those facts.",
+          "evidence": [
+            {
+              "timestamp": "00:18:28",
+              "quote": "what would the AM's and sales reps like least busiest day be?"
+            },
+            {
+              "timestamp": "00:19:48",
+              "quote": "the sole purpose was to look up current customers and then find like a something to call that customer about the next week"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive, layered questions about prospecting workflow and team structure, then moved to a concrete plan (a Friday exercise) with a dated follow-up on Thursday.",
+          "evidence": [
+            {
+              "timestamp": "00:05:36",
+              "quote": "How are your reps finding new prospects?"
+            },
+            {
+              "timestamp": "00:20:50",
+              "quote": "Well, I think I I can get that set up this Friday if that's something you're interested in."
+            },
+            {
+              "timestamp": "00:20:50",
+              "quote": "I'll I'll reach out to you Thursday afternoon."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Attach a concrete, quantified outcome to your reframe \u2014 e.g., typical upsell revenue or new lanes reps find per Friday exercise \u2014 and use it to convert Shawn's soft 'let me talk to the team' into a firm date and confirmed commitment before you hang up."
+    },
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed joined late and ran markedly flatter than his own baseline (arousal z -4.0), drifting into self-narration ('disregard me'), but he asked sharp diagnostic questions and accurately reflected the buyer's feedback back, so this is not a tone-only downgrade.",
+          "evidence": [
+            {
+              "timestamp": "00:16:20",
+              "quote": "so to me I just heard uh not the top initiative and you just don't have like really this staff of folks that are chasing new accounts"
+            },
+            {
+              "timestamp": "00:13:00",
+              "quote": "Is this a current customer of you guys? I will do some homework here."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed had a live opening \u2014 the tool surfaced 28 contacts led by a senior director of transportation \u2014 but he left it as a data point and never connected it to why Shawn should care, and even undercut confidence by calling the bug 'something really stupid.'",
+          "evidence": [
+            {
+              "timestamp": "00:11:24",
+              "quote": "I got 28. Senior director of transportation is number"
+            },
+            {
+              "timestamp": "00:14:29",
+              "quote": "I don't know if this is a we don't have any data on them type issue or if it's um something really stupid."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Everything Ed contributed was specific to the prospect's named customers and data \u2014 verifying the enterprise lookup and digging into Come Ready Nutrition's legal names and possible PE ownership \u2014 the opposite of a generic pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:13:00",
+              "quote": "from what I see, they have a couple of different legal names. Come Ready Foods, Ready Nutrition, Come Ready Nutrition."
+            },
+            {
+              "timestamp": "00:14:29",
+              "quote": "what I'm going to try to look into and see if they're owned by private equity or something like that"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked only two questions and, while his team-structure question helped tee up the Friday plan, his own next step ('we'll report back') carried no date and was a support task rather than a step advancing the deal.",
+          "evidence": [
+            {
+              "timestamp": "00:18:28",
+              "quote": "remind me how many shipper uh shipper sales folks and account managers you have"
+            },
+            {
+              "timestamp": "00:14:29",
+              "quote": "Yeah, I'm going to I'm going to figure it out"
+            }
+          ]
+        }
+      },
+      "coaching_action": "When a live search surfaces strong results like '28 contacts, senior director of transportation first,' don't leave it as a data point \u2014 immediately tie it to Shawn's stated goal of upselling existing customers so he hears why it matters to his office."
+    }
+  },
+  "buyers": {
+    "Shawn Greenwood": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Explicitly stated the platform has no current value for his office",
+          "timestamp": "00:03:54",
+          "quote": "uh for us just not valuable for us in this current where we're at."
+        },
+        {
+          "signal": "Objection that the tool doesn't change outcomes given his real constraints",
+          "timestamp": "00:04:43",
+          "quote": "I don't think it like pushes the needle enough over to be like perfect, you guys are exactly what we're looking for."
+        },
+        {
+          "signal": "Only conditional, future-tense openness \u2014 door not fully closed",
+          "timestamp": "00:03:54",
+          "quote": "then that tool would probably be something that would be semivaluable to us"
+        },
+        {
+          "signal": "Non-committal, deferred response on the one proposed next step (seller-owned)",
+          "timestamp": "00:20:50",
+          "quote": "Okay. Yeah, let me talk to the team."
+        }
+      ]
+    }
+  }
+}

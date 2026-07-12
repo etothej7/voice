@@ -1,0 +1,139 @@
+{
+  "call": "max-paul-2026-06-04-13-59-edt",
+  "source": {
+    "recording": "Max _ Paul  - 2026_06_04 13_59 EDT - Recording.mp4",
+    "notes": "Max _ Paul  - 2026_06_04 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 3353,
+      "questions": 36,
+      "speech_min": 12.9,
+      "loudness_mean": 1.044,
+      "loudness_cv": 0.65,
+      "f0_std_semitones": 7.83,
+      "pace_peaks_per_sec": 4.17,
+      "talk_share_pct": 48.8,
+      "arousal": 0.51,
+      "dominance": 0.547,
+      "valence": 0.488,
+      "arousal_thirds": [
+        0.543,
+        0.493,
+        0.496
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Paul Estrada": {
+      "words": 3519,
+      "questions": 34,
+      "speech_min": 13.6,
+      "loudness_mean": 1.011,
+      "loudness_cv": 0.665,
+      "f0_std_semitones": 6.64,
+      "pace_peaks_per_sec": 4.0,
+      "talk_share_pct": 51.2,
+      "arousal": 0.537,
+      "dominance": 0.571,
+      "valence": 0.489,
+      "arousal_thirds": [
+        0.548,
+        0.491,
+        0.546
+      ],
+      "seconds_analyzed": 176.0
+    }
+  },
+  "call_summary": "Optimus rep Max Riemer walked Paul Estrada \u2014 a ~18-year Niagara Bottling procurement leader coming on as a partner/advisor \u2014 through the Optimus CRM and Shipper IQ, positioning the product as a freight-specific ZoomInfo/Seamless alternative with factoring-fed lane data. Paul drove most of the substantive conversation, probing data provenance and pushing hard for automated, personalized email generation, while affirming strong belief in the concept. They agreed Max would create a login and send sales materials that day, and Paul would test the tool over the coming week, consult Ed, and assemble a vetted target-company list before opening his network.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was candid and responsive rather than scripted \u2014 he built on Paul's points, admitted product limitations, and volunteered a concrete customer proof point; acoustics support this (7.83 st pitch variation and pace slightly above his own baseline, no flat/monotone signal).",
+          "evidence": [
+            {
+              "timestamp": "00:20:41",
+              "quote": "Oh, for sure. Oh, I've Yeah, I came a long way from from those days."
+            },
+            {
+              "timestamp": "00:22:39",
+              "quote": "they had mentioned a lane. They found an Optimus on the phone and they immediately got their attention as someone who did a little bit more homework than another brokerage."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus is a ZoomInfo/Seamless replacement plus freight-specific lane data and verified full-truckload shippers that lets reps qualify leads and personalize outreach \u2014 though it was largely the buyer who crystallized the 'ZoomInfo plus this' framing.",
+          "evidence": [
+            {
+              "timestamp": "00:16:26",
+              "quote": "preferencing this as like a zoom info seamless replacement because we have the contacts, emails, the phone numbers and then we also just give you all of the shipping related information for the sales team."
+            },
+            {
+              "timestamp": "00:25:04",
+              "quote": "everyone in Optimus moves full truckload freight."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max grounded the demo in the prospect's own account, using Niagara as the working example and generating a Niagara-specific call-prep narrative rather than a generic feature tour, though he did not tailor much to Paul's specific procurement/partner role.",
+          "evidence": [
+            {
+              "timestamp": "00:11:08",
+              "quote": "So if I click on Niagara, we have the lead stage, the opportunity size, all of our activity, all of our contacts."
+            },
+            {
+              "timestamp": "00:12:20",
+              "quote": "we're able to cross reference our data with their capacity where they're strongest and sort of generate a narrative to go to Niagara sort of what you're calling about."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max secured concrete same-day deliverables (account plus sales deck) but asked essentially no needs-discovery questions \u2014 the buyer led all substantive probing \u2014 and left the follow-up open-ended (a message, not a dated meeting), letting Paul set the entire timeline.",
+          "evidence": [
+            {
+              "timestamp": "00:38:11",
+              "quote": "I'll do it today so you can get logged in and then you'll just have the profile, password, all that stuff ready for whenever you're back."
+            },
+            {
+              "timestamp": "00:38:11",
+              "quote": "And I'll shoot you a message when I make that."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Lead your next call with discovery \u2014 before demoing, ask 2-3 questions about the prospect's goals, current outreach process, and what success looks like, then tailor the walkthrough to their answers and close by proposing a specific date for the next call instead of leaving follow-up open-ended."
+    }
+  },
+  "buyers": {
+    "Paul Estrada": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit partnership conviction \u2014 says the product already does what he'd set out to build",
+          "timestamp": "00:05:53",
+          "quote": "you've already built basically exactly what I would have built plus a little bit more."
+        },
+        {
+          "signal": "Buyer-owned validation next step: plans to personally test the tool before deploying his network",
+          "timestamp": "00:36:22",
+          "quote": "I think I need to spend like the next week um just logging in and playing around with this and seeing what I can do with it."
+        },
+        {
+          "signal": "Deep due-diligence questioning on data provenance and freshness",
+          "timestamp": "00:17:23",
+          "quote": "And where is that data being fed from?"
+        },
+        {
+          "signal": "Commits to building a vetted target-company list to feed the pipeline",
+          "timestamp": "00:37:15",
+          "quote": "I'll put put together a list of of companies that I think, you know, I would make connections to verify that they're not already in active conversations with you guys"
+        }
+      ]
+    }
+  }
+}

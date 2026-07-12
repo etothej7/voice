@@ -1,0 +1,263 @@
+{
+  "call": "alg-2026-03-30-12-58-edt",
+  "source": {
+    "recording": "Optimus _ ALG - 2026_03_30 12_58 EDT - Recording.mp4",
+    "notes": "Optimus _ ALG - 2026_03_30 12_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Associated Logistics Group": {
+      "words": 1073,
+      "questions": 7,
+      "speech_min": 4.5,
+      "loudness_mean": 0.916,
+      "loudness_cv": 0.685,
+      "f0_std_semitones": 7.23,
+      "pace_peaks_per_sec": 3.8,
+      "talk_share_pct": 14.5,
+      "arousal": 0.497,
+      "dominance": 0.538,
+      "valence": 0.515,
+      "arousal_thirds": [
+        null,
+        0.537,
+        0.479
+      ],
+      "seconds_analyzed": 178.0
+    },
+    "Ed Stockman": {
+      "words": 4679,
+      "questions": 31,
+      "speech_min": 20.4,
+      "loudness_mean": 0.777,
+      "loudness_cv": 0.696,
+      "f0_std_semitones": 6.77,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 63.2,
+      "arousal": 0.508,
+      "dominance": 0.546,
+      "valence": 0.545,
+      "arousal_thirds": [
+        0.49,
+        0.516,
+        0.537
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Max Riemer": {
+      "words": 536,
+      "questions": 6,
+      "speech_min": 2.4,
+      "loudness_mean": 0.862,
+      "loudness_cv": 0.708,
+      "f0_std_semitones": 9.04,
+      "pace_peaks_per_sec": 3.86,
+      "talk_share_pct": 7.2,
+      "arousal": 0.444,
+      "dominance": 0.463,
+      "valence": 0.475,
+      "arousal_thirds": [
+        0.408,
+        0.489,
+        null
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Teo Rotstein": {
+      "words": 1110,
+      "questions": 10,
+      "speech_min": 5.7,
+      "loudness_mean": 0.832,
+      "loudness_cv": 0.683,
+      "f0_std_semitones": 6.5,
+      "pace_peaks_per_sec": 3.87,
+      "talk_share_pct": 15.0,
+      "arousal": 0.461,
+      "dominance": 0.522,
+      "valence": 0.534,
+      "arousal_thirds": [
+        0.458,
+        0.447,
+        0.465
+      ],
+      "seconds_analyzed": 174.0
+    }
+  },
+  "call_summary": "Optimus co-founders Ed Stockman and Max Riemer demoed their freight-sales prospecting platform to Associated Logistics Group (owner Mark and Teo Rotstein), anchoring the pitch on Ed's 20-year brokerage background and factoring-company transaction data covering ~70% of the spot market. Max screen-shared the lead-filtering, company-profile, contact, and AI-email features, and the conversation moved into ZoomInfo-comparable pricing and a possible beta partnership. ALG showed genuine enthusiasm and pitched itself as a small, feedback-rich beta partner, but conditioned commitment on staff actually using the tool, and the call ended with the next step left to an internal ALG discussion rather than a dated follow-up.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed sounded prepared and consistently responsive, adapting his answers to what buyers actually asked rather than reciting a script, with healthy pitch variation (6.77 st) supporting an engaged tone.",
+          "evidence": [
+            {
+              "timestamp": "00:12:43",
+              "quote": "what got us into Walgreens was um a very targeted lane like we went in just pitching one lane"
+            },
+            {
+              "timestamp": "00:21:55",
+              "quote": "I really wanted to to build this for the sales rep"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "The value prop is expressible in one sentence and is quantified: match ZoomInfo's price but add proprietary transportation/lane data drawn from factoring partners covering ~70% of the spot market.",
+          "evidence": [
+            {
+              "timestamp": "00:37:14",
+              "quote": "we have customers that were spending anywhere between 20 and $100,000 a year on Zoom Info and we come in and we say we'll price match them"
+            },
+            {
+              "timestamp": "00:20:35",
+              "quote": "these factoring companies probably cover, I would say, 70% of the spot market"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed discovered ALG's setup and applied the account-management cross-sell use case to their actual customer LX House, tying the platform to freight ALG already moves rather than staying fully generic.",
+          "evidence": [
+            {
+              "timestamp": "00:33:52",
+              "quote": "here's their suppliers and their customers. These are worm leads. Like pick up the phone, call these guys"
+            },
+            {
+              "timestamp": "00:31:51",
+              "quote": "we see so many account managers type in one of their customers and be like oh we knew that they did this business but we didn't know that they do these other lanes"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Discovery questions were strong and productive, but the call ended without a dated commitment: the next-step sequence was proposed in concept and then handed off to 'talk offline' with no calendar date secured.",
+          "evidence": [
+            {
+              "timestamp": "00:24:16",
+              "quote": "How many sales reps, TMS, CRM?"
+            },
+            {
+              "timestamp": "00:44:43",
+              "quote": "if we want to set up a another call with the sales team um or some of the members of the sales team like we would love to present this to them"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, secure a specific date and time for the sales-team demo instead of leaving it as 'we'll talk offline'\u2014offer two concrete slots and confirm one on the call."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max drove the demo with energy and expressive delivery (pitch variation 9.04 st) and repeatedly invited buyer input rather than steamrolling through a fixed script.",
+          "evidence": [
+            {
+              "timestamp": "00:14:37",
+              "quote": "is there like a lane that you would want to search up that y'all are strung in"
+            },
+            {
+              "timestamp": "00:26:41",
+              "quote": "Are y'all um are y'all split model or y'all have cradle to grave guys?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max made the mechanics concrete on-screen\u2014surfacing 162 matching companies on a chosen lane and generating a researched outreach email\u2014so a listener can see how a rep turns a lane into a targeted contact.",
+          "evidence": [
+            {
+              "timestamp": "00:15:34",
+              "quote": "we got 162 companies here that are moving Chattanooga to Dallas essentially"
+            },
+            {
+              "timestamp": "00:16:46",
+              "quote": "it'll generate an email sort of based on that value proposition"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "The demo leaned on generic examples (Chattanooga\u2013Dallas, PepsiCo, Chicago) and only surfaced ALG's real customer (LX House) once Teo supplied it; pre-loading the prospect's own accounts would make every screen directly relevant.",
+          "evidence": [
+            {
+              "timestamp": "00:15:34",
+              "quote": "I'll just use an example."
+            },
+            {
+              "timestamp": "00:17:55",
+              "quote": "I'll just click on PepsiCo to show you the"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive qualifying questions that shaped the pitch (current tools, operating model); the closing and next-step ownership was carried by Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:03:56",
+              "quote": "Are y'all um are y'all currently using like a like a Zoom Info or Apollo type of tool?"
+            },
+            {
+              "timestamp": "00:26:41",
+              "quote": "Are y'all um are y'all split model or y'all have cradle to grave guys?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Pre-load the prospect's own top lanes and accounts before the demo and open with them, so every screen shows ALG's real freight instead of generic examples like PepsiCo or Chattanooga\u2013Dallas."
+    }
+  },
+  "buyers": {
+    "Associated Logistics Group": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Volunteered strong enthusiasm in his own words",
+          "timestamp": "00:39:57",
+          "quote": "I'm really excited about it, actually. I mean, I don't want to overstate it. The truth is I'm really excited about it"
+        },
+        {
+          "signal": "Self-positioned ALG as a beta partner",
+          "timestamp": "00:27:51",
+          "quote": "we're always a very good partner, too, because we we're we're kind of that right size where we care and we can provide valuable feedback"
+        },
+        {
+          "signal": "Buyer-owned next step (committed to internal debrief and quick follow-up)",
+          "timestamp": "00:44:43",
+          "quote": "we can plan on getting back to them rather quickly and uh see what the next steps are"
+        },
+        {
+          "signal": "Conditional objection showing serious evaluation, not disinterest",
+          "timestamp": "00:40:58",
+          "quote": "until we get in and have staff actually use it, it's really tough to, you know, say this is for us or it's not"
+        }
+      ]
+    },
+    "Teo Rotstein": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Asked a buying-progression question about trialing",
+          "timestamp": "00:43:21",
+          "quote": "is there is there any way to trial it for a short period of time"
+        },
+        {
+          "signal": "Deep evaluative question on management reporting/usage visibility",
+          "timestamp": "00:42:02",
+          "quote": "Is there reporting? Is there uh usage uh reporting uh tracking any any anything from uh you know top down visibility?"
+        },
+        {
+          "signal": "Positive appraisal of the data and approach",
+          "timestamp": "00:20:35",
+          "quote": "That's very powerful. Nice work."
+        },
+        {
+          "signal": "Mild skepticism about tool reliance that tempers commitment",
+          "timestamp": "00:26:41",
+          "quote": "I see the most successful salespeople just running their own uh spreadsheets to this day"
+        }
+      ]
+    }
+  }
+}

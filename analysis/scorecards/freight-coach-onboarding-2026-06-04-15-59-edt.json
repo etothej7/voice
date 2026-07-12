@@ -1,0 +1,139 @@
+{
+  "call": "freight-coach-onboarding-2026-06-04-15-59-edt",
+  "source": {
+    "recording": "Freight Coach _ Onboarding - 2026_06_04 15_59 EDT - Recording.mp4",
+    "notes": "Freight Coach _ Onboarding - 2026_06_04 15_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Chris Jolly": {
+      "words": 1944,
+      "questions": 13,
+      "speech_min": 7.3,
+      "loudness_mean": 0.98,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 7.37,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 54.7,
+      "arousal": 0.619,
+      "dominance": 0.647,
+      "valence": 0.457,
+      "arousal_thirds": [
+        0.644,
+        null,
+        0.578
+      ],
+      "seconds_analyzed": 178.0
+    },
+    "Max Riemer": {
+      "words": 1608,
+      "questions": 12,
+      "speech_min": 6.3,
+      "loudness_mean": 0.997,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 7.3,
+      "pace_peaks_per_sec": 4.18,
+      "talk_share_pct": 45.3,
+      "arousal": 0.555,
+      "dominance": 0.592,
+      "valence": 0.368,
+      "arousal_thirds": [
+        0.625,
+        0.503,
+        0.657
+      ],
+      "seconds_analyzed": 165.0
+    }
+  },
+  "call_summary": "This was an onboarding/check-in call between Max Riemer (Optimus) and Chris Jolly, an existing customer at Freight Coach Logistics who signed up primarily for lane intelligence. Max activated Chris's CRM profile live, walked through data sourcing (bills of lading, the freight.ai OCR subsidiary, and Seamless/Apollo contact partnerships), and floated a monthly CSV export to Sales Dash. Chris was highly engaged and enthusiastic about the freight-specific data, but the call ended with only a loose, buyer-initiated follow-up rather than a concrete dated next step.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was conversational and genuinely responsive, riffing on Chris's points and pulling in a same-day enterprise-shipper anecdote rather than reciting a script; his pace ran faster than his own baseline (z=+1.1) with solid pitch variation, though he leaned slightly flatter than usual (z=-0.9) and showed a small prep gap by forgetting Chris's setup.",
+          "evidence": [
+            {
+              "timestamp": "00:04:00",
+              "quote": "And I was on a call today with an enterprise shipper. Uh we were just talking sales and how he has he did the math and he has been in it for over 20 years."
+            },
+            {
+              "timestamp": "00:05:55",
+              "quote": "Can you remind me what CRM you're in?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus gives freight-specific lane and contact data so brokers can do personalized, lane-level outreach that actually gets noticed instead of being one of thousands of generic solicitations, and Max backed it with concrete numbers.",
+          "evidence": [
+            {
+              "timestamp": "00:04:00",
+              "quote": "He said he's received probably somewhere 14,000 solicitations from freight brokerages and 99% of them they it like they're so generic they just get instantly deleted"
+            },
+            {
+              "timestamp": "00:10:46",
+              "quote": "we want to be very very good at providing the transportation data on our own. And then there are people like Seamless, Zoom Info, Apollo that are very good at getting contacts. So then we just partner with them"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored to Chris's actual stack and role \u2014 he built the Freight Coach Logistics profile live, addressed the Sales Dash CRM specifically, and framed the CSV export around Chris's own import workflow, while relating peer-to-peer as a fellow broker.",
+          "evidence": [
+            {
+              "timestamp": "00:11:48",
+              "quote": "Ed is open to like a li like a monthly limit of exports in like a CSV that you could then import into Sales Dash."
+            },
+            {
+              "timestamp": "00:06:49",
+              "quote": "let me well, first let me make your profile. And it's just Freight Coach Logistics."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were mostly administrative (\"what CRM are you in,\" \"any questions top of mind\") and he let the call close on a vague, buyer-initiated follow-up with no scheduled next call and no committed date for the CSV export he floated.",
+          "evidence": [
+            {
+              "timestamp": "00:06:49",
+              "quote": "Is there anything any questions as far as like anything else like top of mind for you?"
+            },
+            {
+              "timestamp": "00:18:21",
+              "quote": "Sweet. Appreciate it."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, propose a specific dated next step out loud \u2014 e.g. 'Let's book 20 minutes next Thursday to review the lists you build and I'll confirm the CSV-export delivery date' \u2014 instead of leaving follow-up to the buyer."
+    }
+  },
+  "buyers": {
+    "Chris Jolly": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "States the product's core feature drove his purchase decision",
+          "timestamp": "00:03:02",
+          "quote": "90% of the reason I I ended up signing up with you guys was was the lane intelligence"
+        },
+        {
+          "signal": "Unprompted competitive praise ranking Optimus above incumbents",
+          "timestamp": "00:09:43",
+          "quote": "this is so much f****** further ahead than anything that's out there"
+        },
+        {
+          "signal": "Buyer-owned advocacy action \u2014 plans to tell a peer using a competitor",
+          "timestamp": "00:09:43",
+          "quote": "I'm gonna text one of my buddies because he's using Apollo right now"
+        },
+        {
+          "signal": "Deep, evaluative question on data provenance/quality showing real intent to use it",
+          "timestamp": "00:12:42",
+          "quote": "when it says that there's uh they ship drive-in, reefer, and flatbed, is that reported actual flatbed shipments or is that a probability?"
+        }
+      ]
+    }
+  }
+}

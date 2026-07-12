@@ -1,0 +1,139 @@
+{
+  "call": "check-in-w-fred-2026-03-11-10-00-edt",
+  "source": {
+    "recording": "Check-in w_ Fred - 2026_03_11 10_00 EDT - Recording.mp4",
+    "notes": "Check-in w_ Fred - 2026_03_11 10_00 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Fred Farias": {
+      "words": 1234,
+      "questions": 14,
+      "speech_min": 4.4,
+      "loudness_mean": 0.868,
+      "loudness_cv": 0.726,
+      "f0_std_semitones": 9.18,
+      "pace_peaks_per_sec": 3.86,
+      "talk_share_pct": 58.9,
+      "arousal": 0.43,
+      "dominance": 0.485,
+      "valence": 0.395,
+      "arousal_thirds": [
+        0.291,
+        0.427,
+        0.468
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Max Riemer": {
+      "words": 861,
+      "questions": 14,
+      "speech_min": 3.5,
+      "loudness_mean": 0.827,
+      "loudness_cv": 0.741,
+      "f0_std_semitones": 8.78,
+      "pace_peaks_per_sec": 3.84,
+      "talk_share_pct": 41.1,
+      "arousal": 0.472,
+      "dominance": 0.493,
+      "valence": 0.408,
+      "arousal_thirds": [
+        0.538,
+        0.442,
+        0.37
+      ],
+      "seconds_analyzed": 172.0
+    }
+  },
+  "call_summary": "This was a product check-in/demo between Max Riemer (vendor) and Fred Farias, an existing user of a freight-shipper prospecting tool, reviewing updates pushed the prior day. Working through Fred's own searches (Chicago\u2192Detroit, dry van, small/medium shippers), Fred surfaced a real bug where matching lanes fail to populate once filters beyond origin/destination are applied, which Max acknowledged and committed to have engineering fix same-day. The call was heavy on live feature explanation and troubleshooting; Fred repeatedly signaled he is not yet comfortable interpreting the data, and no dated next touchpoint was set.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly unscripted and responsive, diagnosing the lane-filter glitch live in Fred's own session and taking ownership rather than deflecting. His elevated own-baseline loudness variability (z=3.6) is consistent with talking while navigating/troubleshooting a screen-share, not disengagement.",
+          "evidence": [
+            {
+              "timestamp": "00:11:32",
+              "quote": "What I'm trying to figure out though is this update we pushed yesterday is not showing up. Let me try this again."
+            },
+            {
+              "timestamp": "00:17:21",
+              "quote": "that's that's on us. I'll tell Ed to get on that today."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max explained mechanics (flow threshold, volume fields, facility matching) but never tied them to why Fred should care \u2014 e.g., how this helps him find and book more loads. The closest to a value statement, the new contacts partner, stayed generic ('more contacts, more emails') with no quantified benefit.",
+          "evidence": [
+            {
+              "timestamp": "00:17:21",
+              "quote": "That's just showing if you showed the flow lines it would be the 99th percent."
+            },
+            {
+              "timestamp": "00:24:28",
+              "quote": "We did just also add a new contacts partner to open up for these small mediums and get more contacts and more emails"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The entire session was driven off Fred's actual search parameters and real accounts (Charter Manufacturing, ABC Supply; Chicago\u2192Detroit; dry van; small/medium), so the discussion was fully tailored to his prospecting workflow rather than a canned pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:09:23",
+              "quote": "those are all their facilities they have within a 50-mi radius of"
+            },
+            {
+              "timestamp": "00:15:32",
+              "quote": "Everyone on this list has that lane."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were mostly demo-facilitation ('take off the facility filter,' 'does that make sense') rather than probing Fred's goals, and when Fred admitted he wasn't comfortable Max didn't dig in. The only dated commitment was an internal engineering fix; the call closed with no scheduled next session with Fred.",
+          "evidence": [
+            {
+              "timestamp": "00:21:11",
+              "quote": "What other uh questions did you"
+            },
+            {
+              "timestamp": "00:24:28",
+              "quote": "Anything else I can help you with right now?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "When a user says they're 'not comfortable yet,' stop the demo, ask what they're actually trying to accomplish with the tool, and book a specific dated follow-up walkthrough instead of closing on 'we'll talk soon.'"
+    }
+  },
+  "buyers": {
+    "Fred Farias": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "High question depth and critical product feedback \u2014 proposing a concrete design improvement",
+          "timestamp": "00:13:39",
+          "quote": "if you put an origin and destination, why not just filter out all the companies that don't have those?"
+        },
+        {
+          "signal": "Low value-realization / friction \u2014 admits he can't yet interpret the data",
+          "timestamp": "00:21:11",
+          "quote": "I don't really know what it means because there's a number"
+        },
+        {
+          "signal": "Only soft, self-directed commitment to keep engaging rather than a firm plan",
+          "timestamp": "00:24:28",
+          "quote": "I I got to keep playing around with it then."
+        },
+        {
+          "signal": "Agreed to a small buyer-owned next step (re-check accounts for new contacts)",
+          "timestamp": "00:24:28",
+          "quote": "Okay. All right. We'll do that."
+        }
+      ]
+    }
+  }
+}

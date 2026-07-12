@@ -1,0 +1,139 @@
+{
+  "call": "cake-freight-2026-05-20-14-59-edt",
+  "source": {
+    "recording": "Optimus _ Cake Freight - 2026_05_20 14_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Cake Freight - 2026_05_20 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Kelly Swanberg": {
+      "words": 2824,
+      "questions": 17,
+      "speech_min": 10.0,
+      "loudness_mean": 0.752,
+      "loudness_cv": 0.676,
+      "f0_std_semitones": 5.67,
+      "pace_peaks_per_sec": 3.92,
+      "talk_share_pct": 68.7,
+      "arousal": 0.47,
+      "dominance": 0.536,
+      "valence": 0.502,
+      "arousal_thirds": [
+        0.484,
+        0.442,
+        0.481
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Max Riemer": {
+      "words": 1289,
+      "questions": 9,
+      "speech_min": 4.9,
+      "loudness_mean": 0.8,
+      "loudness_cv": 0.686,
+      "f0_std_semitones": 6.8,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 31.3,
+      "arousal": 0.534,
+      "dominance": 0.562,
+      "valence": 0.517,
+      "arousal_thirds": [
+        0.534,
+        0.531,
+        0.539
+      ],
+      "seconds_analyzed": 170.0
+    }
+  },
+  "call_summary": "Existing trial user Kelly Swanberg \u2014 a SoCal SMB/mid-market-focused freight broker \u2014 spent the call giving detailed product feedback, saying Optimus isn't usable for him without a local headquarters/50-mile-radius filter and more equipment classes (drayage, box truck, LTL, containers), while praising the UI and voicing conditional enthusiasm ('I'm all in' if they 'crack the code'). Seller Max Riemer was attentive and warm but largely reactive: he validated the feedback and promised to relay it to engineering, yet delivered no value proposition, advanced no tailored pitch, and closed with no dated next step despite a genuinely interested buyer.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive throughout \u2014 he engaged live with the specific companies Kelly pulled up, adjusted his explanation of the lane data, and validated Kelly's SMB framing rather than reciting a script; acoustically his arousal (z +0.9) and valence (z +1.1) ran above his own 23-call baseline, so he sounded genuinely engaged and positive. The one soft spot was preparedness (he was unsure how his own headquarters filter worked), but responsiveness clearly carried the interaction.",
+          "evidence": [
+            {
+              "timestamp": "00:04:06",
+              "quote": "No, I mean, well, the lane has been updated since the last time we spoke. So, the number you see next to lanes is going to be on a 60-day rolling basis."
+            },
+            {
+              "timestamp": "00:11:14",
+              "quote": "you'd be surprised how many enterprise people don't they they say the same things you are."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "A neutral listener could not state in one sentence why Kelly should buy \u2014 Max offered no quantified or concrete claim about what the product does for the buyer, and at times actively undersold it. He talked about roadmap and data cleanup instead of value.",
+          "evidence": [
+            {
+              "timestamp": "00:11:14",
+              "quote": "it's not a perfect product for sure and the only way we're going to get there is by hearing people like you"
+            },
+            {
+              "timestamp": "00:15:36",
+              "quote": "The biggest priority right now before we get into all that is making sure that the data that we have now is dialed in."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Although Max understood Kelly's SoCal SMB local-outreach context, he never converted that awareness into a tailored pitch showing how Optimus serves Kelly's lanes, network, or role \u2014 he mirrored the feedback and deferred everything to engineering rather than demonstrating relevant value.",
+          "evidence": [
+            {
+              "timestamp": "00:15:36",
+              "quote": "That's all great. Most of that stuff is going to be on our road map."
+            },
+            {
+              "timestamp": "00:19:50",
+              "quote": "we'll take it all back. See what I can do and I'll just I'll just keep you posted on updates and all the data stuff."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked few productive discovery questions and, despite an engaged buyer who explicitly asked for a workaround and to meet the founders, ended with only a vague internal action and no concrete, dated next step or follow-up meeting.",
+          "evidence": [
+            {
+              "timestamp": "00:19:50",
+              "quote": "got it all saved and recorded. So, I'll be able to probably just shoot this over to our engineer"
+            },
+            {
+              "timestamp": "00:19:50",
+              "quote": "See what I can do and I'll just I'll just keep you posted on updates and all the data stuff."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending a call with a warm buyer, lock a specific dated next step \u2014 here you should have booked a follow-up demo on a set date to show Kelly the local-headquarters filtering workaround he asked for and scheduled the founder introduction he requested, instead of closing with an open-ended 'I'll keep you posted.'"
+    }
+  },
+  "buyers": {
+    "Kelly Swanberg": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Genuine enthusiasm, but explicitly conditional on product changes",
+          "timestamp": "00:11:56",
+          "quote": "if you can go back and like figure out how we can crack the code, I'm all in. I dig it."
+        },
+        {
+          "signal": "Willing to displace a competitor tool if the gaps are fixed",
+          "timestamp": "00:08:14",
+          "quote": "I can see myself replacing bread AI to use this"
+        },
+        {
+          "signal": "Blocking objection that gates adoption on missing local filtering",
+          "timestamp": "00:00:00",
+          "quote": "I don't think it's going to be an application I can use um unless you can kind of show me some workarounds"
+        },
+        {
+          "signal": "Downplays himself as a buyer and takes no ownership of a next step",
+          "timestamp": "00:10:18",
+          "quote": "I'm only going to, you know, potentially get a couple licenses, right? So, I'm not I'm not a big opportunity for you guys really."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-success: hsl(var(--success));
+  --color-success-foreground: hsl(var(--success-foreground));
+  --color-warning: hsl(var(--warning));
+  --color-warning-foreground: hsl(var(--warning-foreground));
+  --color-info: hsl(var(--info));
+  --color-info-foreground: hsl(var(--info-foreground));
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --spacing-page: var(--layout-page-padding);
+  --spacing-toolbar: var(--layout-toolbar-height);
+  --spacing-control-sm: var(--control-height-sm);
+  --spacing-control-md: var(--control-height-md);
+  --spacing-control-lg: var(--control-height-lg);
+  --spacing-table-row: var(--table-row-height);
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+
+    /* Core surfaces */
+    --background: 210 20% 98%;
+    --foreground: 222 47% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 10%;
+    --secondary: 210 18% 94%;
+    --secondary-foreground: 222 36% 15%;
+    --muted: 210 18% 94%;
+    --muted-foreground: 215 14% 42%;
+    --accent: 205 23% 91%;
+    --accent-foreground: 222 36% 15%;
+    --border: 214 18% 84%;
+    --input: 214 18% 84%;
+    --ring: 178 59% 39%;
+
+    /* Brand and semantic states */
+    --primary: 178 59% 37%;
+    --primary-foreground: 180 80% 98%;
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 98%;
+    --success: 151 63% 35%;
+    --success-foreground: 150 80% 96%;
+    --warning: 38 92% 45%;
+    --warning-foreground: 38 100% 8%;
+    --info: 203 79% 43%;
+    --info-foreground: 204 100% 97%;
+
+    /* Shared sizing */
+    --radius: 0.5rem;
+    --layout-page-padding: 1.5rem;
+    --layout-toolbar-height: 2.5rem;
+    --control-height-sm: 2rem;
+    --control-height-md: 2.25rem;
+    --control-height-lg: 2.5rem;
+    --table-row-height: 2.75rem;
+  }
+
+  .dark {
+    color-scheme: dark;
+
+    /* Core surfaces */
+    --background: 0 0% 0%;
+    --foreground: 210 24% 96%;
+    --card: 0 0% 0%;
+    --card-foreground: 210 24% 96%;
+    --popover: 0 0% 0%;
+    --popover-foreground: 210 24% 96%;
+    --secondary: 0 0% 0%;
+    --secondary-foreground: 210 24% 96%;
+    --muted: 0 0% 0%;
+    --muted-foreground: 216 10% 67%;
+    --accent: 0 0% 0%;
+    --accent-foreground: 210 24% 96%;
+    --border: 216 13% 23%;
+    --input: 216 13% 23%;
+    --ring: 178 59% 47%;
+
+    /* Brand and semantic states */
+    --primary: 178 59% 47%;
+    --primary-foreground: 210 24% 98%;
+    --destructive: 0 72% 56%;
+    --destructive-foreground: 0 0% 98%;
+    --success: 151 63% 43%;
+    --success-foreground: 150 80% 96%;
+    --warning: 38 92% 54%;
+    --warning-foreground: 33 100% 10%;
+    --info: 203 79% 52%;
+    --info-foreground: 204 100% 97%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html,
+  #root {
+    min-height: 100%;
+    background: hsl(var(--background));
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .scroll-affordance {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--border)) transparent;
+  }
+
+  .scroll-affordance::-webkit-scrollbar {
+    height: 10px;
+  }
+
+  .scroll-affordance::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scroll-affordance::-webkit-scrollbar-thumb {
+    border-radius: 999px;
+    background: hsl(var(--border));
+  }
+}

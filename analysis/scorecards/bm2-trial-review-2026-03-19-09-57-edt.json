@@ -1,0 +1,151 @@
+{
+  "call": "bm2-trial-review-2026-03-19-09-57-edt",
+  "source": {
+    "recording": "Optimus _ BM2 trial review - 2026_03_19 09_57 EDT - Recording.mp4",
+    "notes": "Optimus _ BM2 trial review - 2026_03_19 09_57 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1070,
+      "questions": 11,
+      "speech_min": 3.7,
+      "loudness_mean": 0.914,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 6.81,
+      "pace_peaks_per_sec": 3.97,
+      "talk_share_pct": 23.6,
+      "arousal": 0.497,
+      "dominance": 0.546,
+      "valence": 0.472,
+      "arousal_thirds": [
+        0.476,
+        0.533,
+        0.498
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Tyler Kendall": {
+      "words": 3464,
+      "questions": 30,
+      "speech_min": 14.2,
+      "loudness_mean": 0.816,
+      "loudness_cv": 0.723,
+      "f0_std_semitones": 6.38,
+      "pace_peaks_per_sec": 3.85,
+      "talk_share_pct": 76.4,
+      "arousal": 0.535,
+      "dominance": 0.566,
+      "valence": 0.485,
+      "arousal_thirds": [
+        0.51,
+        0.534,
+        0.564
+      ],
+      "seconds_analyzed": 180.0
+    }
+  },
+  "call_summary": "This was a trial-kickoff demo of Optimus, a freight-data prospecting tool, run by seller Max Riemer for BM2's Tyler Kendall and team, walked through BM2's own accounts (Omega Protein, Driscolls, Newore, Armada). Tyler dominated the conversation (76% of words) and effectively co-sold the tool to his own reps, ending explicitly bought-in and requesting seven trial logins. Max was low-key but responsive and candid about limitations; the agreed next step is one week of full access, though no dated review call was locked.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was flatter than his own baseline (f0 z=-1.3) and let the buyer drive, but he was genuinely attentive and unscripted \u2014 adapting to Tyler's live search requests, proactively surfacing a subsidiary, and giving straight answers to hard questions rather than reciting a pitch; per guidance he is not marked down for a low-key tone alone.",
+          "evidence": [
+            {
+              "timestamp": "00:05:51",
+              "quote": "Looks like it might be a subsidiary or a child company,"
+            },
+            {
+              "timestamp": "00:06:57",
+              "quote": "We scrape all of the data that we legally can and then we throw it into Optimus."
+            },
+            {
+              "timestamp": "00:17:26",
+              "quote": "there's not a like filter for that on the contacts but when you click on a contact it'll have their location from LinkedIn"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max clearly differentiated Optimus from contact-only tools like ZoomInfo and explained the concrete, defensible data source (factoring-company PODs/BOLs/invoices), so a neutral listener could state why a broker should care \u2014 though his own phrasing leaned generic and Tyler supplied most of the quantified proof points.",
+          "evidence": [
+            {
+              "timestamp": "00:03:28",
+              "quote": "their vision was there needs to be a tool out there that's that's better than just contact data"
+            },
+            {
+              "timestamp": "00:04:43",
+              "quote": "build a product that gives you guys the data needed to make informed calls from the start instead of just popping in there"
+            },
+            {
+              "timestamp": "00:06:57",
+              "quote": "it's all from factoring companies, uh, factoring partnerships. So we get PODS, BS, invoices"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The demo was tailored to BM2's actual accounts and broker workflow (back-selling by equipment/commodity, Wisconsin lanes), and Max leveraged his own brokerage background and caught a live subsidiary insight \u2014 relevant, though much of the tailoring was buyer-initiated rather than Max proactively driving it.",
+          "evidence": [
+            {
+              "timestamp": "00:03:28",
+              "quote": "First job out of school was with Axle Logistics. I was there for right under two years. Full cradle to grave model selling book and trucks."
+            },
+            {
+              "timestamp": "00:05:51",
+              "quote": "Looks like it might be a subsidiary or a child company,"
+            },
+            {
+              "timestamp": "00:22:20",
+              "quote": "if we wanted inbound Wisconsin, same thing, shipping from Mount Juliet, Tennessee to Wisconsin."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were almost entirely demo-navigation rather than probing BM2's decision criteria, timeline, or what would justify a purchase, and the call closed on an open-ended one-week trial with a loose 'send it to Jay' handoff instead of a specific dated review meeting.",
+          "evidence": [
+            {
+              "timestamp": "00:23:36",
+              "quote": "it's going to be full access for the next week. So, you know, dig in as much as you can, find the good, the bad, the ugly."
+            },
+            {
+              "timestamp": "00:25:52",
+              "quote": "I'll just I'll send it to Jay. My email, phone number,"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending a trial kickoff, define the trial's success criteria and lock a specific dated review call \u2014 e.g., ask 'What would your team need to see this week to move forward, and can we hold Thursday the 26th to review what you found?'"
+    }
+  },
+  "buyers": {
+    "Tyler Kendall": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit own-words buying commitment",
+          "timestamp": "00:18:28",
+          "quote": "I'm sold. I'm ready. I like this."
+        },
+        {
+          "signal": "Buyer-owned next step expanding trial scope to a full team seat count",
+          "timestamp": "00:24:41",
+          "quote": "I had one person that wasn't able to make it today that wanted the trial, too. Would it be possible to uh give me seven?"
+        },
+        {
+          "signal": "Deep, substantive questions probing data provenance and refresh cadence",
+          "timestamp": "00:08:00",
+          "quote": "How frequently, if you don't mind me asking, does it update or do you guys update your system?"
+        },
+        {
+          "signal": "Strong positive reaction to the product's core value",
+          "timestamp": "00:11:56",
+          "quote": "pretty badass, better than anything I've ever written, right?"
+        }
+      ]
+    }
+  }
+}

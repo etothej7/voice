@@ -1,0 +1,143 @@
+{
+  "call": "team-chip-reeves-2026-05-19-09-59-edt",
+  "source": {
+    "recording": "Optimus team _ Chip Reeves - 2026_05_19 09_59 EDT - Recording.mp4",
+    "notes": "Optimus team _ Chip Reeves - 2026_05_19 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Chip Reeves": {
+      "words": 2684,
+      "questions": 23,
+      "speech_min": 11.2,
+      "loudness_mean": 1.093,
+      "loudness_cv": 0.645,
+      "f0_std_semitones": 8.12,
+      "pace_peaks_per_sec": 3.99,
+      "talk_share_pct": 58.1,
+      "arousal": 0.548,
+      "dominance": 0.573,
+      "valence": 0.506,
+      "arousal_thirds": [
+        0.555,
+        0.587,
+        0.52
+      ],
+      "seconds_analyzed": 181.0
+    },
+    "Max Riemer": {
+      "words": 1937,
+      "questions": 10,
+      "speech_min": 8.2,
+      "loudness_mean": 1.096,
+      "loudness_cv": 0.637,
+      "f0_std_semitones": 7.77,
+      "pace_peaks_per_sec": 3.87,
+      "talk_share_pct": 41.9,
+      "arousal": 0.568,
+      "dominance": 0.592,
+      "valence": 0.574,
+      "arousal_thirds": [
+        0.57,
+        0.553,
+        0.595
+      ],
+      "seconds_analyzed": 168.0
+    }
+  },
+  "call_summary": "This was a warm catch-up and partnership-exploration call between Max Riemer of Optimus (seller) and Chip Reeves of Enablers, an SDR-staffing operator focused on smaller brokerages (buyer). They traded updates on Optimus's new head of engineering and its beta 'Optimus GDM' CRM, discussed the competitive landscape (Zoom Info, Instantly, Motive), and explored two partnership threads: shipper data from Chip's tech-platform prospect and Optimus's AI SDR agents. Max demoed the CRM and they agreed to reconvene with Ed after Chip's clarification call with his prospect, loosely targeted for end of the week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was conversational and responsive, building on Chip's points in real time rather than reciting anything, and his acoustic profile sits well above his own baseline for arousal (+2.1) and valence (+2.7), indicating a genuinely engaged, upbeat call. He reacted to Chip's prospect and Hogan mention on the fly.",
+          "evidence": [
+            {
+              "timestamp": "00:12:54",
+              "quote": "I wonder if there'd be something there with like a partnership where like we know that this shipper and doing this. So like if you're good at this like reach out to them maybe like this is where"
+            },
+            {
+              "timestamp": "00:07:41",
+              "quote": "Yeah, I might need an intro over there."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus is a network-builder/CRM that surfaces which shippers to call, their lane matches and estimated freight spend without a TMS integration, including the broadly-asked-for contracted-vs-spot distinction. It was concrete but delivered loosely and never quantified the buyer's payoff.",
+          "evidence": [
+            {
+              "timestamp": "00:24:39",
+              "quote": "but basically it's it acts as like a network builder without a TMS integration. So if you search for a facility,"
+            },
+            {
+              "timestamp": "00:14:03",
+              "quote": "if you clicked into New Core, Costco, whatever, and you're able to differentiate between the contracted and spot lanes, that definitely be something."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the pitch to Chip's stated 'bread and butter' of smaller brokerages, positioning the product exactly there, and tied the shipper-data idea directly to Chip's specific tech-platform prospect. That directly maps to Chip's network and focus.",
+          "evidence": [
+            {
+              "timestamp": "00:26:05",
+              "quote": "And this is like more geared towards the smaller brokerages."
+            },
+            {
+              "timestamp": "00:26:05",
+              "quote": "we need to get this going for smaller brokerages because it's it's going to be a it's going to be a self-s serving."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked some clarifying questions but could not articulate the partnership structure himself and repeatedly deferred the substance to Ed, and the next step was left vague and undated ('end of the week') rather than booked. The core reason for the call never actually advanced.",
+          "evidence": [
+            {
+              "timestamp": "00:22:25",
+              "quote": "So that might just have to be us next time whenever Ed can get on."
+            },
+            {
+              "timestamp": "00:27:24",
+              "quote": "three of us could could re reconvene where Ed could clearly present what he was thinking"
+            },
+            {
+              "timestamp": "00:18:15",
+              "quote": "you're saying that this could be a lead gen tool for that company,"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Come to the next call able to present the specific partnership structure yourself instead of deferring to Ed, and close by booking a firm calendar date/time for the three-way call rather than leaving the next step as 'end of the week.'"
+    }
+  },
+  "buyers": {
+    "Chip Reeves": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Own-words openness to the AI-agent partnership, framed positively",
+          "timestamp": "00:23:34",
+          "quote": "So yeah, definitely open to it. would love to have that combo"
+        },
+        {
+          "signal": "Buyer-owned next step with a self-imposed timeframe",
+          "timestamp": "00:27:24",
+          "quote": "I'll catch back up with you guys and then I'll let you know how that combo goes uh towards the end of the week and we'll go from there."
+        },
+        {
+          "signal": "Volunteered a potential target/intro from his own network",
+          "timestamp": "00:07:41",
+          "quote": "they could be a good a good target since they're open-minded at the moment."
+        },
+        {
+          "signal": "Critical caveat that tempers enthusiasm on the data-partnership angle",
+          "timestamp": "00:12:54",
+          "quote": "one where it could get kind of cloudy is like their play."
+        }
+      ]
+    }
+  }
+}

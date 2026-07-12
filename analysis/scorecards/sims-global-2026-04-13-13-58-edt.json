@@ -1,0 +1,219 @@
+{
+  "call": "sims-global-2026-04-13-13-58-edt",
+  "source": {
+    "recording": "Optimus _ Sims Global - 2026_04_13 13_58 EDT - Recording.mp4",
+    "notes": "Optimus _ Sims Global - 2026_04_13 13_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Chase Bayuk": {
+      "words": 2084,
+      "questions": 10,
+      "speech_min": 9.2,
+      "loudness_mean": 0.73,
+      "loudness_cv": 0.691,
+      "f0_std_semitones": 7.88,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 40.7,
+      "arousal": 0.453,
+      "dominance": 0.523,
+      "valence": 0.547,
+      "arousal_thirds": [
+        0.491,
+        0.415,
+        0.443
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Ed Stockman": {
+      "words": 1631,
+      "questions": 13,
+      "speech_min": 6.9,
+      "loudness_mean": 0.745,
+      "loudness_cv": 0.687,
+      "f0_std_semitones": 7.46,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 31.8,
+      "arousal": 0.448,
+      "dominance": 0.505,
+      "valence": 0.507,
+      "arousal_thirds": [
+        0.449,
+        0.43,
+        0.451
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Max Riemer": {
+      "words": 1408,
+      "questions": 21,
+      "speech_min": 5.7,
+      "loudness_mean": 0.962,
+      "loudness_cv": 0.671,
+      "f0_std_semitones": 9.4,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 27.5,
+      "arousal": 0.48,
+      "dominance": 0.533,
+      "valence": 0.515,
+      "arousal_thirds": [
+        0.565,
+        0.447,
+        0.516
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "An intro/discovery call between Optimus (Ed Stockman, founder; Max Riemer, AE) and Chase Bayuk, a 1099 business-development rep at Sims Global, a $50-60M freight brokerage headquartered in Kansas City with an open-deck asset arm (Kodiak). After ~5 minutes of golf/geography rapport, Max demoed the platform against Chase's own Dallas-to-Chicago I-35 lane, Ed qualified Sims' structure and framed org pricing at a couple thousand dollars per month, and both positioned Optimus as a freight-specific, multi-source replacement for ZoomInfo. Chase was engaged and volunteered to route the tool to founder/decision-maker Ted Sims, but the next step was left undated and gated on Sims' existing ZoomInfo contract timing.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly responsive rather than scripted: when Chase asked about pricing, he deferred it to first understand Sims' business, then tailored the pricing conversation to what he learned. His vocal arousal ran ~2 SD below his own baseline (low-key), but per the sharp-questions test that tone alone is not a markdown.",
+          "evidence": [
+            {
+              "timestamp": "00:15:13",
+              "quote": "I'm just wondering a little bit more about um like the the firm in general. I don't I don't know too much about you guys. So like anything you could tell us about Sims would be great."
+            },
+            {
+              "timestamp": "00:22:01",
+              "quote": "And where's where's Sims topline gross?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed reduced the pitch to a crisp, concrete one-liner a neutral listener could repeat: Optimus bundles eight contact-data tools plus freight-specific logistics data. He also framed the buyer benefit around ICP and high-margin lanes.",
+          "evidence": [
+            {
+              "timestamp": "00:26:35",
+              "quote": "when you get Optimus, you're actually buying Zoom Info and Apollo and Clay and Seamless and like eight different tools"
+            },
+            {
+              "timestamp": "00:08:01",
+              "quote": "help you understand your ICP. What customers are high margin customers for you? What lanes are high margin lanes for you?"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed tailored the commercial pitch to Sims specifically, sizing pricing to their $50-60M revenue and targeting the account-management 'land-and-expand' motion that fits a brokerage with a large book of existing accounts.",
+          "evidence": [
+            {
+              "timestamp": "00:22:01",
+              "quote": "we're at a couple grand a month and we give access to all salespeople, all account managers"
+            },
+            {
+              "timestamp": "00:23:02",
+              "quote": "those land and expand type opportunities for the account managers are where we see some very quick wins"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed ran the sharpest qualification of the call, mapping Sims' structure, headcount, revenue, and operating model before pitching price. The concrete next step (a demo with Ted) was real but handed to Max and left undated.",
+          "evidence": [
+            {
+              "timestamp": "00:15:13",
+              "quote": "I don't know how it's structured, how many offices there are. Like are there a lot of 1099s? uh multiple offices, TMS, is it kind of cradle to grave model?"
+            },
+            {
+              "timestamp": "00:22:01",
+              "quote": "And where's where's Sims topline gross?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Anchor your pricing to a concrete ROI number the buyer can carry to Ted (e.g., 'reps typically recoup the ~$2K/month within one land-and-expand win worth $X margin') instead of the general 'it pays for itself.'"
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max drove an interactive, non-scripted demo, pulling the buyer in by having Chase pick the lane and repeatedly checking for reactions. His pitch variation (9.4 st) and above-baseline valence (z +1.1) match an animated, attentive delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:10:29",
+              "quote": "could you give me a an example of a lane you'd want to search if you had this tool in front of you?"
+            },
+            {
+              "timestamp": "00:15:13",
+              "quote": "Is there any, you know, initial questions, feedback, thoughts running through your head?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max articulated concrete, differentiated benefits (trading partners as warm intros; capacity-aligned outreach) rather than a generic feature tour. It was clear though not quantified with an ROI figure.",
+          "evidence": [
+            {
+              "timestamp": "00:11:41",
+              "quote": "Let's see who's shipping to them, who they're shipping to. You know, those are warm intros."
+            },
+            {
+              "timestamp": "00:12:47",
+              "quote": "we want to be able to craft very specific emails to these prospects that show your strengths and actually align with capacity that you can resell at a very competitive price"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the demo to Sims' actual network, filtering Chase's own Dallas-to-Chicago I-35 corridor and framing the output as homework that stops a shipping/procurement manager in their tracks.",
+          "evidence": [
+            {
+              "timestamp": "00:10:29",
+              "quote": "So, I filtered outbound Dallas to Chicago within 50 miles of each city."
+            },
+            {
+              "timestamp": "00:11:41",
+              "quote": "let's dial in something very specific that's going to get a shipping manager or, you know, procurement manager to stop in their tracks"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked many demo-driving questions but did most of his 'progression' at the very end, and the next step stayed soft: no booked date, contingent on Ted liking a video, and with the ZoomInfo contract left as an unresolved buyer-owned blocker.",
+          "evidence": [
+            {
+              "timestamp": "00:28:27",
+              "quote": "If he likes it, would love to do this again with him on too."
+            },
+            {
+              "timestamp": "00:28:27",
+              "quote": "if we can get Ted online sometime in the next week or two, you know, love to show him in person as"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Close the demo by proposing a specific day/time for the Ted meeting and offering to send a calendar invite now, rather than 'sometime in the next week or two,' so the follow-up doesn't stall in the buyer's inbox."
+    }
+  },
+  "buyers": {
+    "Chase Bayuk": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Volunteered a buyer-owned next step to his decision-maker, citing personal access",
+          "timestamp": "00:24:15",
+          "quote": "I have, you know, easy direct access to him to kind of ultimately he's the in decision maker, right?"
+        },
+        {
+          "signal": "Genuine, specific product praise on the differentiator vs. their current tool",
+          "timestamp": "00:25:32",
+          "quote": "I really like, you know, the targeted um aspect of what y'all have here. That's something that I don't see in Zoom Info."
+        },
+        {
+          "signal": "Raised a concrete gating objection that tempers near-term intent",
+          "timestamp": "00:26:35",
+          "quote": "I I think the biggest piece for us is I I need to figure out when our contract would be up with Zoom Info"
+        },
+        {
+          "signal": "Committed only loosely on timing, keeping the ball in his court",
+          "timestamp": "00:29:24",
+          "quote": "Yep. I'll uh I'll see what I can do"
+        }
+      ]
+    }
+  }
+}

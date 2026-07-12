@@ -1,0 +1,183 @@
+{
+  "call": "armstrong-2026-06-15-12-59-edt",
+  "source": {
+    "recording": "Optimus _ Armstrong  - 2026_06_15 12_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Armstrong  - 2026_06_15 12_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1725,
+      "questions": 13,
+      "speech_min": 6.4,
+      "loudness_mean": 1.103,
+      "loudness_cv": 0.618,
+      "f0_std_semitones": 9.51,
+      "pace_peaks_per_sec": 4.09,
+      "talk_share_pct": 48.5,
+      "arousal": 0.495,
+      "dominance": 0.543,
+      "valence": 0.5,
+      "arousal_thirds": [
+        0.501,
+        0.517,
+        0.458
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Omar Munoz": {
+      "words": 1356,
+      "questions": 22,
+      "speech_min": 4.7,
+      "loudness_mean": 0.846,
+      "loudness_cv": 0.637,
+      "f0_std_semitones": 7.79,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 38.2,
+      "arousal": 0.467,
+      "dominance": 0.514,
+      "valence": 0.494,
+      "arousal_thirds": [
+        0.486,
+        0.484,
+        0.428
+      ],
+      "seconds_analyzed": 178.0
+    },
+    "Ryan Phegley": {
+      "words": 473,
+      "questions": 9,
+      "speech_min": 1.5,
+      "loudness_mean": 0.843,
+      "loudness_cv": 0.714,
+      "f0_std_semitones": 6.77,
+      "pace_peaks_per_sec": 4.27,
+      "talk_share_pct": 13.3,
+      "arousal": 0.472,
+      "dominance": 0.524,
+      "valence": 0.524,
+      "arousal_thirds": [
+        null,
+        0.471,
+        0.474
+      ],
+      "seconds_analyzed": 114.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus demoed a transportation-specific sales-intelligence platform (real freight transaction data for warmer shipper outreach, plus a free internal CRM) to Omar Munoz and Ryan Phegley, who run an Armstrong franchise brokerage. The buyers were warm and negotiated Max down from a ~$1,500\u20132,000/mo unlimited enterprise license to a $250/user pilot for a small team. The call ended positively but softly: buyers agreed to a per-user pilot and asked about onboarding, yet committed only to 'circle back' with no dated next step locked in.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and adaptive throughout \u2014 he re-oriented the pitch when Ryan joined late and reshaped his pricing on the fly in response to the buyers' concerns, backed by pitch variation and valence above his own baseline (f0_std z=+0.9, valence z=+0.8).",
+          "evidence": [
+            {
+              "timestamp": "00:07:18",
+              "quote": "Um, Ryan, I'll just sort of backtrack a little bit. So, we we call ourselves like a data provider, a data company."
+            },
+            {
+              "timestamp": "00:16:22",
+              "quote": "the per user price from like the smaller brokerages on the selfs serve is 250 a user. So we could do that and just have any language and stuff like that about adding users"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "The core proposition is easy to restate in a sentence \u2014 real freight transaction data lets reps make warmer, better-targeted shipper calls \u2014 though the ROI claim was hand-wavy rather than quantified, and Max often let the buyers articulate the value back to each other.",
+          "evidence": [
+            {
+              "timestamp": "00:09:16",
+              "quote": "the way I like to explain it is like doing discovery without having to schedule a discovery call with a shipper."
+            },
+            {
+              "timestamp": "00:04:19",
+              "quote": "we just want to understand the flow of goods and relay that information to sales teams so they know who to call, why to call them, why they should call them, what the value proposition should be"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max did adapt to their situation (small team, franchise structure, per-user pricing, Omar as admin), but the actual product demo used a buyer-suggested generic lane rather than Armstrong's own freight, and the Highway integration pitch stayed hypothetical instead of tied to their real lanes or capacity.",
+          "evidence": [
+            {
+              "timestamp": "00:10:10",
+              "quote": "Yeah. Chicago to Atlanta, for example. This is an exact match."
+            },
+            {
+              "timestamp": "00:14:13",
+              "quote": "if Chicago to Atlanta is a hot lane for you, you know, we're going to push shippers that move that lane or that move the back haul of that lane to call on."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked strong early qualifying questions (team size, sales split, CRM/TMS, decision authority), but he failed to convert a warm call into a concrete commitment \u2014 he described an onboarding date process without ever proposing one, and let the buyers close with a vague 'circle back.'",
+          "evidence": [
+            {
+              "timestamp": "00:03:22",
+              "quote": "What um what CRM and TMS do y'all use?"
+            },
+            {
+              "timestamp": "00:19:58",
+              "quote": "Yeah, I'll shoot you an email. We have an order form and then we do a specific onboarding date just to make sure that it's all like for us and our like our accounting a go live date"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending a warm call, secure a dated next step \u2014 propose sending the order form today and pin a specific onboarding/go-live date instead of accepting 'we'll circle back.'"
+    }
+  },
+  "buyers": {
+    "Omar Munoz": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Actively advocated for the product, explaining its value back to his colleague",
+          "timestamp": "00:18:15",
+          "quote": "it's literally Zoom Info on more on a niche level for our transportation, which makes it really nice and easy to navigate."
+        },
+        {
+          "signal": "Moved toward late-stage logistics by asking how to get onboarded",
+          "timestamp": "00:19:58",
+          "quote": "When we decide we decide to proceed, how do we message you to get us on boarded or how does that work?"
+        },
+        {
+          "signal": "Deep data-quality question showing he pictured real usage",
+          "timestamp": "00:11:27",
+          "quote": "how often does it get updated? Like for example, I mean, people rotate out of this business left and right."
+        },
+        {
+          "signal": "Framed the pilot as a stepping stone to scaling, signaling intent to expand",
+          "timestamp": "00:18:15",
+          "quote": "It's a good way to start with a sample size and then keep growing from there. I mean, that's the idea."
+        }
+      ]
+    },
+    "Ryan Phegley": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Negotiated price down \u2014 a genuine buying signal \u2014 but scoped the deal small",
+          "timestamp": "00:15:30",
+          "quote": "Can you get the price down for less seats? Cuz I won't have that many people using it. Maybe maybe two."
+        },
+        {
+          "signal": "Stated a preference and comfort with the per-user option",
+          "timestamp": "00:16:22",
+          "quote": "I would prefer I mean that would be a lot more comfortable with with something like that if it was possible."
+        },
+        {
+          "signal": "Asked contract/billing-routing logistics, indicating he was picturing purchase mechanics",
+          "timestamp": "00:19:05",
+          "quote": "would we run this uh contract through you directly uh or would it go through Armstrong or how do you just set up?"
+        },
+        {
+          "signal": "Closed non-committally with no firm date or verbal yes",
+          "timestamp": "00:20:36",
+          "quote": "Appreciate the the demo and your time, and we'll uh we'll circle back to you."
+        }
+      ]
+    }
+  }
+}

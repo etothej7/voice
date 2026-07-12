@@ -1,0 +1,431 @@
+{
+  "call": "giltner-2026-06-10-13-00-edt",
+  "source": {
+    "recording": "Optimus _ Giltner - 2026_06_10 13_00 EDT - Recording.mp4",
+    "notes": "Optimus _ Giltner - 2026_06_10 13_00 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 2836,
+      "questions": 9,
+      "speech_min": 12.8,
+      "loudness_mean": 0.91,
+      "loudness_cv": 0.638,
+      "f0_std_semitones": 9.52,
+      "pace_peaks_per_sec": 4.25,
+      "talk_share_pct": 43.6,
+      "arousal": 0.482,
+      "dominance": 0.536,
+      "valence": 0.515,
+      "arousal_thirds": [
+        0.498,
+        0.471,
+        0.484
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Greg Paulson": {
+      "words": 1304,
+      "questions": 6,
+      "speech_min": 6.0,
+      "loudness_mean": 0.992,
+      "loudness_cv": 0.639,
+      "f0_std_semitones": 7.01,
+      "pace_peaks_per_sec": 3.88,
+      "talk_share_pct": 20.0,
+      "arousal": 0.454,
+      "dominance": 0.516,
+      "valence": 0.56,
+      "arousal_thirds": [
+        0.446,
+        0.469,
+        0.434
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Max Riemer": {
+      "words": 1043,
+      "questions": 10,
+      "speech_min": 4.0,
+      "loudness_mean": 1.095,
+      "loudness_cv": 0.604,
+      "f0_std_semitones": 9.61,
+      "pace_peaks_per_sec": 4.19,
+      "talk_share_pct": 16.0,
+      "arousal": 0.486,
+      "dominance": 0.548,
+      "valence": 0.503,
+      "arousal_thirds": [
+        0.481,
+        0.495,
+        0.558
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Megan Loveday": {
+      "words": 140,
+      "questions": 1,
+      "speech_min": 0.5,
+      "loudness_mean": 0.607,
+      "loudness_cv": 0.614,
+      "f0_std_semitones": 6.03,
+      "pace_peaks_per_sec": 5.21,
+      "talk_share_pct": 2.2,
+      "arousal": 0.453,
+      "dominance": 0.493,
+      "valence": 0.407,
+      "arousal_thirds": [
+        null,
+        0.453,
+        null
+      ],
+      "seconds_analyzed": 49.0
+    },
+    "Michelle Baughman": {
+      "words": 315,
+      "questions": 3,
+      "speech_min": 1.3,
+      "loudness_mean": 0.875,
+      "loudness_cv": 0.649,
+      "f0_std_semitones": 5.36,
+      "pace_peaks_per_sec": 4.02,
+      "talk_share_pct": 4.8,
+      "arousal": 0.512,
+      "dominance": 0.558,
+      "valence": 0.509,
+      "arousal_thirds": [
+        0.568,
+        null,
+        0.475
+      ],
+      "seconds_analyzed": 107.0
+    },
+    "Robert Grimm": {
+      "words": 33,
+      "questions": 0,
+      "speech_min": 0.2,
+      "loudness_mean": 0.942,
+      "loudness_cv": 0.683,
+      "f0_std_semitones": 6.01,
+      "pace_peaks_per_sec": 3.81,
+      "talk_share_pct": 0.5,
+      "arousal": 0.399,
+      "dominance": 0.457,
+      "valence": 0.354,
+      "arousal_thirds": [
+        0.399,
+        null,
+        null
+      ],
+      "seconds_analyzed": 18.0
+    },
+    "Scott Thompson": {
+      "words": 302,
+      "questions": 7,
+      "speech_min": 1.0,
+      "loudness_mean": 0.852,
+      "loudness_cv": 0.685,
+      "f0_std_semitones": 8.4,
+      "pace_peaks_per_sec": 3.99,
+      "talk_share_pct": 4.6,
+      "arousal": 0.474,
+      "dominance": 0.532,
+      "valence": 0.478,
+      "arousal_thirds": [
+        0.474,
+        null,
+        null
+      ],
+      "seconds_analyzed": 96.0
+    },
+    "Todd Baughman": {
+      "words": 534,
+      "questions": 3,
+      "speech_min": 2.0,
+      "loudness_mean": 0.884,
+      "loudness_cv": 0.69,
+      "f0_std_semitones": 9.01,
+      "pace_peaks_per_sec": 4.58,
+      "talk_share_pct": 8.2,
+      "arousal": 0.454,
+      "dominance": 0.524,
+      "valence": 0.512,
+      "arousal_thirds": [
+        0.44,
+        0.425,
+        0.498
+      ],
+      "seconds_analyzed": 167.0
+    }
+  },
+  "call_summary": "This was a second demo of Optimus\u2014a freight-specific lead-gen and procurement platform\u2014to Giltner's brokerage and corporate team, positioned as a potential replacement for ZoomInfo and eventually Salesforce. Max Riemer ran a live demo of lane data, ICP-based shipper lists, and CRM task-push while Ed Stockman handled strategy, pricing (unlimited seats at roughly ZoomInfo parity, free CRM), and data-partnership vision; buyers probed data accuracy (Ryder/4PL attribution), parent-child company mapping, and compliance/office-code fit. The call generated strong conceptual interest but ended without a dated commitment, leaving open threads: a trial, a factoring follow-up, sharing the recording with another office lead (Chris), and Ed investigating Ryder attribution.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed listened and reacted to what buyers actually said\u2014turning Greg's process description into a genuine discovery question and directly working Megan's and Todd's edge cases rather than reciting a script; his pitch variation (9.52 st, z=1.6) and pace (z=1.7) ran well above his own baseline, consistent with an engaged, non-canned delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:21:03",
+              "quote": "well before I mention what I think I'm curious to understand the logic with the volume information are you chasing or are you looking for one specific size shipper?"
+            },
+            {
+              "timestamp": "00:24:46",
+              "quote": "that was a great pitch just now. Like everything you just mentioned was was very much what our platform is intended to do"
+            },
+            {
+              "timestamp": "00:18:33",
+              "quote": "anything that anything that Ryder acts as a 4PL or managed trans division on shows up as the shipper"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus gives Giltner real-transaction freight/lane data plus unlimited seats and a free CRM at roughly the same price they pay ZoomInfo, so more people get more actionable data for the same spend.",
+          "evidence": [
+            {
+              "timestamp": "00:31:28",
+              "quote": "One is we give unlimited seats. We don't want to nickel and dime seats."
+            },
+            {
+              "timestamp": "00:31:28",
+              "quote": "it's more seats and it's better transportation data that ultimately, you know, leads to results, not just an email address"
+            },
+            {
+              "timestamp": "00:37:22",
+              "quote": "we'll charge for the data, we'll charge for the shipper intelligence, but uh here are all the other tools to help you go and land more customers"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed tailored throughout\u2014opening on Giltner's specific brokerage-plus-factoring structure, working their exact Ryder/4PL attribution problem, and adapting to their agency office-code and Salesforce setup rather than pitching generically.",
+          "evidence": [
+            {
+              "timestamp": "00:02:18",
+              "quote": "when we found out you guys had a um a sizable brokerage as well as a factoring arm, we were intrigued in multiple different ways we could partner here"
+            },
+            {
+              "timestamp": "00:21:03",
+              "quote": "I will do uh a little investigation there and report back cuz I'm curious"
+            },
+            {
+              "timestamp": "00:36:23",
+              "quote": "if and when the time comes to talk Salesforce and what exactly you would need in here to be able to effectively migrate, happy to have that conversation too"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked one sharp discovery question but otherwise leaned into telling (43.6% talk share), and the call closed on soft, undated threads (\"report back,\" \"at some point\") with no trial start date or scheduled follow-up locked despite high buyer interest.",
+          "evidence": [
+            {
+              "timestamp": "00:21:03",
+              "quote": "are you backing into an ICP or why why do you lead with volume?"
+            },
+            {
+              "timestamp": "00:29:18",
+              "quote": "I would like to visit with you about factoring at some point. It's on my radar to follow up with you about that. I just haven't been able to get the time."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, convert interest into a concrete dated commitment\u2014propose a specific trial start date with named reps (Robert and Scott) and put a follow-up review meeting on the calendar, instead of leaving next steps as 'report back' and 'at some point.'"
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was highly responsive\u2014fielding Scott's rapid feature questions, running buyers' own lanes live on request, and recalling who had attended the prior call; his arousal built across the call ([0.481, 0.495, 0.558]) and pitch variation (9.61 st) reflect an attentive, adaptive demo rather than a fixed script.",
+          "evidence": [
+            {
+              "timestamp": "00:08:20",
+              "quote": "So, is there like a specific lane you have in mind or like outbound origin point?"
+            },
+            {
+              "timestamp": "00:10:31",
+              "quote": "How about Miami to Houston?"
+            },
+            {
+              "timestamp": "00:07:13",
+              "quote": "Michelle and Greg were here last time."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max made the differentiator concrete: the lane data comes from real, verifiable freight transactions rather than scraped sources, which combined with decision-maker contacts makes it a better fit than ZoomInfo for a freight team.",
+          "evidence": [
+            {
+              "timestamp": "00:06:05",
+              "quote": "none of it's scraped. There's a ton of different partners and sources that we use... we see real transactions, real BS, invoices, paperwork drivers have to turn in to prove a delivery"
+            },
+            {
+              "timestamp": "00:15:18",
+              "quote": "just on top of the contacts of decision makers with the lane data, we just think that we're a better tool for the industry"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max grounded the demo in Giltner's world\u2014confirming their Salesforce CRM, running their specific refrigerated lanes (Sumner WA, Miami\u2013Houston), and referencing a comparable enterprise-brokerage use case for pushing tasks into Salesforce.",
+          "evidence": [
+            {
+              "timestamp": "00:07:13",
+              "quote": "something else we're working on with another enterprise brokerage is a big thing for them was how they could see like transportation data outside of Optimus"
+            },
+            {
+              "timestamp": "00:09:22",
+              "quote": "So then you can filter on the left and say I want refer out of Sar Washington with a specific radius"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max did propose the right next step\u2014a three-day trial for the reps\u2014but let it drift to \"something we want to think about\" without naming a start date, participants, or a check-in, so the advance never converted into a commitment.",
+          "evidence": [
+            {
+              "timestamp": "00:12:05",
+              "quote": "We have like a three-day trial with some credits, get it in their hands for like a few days, see if we can get some wins. Is that something y'all want to dig into?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "When you offer the trial, close it on the call\u2014name the reps who'll test it, set a specific start date and the credits/scope, and book a short review afterward, rather than accepting 'we'll think about it.'"
+    }
+  },
+  "buyers": {
+    "Greg Paulson": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Buyer-owned next step to champion the tool to another key office lead",
+          "timestamp": "00:29:18",
+          "quote": "when I get a hold of Chris and figure out what you know what he's got going on, I think it'll be fun to show this to him as well"
+        },
+        {
+          "signal": "Proactively raised a second, buyer-owned follow-up thread (factoring)",
+          "timestamp": "00:29:18",
+          "quote": "I would like to visit with you about factoring at some point. It's on my radar to follow up with you about that."
+        },
+        {
+          "signal": "Strong own-words statement of long-term value",
+          "timestamp": "00:38:35",
+          "quote": "in the long run, oh my goodness, the value we could accomplish by getting rid of Salesforce and Zoom Info"
+        },
+        {
+          "signal": "Cost/commitment hedge tempering the interest",
+          "timestamp": "00:12:05",
+          "quote": "you can go broke buying cool new things, but we're looking at this as an alternative to Zoom Info possibly"
+        }
+      ]
+    },
+    "Todd Baughman": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Articulated the buying rationale himself\u2014positioning Optimus as the ZoomInfo replacement",
+          "timestamp": "00:13:10",
+          "quote": "that's what really struck us for this as an opportunity to replace Zoom Info because Zoom Info's information is very commoditized"
+        },
+        {
+          "signal": "Identified a concrete, quantified benefit (Salesforce seat reduction)",
+          "timestamp": "00:36:23",
+          "quote": "It drastically lower our cost in Salesforce because our user count would drop"
+        },
+        {
+          "signal": "Deep implementation-level engagement and willingness to invest dev effort",
+          "timestamp": "00:34:33",
+          "quote": "We could do whatever you need. We could build, we could set up an API, we could push data"
+        },
+        {
+          "signal": "Probed a specific feature requirement they rely on today",
+          "timestamp": "00:15:18",
+          "quote": "Do you guys have the company structure for multi- entity companies... the parent child sister relationships"
+        }
+      ]
+    },
+    "Michelle Baughman": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Shared procurement timing details, signaling real buying-process consideration",
+          "timestamp": "00:30:17",
+          "quote": "we're under contract with them until August of 27. Our non our nonrenewal notice date is July of 27"
+        },
+        {
+          "signal": "Explicit cost objection",
+          "timestamp": "00:30:17",
+          "quote": "I'm not sure that the plan is to double what we're spending over the next year"
+        },
+        {
+          "signal": "Evaluated fit against their agency office-code ownership model",
+          "timestamp": "00:32:28",
+          "quote": "is there a way for us to notate like, hey, Walmart is an active customer for office code 00 or whatever the case may be because we are agency based"
+        }
+      ]
+    },
+    "Scott Thompson": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "High question depth on how the tool fits his prospecting workflow",
+          "timestamp": "00:08:20",
+          "quote": "is there a way for me to search one of their lanes? Like Aldi's not based in Washington, but maybe they have a Washington lane that I wanted to run"
+        },
+        {
+          "signal": "Probed data reliability (time window behind the volume)",
+          "timestamp": "00:06:05",
+          "quote": "What's the time frame for that volume?"
+        },
+        {
+          "signal": "Own-words enthusiasm once the feature matched his need",
+          "timestamp": "00:09:22",
+          "quote": "So then you can filter on the left and say I want refer out of Sar Washington with a specific radius. That's awesome."
+        }
+      ]
+    },
+    "Megan Loveday": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Probing question testing data accuracy against a real Giltner pain point",
+          "timestamp": "00:18:33",
+          "quote": "we could get an RFP from Ryder and we won't know who the actual shipper is until we actually like dig into it. But like would you be able to see that a little bit more clearly"
+        },
+        {
+          "signal": "Actively stress-tested the platform with her own live example",
+          "timestamp": "00:21:03",
+          "quote": "I was just looking at Michael bucket that is technically for writers"
+        }
+      ]
+    },
+    "Scott Thompson_note": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Self-described as an active, engaged participant in the demo",
+          "timestamp": "00:08:20",
+          "quote": "You'll notice that I'm the person that doesn't sit quietly, unfortunately."
+        }
+      ]
+    },
+    "Robert Grimm": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Minimal, passive participation limited to the lane example",
+          "timestamp": "00:10:31",
+          "quote": "I mean I would think as far as names go Dallas or Houston might, you know, is a much larger lane that also"
+        },
+        {
+          "signal": "Brief agreement with no ownership, questions, or commitments (0 questions, 0.5% talk share)",
+          "timestamp": "00:10:31",
+          "quote": "Yeah. So, bigger names, bigger volumes."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "call": "allen-lund-2026-04-14-13-59-edt",
+  "source": {
+    "recording": "Optimus _ Allen Lund  - 2026_04_14 13_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Allen Lund  - 2026_04_14 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1695,
+      "questions": 15,
+      "speech_min": 5.6,
+      "loudness_mean": 1.012,
+      "loudness_cv": 0.687,
+      "f0_std_semitones": 6.9,
+      "pace_peaks_per_sec": 4.03,
+      "talk_share_pct": 36.9,
+      "arousal": 0.556,
+      "dominance": 0.584,
+      "valence": 0.486,
+      "arousal_thirds": [
+        0.533,
+        0.57,
+        0.551
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Ryan Stephenson": {
+      "words": 2899,
+      "questions": 22,
+      "speech_min": 10.5,
+      "loudness_mean": 0.971,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 6.27,
+      "pace_peaks_per_sec": 3.89,
+      "talk_share_pct": 63.1,
+      "arousal": 0.536,
+      "dominance": 0.564,
+      "valence": 0.51,
+      "arousal_thirds": [
+        0.526,
+        0.586,
+        0.493
+      ],
+      "seconds_analyzed": 179.0
+    }
+  },
+  "call_summary": "An expansion-stage call between Optimus (Max Riemer) and Allen Lund (Ryan Stephenson), a decentralized ~40-office freight brokerage, set against a fast, supply-driven 20% rate spike. The buyer is warm and drove most of the deal architecture, converging on a year-long contract at $7,500/month for unlimited seats with a 60-day paid exit clause to prove the concept network-wide. Remaining gates are a competitor (Gem Logs) price check, legal review, and internal EVP approval, with a possible TIA-conference meeting to follow.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly listening and responded to the buyer's actual points rather than reciting a script\u2014he fielded the tough 'how do you know who routes it' objection candidly and shaped his answer around Ryan's proof-of-concept need; acoustically his arousal ran 1.8 SD above his own baseline, indicating genuine engagement despite a lower-key pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:05:30",
+              "quote": "We make guesses."
+            },
+            {
+              "timestamp": "00:11:18",
+              "quote": "So we're able to meet with every location whether that's online, in person, you know, show them how it works, coach them up, 60 days on the platform, build the integrations uh for the CRM"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated a crisp, quantified reason to buy\u2014he leaned on feature/roadmap talk (satellite imaging, EL tracking, new engineering hire) and let the buyer supply the actual value claim ('your data is good and quality') rather than making the ROI case himself.",
+          "evidence": [
+            {
+              "timestamp": "00:06:22",
+              "quote": "he is satellite imaging, EL tracking, finding out how he can track the flow of goods throughout the whole country the most accurate way possible"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to Allen Lund's decentralized 40-office structure and internal constraints\u2014Max engaged their per-office pricing math and stripped the TMS integration from the quote in direct response to their reluctance to share load data.",
+          "evidence": [
+            {
+              "timestamp": "00:13:05",
+              "quote": "let's just say theoretically 20 offices signed up, 375 an office"
+            },
+            {
+              "timestamp": "00:21:23",
+              "quote": "I'm going to delete this TMS integration all that for now."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max advanced to a concrete deliverable (a revised proposal with a 60-day exit clause), but he did most of the follow-up questioning on logistics and never locked a specific date or scheduled follow-up, leaving the timeline open on a deal that was ready to close.",
+          "evidence": [
+            {
+              "timestamp": "00:22:22",
+              "quote": "I'll have a new proposal sent over after I talk to Ed"
+            },
+            {
+              "timestamp": "00:23:19",
+              "quote": "I'll give him a call right after this and I'll be in touch"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Make the ROI case yourself with a concrete number\u2014e.g., dollars or margin gained per lane from better data\u2014instead of relying on the buyer to affirm your data quality for you."
+    }
+  },
+  "buyers": {
+    "Ryan Stephenson": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit own-words commitment to sponsor the purchase internally",
+          "timestamp": "00:14:48",
+          "quote": "I'll go to the executive team, say, I think there's value in this. It is worth spending $15,000. and I'll put my stamp on it"
+        },
+        {
+          "signal": "Buyer-owned next step (routing the contract to legal)",
+          "timestamp": "00:22:22",
+          "quote": "I'm gonna I'm gonna push whatever you sending me up to our lawyer to look it over"
+        },
+        {
+          "signal": "Affirmed the product's value unprompted",
+          "timestamp": "00:05:30",
+          "quote": "you've far and beyond convinced me that your data is good and quality"
+        },
+        {
+          "signal": "Open objection/gating item\u2014still comparing a competitor's pricing before committing",
+          "timestamp": "00:07:20",
+          "quote": "I just need to see what that other pricing looks like"
+        }
+      ]
+    }
+  }
+}

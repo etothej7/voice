@@ -1,0 +1,215 @@
+{
+  "call": "al-hwy-partnership-details-2026-06-02-13-59-edt",
+  "source": {
+    "recording": "Optimus _ AL (HWY partnership details)  - 2026_06_02 13_59 EDT - Recording.mp4",
+    "notes": "Optimus _ AL (HWY partnership details)  - 2026_06_02 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 2819,
+      "questions": 23,
+      "speech_min": 11.8,
+      "loudness_mean": 0.925,
+      "loudness_cv": 0.687,
+      "f0_std_semitones": 8.95,
+      "pace_peaks_per_sec": 4.03,
+      "talk_share_pct": 50.8,
+      "arousal": 0.548,
+      "dominance": 0.582,
+      "valence": 0.438,
+      "arousal_thirds": [
+        0.536,
+        0.58,
+        0.51
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Max Riemer": {
+      "words": 1085,
+      "questions": 11,
+      "speech_min": 4.5,
+      "loudness_mean": 0.936,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 9.81,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 19.6,
+      "arousal": 0.523,
+      "dominance": 0.529,
+      "valence": 0.454,
+      "arousal_thirds": [
+        0.516,
+        0.546,
+        0.535
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Ryan Stephenson": {
+      "words": 1640,
+      "questions": 12,
+      "speech_min": 6.7,
+      "loudness_mean": 0.991,
+      "loudness_cv": 0.702,
+      "f0_std_semitones": 9.24,
+      "pace_peaks_per_sec": 3.82,
+      "talk_share_pct": 29.6,
+      "arousal": 0.531,
+      "dominance": 0.564,
+      "valence": 0.494,
+      "arousal_thirds": [
+        0.558,
+        0.539,
+        0.524
+      ],
+      "seconds_analyzed": 169.0
+    }
+  },
+  "call_summary": "Optimus reps Ed Stockman and Max Riemer met Allen Lund's Ryan Stephenson to move a near-final contract forward and explain their Highway factoring-API partnership, shipper-intelligence data, and a free freight-specific CRM add-on. Ed carried the pitch, tailoring the data/lead-gen value to Allen Lund's Highway usage and pushing to sign for a scarce July onboarding slot, while Ryan voiced genuine interest in the unique shipper data but deferred go-live citing international travel and an operationally overloaded sales team. The last redline (the 11A 60-day auto-renewal clause) was nearly resolved, with Max owning the revision and follow-up while Ryan committed to re-securing internal approval and looping in his CIO and pricing director.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed sounded prepared and consistently responsive, relating his factoring explanation to how Allen Lund actually verifies carriers and directly clearing up Ryan's Transfix/Triumph confusion rather than reciting a script; his provisional acoustic baseline is not held against him.",
+          "evidence": [
+            {
+              "timestamp": "00:16:11",
+              "quote": "So you guys probably have all kinds of different ways of dealing with the factoring companies when they need to verify that a carrier hauled the load for you. And some of those are manual."
+            },
+            {
+              "timestamp": "00:29:02",
+              "quote": "Uh Transfix was a Convoy competitor."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed articulated a concrete reason to care \u2014 warm, personalized leads from a broker's own Highway customers and lanes with no TMS integration, plus a free CRM whose value is the embedded data \u2014 and the buyer restated it back unprompted, confirming it landed.",
+          "evidence": [
+            {
+              "timestamp": "00:18:11",
+              "quote": "it allows us to essentially flip on any highway customer to see their customers, see the lanes that they're already moving, and start understanding their ICP to feed them personalized recommendations without any proprietary TMS integration"
+            },
+            {
+              "timestamp": "00:23:37",
+              "quote": "we'll give you the free CRM because that's a commodity, but with the data combined into the CRM, that's that's the power play"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tightly tailored to Allen Lund \u2014 Ed built on their being 'full on Highway,' probed their specific Highway rep relationship, and offered a Transfix pricing integration aimed squarely at Ryan's stated move away from decentralized pricing.",
+          "evidence": [
+            {
+              "timestamp": "00:12:31",
+              "quote": "who's your sales rep? Who do you deal with?"
+            },
+            {
+              "timestamp": "00:29:02",
+              "quote": "Well, I can introduce another solution there as well that will more than likely be flowing through Optimus to get quotes and uh we are going to partner with Transfix."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked the sharp qualifying question about whether the deal was on hold and tied signature to a concrete July onboarding slot with a scarcity mechanism, though he left the room before locking a firm dated commitment from Ryan.",
+          "evidence": [
+            {
+              "timestamp": "00:32:40",
+              "quote": "Are you is are you guys putting the contract on hold until we figure this out or are we still moving forward with the 60-day out component?"
+            },
+            {
+              "timestamp": "00:33:40",
+              "quote": "so that's why the signature is at least important to go ahead and make sure that you have an onboarding date locked in"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before jumping off the call, close the loop yourself \u2014 get Ryan to name a specific sign-by or go-live date tied to the July 6 onboarding scarcity you raised, instead of ending with 'tell me where to be' and handing the contract close to Max."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "In the contract wrap-up Max was attentive and responsive, working through Ryan's 11A auto-renewal confusion in real time and committing to next steps; his acoustics also ran more animated than his own 13-call baseline (pitch +1.4 SD).",
+          "evidence": [
+            {
+              "timestamp": "00:36:18",
+              "quote": "That shouldn't be an issue. I'll check with Ed this afternoon."
+            },
+            {
+              "timestamp": "00:40:46",
+              "quote": "Well, I'll get this looked at and uh updated. Shoot you an update on this."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "When Ryan directly asked what Optimus is doing on pricing with Transfix, Max could not articulate the value and deferred to Ed, leaving the prospect with a vague, non-concrete answer.",
+          "evidence": [
+            {
+              "timestamp": "00:39:42",
+              "quote": "I'm sure that would just be stuff relative to pricing, RFPs, and quotes, just things like that."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's substantive airtime was contract logistics; he deferred all tailored product and pricing discussion to Ed and never connected Optimus to Allen Lund's freight network, lanes, or Ryan's shipper-facing role in his own words.",
+          "evidence": [
+            {
+              "timestamp": "00:39:42",
+              "quote": "That would just be which Ed hasn't really"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked a productive tool-landscape question and, after Ed left, drove the deal toward a concrete next step \u2014 revise 11A, send for signature, and reconnect around Ryan's travel dates.",
+          "evidence": [
+            {
+              "timestamp": "00:22:20",
+              "quote": "Were y'all looking at sales dash?"
+            },
+            {
+              "timestamp": "00:40:46",
+              "quote": "And what date do you you're out next week?"
+            },
+            {
+              "timestamp": "00:40:46",
+              "quote": "we'll get something for when you get back"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Learn the core shipper-intelligence and Transfix/pricing value stories well enough to answer buyer questions directly, so when Ed is off the call you can carry the pitch instead of deferring with 'Ed hasn't really...'."
+    }
+  },
+  "buyers": {
+    "Ryan Stephenson": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Restated the unique value in his own words, distinguishing Optimus's data from things he could build himself (strong buying signal)",
+          "timestamp": "00:25:39",
+          "quote": "what you have is something we can't we can't build ourselves. is the shipper data that factoring database"
+        },
+        {
+          "signal": "Buyer-owned next step: proposed convening his CIO and director of pricing later this month to bring the deal together",
+          "timestamp": "00:31:16",
+          "quote": "what I might try to do is schedule something for the latter two weeks of this month with Matt Blackedger, your director of pricing, our CIO"
+        },
+        {
+          "signal": "Committed to internal championing to try to sign or set a go-live date before travel",
+          "timestamp": "00:39:42",
+          "quote": "I'll go up the flag pole and see if we can't hit this go live date or sign to get that go live date before I leave"
+        },
+        {
+          "signal": "Timing/bandwidth objection and repeated foot-dragging on go-live, tempering the interest",
+          "timestamp": "00:34:27",
+          "quote": "I don't want to sign go live and then not have not have the bandwidth to actually use the tool and find the ROI"
+        }
+      ]
+    }
+  }
+}

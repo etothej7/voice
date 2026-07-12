@@ -1,0 +1,155 @@
+{
+  "call": "freight-buffalo-2026-05-12-16-23-edt",
+  "source": {
+    "recording": "Optimus _ Freight Buffalo - 2026_05_12 16_23 EDT - Recording.mp4",
+    "notes": "Optimus _ Freight Buffalo - 2026_05_12 16_23 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1327,
+      "questions": 16,
+      "speech_min": 5.0,
+      "loudness_mean": 0.89,
+      "loudness_cv": 0.759,
+      "f0_std_semitones": 8.69,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 55.0,
+      "arousal": 0.471,
+      "dominance": 0.508,
+      "valence": 0.457,
+      "arousal_thirds": [
+        0.463,
+        0.471,
+        0.487
+      ],
+      "seconds_analyzed": 180.0
+    },
+    "Mike Mcmahon": {
+      "words": 1087,
+      "questions": 13,
+      "speech_min": 3.9,
+      "loudness_mean": 0.917,
+      "loudness_cv": 0.738,
+      "f0_std_semitones": 8.52,
+      "pace_peaks_per_sec": 3.91,
+      "talk_share_pct": 45.0,
+      "arousal": 0.489,
+      "dominance": 0.534,
+      "valence": 0.48,
+      "arousal_thirds": [
+        0.47,
+        0.45,
+        0.517
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "Optimus/Freight Buffalo rep Max Riemer pitched a three-person freight brokerage agency (Mike Mcmahon of One Logistics Network) on the platform as a ZoomInfo alternative for contacts, phone numbers, and lane data. Max walked through the new per-user pricing ($175/user, ~$525/mo vs. the $750 enterprise tier), demoed six-source real-time contact enrichment and lane maps, and ran a live National Beef lookup at Mike's request. Mike was highly enthusiastic and effectively closed himself; agreed next steps are Max sending contracts and Mike emailing Jared for test-shipper data ahead of the June 1 onboarding cohort.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive rather than scripted, picking up on the buyer's cues (cradle-to-grave workflow, small-agency status) and answering each question directly; acoustic signal shows healthy pitch variation (8.69 st) and steady arousal, only mildly below his own baseline.",
+          "evidence": [
+            {
+              "timestamp": "00:05:14",
+              "quote": "I'm guessing it's it's cradle to grave, right?"
+            },
+            {
+              "timestamp": "00:05:14",
+              "quote": "that's what I was for two years prior to this. So, I know I know what it's like."
+            },
+            {
+              "timestamp": "00:08:35",
+              "quote": "factoring companies for the most part."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: cheaper per-user data than the enterprise tier, more/better contacts than ZoomInfo from six real-time-enriched sources plus lane visibility, backed by a concrete customer proof point.",
+          "evidence": [
+            {
+              "timestamp": "00:06:18",
+              "quote": "a team of three at 175 a user is 525 a month. And it's the same platform, same UI, same data."
+            },
+            {
+              "timestamp": "00:07:24",
+              "quote": "we believe that we provide more data than Zoom Info or have better contacts because we source from six different um guys. So, Seamless, WhizA"
+            },
+            {
+              "timestamp": "00:15:00",
+              "quote": "he moved 14 shipments with them the first like two weeks"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to this specific buyer: he framed the per-user pricing around their three-person small-agency setup, connected on their cradle-to-grave workflow, and offered to test data against the buyer's own shippers, running a live lookup on the prospect Mike named.",
+          "evidence": [
+            {
+              "timestamp": "00:06:18",
+              "quote": "I just like to get this out of the blue with the with the smaller brokerages to sort of get"
+            },
+            {
+              "timestamp": "00:10:39",
+              "quote": "what we like to do is sort of on this call or another call run through prospects or shippers you know well to sort of test the data"
+            },
+            {
+              "timestamp": "00:11:33",
+              "quote": "do uh do national beef."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked strong qualifying questions up front (agency status, team tenure, workflow), but with a buyer who explicitly wanted to start immediately he let the prospect drive the close and routed the first action to a colleague (Jared) without locking a signing or follow-up date beyond the June 1 cohort.",
+          "evidence": [
+            {
+              "timestamp": "00:04:13",
+              "quote": "Three sales guys. Are y'all like an agency"
+            },
+            {
+              "timestamp": "00:15:56",
+              "quote": "email Jared at get Optimus AI and uh he'll uh he'll shoot you over some info on three three shippers if you have some hot leads."
+            },
+            {
+              "timestamp": "00:13:51",
+              "quote": "our next onboarding cohort's going to be June 1st."
+            }
+          ]
+        }
+      },
+      "coaching_action": "When a buyer signals they want to move now, personally own each next step and lock a specific signing/follow-up date on the call instead of handing the immediate action off to a colleague."
+    }
+  },
+  "buyers": {
+    "Mike Mcmahon": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit in-his-own-words statement that the product fits his need",
+          "timestamp": "00:10:39",
+          "quote": "Max, I This is kind of like exactly what I'm looking for."
+        },
+        {
+          "signal": "Expressed urgency to get started quickly",
+          "timestamp": "00:11:33",
+          "quote": "I'd like to kind of get this going as soon as we can."
+        },
+        {
+          "signal": "Buyer-owned commitment to move forward and request for contracts",
+          "timestamp": "00:15:00",
+          "quote": "Send me um send me both contracts. I'm probably going to do the uh the cheaper one, you know, but let's get going."
+        },
+        {
+          "signal": "Stated intent to sign and begin using immediately",
+          "timestamp": "00:15:56",
+          "quote": "as soon as I sign the paper, let me start using the test link just to like get some s*** going."
+        }
+      ]
+    }
+  }
+}

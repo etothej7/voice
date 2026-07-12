@@ -1,0 +1,194 @@
+{
+  "call": "matthew-harrison-and-max-riemer-2026-04-28-14-30-edt",
+  "source": {
+    "recording": "Matthew Harrison and Max Riemer - 2026_04_28 14_30 EDT - Recording.mp4",
+    "notes": "Matthew Harrison and Max Riemer - 2026_04_28 14_30 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Energy Logistics Management": {
+      "words": 467,
+      "questions": 7,
+      "speech_min": 2.1,
+      "loudness_mean": 1.088,
+      "loudness_cv": 0.665,
+      "f0_std_semitones": 8.86,
+      "pace_peaks_per_sec": 4.01,
+      "talk_share_pct": 10.3,
+      "arousal": 0.569,
+      "dominance": 0.565,
+      "valence": 0.499,
+      "arousal_thirds": [
+        0.585,
+        null,
+        0.4
+      ],
+      "seconds_analyzed": 176.0
+    },
+    "MATTHEW HARRISON": {
+      "words": 1818,
+      "questions": 5,
+      "speech_min": 6.8,
+      "loudness_mean": 1.089,
+      "loudness_cv": 0.659,
+      "f0_std_semitones": 9.28,
+      "pace_peaks_per_sec": 4.08,
+      "talk_share_pct": 40.3,
+      "arousal": 0.515,
+      "dominance": 0.567,
+      "valence": 0.484,
+      "arousal_thirds": [
+        null,
+        0.519,
+        0.51
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Max Riemer": {
+      "words": 2228,
+      "questions": 12,
+      "speech_min": 8.7,
+      "loudness_mean": 1.108,
+      "loudness_cv": 0.636,
+      "f0_std_semitones": 9.44,
+      "pace_peaks_per_sec": 4.18,
+      "talk_share_pct": 49.4,
+      "arousal": 0.488,
+      "dominance": 0.539,
+      "valence": 0.437,
+      "arousal_thirds": [
+        null,
+        0.47,
+        0.507
+      ],
+      "seconds_analyzed": 174.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) ran a discovery-and-demo call with Matthew Harrison and his colleague Johnny of Energy Logistics Management, a ~20-person non-asset freight brokerage that dropped ZoomInfo over poor response rates and inflexible contracts and now wants to rebuild a 'smile and dial' sales team. Max scoped their operation, then positioned Optimus's transportation/lane data as the differentiator at $750/month for unlimited seats, offering a 90-day exit clause to de-risk the commitment. Matthew is engaged and will review with ownership; the agreed next steps are Max sending a PDF proposal and a decision by end of week / early next week, with a tentative June start.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max scoped the business before pitching and repeatedly built on what Matthew actually said (e.g., echoing his ZoomInfo lock-in frustration with his own Seamless story), rather than reciting a script; acoustics support this, with pitch variation 9.44 st (z=+1.0 above his own baseline) and steadier volume (CV z=-0.6).",
+          "evidence": [
+            {
+              "timestamp": "00:10:32",
+              "quote": "before I sort of go on about Optimus, can you sort of give me the uh the highle overview of energy logistics"
+            },
+            {
+              "timestamp": "00:14:16",
+              "quote": "you said it. Uh we have emails, phone numbers, all that fun stuff. But it's also that transportation related data"
+            },
+            {
+              "timestamp": "00:19:16",
+              "quote": "We uh we lost a potential client because of that with Seamless. Same thing."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it: Optimus adds real transportation/lane data so reps show they recognize a shipper's operation, for a flat $750/month with unlimited seats, and one landed customer pays for it.",
+          "evidence": [
+            {
+              "timestamp": "00:14:16",
+              "quote": "it's also that transportation related data that's going to make a shipping manager or a supply chain procurement, whoever you're reaching out to, you know, really stop in their tracks"
+            },
+            {
+              "timestamp": "00:20:20",
+              "quote": "at the 750. So that just also that's unlimited seats, unlimited usage. There's no credits or anything like that."
+            },
+            {
+              "timestamp": "00:21:12",
+              "quote": "you land one or two customers, it's Optimus paid for."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the demo to this prospect\u2014asking for a real lane and running St. Louis outbound (Matthew's own market) to surface actual shippers\u2014rather than showing a generic profile.",
+          "evidence": [
+            {
+              "timestamp": "00:27:41",
+              "quote": "what's a good lane for you guys off the top of your head?"
+            },
+            {
+              "timestamp": "00:27:41",
+              "quote": "So, if we do St. Louis, we'll just stick with outbound for now."
+            },
+            {
+              "timestamp": "00:28:58",
+              "quote": "We come down to Taylor Farms. Looks like they got two lanes out of St. Louis, Dallas, Texas, and SMA, Tennessee."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive, buying-relevant questions (staff structure, CRM, ZoomInfo seats/price, pain points) and secured next steps\u2014a PDF proposal and a decision timeline\u2014but the follow-up was left buyer-driven rather than a booked meeting.",
+          "evidence": [
+            {
+              "timestamp": "00:16:22",
+              "quote": "So really there's there's no one that's like dedicated to sales right now."
+            },
+            {
+              "timestamp": "00:33:40",
+              "quote": "a proposal just with everything sort of laid out so y'all can take that to them"
+            },
+            {
+              "timestamp": "00:34:30",
+              "quote": "I'm going to put a June start date on there. Basically, it's the first Monday of every month."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock a specific dated follow-up\u2014e.g., 'Let's hold Thursday at 2pm to review the proposal after you've spoken with ownership'\u2014instead of leaving it as 'we'll be back in touch.'"
+    }
+  },
+  "buyers": {
+    "Matthew Harrison": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Requested a formal proposal to bring to ownership",
+          "timestamp": "00:33:40",
+          "quote": "If you want to send over a proposal, that'd be that'd be great."
+        },
+        {
+          "signal": "Framed the deal as low-risk and committed to circling back",
+          "timestamp": "00:32:26",
+          "quote": "obviously with, you know, the 90-day clause, I don't think there's, you know, high risk in, you know, at least those first 90 days"
+        },
+        {
+          "signal": "Gave a concrete decision timeline",
+          "timestamp": "00:34:30",
+          "quote": "It'll probably be by the end of this week, but I do have to take a trip um early next week."
+        },
+        {
+          "signal": "Affirmed the core value prop unprompted",
+          "timestamp": "00:20:20",
+          "quote": "you're focused on transportation. It's not, you know, it's not doubling as a software for purchasing managers"
+        }
+      ]
+    },
+    "Johnny (Energy Logistics Management)": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Asked one purchase-mechanics question, indicating some buying consideration",
+          "timestamp": "00:30:17",
+          "quote": "one thing regarding the billing like you will charge per month, right? Or like it is uh it would be annual payment"
+        },
+        {
+          "signal": "Opened by admitting the call was not a priority",
+          "timestamp": "00:00:00",
+          "quote": "I'm sorry. We totally forgot about this call."
+        },
+        {
+          "signal": "Declined to engage when explicitly invited",
+          "timestamp": "00:30:17",
+          "quote": "No, I'm good."
+        }
+      ]
+    }
+  }
+}

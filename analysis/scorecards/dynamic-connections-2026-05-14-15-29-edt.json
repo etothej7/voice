@@ -1,0 +1,147 @@
+{
+  "call": "dynamic-connections-2026-05-14-15-29-edt",
+  "source": {
+    "recording": "Optimus _ Dynamic Connections - 2026_05_14 15_29 EDT - Recording.mp4",
+    "notes": "Optimus _ Dynamic Connections - 2026_05_14 15_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "A.J. Todd": {
+      "words": 1025,
+      "questions": 9,
+      "speech_min": 3.9,
+      "loudness_mean": 1.016,
+      "loudness_cv": 0.651,
+      "f0_std_semitones": 8.51,
+      "pace_peaks_per_sec": 3.97,
+      "talk_share_pct": 37.3,
+      "arousal": 0.489,
+      "dominance": 0.504,
+      "valence": 0.465,
+      "arousal_thirds": [
+        0.523,
+        0.497,
+        0.398
+      ],
+      "seconds_analyzed": 182.0
+    },
+    "Max Riemer": {
+      "words": 1724,
+      "questions": 5,
+      "speech_min": 6.9,
+      "loudness_mean": 1.031,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 9.57,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 62.7,
+      "arousal": 0.464,
+      "dominance": 0.524,
+      "valence": 0.477,
+      "arousal_thirds": [
+        0.441,
+        0.507,
+        0.433
+      ],
+      "seconds_analyzed": 179.0
+    }
+  },
+  "call_summary": "Discovery/demo call where Max Riemer (Optimus) pitched a freight-prospecting platform to A.J. Todd of Dynamic Connections, a specialized 3PL (trade shows, refrigerated, cannabis, pharma, Canada cross-border white-glove). Max ran a prepared, competent product walkthrough positioned as a ZoomInfo replacement at ~$1,500/mo, but the platform's data skews toward dry van/reef/flatbed and admittedly thins out on the specialized verticals that define this prospect. The call ended with an unscheduled, buyer-owned next step: A.J. to think through unique use cases and follow up, with Max to chase if he doesn't hear back early next week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max came prepared with pre-call research and stayed responsive throughout, adapting to A.J.'s answers (e.g., pivoting to the under-50k shipper filter when A.J. flagged an SMB focus) rather than reciting a script; his acoustics back this up with strong pitch variation (9.57 st) and steadier-than-baseline delivery (loudness CV z -1.1).",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "I was just on your LinkedIn. You were Coyote and"
+            },
+            {
+              "timestamp": "00:00:00",
+              "quote": "I know it's uh DOT week, so a lot of people I'm speaking with are going nuts right now."
+            },
+            {
+              "timestamp": "00:15:14",
+              "quote": "right under 50,000"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: replace ZoomInfo with contacts plus real invoice/shipment data that shows which shippers run which lanes, and he framed a concrete ROI against the ~$1,500/mo price.",
+          "evidence": [
+            {
+              "timestamp": "00:07:08",
+              "quote": "we do confidently tell people now that with our contacts, you could replace Zoom Info"
+            },
+            {
+              "timestamp": "00:18:53",
+              "quote": "if you have 15 guys that are selling 80% of the time and they able to close one customer a month from Optimus, then you know, you probably more than pay for it in a month or so"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "A.J. described a specialized, heavily Canada-cross-border network (trade shows, cannabis, pharma, white-glove), yet Max ran a generic US dry-van demo and conceded the data thins out precisely on those specialized verticals, leaving the buyer to figure out fit rather than tailoring the pitch to their lanes.",
+          "evidence": [
+            {
+              "timestamp": "00:11:41",
+              "quote": "Equipment types, uh, drive van, reef, or flatbed. Uh, there's just not a whole lot of data that we have on others."
+            },
+            {
+              "timestamp": "00:12:53",
+              "quote": "a lot of those specialized carriers probably aren't using factoring"
+            },
+            {
+              "timestamp": "00:12:53",
+              "quote": "if we wanted to search Chattanooga to Chicago, looking for a specific lane, maybe it's a backhole opportunity"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Early discovery was genuinely good (team size, selling ratio, current tools, ICP), but Max never converted it into a concrete dated next step, ending with a vague buyer-owned follow-up and offering to chase only if he hears nothing.",
+          "evidence": [
+            {
+              "timestamp": "00:06:07",
+              "quote": "what's sort of like what's the process been as far as prospecting, finding emails, phone numbers, pitches?"
+            },
+            {
+              "timestamp": "00:18:53",
+              "quote": "you shoot me over those and, um, yeah, let's just make sure it's going to be something that your guys are going to be able to use"
+            }
+          ]
+        }
+      },
+      "coaching_action": "For the next conversation, lead by pulling their actual business into the tool live \u2014 search their real lanes (Canada cross-border, pharma, refrigerated) on-screen to prove or disprove data coverage \u2014 and close by booking a specific follow-up date instead of leaving it open."
+    }
+  },
+  "buyers": {
+    "A.J. Todd": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Named a concrete capability he found valuable (lane search / shipper density)",
+          "timestamp": "00:17:31",
+          "quote": "if you're able to search lanes and uh identify, you know, which clients are shipping in what lanes, create density, that's super helpful"
+        },
+        {
+          "signal": "Low price resistance",
+          "timestamp": "00:18:53",
+          "quote": "pricing doesn't seem crazy"
+        },
+        {
+          "signal": "Probing question depth on data provenance",
+          "timestamp": "00:14:13",
+          "quote": "how do you populate like the actual like Kroger information in there? Is it all all just from"
+        },
+        {
+          "signal": "Soft, deflected commitment plus a contract-timing hedge, and put the onus back on the seller to follow up (consistent with arousal fading across the call)",
+          "timestamp": "00:18:53",
+          "quote": "if you don't hear from me early next week, just shoot me a note"
+        }
+      ]
+    }
+  }
+}

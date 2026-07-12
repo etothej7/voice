@@ -1,0 +1,139 @@
+{
+  "call": "alg-trial-review-2026-04-23-12-29-edt",
+  "source": {
+    "recording": "Optimus _ ALG Trial review - 2026_04_23 12_29 EDT - Recording.mp4",
+    "notes": "Optimus _ ALG Trial review - 2026_04_23 12_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 946,
+      "questions": 7,
+      "speech_min": 3.8,
+      "loudness_mean": 0.911,
+      "loudness_cv": 0.705,
+      "f0_std_semitones": 9.45,
+      "pace_peaks_per_sec": 3.86,
+      "talk_share_pct": 21.3,
+      "arousal": 0.481,
+      "dominance": 0.497,
+      "valence": 0.506,
+      "arousal_thirds": [
+        0.458,
+        0.495,
+        0.512
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Teo Rotstein": {
+      "words": 3501,
+      "questions": 32,
+      "speech_min": 14.2,
+      "loudness_mean": 0.925,
+      "loudness_cv": 0.705,
+      "f0_std_semitones": 9.75,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 78.7,
+      "arousal": 0.473,
+      "dominance": 0.529,
+      "valence": 0.457,
+      "arousal_thirds": [
+        0.49,
+        0.466,
+        0.465
+      ],
+      "seconds_analyzed": 183.0
+    }
+  },
+  "call_summary": "This was a trial-review call for Optimus's freight-prospecting tool with ALG, a brokerage. Teo Rotstein delivered detailed feedback that the tool isn't operationally ready \u2014 too enterprise-heavy, only 62k of ~300k businesses visible, missing contact info on the small-midsize accounts they target, and not justifiable at the ~$1,500 quote \u2014 while praising the interface/concept and calling himself 'super bullish' to revisit once the data set grows. No purchase resulted; the agreed next steps (Max restoring access and pinging Teo on major data updates, Teo sending specific feedback) are real but undated.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive rather than scripted \u2014 he chased down Teo's 'wrong data' claim because his data comes from freight documents, and probed to isolate the real objection. Acoustically he was more animated than his own baseline (pitch variation +0.9 st z, loudness variation +1.3 z), so tone supports engagement despite his low talk share in a feedback session.",
+          "evidence": [
+            {
+              "timestamp": "00:10:06",
+              "quote": "we get pods and factoring invoices, which is why I'm sort of curious on because there's no data that's wrong in there"
+            },
+            {
+              "timestamp": "00:13:57",
+              "quote": "is the data or the pricing a bigger concern for you"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never packaged a crisp, quantified reason to buy \u2014 his explicit value statement was the generic, hedged 'you're going to fall behind,' and the genuinely differentiated angle (lane data reverse-engineered from real freight documents) surfaced only reactively as a technical explanation, never framed as a buyer outcome.",
+          "evidence": [
+            {
+              "timestamp": "00:17:53",
+              "quote": "if you don't have Optimus, you're going to fall behind"
+            },
+            {
+              "timestamp": "00:10:06",
+              "quote": "we get pods and factoring invoices, which is why I'm sort of curious on because there's no data that's wrong in there"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The conversation was tailored to ALG's brokerage reality \u2014 Max directly addressed their small-midsize focus with a concrete segment count and probed their actual lead-qualification workflow rather than pitching generically.",
+          "evidence": [
+            {
+              "timestamp": "00:07:03",
+              "quote": "if you take out large enterprise there's 55,000 companies so I don't want there to be any confusion"
+            },
+            {
+              "timestamp": "00:17:53",
+              "quote": "What's the quickest way they can confirm or sort of qualify them as someone who uses brokers or has brokerable freight?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked sharp, productive questions (real objection, rep count, existing stack, qualification process) but let the call close on only vague, conditional commitments \u2014 no specific date or scheduled check-in was ever proposed.",
+          "evidence": [
+            {
+              "timestamp": "00:13:57",
+              "quote": "is the data or the pricing a bigger concern for you"
+            },
+            {
+              "timestamp": "00:22:21",
+              "quote": "whenever we see a major update in our contacts and our shipper data, give you a ping"
+            }
+          ]
+        }
+      },
+      "coaching_action": "When a deal stalls on 'revisit later,' don't accept an open-ended 'I'll ping you when the data's ready' \u2014 before hanging up, propose and lock a specific dated check-in (e.g., 'let's put 20 minutes on the calendar for [date] to review the expanded dataset')."
+    }
+  },
+  "buyers": {
+    "Teo Rotstein": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "High, informed question depth about how the product actually works",
+          "timestamp": "00:10:06",
+          "quote": "Do you guys get the actual full invoice or are they just sending you a data set?"
+        },
+        {
+          "signal": "Hard near-term objection blocking a purchase now (cost vs. data volume)",
+          "timestamp": "00:04:49",
+          "quote": "right now just from from a cost standpoint, it doesn't make any sense for us"
+        },
+        {
+          "signal": "Buyer-owned next step \u2014 personally committing time to test and give feedback",
+          "timestamp": "00:23:32",
+          "quote": "I'll block out some time and I'll personally uh uh go through it um and and I'll give you honest feedback"
+        },
+        {
+          "signal": "Strong verbal enthusiasm, but explicitly future-conditional rather than a commitment to buy",
+          "timestamp": "00:11:58",
+          "quote": "I'm super bullish on on on on you guys and and I want to revisit as as you keep fine-tuning and and growing that"
+        }
+      ]
+    }
+  }
+}

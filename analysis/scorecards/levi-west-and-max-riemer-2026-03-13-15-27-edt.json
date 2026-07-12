@@ -1,0 +1,147 @@
+{
+  "call": "levi-west-and-max-riemer-2026-03-13-15-27-edt",
+  "source": {
+    "recording": "Levi West and Max Riemer - 2026_03_13 15_27 EDT - Recording.mp4",
+    "notes": "Levi West and Max Riemer - 2026_03_13 15_27 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Levi West": {
+      "words": 813,
+      "questions": 11,
+      "speech_min": 2.6,
+      "loudness_mean": 0.929,
+      "loudness_cv": 0.654,
+      "f0_std_semitones": 8.08,
+      "pace_peaks_per_sec": 4.03,
+      "talk_share_pct": 40.1,
+      "arousal": 0.433,
+      "dominance": 0.479,
+      "valence": 0.477,
+      "arousal_thirds": [
+        0.478,
+        0.472,
+        0.382
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Max Riemer": {
+      "words": 1215,
+      "questions": 14,
+      "speech_min": 4.5,
+      "loudness_mean": 0.969,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 8.64,
+      "pace_peaks_per_sec": 4.08,
+      "talk_share_pct": 59.9,
+      "arousal": 0.436,
+      "dominance": 0.49,
+      "valence": 0.437,
+      "arousal_thirds": [
+        0.462,
+        0.458,
+        0.366
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus ran a live demo for Levi West, a freight-broker agent at HD ships (~1.5 months in the agent role) who is frustrated with Apollo's inaccurate contact data. Max showed Optimus's shipper- and lane-level data \u2014 sourced from four exclusive factoring-company contracts \u2014 by pulling up the buyer's own requested lane (Albertville\u2192Savannah) and a past customer (Polymer Industries) to prove accuracy, and covered the $750 lowest enterprise tier with unlimited seats and a one-year minimum. Levi reacted positively and validated the data but closed non-committally, promising to think it over the weekend and email, with no dated next step set.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive rather than scripted \u2014 he opened off the buyer's stated Apollo pain point and repeatedly asked the buyer to drive the demo with his own lanes and customers; acoustics (pitch variation 8.64 st, pace and loudness near his own 9-call baseline) support a steady, engaged delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:01:08",
+              "quote": "you use Apollo right now. Is that mostly just for like contact information?"
+            },
+            {
+              "timestamp": "00:03:14",
+              "quote": "is there like a lane that you'd want to look up that you'd be interested in calling a shipper from?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it in one sentence: Optimus gives brokers real, factoring-sourced shipment and lane data so they can build researched, credible pitches instead of generic cold calls; the concrete '24 companies on this lane' example reinforced it.",
+          "evidence": [
+            {
+              "timestamp": "00:02:17",
+              "quote": "we want you to be able to filter out lanes that you are strong in, that you have a good market in, where maybe your best carriers are, and then give you the data to have, you know, meaningful conversations"
+            },
+            {
+              "timestamp": "00:05:47",
+              "quote": "we get their data weekly uh sort of refresh it through the platform and that's sort of why we say we're built for freight brokerages because we have real data. There's no assumptions made as far as the shipment data goes."
+            },
+            {
+              "timestamp": "00:03:14",
+              "quote": "The 24 companies that we have seen move a lane or a load from Albertville, Alabama to Savannah,"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the demo to this prospect's actual freight \u2014 running the buyer's requested lane and pulling up his real past customer to show top lanes and trading partners \u2014 though the tailoring was buyer-supplied on the fly rather than researched before the call.",
+          "evidence": [
+            {
+              "timestamp": "00:03:14",
+              "quote": "it looks like we got a Huntsville, Alabama to Savannah, Georgia lane here for them. If you keep scrolling down, you'll see their top 10 lanes for data."
+            },
+            {
+              "timestamp": "00:08:02",
+              "quote": "You could you could search them here. Just depends on how you want to go about it."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked some fit questions (Apollo usage, CRM) but did little qualifying of volume, authority, or timeline, and let the call end on the buyer's vague 'think about it over the weekend' with no proposed date or scheduled follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:01:08",
+              "quote": "Did you have any questions off the top of your head?"
+            },
+            {
+              "timestamp": "00:10:22",
+              "quote": "Do y'all use a HubSpot?"
+            },
+            {
+              "timestamp": "00:11:25",
+              "quote": "I'll I'll probably give it some thought over the weekend and then let you know on everything."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, propose a specific dated next step (e.g., 'Can we grab 15 minutes Tuesday to get you set up?') instead of letting the buyer leave with an open-ended 'I'll think about it over the weekend.'"
+    }
+  },
+  "buyers": {
+    "Levi West": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Asked pricing/commitment qualifying questions \u2014 a buying signal",
+          "timestamp": "00:07:01",
+          "quote": "Is there a minimum commitment for that 750? Like a amount of time."
+        },
+        {
+          "signal": "Validated the platform against his own past customer and confirmed accuracy",
+          "timestamp": "00:08:02",
+          "quote": "It's all pretty accurate on the data side and everything."
+        },
+        {
+          "signal": "Began picturing how his team would actually use seats",
+          "timestamp": "00:09:21",
+          "quote": "it might just be like me and one other person doing outbound stuff on it"
+        },
+        {
+          "signal": "Deferred the decision with no owned commitment or date \u2014 tempers the interest",
+          "timestamp": "00:11:25",
+          "quote": "I'll I'll probably give it some thought over the weekend and then let you know on everything."
+        }
+      ]
+    }
+  }
+}

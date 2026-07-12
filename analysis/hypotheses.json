@@ -1,0 +1,42 @@
+{
+ "_readme": "Candidate patterns noticed across calls. kind=coachable (lexical/structural, transferable via coaching) or dispositional (acoustic/trait, selection signal not coaching target). Every entry stays a hypothesis until validated: coachable -> pass-rate moves after a coaching action; dispositional -> within-rep variance is low across contexts AND coaching never moves it.",
+ "hypotheses": [
+  {
+   "id": "H1",
+   "kind": "dispositional",
+   "statement": "High performers are consistently animated (high pitch variation, never monotone) - passion, not coachable.",
+   "source": "Ed's assumption (2026-07-10), explicitly unvalidated",
+   "n_calls_observed": 88,
+   "status": "adopted-as-feature (thresholds provisional)",
+   "notes": "Shipped as 'engagement disposition' (disposition.py, 2026-07-10): rep-level axis from arousal history - mean, ceiling (does the rep EVER light up), fade rate. flat = ceiling<0.52 and mean<0.47 across 5+ calls -> flagged as dispositional, not a coaching target. Both current reps grade steady (Ed mean 0.504 ceiling 0.543; Max mean 0.491 ceiling 0.551). Supporting evidence for trait-hypothesis: cross-call arousal SD is tight (0.03-0.04) for both reps. Not yet observed: a flat rep (no negative example to calibrate against).",
+   "validation_plan": "Thresholds are v1 heuristics. Validate when (a) a genuinely flat rep enters the sample, (b) outcome data ties disposition to win rates, (c) coaching attempts on any flat rep fail to move arousal (confirming non-coachability)."
+  },
+  {
+   "id": "H2",
+   "kind": "coachable",
+   "statement": "Anchoring the value prop to the incumbent's budget with a quantified accuracy claim ('pay me what you pay ZoomInfo, 95-97% accurate on supply chain contacts') appears in the call with the strongest verbal buy-in (MODE).",
+   "source": "MODE 2026-07-09 transcript",
+   "n_calls_observed": 3,
+   "status": "candidate",
+   "validation_plan": "Track presence of quantified incumbent-anchored value prop vs call outcome as call volume grows."
+  },
+  {
+   "id": "H3",
+   "kind": "coachable",
+   "statement": "Asking for the incumbent contract end date ('remind me when your zoom contract ends') creates a concrete timeline for the deal; present in MODE, absent in Flock which ended with a vague follow-up.",
+   "source": "MODE vs Flock transcripts",
+   "n_calls_observed": 3,
+   "status": "candidate",
+   "validation_plan": "Track contract-date discovery vs whether a dated next step was secured."
+  },
+  {
+   "id": "H4",
+   "kind": "coachable",
+   "statement": "Seller lineup changes call quality: with Ed on the call, Max's discovery/progression passes 2.7x more often (48% joint vs 18% solo) but his value-prop rate drops (57% vs 71%, deferring the pitch to Ed). Strong-interest rate: Max solo 38% vs joint 30%.",
+   "source": "SQL head-to-head over voice.db (2026-07-10), n=66 Max gradings (45 solo / 21 joint)",
+   "n_calls_observed": 66,
+   "status": "unvalidated",
+   "notes": "Confounded by call stage - joint calls skew late-stage (contract/trial reviews) where next steps come naturally. Ed has only 1 solo call, so the comparison is Max-solo vs Max-with-Ed, not Ed vs Max. Validate by tagging call stage and re-cutting; if it holds, the coaching action is 'run discovery like a joint call' (specific behaviors from joint-call evidence quotes)."
+  }
+ ]
+}

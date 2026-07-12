@@ -1,0 +1,163 @@
+{
+  "call": "express-onboarding-2026-05-12-09-59-edt",
+  "source": {
+    "recording": "Express Onboarding - 2026_05_12 09_59 EDT - Recording.mp4",
+    "notes": "Express Onboarding - 2026_05_12 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1770,
+      "questions": 9,
+      "speech_min": 7.4,
+      "loudness_mean": 0.878,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 6.49,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 43.2,
+      "arousal": 0.44,
+      "dominance": 0.502,
+      "valence": 0.47,
+      "arousal_thirds": [
+        0.407,
+        0.437,
+        0.461
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Rachel Church": {
+      "words": 2324,
+      "questions": 21,
+      "speech_min": 9.3,
+      "loudness_mean": 0.835,
+      "loudness_cv": 0.691,
+      "f0_std_semitones": 6.16,
+      "pace_peaks_per_sec": 3.88,
+      "talk_share_pct": 56.8,
+      "arousal": 0.486,
+      "dominance": 0.51,
+      "valence": 0.462,
+      "arousal_thirds": [
+        0.515,
+        0.431,
+        0.469
+      ],
+      "seconds_analyzed": 170.0
+    }
+  },
+  "call_summary": "An Optimus onboarding call for Express Logistics, a paying customer: seller Max Riemer demoed the lane-search prospecting platform and its factoring/POD data sourcing to Rachel Church (the admin/champion) and Bobby, the newly hired VP of Sales. The buyers are focused on HubSpot integration and getting the sales team confident and adopting the tool; buyer engagement was high and buyer-owned next steps were clear, while the seller leaned on generic demo examples and left the follow-up undated. Note: transcript diarization merged Bobby into 'Rachel Church' (only Max and Rachel are acoustically separated), so a few quotes below are attributed to Bobby based on content and the meeting's stated next steps.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive rather than scripted \u2014 he checked what the audience already knew before diving in and gave honest real-time deferrals instead of bluffing; his delivery was flatter than his own baseline (f0 z=-2.1) but that alone is not a mark-down.",
+          "evidence": [
+            {
+              "timestamp": "00:09:09",
+              "quote": "Rachel, is Bobby aware of like where our data comes from or how we source it?"
+            },
+            {
+              "timestamp": "00:21:59",
+              "quote": "I need to double check that that's visible on your side for the customers because I can see it. But let me let me make sure with Ed."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain the pitch: Optimus turns factoring/POD data into lane-level shipper intel plus fresh contacts so reps can prospect backhauls and win quick deals from existing relationships, and it directly answers the buyer's Zoom Info stale-data pain with a 60-day refresh.",
+          "evidence": [
+            {
+              "timestamp": "00:15:27",
+              "quote": "these contacts have a 60-day TTL. So basically when someone clicks into it, it's finding the most updated data that we can."
+            },
+            {
+              "timestamp": "00:25:01",
+              "quote": "that's where we get a lot of quick wins is because it's a relationship you already have."
+            },
+            {
+              "timestamp": "00:12:52",
+              "quote": "If you already work with Universal Pure, these are guys that you can get warm intros to."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "The demo ran almost entirely on generic sample companies (Universal Pure, Lakeside Book, Dairy Farmers of America) rather than Express Logistics' own customers or lanes; Max even acknowledged that the strongest tailored 'quick wins' pass was done on a prior demo, not this one.",
+          "evidence": [
+            {
+              "timestamp": "00:10:22",
+              "quote": "So, if I was a rep and I was really strong in Dallas, Chattanooga, maybe I want to go the other way and see if I can find back hall opportunities."
+            },
+            {
+              "timestamp": "00:24:02",
+              "quote": "let's look up a couple customers you already have and it's like, oh, we run these lanes. Oh, we don't run these lanes and have never quoted them."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Discovery was light and buyer-led (Max asked ~9 mostly open 'any questions?' prompts), and while account setup actions were agreed, the follow-up call was left open-ended with no date, driven by the buyer rather than the seller.",
+          "evidence": [
+            {
+              "timestamp": "00:03:36",
+              "quote": "is there anything because this is basically all all for you guys. Questions that are top of mind for us?"
+            },
+            {
+              "timestamp": "00:30:39",
+              "quote": "I'm open."
+            }
+          ]
+        }
+      },
+      "coaching_action": "On your next onboarding, run the demo on the customer's own accounts and lanes \u2014 pull up two or three of Express Logistics' existing customers live to surface unquoted lanes ('quick wins') instead of generic sample shippers, since the buyer explicitly said the goal was making the new VP confident in the tool."
+    }
+  },
+  "buyers": {
+    "Rachel Church": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Committed to a concrete buyer-owned rollout plan (provision Bobby, build the integration, then roll to reps)",
+          "timestamp": "00:30:39",
+          "quote": "I'm going to get Bobby a user. Um, and then have him play around with it. I'm going to work on the HubSpot connection integration piece before we roll this out to reps."
+        },
+        {
+          "signal": "Articulated the strategic reason for adopting the tool (revenue, rep confidence)",
+          "timestamp": "00:06:28",
+          "quote": "he's been hired in as our VP of sales to really drive that revenue. And so, I want him feeling really, really confident in the tool and your guys' product so he's able to express that confidence to his team."
+        },
+        {
+          "signal": "Deep, evaluative probing on data reliability",
+          "timestamp": "00:18:15",
+          "quote": "is there any like strength or scoring system of like if that person still works there or if that's a working number... there's like a high confidence score"
+        },
+        {
+          "signal": "Proactively pushed for roadmap/feature (a HubSpot lane plugin)",
+          "timestamp": "00:26:05",
+          "quote": "What about a plugin? Like, so I'm in HubSpot and I've got that company name. Couldn't you guys create some sort of plugin that would show me these lanes so I don't have to keep having a UI another UI open."
+        }
+      ]
+    },
+    "Bobby": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Committed to hands-on testing and a follow-up (buyer-owned next step)",
+          "timestamp": "00:25:01",
+          "quote": "I could probably play with this this afternoon and maybe send you some follow-up questions tomorrow morning"
+        },
+        {
+          "signal": "Shared relevant background and openness, comparing to prior tooling he had success with",
+          "timestamp": "00:06:28",
+          "quote": "I've primarily used like Zoom Info through uh most of my career just as a reference point."
+        },
+        {
+          "signal": "Was largely quiet and deferred to Rachel, doing little of his own probing on this call",
+          "timestamp": "00:27:20",
+          "quote": "This is our first on. So, you're right. We'll get there. Slow down, Max. Let's just back this thing up here."
+        }
+      ]
+    }
+  }
+}

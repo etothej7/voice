@@ -1,0 +1,197 @@
+{
+  "call": "waabi-2026-05-27-14-59-edt",
+  "source": {
+    "recording": "Optimus _ Waabi - 2026_05_27 14_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Waabi - 2026_05_27 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Adam Zino": {
+      "words": 498,
+      "questions": 5,
+      "speech_min": 1.8,
+      "loudness_mean": 0.797,
+      "loudness_cv": 0.699,
+      "f0_std_semitones": 9.67,
+      "pace_peaks_per_sec": 4.04,
+      "talk_share_pct": 11.3,
+      "arousal": 0.464,
+      "dominance": 0.527,
+      "valence": 0.517,
+      "arousal_thirds": [
+        0.461,
+        0.467,
+        null
+      ],
+      "seconds_analyzed": 156.0
+    },
+    "Joe Shone": {
+      "words": 1396,
+      "questions": 12,
+      "speech_min": 5.2,
+      "loudness_mean": 0.871,
+      "loudness_cv": 0.691,
+      "f0_std_semitones": 8.85,
+      "pace_peaks_per_sec": 4.06,
+      "talk_share_pct": 31.8,
+      "arousal": 0.459,
+      "dominance": 0.523,
+      "valence": 0.501,
+      "arousal_thirds": [
+        0.43,
+        0.498,
+        0.433
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Max Riemer": {
+      "words": 1054,
+      "questions": 8,
+      "speech_min": 3.9,
+      "loudness_mean": 0.897,
+      "loudness_cv": 0.693,
+      "f0_std_semitones": 8.35,
+      "pace_peaks_per_sec": 3.99,
+      "talk_share_pct": 24.0,
+      "arousal": 0.506,
+      "dominance": 0.558,
+      "valence": 0.542,
+      "arousal_thirds": [
+        0.531,
+        null,
+        0.483
+      ],
+      "seconds_analyzed": 169.0
+    },
+    "Tobias Pasquale": {
+      "words": 1448,
+      "questions": 7,
+      "speech_min": 5.7,
+      "loudness_mean": 0.82,
+      "loudness_cv": 0.7,
+      "f0_std_semitones": 7.82,
+      "pace_peaks_per_sec": 4.06,
+      "talk_share_pct": 32.9,
+      "arousal": 0.452,
+      "dominance": 0.519,
+      "valence": 0.507,
+      "arousal_thirds": [
+        0.432,
+        0.483,
+        0.428
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "Optimus (Max Riemer, with engineer Tobias Pasquale) demoed a mockup 'network builder' tool to Waabi's Joe Shone and newly-hired Adam Zino, centered on lane and facility overlap analysis to match freight and maximize their autonomous-vehicle trailer utilization. The Waabi team was highly engaged, pushing on backhaul matching, wider-radius clustering visuals, and \u2014 most critically \u2014 getting extractable data into their new AI-forward CRM, which surfaced a gating requirement: they need full or extractable data access, not data locked inside Optimus. The parties agreed to explore CRM/API integration and a data-confidentiality agreement, with a follow-up email next week and the contract up for renewal in July.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded engaged and responsive rather than scripted \u2014 he tracked earlier threads (the TMS discussion, a prior prospect's lease structure) and built genuine rapport up front; acoustics support this, with the room's highest arousal (0.506) and valence running +1.8 SD above his own 58-call baseline.",
+          "evidence": [
+            {
+              "timestamp": "00:15:30",
+              "quote": "we've always talked about being protective of our data but if there was sort of like a like quote unquote lease agreement"
+            },
+            {
+              "timestamp": "00:16:42",
+              "quote": "going back to the map, is I think you you talked about the TMS integration as well"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's value articulation was heavily hedged ('sort of like', 'quote unquote') and carried no quantification; the clearest value \u2014 cross-referencing lane data for network planning \u2014 was actually articulated by the buyers and Tobias, not by Max.",
+          "evidence": [
+            {
+              "timestamp": "00:15:30",
+              "quote": "if there was sort of like a like quote unquote lease agreement with a CRM integration that's something that Ed has shown interest in"
+            },
+            {
+              "timestamp": "00:16:42",
+              "quote": "if we had a map that sort of outlined your data or outlined your trucks. So that like that would be like showing your prospects the network"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored to Waabi's specifics \u2014 their data-protection stance, their new CRM, and their need to show prospects a network map \u2014 rather than pitching generically, though he briefly misread their need as TMS execution before Joe redirected him to network planning.",
+          "evidence": [
+            {
+              "timestamp": "00:15:30",
+              "quote": "we've always talked about being protective of our data but if there was sort of like a like quote unquote lease agreement"
+            },
+            {
+              "timestamp": "00:16:42",
+              "quote": "if we had a map that sort of outlined your data or outlined your trucks. So that like that would be like showing your prospects the network"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked a sharp value question ('what would that be worth'), but it was deflected without a pinned follow-up, and he closed on an open-ended 'I'll email you next week' rather than a dated meeting or proposal deadline \u2014 thin for a deal renewing in July.",
+          "evidence": [
+            {
+              "timestamp": "00:20:10",
+              "quote": "What would that sort of be worth, do you think?"
+            },
+            {
+              "timestamp": "00:22:05",
+              "quote": "we'll talk with Ed, Toby, and I. We'll sort of see what we're thinking, where our heads are at, and I'll shoot you an email next week"
+            }
+          ]
+        }
+      },
+      "coaching_action": "With the contract up for renewal in July, don't end on an open-ended 'I'll email you next week' \u2014 before hanging up, put a specific dated next meeting on the calendar and commit to a concrete proposal with pricing options."
+    }
+  },
+  "buyers": {
+    "Joe Shone": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Owns a concrete next step \u2014 will convene his internal/IT team",
+          "timestamp": "00:18:45",
+          "quote": "if you could drop me a note, that'd be great. And I can set up a conversation with our team."
+        },
+        {
+          "signal": "Deep, specific product questions (customer segmentation, radius, lane direction)",
+          "timestamp": "00:04:20",
+          "quote": "we'd want to see like, you know, refrigerated customers versus drive van verse uh SMB"
+        },
+        {
+          "signal": "Commits to a review window and flags the July renewal as a forcing date",
+          "timestamp": "00:21:07",
+          "quote": "I'm open to any proposals and reviewing in the next month."
+        },
+        {
+          "signal": "Substantive gating objection \u2014 data must be extractable or it lacks value, and the team may seek another provider",
+          "timestamp": "00:20:10",
+          "quote": "I I just don't know if it has the value that we need."
+        }
+      ]
+    },
+    "Adam Zino": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Articulates the core use case unprompted (freight matching to maximize AV utilization)",
+          "timestamp": "00:09:09",
+          "quote": "what we're trying to solve for is how we we can match freight together more or less"
+        },
+        {
+          "signal": "Probing clarifying question on lane directionality",
+          "timestamp": "00:06:21",
+          "quote": "do we know if someone's going in versus going out? Is that defined?"
+        },
+        {
+          "signal": "Engaged feature ideation but no owned commitment (day two on the job)",
+          "timestamp": "00:12:42",
+          "quote": "is there like an agent that we could just like throw over top of this"
+        }
+      ]
+    }
+  }
+}

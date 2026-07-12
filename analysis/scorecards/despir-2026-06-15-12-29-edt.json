@@ -1,0 +1,155 @@
+{
+  "call": "despir-2026-06-15-12-29-edt",
+  "source": {
+    "recording": "Optimus _ DeSpir  - 2026_06_15 12_29 EDT - Recording.mp4",
+    "notes": "Optimus _ DeSpir  - 2026_06_15 12_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Kevin Nelson": {
+      "words": 1028,
+      "questions": 18,
+      "speech_min": 3.3,
+      "loudness_mean": 1.022,
+      "loudness_cv": 0.672,
+      "f0_std_semitones": 6.97,
+      "pace_peaks_per_sec": 4.16,
+      "talk_share_pct": 31.0,
+      "arousal": 0.501,
+      "dominance": 0.527,
+      "valence": 0.476,
+      "arousal_thirds": [
+        0.55,
+        0.545,
+        0.453
+      ],
+      "seconds_analyzed": 183.0
+    },
+    "Max Riemer": {
+      "words": 2291,
+      "questions": 14,
+      "speech_min": 8.9,
+      "loudness_mean": 1.121,
+      "loudness_cv": 0.617,
+      "f0_std_semitones": 8.89,
+      "pace_peaks_per_sec": 4.16,
+      "talk_share_pct": 69.0,
+      "arousal": 0.53,
+      "dominance": 0.572,
+      "valence": 0.494,
+      "arousal_thirds": [
+        0.483,
+        0.54,
+        0.526
+      ],
+      "seconds_analyzed": 147.0
+    }
+  },
+  "call_summary": "Max Riemer gave DeSpir Logistics (Kevin Nelson, plus owner John Card observing) a demo of Optimus, a freight-data platform that sources real transaction data via factoring partnerships and freight.ai OCR rather than web scraping, with built-in CRM and Salesforce/HubSpot integrations. The value prop of 'credible, real transaction' data landed with the buyer, and the call ended with a concrete one-week trial for 2-3 reps starting the next morning and a review meeting set for the following Wednesday. Relevance to DeSpir's stated high-value pharmaceutical niche was the weakest area, as the demo leaned on generic steel/Chicago examples and Kevin had to steer to pharma himself.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was responsive and adaptive, answering each of Kevin's probes with concrete, unscripted detail rather than reciting a set pitch, and his acoustics ran above his own 27-call baseline on energy and positivity (arousal z +0.9, valence z +0.6, steady across the call).",
+          "evidence": [
+            {
+              "timestamp": "00:10:40",
+              "quote": "So how do I use that?"
+            },
+            {
+              "timestamp": "00:10:40",
+              "quote": "It's the factoring partnerships."
+            },
+            {
+              "timestamp": "00:16:41",
+              "quote": "So just another value prop that we speak on. Maybe warm intros."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "The differentiator was clear and concrete enough that the buyer restated it in his own words: real, non-scraped transaction data brokers can act on with a specific lane pitch. It leaned qualitative rather than quantified, but the core 'why care' was unmistakable.",
+          "evidence": [
+            {
+              "timestamp": "00:09:37",
+              "quote": "This isn't anything scraped. It's all real transactions."
+            },
+            {
+              "timestamp": "00:10:40",
+              "quote": "we move Dallas to Chattanooga four to five times a week. We need back call opportunities from Chattanooga to Dallas for those drivers."
+            },
+            {
+              "timestamp": "00:13:04",
+              "quote": "You're actually getting credible information out of that contact."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Despite knowing DeSpir's niche is high-value pharmaceuticals, Max led the demo with generic steel/Chicago and New Core examples and left Kevin to drive the pharma search himself. The pitch was a product tour, not tailored to DeSpir's lanes, capacity, or vertical.",
+          "evidence": [
+            {
+              "timestamp": "00:15:27",
+              "quote": "we'll do outbound Chicago. We'll say 25 miles just for an example."
+            },
+            {
+              "timestamp": "00:19:02",
+              "quote": "our space is the high value pharmaceutical space that like you and I talked about."
+            },
+            {
+              "timestamp": "00:20:33",
+              "quote": "I'd rather go into the Medline, the Walgreens."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked qualifying questions and, though the buyer initiated the trial, structured it into a clear dated plan: send the link tomorrow morning, run one week, review the following Wednesday. Discovery skewed toward commercial qualifiers (team size, revenue, CRM) rather than probing pain.",
+          "evidence": [
+            {
+              "timestamp": "00:22:15",
+              "quote": "how many sales reps and are y'all split model?"
+            },
+            {
+              "timestamp": "00:24:42",
+              "quote": "Let's just say tomorrow morning for a for a week."
+            },
+            {
+              "timestamp": "00:25:35",
+              "quote": "next Wednesday whenever you're open we can jump back on"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the demo, pull up DeSpir's actual world \u2014 a high-value pharma shipper and their real lanes \u2014 and lead the walkthrough with that, instead of generic Chicago/steel examples, so the prospect sees their own business in the tool from the first click."
+    }
+  },
+  "buyers": {
+    "Kevin Nelson": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Brought the company owner onto the call to observe the demo \u2014 a buying-committee escalation",
+          "timestamp": "00:06:03",
+          "quote": "John's the owner of the company. He actually wants to see it."
+        },
+        {
+          "signal": "Buyer-initiated the trial ask rather than being pushed into it",
+          "timestamp": "00:23:19",
+          "quote": "any chance we could set up a trial for some period of time?"
+        },
+        {
+          "signal": "Tested the platform against DeSpir's real niche, showing question depth and intent to validate fit",
+          "timestamp": "00:20:33",
+          "quote": "our space is the high value pharmaceutical space"
+        },
+        {
+          "signal": "Committed his own next step by naming specific reps to onboard into the trial",
+          "timestamp": "00:25:35",
+          "quote": "I'd love to get Jeff in there and get him diving into it."
+        }
+      ]
+    }
+  }
+}

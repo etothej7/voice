@@ -1,0 +1,257 @@
+{
+  "call": "efl-follow-up-2026-06-30-11-03-edt",
+  "source": {
+    "recording": "Optimus _ EFL follow up  - 2026_06_30 11_03 EDT - Recording.mp4",
+    "notes": "Optimus _ EFL follow up  - 2026_06_30 11_03 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Alex Rosen": {
+      "words": 46,
+      "questions": 0,
+      "speech_min": 0.2,
+      "loudness_mean": 1.04,
+      "loudness_cv": 0.701,
+      "f0_std_semitones": 5.12,
+      "pace_peaks_per_sec": 3.74,
+      "talk_share_pct": 1.1,
+      "arousal": 0.543,
+      "dominance": 0.568,
+      "valence": 0.517,
+      "arousal_thirds": [
+        0.543,
+        null,
+        null
+      ],
+      "seconds_analyzed": 11.0
+    },
+    "Alexander Rosen": {
+      "words": 9,
+      "questions": 0,
+      "speech_min": 0.0,
+      "loudness_mean": 0.257,
+      "loudness_cv": 0.427,
+      "f0_std_semitones": null,
+      "pace_peaks_per_sec": null,
+      "talk_share_pct": 0.2,
+      "arousal": 0.265,
+      "dominance": 0.389,
+      "valence": 0.362,
+      "arousal_thirds": [
+        0.265,
+        null,
+        null
+      ],
+      "seconds_analyzed": 5.0
+    },
+    "Maggie Yepez": {
+      "words": 1683,
+      "questions": 34,
+      "speech_min": 7.6,
+      "loudness_mean": 0.961,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 5.62,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 41.3,
+      "arousal": 0.424,
+      "dominance": 0.483,
+      "valence": 0.472,
+      "arousal_thirds": [
+        0.419,
+        0.431,
+        0.423
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Max Riemer": {
+      "words": 1829,
+      "questions": 11,
+      "speech_min": 7.0,
+      "loudness_mean": 1.105,
+      "loudness_cv": 0.606,
+      "f0_std_semitones": 10.08,
+      "pace_peaks_per_sec": 4.19,
+      "talk_share_pct": 44.9,
+      "arousal": 0.476,
+      "dominance": 0.533,
+      "valence": 0.473,
+      "arousal_thirds": [
+        0.454,
+        0.492,
+        0.488
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "NEIL": {
+      "words": 510,
+      "questions": 4,
+      "speech_min": 1.9,
+      "loudness_mean": 0.97,
+      "loudness_cv": 0.422,
+      "f0_std_semitones": 9.64,
+      "pace_peaks_per_sec": 4.32,
+      "talk_share_pct": 12.5,
+      "arousal": 0.435,
+      "dominance": 0.519,
+      "valence": 0.49,
+      "arousal_thirds": [
+        null,
+        0.444,
+        0.398
+      ],
+      "seconds_analyzed": 149.0
+    }
+  },
+  "call_summary": "Follow-up evaluation call in which Optimus rep Max Riemer walked EFL (Maggie Yepez, domestic head Neil, and largely-silent Alex Rosen) through the platform's domestic full-truckload freight intelligence, contrasting it with incumbent Revenue Vessel and covering data sources, lead-gen and account-management use cases, and HubSpot/TMS/Highway integration. Max presented a 15-month contract with a 3-month pilot at a 66% discount ($3,000/mo all-in, unlimited users) and a 90-day out. The call closed with Max to resend a clean pricing email and Maggie/Neil to review and respond before the end of next week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was acoustically engaged (pitch variation 10.08 st, ~1.1 SD above his own baseline) and responsive in substance, tying the Highway partnership directly to Neil's stated procurement need and adapting pricing to EFL's unusual structure; the main weakness was preparedness (he couldn't recall the prior demo or locate the pricing email).",
+          "evidence": [
+            {
+              "timestamp": "00:19:18",
+              "quote": "that works the same way as a TMS integration where we sort of do the heavy lifting for you"
+            },
+            {
+              "timestamp": "00:20:41",
+              "quote": "I think that's along the lines of what you're saying, Neil"
+            },
+            {
+              "timestamp": "00:09:50",
+              "quote": "your situation would be a little bit different than what we normally do"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain the why: Optimus surfaces domestic FTL shippers on lanes where EFL already buys below market and has capacity, for both new logos and expanding existing accounts. The claims are concrete about lanes/buy-rates/capacity, though not backed by quantified ROI outcomes.",
+          "evidence": [
+            {
+              "timestamp": "00:07:25",
+              "quote": "surfacing lanes uh where you have capacity where you buy well"
+            },
+            {
+              "timestamp": "00:19:18",
+              "quote": "Identifying lanes where um you buy well where you know you are paying below the market average where you have extended capacity"
+            },
+            {
+              "timestamp": "00:07:25",
+              "quote": "let's go see what else they're moving that we haven't quoted or haven't seen"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was clearly tailored to EFL: he referenced their Revenue Vessel/drayage setup, sized pricing to their forwarding-heavy business with a small brokerage arm, and probed their TMS and Highway status to shape the integration path.",
+          "evidence": [
+            {
+              "timestamp": "00:02:53",
+              "quote": "Y'all use revenue vessel for the dreage imports export side, right?"
+            },
+            {
+              "timestamp": "00:09:50",
+              "quote": "like the brokerage arm being, you know, not as big of a percentage of the full top line"
+            },
+            {
+              "timestamp": "00:18:11",
+              "quote": "What TMS do y'all use?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked a few sharp qualifying questions (TMS, Highway, CRM), but he let the buyer drive discovery and closed softly\u2014no booked next meeting, the pre-onboarding/ROI call left undated, and he actively defused urgency with a 'no rush' comment.",
+          "evidence": [
+            {
+              "timestamp": "00:26:04",
+              "quote": "We would want to want to discuss that on like a pre-onboarding call"
+            },
+            {
+              "timestamp": "00:27:09",
+              "quote": "I'll probably just send you a new email with everything regarding the pricing"
+            },
+            {
+              "timestamp": "00:27:09",
+              "quote": "I know the holiday's coming up, so no rush there"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, book a specific dated next step on the calendar\u2014here, offer to schedule the pre-onboarding call to jointly define ROI success metrics and secure a decision date\u2014instead of softening urgency and leaving the next move as 'resend the email and get back to me.'"
+    }
+  },
+  "buyers": {
+    "Maggie Yepez": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit own-words statement of interest and intent to discuss pricing",
+          "timestamp": "00:09:50",
+          "quote": "hey, we're interested and we want to know more as far as the pricing model"
+        },
+        {
+          "signal": "Buyer-owned, dated next step committing to a decision",
+          "timestamp": "00:27:09",
+          "quote": "I will get back to you before end of next week"
+        },
+        {
+          "signal": "Insisted on getting the domestic decision-maker on the call",
+          "timestamp": "00:01:45",
+          "quote": "I need him on this call to make sense of it for you and our time"
+        },
+        {
+          "signal": "Deep workflow-fit questioning, mapping the tool into their HubSpot process",
+          "timestamp": "00:13:28",
+          "quote": "This would allow Neil, I'm thinking, Alex, um, our salespeople to still work from HubSpot to pull leads. Is that true?"
+        }
+      ]
+    },
+    "NEIL": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Endorsed the pilot structure and called it critical to proceeding",
+          "timestamp": "00:18:11",
+          "quote": "that trial period is would be critical for me"
+        },
+        {
+          "signal": "Articulated a concrete internal use case, showing he's envisioning adoption",
+          "timestamp": "00:16:53",
+          "quote": "how can I identify the lanes, the companies that make sense that would fit into our existing network"
+        },
+        {
+          "signal": "Wanted a trial before committing",
+          "timestamp": "00:11:03",
+          "quote": "that's something that I would like to see, you know, a trial period"
+        },
+        {
+          "signal": "Raised a real adoption objection\u2014significant new internal process required",
+          "timestamp": "00:11:03",
+          "quote": "we're going to have to create a whole new process around this"
+        }
+      ]
+    },
+    "Alex Rosen": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "No questions and nothing to add when explicitly invited at close",
+          "timestamp": "00:27:09",
+          "quote": "Not for me."
+        },
+        {
+          "signal": "Only substantive reaction was to the UI, not the value",
+          "timestamp": "00:16:53",
+          "quote": "I love the dark mode"
+        },
+        {
+          "signal": "Largely passive; early contributions were about connectivity/platform, not the deal",
+          "timestamp": "00:01:45",
+          "quote": "we are a Microsoft Teams company and we tend to struggle with the other platforms"
+        }
+      ]
+    }
+  }
+}

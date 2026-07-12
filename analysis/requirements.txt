@@ -1,0 +1,14 @@
+# Engaged-delivery analysis pipeline
+# Setup:  python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
+# Run:    ./venv/bin/python analyze.py            (whole-call metrics)
+#         ./venv/bin/python speaker_metrics.py    (per-speaker, needs Gemini transcript .txt)
+#         ./venv/bin/python diarize_poc.py        (audio-only speaker clustering, slow on CPU)
+opensmile
+pandas
+numpy
+# below only needed for diarize_poc.py (audio-only speaker clustering)
+torch
+speechbrain
+scikit-learn
+# emotion model (arousal/valence) - model card code needs 4.x
+transformers<5

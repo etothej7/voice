@@ -1,0 +1,306 @@
+{
+  "call": "transloop-2026-06-03-10-59-edt",
+  "source": {
+    "recording": "Optimus _ Transloop - 2026_06_03 10_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Transloop - 2026_06_03 10_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 2105,
+      "questions": 7,
+      "speech_min": 7.9,
+      "loudness_mean": 0.888,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 8.6,
+      "pace_peaks_per_sec": 4.12,
+      "talk_share_pct": 44.8,
+      "arousal": 0.533,
+      "dominance": 0.576,
+      "valence": 0.523,
+      "arousal_thirds": [
+        0.54,
+        0.549,
+        0.503
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "John Wilson": {
+      "words": 425,
+      "questions": 3,
+      "speech_min": 1.7,
+      "loudness_mean": 0.827,
+      "loudness_cv": 0.681,
+      "f0_std_semitones": 9.83,
+      "pace_peaks_per_sec": 4.31,
+      "talk_share_pct": 9.1,
+      "arousal": 0.417,
+      "dominance": 0.485,
+      "valence": 0.478,
+      "arousal_thirds": [
+        0.426,
+        0.401,
+        null
+      ],
+      "seconds_analyzed": 142.0
+    },
+    "Max Riemer": {
+      "words": 752,
+      "questions": 3,
+      "speech_min": 3.5,
+      "loudness_mean": 1.008,
+      "loudness_cv": 0.646,
+      "f0_std_semitones": 9.44,
+      "pace_peaks_per_sec": 4.0,
+      "talk_share_pct": 16.0,
+      "arousal": 0.47,
+      "dominance": 0.522,
+      "valence": 0.498,
+      "arousal_thirds": [
+        0.432,
+        0.457,
+        0.497
+      ],
+      "seconds_analyzed": 180.0
+    },
+    "Nick Reasoner": {
+      "words": 1259,
+      "questions": 13,
+      "speech_min": 5.4,
+      "loudness_mean": 0.966,
+      "loudness_cv": 0.663,
+      "f0_std_semitones": 8.91,
+      "pace_peaks_per_sec": 4.04,
+      "talk_share_pct": 26.8,
+      "arousal": 0.497,
+      "dominance": 0.534,
+      "valence": 0.491,
+      "arousal_thirds": [
+        0.482,
+        0.506,
+        0.494
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Ryan Castello": {
+      "words": 153,
+      "questions": 10,
+      "speech_min": 0.5,
+      "loudness_mean": 0.909,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 9.83,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 3.3,
+      "arousal": 0.502,
+      "dominance": 0.528,
+      "valence": 0.5,
+      "arousal_thirds": [
+        0.502,
+        null,
+        null
+      ],
+      "seconds_analyzed": 104.0
+    }
+  },
+  "call_summary": "Optimus (Ed Stockman, Max Riemer) pitched Transloop on replacing their Salesforce + ZoomInfo stack with a freight-specific go-to-market platform, differentiated by lane-level transportation data sourced from factoring companies and a new Highway partnership; Max demoed the CRM/Shipper IQ while Ed framed a 12-month prove-then-migrate plan tied to contract end dates. Transloop engaged substantively and singled out the lane data as most useful, but hedged hard on full replacement and leaned toward wanting just the data. The call ended on buyer-owned next steps (gather contract dates, internal sync, follow up) with no dated next meeting.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was highly responsive rather than scripted, opening by qualifying the Salesforce renewal and repeatedly reframing his pitch around the buyers' stated concerns (add-on vs. replacement, sunk cost in Salesforce); his arousal ran a full standard deviation above his own 21-call baseline (z=1.0), consistent with an engaged delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:01:46",
+              "quote": "when does your Salesforce contract renew?"
+            },
+            {
+              "timestamp": "00:13:09",
+              "quote": "if I'm if I'm in your shoes, I'm not going to want to pay for a third tool while I'm still paying for these other tools and have no idea if I could actually cancel those two"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it in one sentence: replace your Salesforce + ZoomInfo stack with a freight-specific go-to-market platform at the same price and higher quality, differentiated by unique lane-level transportation data. The 'same price, higher quality on all three fronts' framing is concrete.",
+          "evidence": [
+            {
+              "timestamp": "00:21:42",
+              "quote": "can we give you transportation data, CRM, and contact data for the same price as what you're paying today and have it be higher quality on all three fronts?"
+            },
+            {
+              "timestamp": "00:05:10",
+              "quote": "be the full go to market stack for brokers um which means we will give away a free CRM"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed tailored the pitch to Transloop's actual situation\u2014their six-figure Salesforce spend, ZoomInfo seats, and contract timeline\u2014and proposed a TMS integration to work their real customers and lanes rather than a generic feature pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:26:33",
+              "quote": "why don't we do an integration with your TMS so I know who your customers are and the lanes that you're currently moving"
+            },
+            {
+              "timestamp": "00:14:21",
+              "quote": "over the next 12 months, six months of it is going to be us proving concept and making sure that you feel comfortable in the CRM and then if you give us the green light in six months, then we're going to spend the next six months making sure that we migrate everything over"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked strong qualifying questions that surfaced contract size, seat count, and renewal timing, but he let the call close on a vague, buyer-owned 'we'll follow up' and never secured a dated next step\u2014despite the mid-July ZoomInfo decision being available to anchor one.",
+          "evidence": [
+            {
+              "timestamp": "00:21:42",
+              "quote": "is that a six-figure contract a year?"
+            },
+            {
+              "timestamp": "00:16:31",
+              "quote": "How many seats is that?"
+            },
+            {
+              "timestamp": "00:23:54",
+              "quote": "let me uh circle up with Ryan, Nick, and John here. And, um, we'll we'll follow up."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, secure a dated next step\u2014propose a specific meeting date anchored to their mid-July ZoomInfo decision instead of accepting an open-ended 'we'll circle up.'"
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max ran a smooth, tailored demo and stayed composed and responsive when Ed's connection froze, stepping in to cover the Highway partnership; his arousal built across the call thirds [0.432, 0.457, 0.497], and he read as positive rather than flat.",
+          "evidence": [
+            {
+              "timestamp": "00:22:47",
+              "quote": "Is Ed frozen for y'all?"
+            },
+            {
+              "timestamp": "00:07:24",
+              "quote": "what lanes y'all are servicing well, where you have capacity, where you're buying well"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max conveyed a listenable why-care for the Highway piece\u2014less legwork, with automated lane intelligence pushed to reps as leads\u2014though his framing leaned more feature-walkthrough than a crisp quantified claim.",
+          "evidence": [
+            {
+              "timestamp": "00:23:54",
+              "quote": "It's basically just going to be less leg work for us and our customers to like connect an API there and see like lane data"
+            },
+            {
+              "timestamp": "00:23:54",
+              "quote": "letting your reps know like, hey, this shipper here is moving this lane."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max grounded the demo in Transloop's own data and workflow\u2014their lanes, capacity, and buying, plus their existing Salesforce integration and ZoomInfo July timeline\u2014rather than a canned tour.",
+          "evidence": [
+            {
+              "timestamp": "00:07:24",
+              "quote": "how that sort of correlates with Transloop, you know, what lanes y'all are servicing well, where you have capacity, where you're buying well"
+            },
+            {
+              "timestamp": "00:22:47",
+              "quote": "we have integrations with Salesforce. So, just sort of depending on like end dates and stuff with Zoom info."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were mostly rapport and logistics rather than qualifying, and while he surfaced the July ZoomInfo timing he deferred the close entirely to Nick without proposing any concrete next step.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "Do y'all have any satellite offices or is it just"
+            },
+            {
+              "timestamp": "00:22:47",
+              "quote": "just sort of depending on like end dates and stuff with Zoom info. I think that was like the end of"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Turn the demo into discovery\u2014before each section, ask which of their specific lanes or accounts it should map to (e.g., 'which of these lanes matters most to your book?') instead of narrating features."
+    }
+  },
+  "buyers": {
+    "Nick Reasoner": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Explicit pain with incumbent, lowering switching resistance",
+          "timestamp": "00:19:34",
+          "quote": "I hate Salesforce, the passion. So, like the relationship there doesn't matter to me"
+        },
+        {
+          "signal": "Acknowledged value but scoped it narrowly to the data, not full replacement",
+          "timestamp": "00:23:54",
+          "quote": "I have a good understanding of the value here. Um, I think that lane data is what we could utilize the most right now, but let me uh circle up with Ryan, Nick, and John here."
+        },
+        {
+          "signal": "Owned a next step (gather contract dates) but with no date",
+          "timestamp": "00:19:34",
+          "quote": "I'll get you the contract in date and we could maybe work toward that as a good goal."
+        },
+        {
+          "signal": "Strong objection framing the switch as high-risk",
+          "timestamp": "00:20:40",
+          "quote": "leaving Salesforce is like leaving a TMS."
+        }
+      ]
+    },
+    "John Wilson": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Pushed the framing toward full replacement",
+          "timestamp": "00:13:09",
+          "quote": "for replacement."
+        },
+        {
+          "signal": "Set a concrete bar for switching (must turn off both tools for real savings)",
+          "timestamp": "00:16:31",
+          "quote": "unless it was like a significant cost savings here to turn both of those off and flip over to, you know, something that that replaces both."
+        },
+        {
+          "signal": "Deflected toward wanting only the data, not the platform",
+          "timestamp": "00:16:31",
+          "quote": "the data would be, you know, what we would be more interested in if we can get access to that and do the matching ourselves."
+        },
+        {
+          "signal": "Satisfaction with current contact tooling reduces urgency",
+          "timestamp": "00:18:20",
+          "quote": "our hit rate has been sexy with that"
+        }
+      ]
+    },
+    "Ryan Castello": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Participation limited to opening rapport; no substantive questions or input",
+          "timestamp": "00:00:00",
+          "quote": "What's up, Max? How are you?"
+        },
+        {
+          "signal": "Passive acknowledgment only when addressed",
+          "timestamp": "00:22:47",
+          "quote": "Yeah."
+        },
+        {
+          "signal": "No commitment or buyer-owned next step; ambiguous throwaway aside at close",
+          "timestamp": "00:28:20",
+          "quote": "Say yes."
+        }
+      ]
+    }
+  }
+}

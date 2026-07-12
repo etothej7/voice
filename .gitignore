@@ -8,3 +8,16 @@
 /doc/sphinx/_components
 /inst
 CMakeUserPresets.json
+.DS_Store
+
+# Bulk media lives in ~/optimus-voice-data; these are local symlinks to it
+/meetings
+analysis/recordings
+analysis/raw
+analysis/.cache
+
+# voice.db IS tracked (whole store travels with the repo) — but not its
+# WAL sidecars or logs
+analysis/voice.db-wal
+analysis/voice.db-shm
+analysis/*.log

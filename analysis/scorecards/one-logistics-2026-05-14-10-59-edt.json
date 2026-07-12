@@ -1,0 +1,143 @@
+{
+  "call": "one-logistics-2026-05-14-10-59-edt",
+  "source": {
+    "recording": "Optimus _ One Logistics  - 2026_05_14 10_59 EDT - Recording.mp4",
+    "notes": "Optimus _ One Logistics  - 2026_05_14 10_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 2161,
+      "questions": 21,
+      "speech_min": 8.4,
+      "loudness_mean": 0.965,
+      "loudness_cv": 0.698,
+      "f0_std_semitones": 8.21,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 39.9,
+      "arousal": 0.531,
+      "dominance": 0.566,
+      "valence": 0.503,
+      "arousal_thirds": [
+        0.544,
+        0.518,
+        0.52
+      ],
+      "seconds_analyzed": 171.0
+    },
+    "Victor Louis": {
+      "words": 3257,
+      "questions": 22,
+      "speech_min": 12.1,
+      "loudness_mean": 0.88,
+      "loudness_cv": 0.693,
+      "f0_std_semitones": 6.78,
+      "pace_peaks_per_sec": 3.87,
+      "talk_share_pct": 60.1,
+      "arousal": 0.499,
+      "dominance": 0.566,
+      "valence": 0.44,
+      "arousal_thirds": [
+        0.497,
+        0.495,
+        0.505
+      ],
+      "seconds_analyzed": 184.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) demoed a freight-brokerage-specific data platform to Victor Louis of One Logistics, a decisive TQL-veteran broker doing ~$40M/year who is actively unhappy with ZoomInfo and deciding on tooling imminently. Victor dominated the conversation (60% of words) and repeatedly praised the product, but pushed back hard on org-wide seat pricing, questioned whether the contact data actually beats ZoomInfo, and gated any larger spend on a CRM the platform doesn't yet have. The call closed on a concrete, time-boxed next step: Max sends a trial link for a week-long evaluation of contact-data quality, and Victor will circle back on a ~5-user, per-seat deal.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded genuinely engaged and responsive rather than scripted \u2014 he asked live follow-ups to Victor's exact points and reframed his pitch on the fly when Victor objected that reps wouldn't adopt the tool. Acoustics back this up: healthy pitch variation (8.21 st) and arousal/valence running above his own 44-call baseline (z \u2248 +0.9 / +0.8), so the low-key tone reflects an easygoing style, not disengagement.",
+          "evidence": [
+            {
+              "timestamp": "00:16:58",
+              "quote": "does that mean they're just too operationally heavy?"
+            },
+            {
+              "timestamp": "00:19:04",
+              "quote": "One is a lot of the wins that we see from Optimus are not early wins at least. The easiest wins are account management."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "The reason-to-care never crystallized into a crisp, quantified sentence \u2014 Max led with data-sourcing mechanics and price rather than outcome, and offered no ROI figure to justify the spend. Critically, the differentiator he emphasized (contact data) was one Victor immediately dismissed as a commodity, so the value did not land.",
+          "evidence": [
+            {
+              "timestamp": "00:13:32",
+              "quote": "So sticker price there is 1,500 a month and that is unlimited users, unlimited access."
+            },
+            {
+              "timestamp": "00:12:20",
+              "quote": "It's all all the s***'s linked in for the most part."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the pitch to One Logistics' cradle-to-grave model and existing-account base rather than delivering a generic tour, and tied the use case to their capacity/lane situation with a concrete backup-freight example.",
+          "evidence": [
+            {
+              "timestamp": "00:19:04",
+              "quote": "The easiest wins are account management."
+            },
+            {
+              "timestamp": "00:26:28",
+              "quote": "whoever you call Organic Valley and you say, \"Hey, Lefthar, Wisconsin, like we're we're going into there a few times a week. I see that y'all are moving out of there."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked productive, position-advancing questions (competitor terms, the reps' actual pitch) and landed a concrete, time-boxed next step. It was slightly buyer-controlled \u2014 no specific follow-up call was locked \u2014 but a real action and window were set.",
+          "evidence": [
+            {
+              "timestamp": "00:20:54",
+              "quote": "What's their sales pitch?"
+            },
+            {
+              "timestamp": "00:27:29",
+              "quote": "What did uh what did Zoom offer you?"
+            },
+            {
+              "timestamp": "00:30:50",
+              "quote": "I'm going to shoot you a link right after this call for to log in and you can just play around for the rest of the week."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Steer the trial toward your real differentiator \u2014 freight-specific shipper lane and volume data for expanding existing accounts ('you run these lanes, not those other five') \u2014 and get Victor to evaluate that, instead of letting him benchmark you on contact-data quality, which he already treats as a ZoomInfo-equivalent commodity where you can't win."
+    }
+  },
+  "buyers": {
+    "Victor Louis": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Buyer-owned next step: committed to personally run a trial to benchmark the data",
+          "timestamp": "00:30:50",
+          "quote": "I want to run through it myself to kind of cross reference to see how good the contacts are"
+        },
+        {
+          "signal": "Named a specific user to onboard immediately",
+          "timestamp": "00:28:59",
+          "quote": "I do have one user that I'd be interested in kicking this to like right away because he just started with me"
+        },
+        {
+          "signal": "Pricing objection \u2014 would stay with the incumbent at the quoted price for his org",
+          "timestamp": "00:27:29",
+          "quote": "I'd probably stay with Zoom Vin info at that for my organization."
+        },
+        {
+          "signal": "Larger commitment gated on a missing feature (CRM)",
+          "timestamp": "00:28:59",
+          "quote": "there was a CRM in it I'd be much more interested or I'd be, you know, I could justify a spend of that size."
+        }
+      ]
+    }
+  }
+}

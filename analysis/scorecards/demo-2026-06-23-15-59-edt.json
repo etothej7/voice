@@ -1,0 +1,139 @@
+{
+  "call": "demo-2026-06-23-15-59-edt",
+  "source": {
+    "recording": "Optimus demo - 2026_06_23 15_59 EDT - Recording.mp4",
+    "notes": "Optimus demo - 2026_06_23 15_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Jacob York": {
+      "words": 987,
+      "questions": 13,
+      "speech_min": 3.5,
+      "loudness_mean": 0.879,
+      "loudness_cv": 0.642,
+      "f0_std_semitones": 8.81,
+      "pace_peaks_per_sec": 4.01,
+      "talk_share_pct": 34.5,
+      "arousal": 0.397,
+      "dominance": 0.465,
+      "valence": 0.465,
+      "arousal_thirds": [
+        0.378,
+        0.396,
+        0.422
+      ],
+      "seconds_analyzed": 185.0
+    },
+    "Max Riemer": {
+      "words": 1873,
+      "questions": 10,
+      "speech_min": 7.0,
+      "loudness_mean": 1.014,
+      "loudness_cv": 0.56,
+      "f0_std_semitones": 9.92,
+      "pace_peaks_per_sec": 4.35,
+      "talk_share_pct": 65.5,
+      "arousal": 0.446,
+      "dominance": 0.52,
+      "valence": 0.471,
+      "arousal_thirds": [
+        0.442,
+        0.433,
+        0.463
+      ],
+      "seconds_analyzed": 181.0
+    }
+  },
+  "call_summary": "Max Riemer demoed Optimus\u2014a 'freight-specific ZoomInfo' that surfaces real lane data from scanned BOLs, PODs, and invoices via factoring partners\u2014to Jacob York, a solo HD Agency freight broker referred in by colleague Levi West. Jacob engaged with sharp questions and live-tested his own small-account customers, but the demo defaulted to enterprise names (Walmart, Nucore) and surfaced a real limitation for Jacob's segment: thin contact data on small/mid companies. Jacob left shopping around against Apollo, not ready to decide, and Max closed with only a passive free-trial offer and no dated next step.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was responsive and candid throughout\u2014directly answering objections and volunteering platform weaknesses rather than reciting a script; acoustically his energy was very steady (loudness CV z -2.2) and expressive (pitch z +0.9), calmer than his own baseline (arousal z -1.2) but engaged, so the low-key tone does not warrant a markdown.",
+          "evidence": [
+            {
+              "timestamp": "00:11:14",
+              "quote": "You have access to everything. All the paid subscriptions are full access."
+            },
+            {
+              "timestamp": "00:15:52",
+              "quote": "I think contacts is going to be a drawback on the small companies"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it in one sentence: Optimus gives freight agents real, recent lane data so their cold outreach cites an exact lane a shipper moved instead of the generic 'we have capacity' pitch buyers hear all day.",
+          "evidence": [
+            {
+              "timestamp": "00:04:21",
+              "quote": "I always joke it's like a freight specific zoom info because we have contacts, emails, phone numbers"
+            },
+            {
+              "timestamp": "00:06:34",
+              "quote": "so that's sort of the goal here is to give you something to make your email stand out, your cold call stand out"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tailored the pitch to Jacob's Florida geography and named him personally in an example email, though the live demo defaulted to enterprise accounts (Walmart, Nucore) before Jacob had to steer it toward the small/mid segment he actually targets.",
+          "evidence": [
+            {
+              "timestamp": "00:05:37",
+              "quote": "if you're really good at, you know, outbound Florida to the northeast, you know, let's filter out, you know, guys that run that lane"
+            },
+            {
+              "timestamp": "00:09:50",
+              "quote": "just to say, you know, Jacob York does really good outbound floor to the Northeast. Cross reference that data with what we have and then craft an email out for that specific value point."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked useful qualifying questions and uncovered that Jacob lost a major customer and uses no tools, but after Jacob said he wasn't ready to decide, the call ended with a passive trial offer and no scheduled, dated follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:02:58",
+              "quote": "I'm guessing you're actively selling, actively booking trucks, the whole whole nine yards right now."
+            },
+            {
+              "timestamp": "00:16:53",
+              "quote": "There is a free trial if you just want to click around some more on the site. You don't have to put in a credit card or anything, but you can do that."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the demo, set up the free trial live on the call and book a specific dated follow-up to review what Jacob finds\u2014don't close on 'hit me up if you have questions.'"
+    }
+  },
+  "buyers": {
+    "Jacob York": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Probed pricing/access model with depth, comparing to a competitor he'd just spoken to",
+          "timestamp": "00:11:14",
+          "quote": "Is there any sort of thing like that with Optimus or once you're in the platform you have access to everything."
+        },
+        {
+          "signal": "Actively engaged by live-testing the platform against his own customer accounts",
+          "timestamp": "00:14:28",
+          "quote": "can I give you one and see if it pops up? It's called integrated"
+        },
+        {
+          "signal": "Raised a real objection central to his business\u2014weak data on the small companies he targets",
+          "timestamp": "00:12:20",
+          "quote": "he mentioned that, you know, the only drawback that he thought with Optimus was there's not a whole lot of uh inputs for like smaller companies"
+        },
+        {
+          "signal": "Explicitly non-committal and comparison-shopping against Apollo",
+          "timestamp": "00:16:53",
+          "quote": "I'm shopping around a little bit, so um not quite ready to make a decision today, but platform looks nice."
+        }
+      ]
+    }
+  }
+}

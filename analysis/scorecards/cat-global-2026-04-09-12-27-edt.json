@@ -1,0 +1,271 @@
+{
+  "call": "cat-global-2026-04-09-12-27-edt",
+  "source": {
+    "recording": "Optimus _ CAT Global - 2026_04_09 12_27 EDT - Recording.mp4",
+    "notes": "Optimus _ CAT Global - 2026_04_09 12_27 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Dom": {
+      "words": 189,
+      "questions": 0,
+      "speech_min": 0.9,
+      "loudness_mean": 0.758,
+      "loudness_cv": 0.727,
+      "f0_std_semitones": 6.98,
+      "pace_peaks_per_sec": 3.64,
+      "talk_share_pct": 2.7,
+      "arousal": 0.524,
+      "dominance": 0.566,
+      "valence": 0.577,
+      "arousal_thirds": [
+        0.524,
+        null,
+        null
+      ],
+      "seconds_analyzed": 67.0
+    },
+    "Ed Stockman": {
+      "words": 2919,
+      "questions": 15,
+      "speech_min": 12.3,
+      "loudness_mean": 0.768,
+      "loudness_cv": 0.71,
+      "f0_std_semitones": 7.01,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 41.4,
+      "arousal": 0.525,
+      "dominance": 0.566,
+      "valence": 0.582,
+      "arousal_thirds": [
+        0.567,
+        0.536,
+        0.49
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Max Riemer": {
+      "words": 817,
+      "questions": 8,
+      "speech_min": 2.9,
+      "loudness_mean": 0.763,
+      "loudness_cv": 0.731,
+      "f0_std_semitones": 7.76,
+      "pace_peaks_per_sec": 3.9,
+      "talk_share_pct": 11.6,
+      "arousal": 0.426,
+      "dominance": 0.478,
+      "valence": 0.502,
+      "arousal_thirds": [
+        0.565,
+        null,
+        0.395
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Shawn": {
+      "words": 3118,
+      "questions": 34,
+      "speech_min": 12.1,
+      "loudness_mean": 0.83,
+      "loudness_cv": 0.717,
+      "f0_std_semitones": 7.48,
+      "pace_peaks_per_sec": 3.75,
+      "talk_share_pct": 44.3,
+      "arousal": 0.548,
+      "dominance": 0.576,
+      "valence": 0.619,
+      "arousal_thirds": [
+        0.557,
+        0.532,
+        0.611
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Optimus's founder/CEO Ed Stockman and AE Max Riemer pitched their data-and-AI freight-prospecting platform to CAT Global's Columbus brokerage team \u2014 Director of Sales Shawn and his rep Dom. After roughly a third of the call spent on soccer/career rapport, they demoed lane-mapping, contact, and overlap features against CAT's real PetSmart lane and agreed to a three-user, 60-credit trial starting Monday. Shawn was warm but repeatedly flagged he has no buying authority (decisions come from corporate), so the deal hinges on a warm handoff, while Dom \u2014 the actual frontline user \u2014 asked the sharpest evaluative questions.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was consistently responsive and conversational rather than scripted, engaging directly with the buyers' backgrounds and steering the demo off their real accounts; his warmth ran well above his own baseline (valence z +2.3), with only a mild arousal fade late in the call.",
+          "evidence": [
+            {
+              "timestamp": "00:28:35",
+              "quote": "I love these examples. I like talking through the real world stuff."
+            },
+            {
+              "timestamp": "00:23:24",
+              "quote": "Pets Smart's the number one ship right now. Yeah. I I wanted to make sure that that data was right."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed framed a clear, concrete why-care \u2014 more data and a custom value prop before the call, tied to a fast ROI story where account managers pay the system back in the first week.",
+          "evidence": [
+            {
+              "timestamp": "00:11:21",
+              "quote": "how do we help companies make more money and close more shippers"
+            },
+            {
+              "timestamp": "00:18:03",
+              "quote": "you do that with your account management team for the first week and the system's paid for"
+            },
+            {
+              "timestamp": "00:28:35",
+              "quote": "Optimus' goal is to be able to give your reps far more data and a custom value proposition"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He tailored the pitch to CAT's structure and used their live business \u2014 confirming PetSmart (their just-won, top shipper) and speaking to their hybrid account-management model and Mastery TMS.",
+          "evidence": [
+            {
+              "timestamp": "00:23:24",
+              "quote": "Pets Smart's the number one ship right now."
+            },
+            {
+              "timestamp": "00:18:03",
+              "quote": "For the amount of money that we're charging you guys, you do that with your account management team for the first week and the system's paid for."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked productive qualifying questions (revenue, headcount, account ownership, TMS) and landed a dated next step, though he never converted the discovery that Shawn can't buy into a path to the corporate decision-maker.",
+          "evidence": [
+            {
+              "timestamp": "00:19:58",
+              "quote": "what what does the brokerage do in annual revenue roughly?"
+            },
+            {
+              "timestamp": "00:16:18",
+              "quote": "How many how many sales people?"
+            },
+            {
+              "timestamp": "00:37:08",
+              "quote": "Max, just set them up with um like 60 credits, 20 a piece between the three of them"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Once Shawn told you buying decisions come only from corporate, don't stop at a trial with a non-buyer \u2014 secure a concrete, dated next step to get in front of the corporate decision-maker (a named intro or joint call) before investing the trial."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was responsive and let the buyers drive the demo with their own lane, so this is not a tone penalty; his energy did run notably below his own baseline (arousal z -1.7, fading to the end) and the demo needed several corrections from Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:22:24",
+              "quote": "Is there like a like a specific lane you'd want to look up?"
+            },
+            {
+              "timestamp": "00:12:23",
+              "quote": "could you give us sort of like the the quick overhead of cat"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "During the demo Max mostly narrated the UI and hedged the payoff, leaving Ed to supply the actual 'why this matters'; from Max's words alone a neutral listener would struggle to state the one-sentence reason to care.",
+          "evidence": [
+            {
+              "timestamp": "00:24:48",
+              "quote": "you know start sourcing back all opportunities if that's uh part of the game plan there for your carriers"
+            },
+            {
+              "timestamp": "00:26:04",
+              "quote": "All the inbound points into the DFW area there."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max grounded the demo in CAT's own request, filtering Dom's Fort Worth\u2013to\u2013Bethel PA lane for PetSmart rather than a generic canned example.",
+          "evidence": [
+            {
+              "timestamp": "00:22:24",
+              "quote": "Is there like a like a specific lane you'd want to look up?"
+            },
+            {
+              "timestamp": "00:23:24",
+              "quote": "I'm going to do within 50 miles. So we filter Fort Worth to PA 236 companies"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max owned the mechanics of moving forward \u2014 proposing trial options and pinning down a start date and follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:36:16",
+              "quote": "I told Sean we could do three days of unlimited or like a week long with credits"
+            },
+            {
+              "timestamp": "00:37:08",
+              "quote": "you think tomorrow is a good start date just so you can have a full day whenever you start?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Rehearse the demo so every screen opens with a one-sentence 'here's why this matters for CAT's lanes/carriers' before you show the feature, instead of narrating the UI and leaving the value framing to Ed."
+    }
+  },
+  "buyers": {
+    "Shawn": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Warmed from initial skepticism to willingness to try",
+          "timestamp": "00:18:56",
+          "quote": "at first I think I think you guys called me a couple times. I was like, \"Ah, I don't think this really super valuable for us.\" Um but, uh I mean, the more I kind of thought about it"
+        },
+        {
+          "signal": "Explicitly limited authority \u2014 caps his commitment to a warm handoff",
+          "timestamp": "00:16:18",
+          "quote": "my power is basically limited to I can give you a very warm, you know, handoff essentially"
+        },
+        {
+          "signal": "Self-excludes as an active user, diluting his own buy-in",
+          "timestamp": "00:37:08",
+          "quote": "with me not using it quite as much as the other guys. Um, I don't do a lot of direct selling anymore"
+        },
+        {
+          "signal": "Product-usage question showing genuine consideration of trialing it",
+          "timestamp": "00:36:16",
+          "quote": "Do we have a a limit on the amount of like searches per day type of thing"
+        }
+      ]
+    },
+    "Dom": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Sharp differentiation question probing real-world sales edge",
+          "timestamp": "00:28:35",
+          "quote": "are there any other tools that you guys can provide that gives us like salespeople like sort of an edge like when you go into a call"
+        },
+        {
+          "signal": "Probed depth of the data to judge usefulness for his workflow",
+          "timestamp": "00:30:45",
+          "quote": "do we have the names of those companies of like their suppliers and their customers or is it just just the lane?"
+        },
+        {
+          "signal": "Recognized value in his own words",
+          "timestamp": "00:30:45",
+          "quote": "Okay, because those are also potential customers as"
+        },
+        {
+          "signal": "Brought a live, high-stakes account to test against",
+          "timestamp": "00:23:24",
+          "quote": "we just got a big award from PetSmart and uh it's uh not ideal timing"
+        }
+      ]
+    }
+  }
+}

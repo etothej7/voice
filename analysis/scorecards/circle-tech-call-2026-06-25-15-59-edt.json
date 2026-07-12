@@ -1,0 +1,295 @@
+{
+  "call": "circle-tech-call-2026-06-25-15-59-edt",
+  "source": {
+    "recording": "Optimus _ Circle (tech call)  - 2026_06_25 15_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Circle (tech call)  - 2026_06_25 15_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Alec Stopher": {
+      "words": 12,
+      "questions": 0,
+      "speech_min": 0.0,
+      "loudness_mean": null,
+      "loudness_cv": null,
+      "f0_std_semitones": null,
+      "pace_peaks_per_sec": null,
+      "talk_share_pct": 0.2
+    },
+    "Ed Stockman": {
+      "words": 4180,
+      "questions": 30,
+      "speech_min": 18.8,
+      "loudness_mean": 0.852,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 8.48,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 60.2,
+      "arousal": 0.512,
+      "dominance": 0.571,
+      "valence": 0.523,
+      "arousal_thirds": [
+        0.519,
+        0.531,
+        0.492
+      ],
+      "seconds_analyzed": 167.0
+    },
+    "Max Riemer": {
+      "words": 206,
+      "questions": 3,
+      "speech_min": 0.7,
+      "loudness_mean": 1.08,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 9.96,
+      "pace_peaks_per_sec": 4.6,
+      "talk_share_pct": 3.0,
+      "arousal": 0.461,
+      "dominance": 0.521,
+      "valence": 0.407,
+      "arousal_thirds": [
+        0.444,
+        null,
+        0.513
+      ],
+      "seconds_analyzed": 70.0
+    },
+    "Philip Barnes": {
+      "words": 603,
+      "questions": 11,
+      "speech_min": 1.9,
+      "loudness_mean": 0.857,
+      "loudness_cv": 0.676,
+      "f0_std_semitones": 6.93,
+      "pace_peaks_per_sec": 4.07,
+      "talk_share_pct": 8.7,
+      "arousal": 0.502,
+      "dominance": 0.553,
+      "valence": 0.463,
+      "arousal_thirds": [
+        0.499,
+        0.493,
+        0.515
+      ],
+      "seconds_analyzed": 144.0
+    },
+    "Robert Fortmeyer": {
+      "words": 1295,
+      "questions": 7,
+      "speech_min": 5.0,
+      "loudness_mean": 0.912,
+      "loudness_cv": 0.697,
+      "f0_std_semitones": 8.59,
+      "pace_peaks_per_sec": 4.24,
+      "talk_share_pct": 18.6,
+      "arousal": 0.451,
+      "dominance": 0.518,
+      "valence": 0.537,
+      "arousal_thirds": [
+        0.429,
+        0.477,
+        0.444
+      ],
+      "seconds_analyzed": 188.0
+    },
+    "Toby Pasquale": {
+      "words": 653,
+      "questions": 6,
+      "speech_min": 2.3,
+      "loudness_mean": 0.772,
+      "loudness_cv": 0.714,
+      "f0_std_semitones": 6.73,
+      "pace_peaks_per_sec": 4.31,
+      "talk_share_pct": 9.4,
+      "arousal": 0.447,
+      "dominance": 0.518,
+      "valence": 0.468,
+      "arousal_thirds": [
+        0.433,
+        0.465,
+        null
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "This was an integration/tech call between Optimus (Ed Stockman, Max Riemer, Toby Pasquale) and Circle (Robert Fortmeyer, Philip Barnes, Alec Stopher) to scope HubSpot and TMS integrations ahead of a next-day admin kickoff. The team aligned on a master-API-key HubSpot integration using default fields and a task-push (not data-export) model, and debated feeding TMS data via the existing Highway integration versus a direct build pending internal data-sharing approval. Ed also surfaced strong interest in a bundled call-coaching feature and, near the end, discovered the deal scope was ~55% of Circle rather than the ~80% he had assumed.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was consistently responsive, adapting his pitch when Robert said Circle is organized around individuals rather than corporate lane strategy, and he probed the audience's prior exposure before deciding how to run the kickoff rather than reciting a fixed script. Acoustically he was animated versus his own baseline (pitch variation z +0.9, arousal steady at 0.512) with no signs of flat script-reading.",
+          "evidence": [
+            {
+              "timestamp": "00:21:29",
+              "quote": "That's fine. We'll do that either way for you. Like it doesn't have to necessarily be a corporate strategy"
+            },
+            {
+              "timestamp": "00:32:26",
+              "quote": "Do these attendees have any idea what Optimus does? Have these folks been in the platform?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed framed a concrete, one-sentence-able value prop: for the same spend as ZoomInfo, Circle keeps the contact data and also gets lane intelligence, teed-up tasks, coaching, and playbooks. The claim ties price parity to added, itemized value.",
+          "evidence": [
+            {
+              "timestamp": "00:28:18",
+              "quote": "for the same amount of money we get the email address we also get all the lane data we get tasks teed up we get all of this other stuff packaged on top of it we get coaching and playbooks and like then that just becomes a no-brainer for us"
+            },
+            {
+              "timestamp": "00:06:50",
+              "quote": "we could also be a replacement for Zoom info because we do have all of the contacts and emails and mobile phone numbers"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was heavily tailored to Circle, naming their actual accounts and lanes, using a Ford/Detroit upsell example, and referencing their Transport Pro TMS and existing Highway relationship. This was clearly not a generic pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:24:44",
+              "quote": "things I see on your side already, Niagara, City Brewing, Aronic, Tyson, Pets Smart, Costco, Whirlpool, Graphic Packaging, Walmart"
+            },
+            {
+              "timestamp": "00:20:24",
+              "quote": "We should be targeting automotive companies out of Detroit because we already have Ford as a client"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked many productive qualifying questions (30 by count) about their platform exposure, data, and TMS, and drove toward concrete dated next steps: a next-day admin kickoff plus an owner-assigned decision on Highway vs. direct integration. He closed loops on data scope and API-key handoff.",
+          "evidence": [
+            {
+              "timestamp": "00:02:18",
+              "quote": "Have you been debriefed? Have you seen any of the platform?"
+            },
+            {
+              "timestamp": "00:35:45",
+              "quote": "maybe even a 15minute just refresh call"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the next scoping conversation, confirm in writing exactly which P&Ls and headcount your quote covers \u2014 you learned mid-call the deal is ~55% of Circle, not the ~80% you'd assumed \u2014 so pricing and rollout expectations don't drift."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "In his limited speaking time Max was attentive and responsive \u2014 opening with genuine, on-topic rapport and later offering a practical admin-rollout suggestion that fit the workflow being discussed. His acoustic flatness versus baseline (valence z -1.9, arousal z -0.9) is a tone signal only and does not outweigh his responsive contributions.",
+          "evidence": [
+            {
+              "timestamp": "00:00:01",
+              "quote": "I'm glad Ed is not one to do that. We did a lot of those at my prior employer where it's just like schedule meetings every week and then absolutely nothing out of it"
+            },
+            {
+              "timestamp": "00:35:45",
+              "quote": "If there's like a handful of like the sales manager, sales leaders, we could make admins and they could invite their team"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max (3% talk share) never articulated why Circle should care about Optimus; his only substantive contribution was admin logistics, so a neutral listener could not derive a value prop from anything he said.",
+          "evidence": [
+            {
+              "timestamp": "00:35:45",
+              "quote": "we could make admins and they could invite their team"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max offered no prospect-tailored pitch tied to Circle's freight, lanes, capacity, or a buyer's role; his input was confined to generic rollout mechanics rather than Circle-specific selling.",
+          "evidence": [
+            {
+              "timestamp": "00:36:52",
+              "quote": "we don't want one admin to invite, you know, the whole organization in"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max asked a productive operational question about the admin short-list that directly advanced the concrete next step \u2014 setting up multiple admins for the next-day kickoff.",
+          "evidence": [
+            {
+              "timestamp": "00:35:45",
+              "quote": "I was going to ask Robert if he has like a like a short list because if there's multiple different people, we don't want one admin to invite, you know, the whole organization in"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Own a substantive segment of the next call \u2014 for example, lead discovery with Alec on Circle's existing call-coaching tool \u2014 instead of limiting your input to rapport and admin logistics."
+    }
+  },
+  "buyers": {
+    "Robert Fortmeyer": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Owns and commits to a concrete next step (internal data-sharing approval)",
+          "timestamp": "00:24:44",
+          "quote": "let me double check with uh Eric and Chad on it"
+        },
+        {
+          "signal": "Sharp, decision-oriented question comparing integration paths",
+          "timestamp": "00:22:19",
+          "quote": "what would be the advantage of using highway for this versus just feeding the data"
+        },
+        {
+          "signal": "Drives the deal forward with a self-owned commitment and dated kickoff",
+          "timestamp": "00:39:21",
+          "quote": "I will get you an answer here shortly on on highway and then we'll get the integration rolling"
+        },
+        {
+          "signal": "Raises a real pricing/scope concern (engaged buyer scrutiny, not disengagement)",
+          "timestamp": "00:39:21",
+          "quote": "the proposal we're we're on now is is expected usage of only half of Circle getting the benefit of the usage"
+        }
+      ]
+    },
+    "Philip Barnes": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Positive read on the technical fit for his domain",
+          "timestamp": "00:16:32",
+          "quote": "I'm not hearing anything that's I'm any flags on my perspective"
+        },
+        {
+          "signal": "Buyer-owned action to enable the integration",
+          "timestamp": "00:39:21",
+          "quote": "I'll get the key over to you"
+        },
+        {
+          "signal": "Conditional objection \u2014 value comparison to ZoomInfo not yet apples-to-apples",
+          "timestamp": "00:29:16",
+          "quote": "like the company hierarchy, the orc structure that we get from them"
+        },
+        {
+          "signal": "Detailed implementation questions, but scoped to execution rather than buying intent",
+          "timestamp": "00:10:00",
+          "quote": "do you have a native integration?"
+        }
+      ]
+    },
+    "Alec Stopher": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Near-total silence \u2014 only passive acknowledgment of familiarity, 0 questions, 0.2% talk share",
+          "timestamp": "00:02:18",
+          "quote": "For the most part."
+        },
+        {
+          "signal": "Passive, non-committal agreement to compare coaching notes offline (and he already has a competing internal POC)",
+          "timestamp": "00:32:26",
+          "quote": "sure. Yeah, can do."
+        }
+      ]
+    }
+  }
+}

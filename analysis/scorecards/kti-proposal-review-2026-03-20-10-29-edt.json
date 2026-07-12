@@ -1,0 +1,139 @@
+{
+  "call": "kti-proposal-review-2026-03-20-10-29-edt",
+  "source": {
+    "recording": "Optimus _ KTI (proposal review)  - 2026_03_20 10_29 EDT - Recording.mp4",
+    "notes": "Optimus _ KTI (proposal review)  - 2026_03_20 10_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 694,
+      "questions": 7,
+      "speech_min": 2.1,
+      "loudness_mean": 0.795,
+      "loudness_cv": 0.7,
+      "f0_std_semitones": 6.23,
+      "pace_peaks_per_sec": 3.82,
+      "talk_share_pct": 79.2,
+      "arousal": 0.42,
+      "dominance": 0.43,
+      "valence": 0.396,
+      "arousal_thirds": [
+        0.419,
+        0.502,
+        0.299
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Stephany": {
+      "words": 182,
+      "questions": 2,
+      "speech_min": 0.7,
+      "loudness_mean": 0.828,
+      "loudness_cv": 0.688,
+      "f0_std_semitones": 5.36,
+      "pace_peaks_per_sec": 4.14,
+      "talk_share_pct": 20.8,
+      "arousal": 0.438,
+      "dominance": 0.495,
+      "valence": 0.408,
+      "arousal_thirds": [
+        null,
+        null,
+        0.438
+      ],
+      "seconds_analyzed": 55.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) joined a scheduled proposal/trial-review call with Stephany (KTI), but Stephany had not accessed the trial because her team was buried in fuel-driven repricing work across every account and lane. Max was empathetic and low-pressure, quickly agreeing to end the trial and revisit 'in a couple weeks' \u2014 but he never reinforced value, never connected Optimus to the pricing pain Stephany described, and settled for a vague, undated follow-up. The call closed with a soft verbal agreement ('sounds like a deal') and no buyer-owned commitment.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and clearly prepared \u2014 he pulled up the KTI account and named the specific reps, and he adapted naturally to Stephany's news rather than reciting a script. His energy faded over the call (arousal by thirds 0.419 -> 0.502 -> 0.299, and roughly -2 SD vs his own baseline on pitch variation, arousal, and valence), but per the tone rule he is not marked down for that alone.",
+          "evidence": [
+            {
+              "timestamp": "00:05:09",
+              "quote": "were none of the refs able to log in either or what were they what were they doing? Looks like Carlos, Jameson, and Jordan."
+            },
+            {
+              "timestamp": "00:05:09",
+              "quote": "No, it's all good. I mean, you got to prioritize the business first."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated what Optimus does or why KTI should care \u2014 a neutral listener could not explain the value from this call. He even left the buyer to determine worth on her own without stating a single concrete benefit.",
+          "evidence": [
+            {
+              "timestamp": "00:07:25",
+              "quote": "we'll just revisit in a couple weeks when you have have a chance uh to really dive in and see if it's if it's something worth investing in."
+            },
+            {
+              "timestamp": "00:07:25",
+              "quote": "Um, well, if we want, I mean, we can revisit in like a month."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Stephany handed him a textbook pain point \u2014 repricing every account and lane on each fuel spike \u2014 and Max only acknowledged it rather than connecting Optimus to it. The pitch was never tailored to KTI's freight, lanes, or pricing workflow.",
+          "evidence": [
+            {
+              "timestamp": "00:06:29",
+              "quote": "we had to go through every single account, every single lane, you know, and make pricing adjustments and push backs from the customers on it and just round and round and round."
+            },
+            {
+              "timestamp": "00:06:29",
+              "quote": "Gotcha. Yeah, that makes sense."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "His questions were mostly logistical or social rather than advancing the deal, and he closed on a vague, undated next step ('a couple weeks') while agreeing to shut off the trial \u2014 removing the very thing that could create value.",
+          "evidence": [
+            {
+              "timestamp": "00:06:29",
+              "quote": "What's he on? Is he a honeyman or something?"
+            },
+            {
+              "timestamp": "00:07:25",
+              "quote": "I'll uh I'll make a note to uh follow up with you in a couple weeks and see if we can work something out."
+            }
+          ]
+        }
+      },
+      "coaching_action": "When the buyer names a live pain (here, repricing every lane and account on each fuel spike), tie Optimus to it in one concrete sentence and propose keeping the trial open with a specific date to reconvene \u2014 do not accept a vague postponement or kill the trial before value has landed."
+    }
+  },
+  "buyers": {
+    "Stephany": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Never engaged with the trial despite it being sent \u2014 low priority",
+          "timestamp": "00:00:00",
+          "quote": "And I haven't even got a chance to to use the new uh trial that you sent over to me. I haven't even got to click on that yet."
+        },
+        {
+          "signal": "Deflected the meeting's purpose entirely",
+          "timestamp": "00:05:09",
+          "quote": "But um I don't really have anything for you."
+        },
+        {
+          "signal": "Mild genuine curiosity, but aspirational rather than committed",
+          "timestamp": "00:07:25",
+          "quote": "I know it seems pretty exciting that you guys made some changes and I was pretty eager to see those."
+        },
+        {
+          "signal": "Agreed to postpone with only a soft verbal close and no buyer-owned or dated next step",
+          "timestamp": "00:07:25",
+          "quote": "That sounds like a deal."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "call": "fetch-2026-05-01-09-59-edt",
+  "source": {
+    "recording": "Optimus _ Fetch  - 2026_05_01 09_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Fetch  - 2026_05_01 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Brett Lankford": {
+      "words": 4512,
+      "questions": 11,
+      "speech_min": 17.6,
+      "loudness_mean": 1.016,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 7.9,
+      "pace_peaks_per_sec": 3.97,
+      "talk_share_pct": 54.9,
+      "arousal": 0.536,
+      "dominance": 0.591,
+      "valence": 0.518,
+      "arousal_thirds": [
+        0.561,
+        0.511,
+        0.533
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Ed Stockman": {
+      "words": 3174,
+      "questions": 11,
+      "speech_min": 12.3,
+      "loudness_mean": 1.02,
+      "loudness_cv": 0.666,
+      "f0_std_semitones": 8.02,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 38.6,
+      "arousal": 0.518,
+      "dominance": 0.573,
+      "valence": 0.513,
+      "arousal_thirds": [
+        0.554,
+        0.475,
+        0.531
+      ],
+      "seconds_analyzed": 169.0
+    },
+    "Max Riemer": {
+      "words": 533,
+      "questions": 5,
+      "speech_min": 2.1,
+      "loudness_mean": 1.013,
+      "loudness_cv": 0.684,
+      "f0_std_semitones": 9.13,
+      "pace_peaks_per_sec": 3.95,
+      "talk_share_pct": 6.5,
+      "arousal": 0.547,
+      "dominance": 0.549,
+      "valence": 0.504,
+      "arousal_thirds": [
+        0.553,
+        0.536,
+        null
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Renewal/performance-review call between Optimus (Ed Stockman, Max Riemer) and Fetch Freight (Brett Lankford). Brett relayed his team's feedback \u2014 weak contact-data completeness, an unwieldy industry list, and a perception that it 'still feels like a beta test' \u2014 but affirmed the lane intelligence as Optimus's core value; Ed argued much of the feedback likely predates the March/April data overhaul and demoed already-improving commodity/industry data. The parties agreed to a 6-month extension at the same 50% discount, opened an Mcloud API integration workstream, and Ed floated an SDR-style commission on new business Optimus helps close, with Brett owning follow-ups for Monday/Tuesday.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed reacted directly to Brett's specific feedback rather than reciting a script, probing the timeline of the negative data to test whether it predated recent fixes; acoustics support this (pitch variation 8.02 st, steady arousal, pace slightly slower than his own baseline \u2014 measured, not rushed).",
+          "evidence": [
+            {
+              "timestamp": "00:06:24",
+              "quote": "I'm wondering what timeline the majority of this feedback was coming from."
+            },
+            {
+              "timestamp": "00:08:28",
+              "quote": "if you could ask and email us back on when that 150 sample size was collected, that would be super helpful."
+            },
+            {
+              "timestamp": "00:09:26",
+              "quote": "we spent um we spent a whole bunch of time, money, and effort like March and April in really cleaning up the contact data, really enriching profiles."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed made the value concrete and quantified \u2014 contact search returns eight data providers combined with lane intelligence, plus specific proof points (data volume tripling, commodities narrowing 20\u21923), so a neutral listener could explain why Fetch benefits.",
+          "evidence": [
+            {
+              "timestamp": "00:10:40",
+              "quote": "when you click search contacts, you're actually getting Zoom Info plus seven other ones."
+            },
+            {
+              "timestamp": "00:16:23",
+              "quote": "Ford's uh, commodities that they shipped have gone from like 20 to three."
+            },
+            {
+              "timestamp": "00:18:32",
+              "quote": "the amount of data that we get will probably triple."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to Fetch specifically \u2014 their Mcloud API environment, their data and lanes, and an incentive model built around finding the shippers Fetch is good at serving.",
+          "evidence": [
+            {
+              "timestamp": "00:34:42",
+              "quote": "we'll take a look at your data. We'll figure out what you're good at. We'll figure out the shippers that move those lanes."
+            },
+            {
+              "timestamp": "00:23:08",
+              "quote": "Cool. Um, do you have their API?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked productive questions and drove several concrete next steps \u2014 a scoped API review with engineering, the timeline data request, and a new commission proposal \u2014 all of which landed as dated follow-ups for Monday/Tuesday.",
+          "evidence": [
+            {
+              "timestamp": "00:24:03",
+              "quote": "let me talk to our head of engineering, Toby, um, and figure out when we can get uh, a quick 30 minute overview uh, on the fields and the specifics."
+            },
+            {
+              "timestamp": "00:20:33",
+              "quote": "if you can ping us back with the timeline of that that specific like that 150 sample size that um the"
+            },
+            {
+              "timestamp": "00:34:42",
+              "quote": "socialize the appetite on a commission where you could incentivize us on new business closed."
+            }
+          ]
+        }
+      },
+      "coaching_action": "On the next call, bring the commission/SDR incentive as a specific proposed structure \u2014 a concrete percentage range and one worked example deal \u2014 so the buyer reacts to real numbers and can decide, instead of hearing 'socialize the appetite' and deferring the whole shape of the deal to an internal conversation."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Though he spoke little (~2.1 min), Max's contributions were responsive and well-timed \u2014 he surfaced the TMS/email integration agenda item and added the personalized 'number one customer' note; acoustics show him notably more animated than his own baseline (arousal z 1.4), so tone is not a concern.",
+          "evidence": [
+            {
+              "timestamp": "00:21:20",
+              "quote": "I know we um we talked about the TMS and email integrations."
+            },
+            {
+              "timestamp": "00:40:36",
+              "quote": "I was looking at I was going like finding the deals and y'all were the first one in HubSpot."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated why Fetch should care; his airtime was confined to process (integrations, contract, scheduling) and rapport, leaving all value framing to Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:21:20",
+              "quote": "I know we um we talked about the TMS and email integrations."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "His limited input was tied to Fetch's actual situation \u2014 their Mcloud integration and their specific industry-granularity pain point (food & beverage sub-categories).",
+          "evidence": [
+            {
+              "timestamp": "00:15:37",
+              "quote": "I think I think the industries would be a pretty because I kind of agree with Amed like if you if you're searching for food and be there's like 10 different food and beverage"
+            },
+            {
+              "timestamp": "00:21:20",
+              "quote": "I know we um we talked about the TMS and email integrations."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max opened the TMS/email integration as a 6-month workstream \u2014 a productive prompt that became a concrete next step (API docs and a Toby review) \u2014 and helped close the loop on scheduling the follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:21:20",
+              "quote": "I know we um we talked about the TMS and email integrations."
+            },
+            {
+              "timestamp": "00:44:19",
+              "quote": "sounds like uh early next week Brett will uh touch base"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Own one substantive moment per call: prepare and deliver a specific, quantified value point (e.g., a concrete result Optimus produced for a comparable broker) rather than limiting your airtime to integrations, contract logistics, and rapport."
+    }
+  },
+  "buyers": {
+    "Brett Lankford": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Own-words commitment to renew for another six months",
+          "timestamp": "00:15:37",
+          "quote": "where where our team really feels comfortable is like probably extending what we have right now for another six months, seeing how the platform progresses."
+        },
+        {
+          "signal": "Strong value affirmation \u2014 names the OCR/data expansion the biggest source of value and says removal would disappoint the sales floor",
+          "timestamp": "00:18:32",
+          "quote": "I think I think that is hands down the biggest source of value for us."
+        },
+        {
+          "signal": "Deep, receptive engagement with the new commission proposal, taking it to leadership",
+          "timestamp": "00:36:58",
+          "quote": "Let me talk with Mitchell um a little bit about that and we can put our heads together"
+        },
+        {
+          "signal": "Multiple self-owned next steps volunteered (timeline data, commission discussion, LinkedIn post, proactive-feedback commitment)",
+          "timestamp": "00:43:18",
+          "quote": "Max will tee up a LinkedIn post. Um, I'll send that to you."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "call": "fetch-2026-05-05-15-59-edt",
+  "source": {
+    "recording": "Optimus _ Fetch  - 2026_05_05 15_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Fetch  - 2026_05_05 15_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Brett Lankford": {
+      "words": 2370,
+      "questions": 15,
+      "speech_min": 9.1,
+      "loudness_mean": 1.033,
+      "loudness_cv": 0.647,
+      "f0_std_semitones": 7.39,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 72.6,
+      "arousal": 0.538,
+      "dominance": 0.575,
+      "valence": 0.537,
+      "arousal_thirds": [
+        0.564,
+        0.505,
+        0.547
+      ],
+      "seconds_analyzed": 181.0
+    },
+    "Ed Stockman": {
+      "words": 709,
+      "questions": 0,
+      "speech_min": 2.6,
+      "loudness_mean": 1.036,
+      "loudness_cv": 0.657,
+      "f0_std_semitones": 7.7,
+      "pace_peaks_per_sec": 4.06,
+      "talk_share_pct": 21.7,
+      "arousal": 0.527,
+      "dominance": 0.571,
+      "valence": 0.527,
+      "arousal_thirds": [
+        null,
+        0.535,
+        0.518
+      ],
+      "seconds_analyzed": 183.0
+    },
+    "Max Riemer": {
+      "words": 187,
+      "questions": 1,
+      "speech_min": 0.7,
+      "loudness_mean": 1.139,
+      "loudness_cv": 0.619,
+      "f0_std_semitones": 8.96,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 5.7,
+      "arousal": 0.511,
+      "dominance": 0.571,
+      "valence": 0.561,
+      "arousal_thirds": [
+        0.511,
+        null,
+        null
+      ],
+      "seconds_analyzed": 59.0
+    }
+  },
+  "call_summary": "A warm renewal/expansion call between Optimus (Ed Stockman, Max Riemer) and existing customer Fetch Freight (Brett Lankford), heavy on relationship-building and logistics. The parties agreed to add good-faith TMS/Mloud integration language without contractual friction, to share an API digest, and to reonboard within two weeks of signing followed by a monthly cadence. Buyer interest is strong and the deal is moving to signature, but the sellers asked essentially no discovery questions \u2014 Brett drove most of the conversation and all of the substantive questions.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly unscripted and responsive, building on Brett's cadence question with a specific, prepared plan; acoustically his arousal (z +0.7) and valence (z +0.6) ran above his own 13-call baseline, so he was more engaged than usual, not going through the motions.",
+          "evidence": [
+            {
+              "timestamp": "00:09:22",
+              "quote": "monthly sounds like the right cadence, but I would probably want something in the first like two weeks of this onboarding"
+            },
+            {
+              "timestamp": "00:09:22",
+              "quote": "I want to treat this as like a reonboarding, like a new customer contract essentially"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain the value in one sentence: Optimus arms brokers with real-time shipper intel (DCs, lanes) so they win deals worth talking about, which drives Fetch's acquisition.",
+          "evidence": [
+            {
+              "timestamp": "00:11:45",
+              "quote": "the biggest the biggest win for us is getting our brokers wins that they want to talk about. That's it. Like that to me is our customer acquisition strategy"
+            },
+            {
+              "timestamp": "00:11:45",
+              "quote": "get some intel on their DCs, on their lanes"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Most of Ed's airtime was Optimus's own roadmap (fundraising, freight.ai, supercomputers) and generic broker examples; he never tied the pitch to Fetch's specific lanes, customers, or network.",
+          "evidence": [
+            {
+              "timestamp": "00:12:44",
+              "quote": "my two biggest initiatives right now are fundraising and um so I could hire more people, product people"
+            },
+            {
+              "timestamp": "00:11:45",
+              "quote": "arm yourself on the way over to meet, you know, Niagara Bottling before you get there"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed landed a concrete, dated next step (reonboarding within two weeks, then monthly), but asked zero questions across the entire call and let Brett surface the touch-point structure.",
+          "evidence": [
+            {
+              "timestamp": "00:09:22",
+              "quote": "reonboarding um within the first two weeks of of signing and then monthly cadence after that"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Open the next call with 2-3 discovery questions about Fetch's specific lanes, customers, and rep workflows, and anchor your product roadmap to their network rather than narrating Optimus's internal initiatives."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max spoke little but was responsive and warm; his TMS-language suggestion landed directly on the live integration discussion, and vocally his positivity ran far above his own 33-call baseline (valence z +2.5).",
+          "evidence": [
+            {
+              "timestamp": "00:07:30",
+              "quote": "I can just um put in some like good faith language for the TMS integration in the new contract. just over the next like month or so, both parties will work together to get that situated"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never attempted a value proposition; his contributions were purely logistical (contract mechanics and scheduling), so a listener could not explain from his words why Fetch should care.",
+          "evidence": [
+            {
+              "timestamp": "00:16:50",
+              "quote": "I'll set that reminder for us so you can manage your team and get some shippers"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Narrow but on-point: his good-faith TMS language was tailored to Fetch's specific integration commitment and matched Brett's stated preference for a low-friction, verbal approach.",
+          "evidence": [
+            {
+              "timestamp": "00:07:30",
+              "quote": "good faith language for the TMS integration in the new contract. just over the next like month or so, both parties will work together to get that situated"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max owned a next step by taking the reonboarding reminder, but asked no productive discovery questions (his only question was social small talk), and the meeting was left at 'about two weeks' rather than a firm date.",
+          "evidence": [
+            {
+              "timestamp": "00:16:50",
+              "quote": "I'll set that reminder for us so you can manage your team and get some shippers"
+            },
+            {
+              "timestamp": "00:01:16",
+              "quote": "What school did you go to?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the call ends, lock a specific calendar date and attendee list for the reonboarding meeting instead of committing to 'a reminder for about two weeks,' so the next step is concretely dated."
+    }
+  },
+  "buyers": {
+    "Brett Lankford": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit own-words commitment to invest in the partnership",
+          "timestamp": "00:08:36",
+          "quote": "we're doing this because we want to invest with you guys"
+        },
+        {
+          "signal": "Buyer-owned next step: committed to executing the contract",
+          "timestamp": "00:08:36",
+          "quote": "when we get the agreement, I'll sign it"
+        },
+        {
+          "signal": "Proactively offered to share the API digest (and schema) with the team, investing his own effort",
+          "timestamp": "00:05:46",
+          "quote": "I intend to share that with you and you can distribute it to your team if you want"
+        },
+        {
+          "signal": "Objection/boundary stated collaboratively: declined the commission opportunity for now",
+          "timestamp": "00:05:46",
+          "quote": "I don't think that like we're there yet for having an appetite for something like that"
+        }
+      ]
+    }
+  }
+}

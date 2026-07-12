@@ -1,0 +1,139 @@
+{
+  "call": "vic-2026-05-26-09-59-edt",
+  "source": {
+    "recording": "Optimus _ Vic  - 2026_05_26 09_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Vic  - 2026_05_26 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 204,
+      "questions": 3,
+      "speech_min": 1.0,
+      "loudness_mean": 0.91,
+      "loudness_cv": 0.681,
+      "f0_std_semitones": 8.07,
+      "pace_peaks_per_sec": 3.69,
+      "talk_share_pct": 17.4,
+      "arousal": 0.504,
+      "dominance": 0.491,
+      "valence": 0.452,
+      "arousal_thirds": [
+        0.528,
+        0.454,
+        null
+      ],
+      "seconds_analyzed": 176.0
+    },
+    "Victor Louis": {
+      "words": 968,
+      "questions": 4,
+      "speech_min": 3.1,
+      "loudness_mean": 0.935,
+      "loudness_cv": 0.671,
+      "f0_std_semitones": 7.59,
+      "pace_peaks_per_sec": 3.76,
+      "talk_share_pct": 82.6,
+      "arousal": 0.451,
+      "dominance": 0.516,
+      "valence": 0.493,
+      "arousal_thirds": [
+        null,
+        0.453,
+        0.449
+      ],
+      "seconds_analyzed": 174.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) took a warm, late-stage call with Victor Louis, who is evaluating prospecting/data tools for his company Load Secure alongside Zoom Info, Apollo, and one other trial wrapping up in ~2 weeks. Victor dominated the conversation (~83% of words), drove the agenda, offered to pay for a ~3-month trial, and pushed to decide ASAP; the call closed on a one-year contract with a three-month exit clause and a buyer-owned follow-up at end of week. Max was responsive and conciliatory but passive\u2014he could not confirm whether his platform's broker contacts fit Victor's carrier-compliance use case and never articulated a differentiated value proposition.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was conversational rather than scripted and responded directly to each point Victor raised\u2014the broker-data ask, the CRM requirement, and the contract concern\u2014though his energy was low and faded over the call (arousal thirds 0.528\u21920.454, pace 2.4 SD below his own baseline).",
+          "evidence": [
+            {
+              "timestamp": "00:06:57",
+              "quote": "What's the uh what's the other trial y'all are doing?"
+            },
+            {
+              "timestamp": "00:07:57",
+              "quote": "I'm cool with a with a three-month uh exit clause. It would still be like a year contract."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max only confirmed features reactively (broker data source, Sales Dash integration) and never stated, in one sentence, why Optimus is worth choosing over Zoom Info or Apollo\u2014there were no quantified or differentiated claims.",
+          "evidence": [
+            {
+              "timestamp": "00:07:57",
+              "quote": "Yeah, we do have a sales desk integration."
+            },
+            {
+              "timestamp": "00:04:26",
+              "quote": "I don't know what contacts we pull for the brokers."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Although Max engaged with freight-specific mechanics (factoring companies, white-labeled carrier product), he could not confirm the platform fit Victor's actual use case\u2014broker contacts for carrier compliance\u2014and openly hedged on whether the data covered the carrier/procurement side.",
+          "evidence": [
+            {
+              "timestamp": "00:04:26",
+              "quote": "it's not as dialed in as as the shipper version"
+            },
+            {
+              "timestamp": "00:04:26",
+              "quote": "I'm not sure if we're going to be pulling like you know procurement or you know car like the carrier side of things but I can look"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked only one sharp question (the competitor trial) and otherwise conducted little discovery into Load Secure's needs, decision criteria, or budget; the concrete dated next step existed but was set by the buyer, not proposed by Max.",
+          "evidence": [
+            {
+              "timestamp": "00:06:57",
+              "quote": "What's the uh what's the other trial y'all are doing?"
+            },
+            {
+              "timestamp": "00:07:57",
+              "quote": "shoot me a line to follow back up with me probably the end of the week"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the next call, verify exactly what broker contact data you can deliver for Victor's Load Secure carrier-compliance prospecting, then open by stating that specific capability and the value it creates\u2014instead of deferring with 'let me go look.'"
+    }
+  },
+  "buyers": {
+    "Victor Louis": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Own-words buying intent on the broker-contact need",
+          "timestamp": "00:04:26",
+          "quote": "if that's something that you have access to, I'm I'd be very interested in taking a look at that"
+        },
+        {
+          "signal": "Buyer-owned commitment to pay for a trial",
+          "timestamp": "00:05:35",
+          "quote": "we'll pay you for the next three months or so to kind of let this thing run through the rigors"
+        },
+        {
+          "signal": "Positive reaction confirming a key decision criterion (CRM integration)",
+          "timestamp": "00:07:57",
+          "quote": "that's that helps big time"
+        },
+        {
+          "signal": "Objection/contingency\u2014actively trialing competitors and dependent on team feedback",
+          "timestamp": "00:07:57",
+          "quote": "we got Zoom, we got Apollo, we got there's another one that somebody's doing"
+        }
+      ]
+    }
+  }
+}

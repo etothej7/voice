@@ -1,0 +1,139 @@
+{
+  "call": "freightplus-io-2026-07-07-13-59-edt",
+  "source": {
+    "recording": "Optimus __ Freightplus.io  - 2026_07_07 13_59 EDT - Recording",
+    "notes": "Optimus __ Freightplus.io  - 2026_07_07 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 2505,
+      "questions": 15,
+      "speech_min": 8.8,
+      "loudness_mean": 1.084,
+      "loudness_cv": 0.612,
+      "f0_std_semitones": 8.91,
+      "pace_peaks_per_sec": 4.13,
+      "talk_share_pct": 36.8,
+      "arousal": 0.491,
+      "dominance": 0.543,
+      "valence": 0.493,
+      "arousal_thirds": [
+        0.46,
+        0.512,
+        0.484
+      ],
+      "seconds_analyzed": 176.0
+    },
+    "Shane Duncan": {
+      "words": 4293,
+      "questions": 54,
+      "speech_min": 14.8,
+      "loudness_mean": 0.992,
+      "loudness_cv": 0.647,
+      "f0_std_semitones": 4.92,
+      "pace_peaks_per_sec": 4.02,
+      "talk_share_pct": 63.2,
+      "arousal": 0.531,
+      "dominance": 0.574,
+      "valence": 0.547,
+      "arousal_thirds": [
+        0.535,
+        0.537,
+        0.524
+      ],
+      "seconds_analyzed": 180.0
+    }
+  },
+  "call_summary": "Optimus AE Max Riemer pitched a freight lane-level data and contact platform to Shane Duncan of Freightplus, whose business is ~90% managed transportation and only ~10% brokerage. Max had not researched that Freightplus isn't a traditional brokerage, so Shane spent much of the call explaining his own model before the two narrowed to a plausible fit: using Optimus for account management to surface new lanes within Freightplus's existing brokerage accounts. They agreed in principle to a 48-hour trial pending Shane's bandwidth, with Max to send a follow-up email, but no specific date was locked.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max listened and adapted in real time rather than reciting a script, absorbing Shane's managed-transportation curveball and reflecting back a concrete use case that fit Shane's actual business; his pitch variation (8.91 st) and pace support an engaged, responsive tone.",
+          "evidence": [
+            {
+              "timestamp": "00:15:53",
+              "quote": "The only use case that I'm seeing that would make maybe that would possibly make sense is on the like account management side for the brokerage which would be leveraging relationships you already have."
+            },
+            {
+              "timestamp": "00:16:55",
+              "quote": "that's usually where the quick wins are with with like new customers because it's people they already know. So it's a lot easier phone call than you know the cold call"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max articulated a one-sentence-able value prop \u2014 lane-level data specific enough to get a shipping manager's attention \u2014 and backed it with concrete, quantified demo numbers a neutral listener could repeat.",
+          "evidence": [
+            {
+              "timestamp": "00:07:31",
+              "quote": "create a value proposition of lane level data, something specific, something that's going to get a shipping manager's attention is what we've set out to build and have built."
+            },
+            {
+              "timestamp": "00:29:48",
+              "quote": "Volkswagen's moving a Chattanooga to Greenville Lane nine times in the last 60 days."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max walked in with a generic brokerage pitch and had not researched that Freightplus is a managed-transportation shop, forcing Shane to explain his own company and leaving Max unsure it was even a fit; the tailored searches that did land were buyer-requested, not seller-driven.",
+          "evidence": [
+            {
+              "timestamp": "00:09:49",
+              "quote": "Can you sort of give me the the difference between managed freight solutions and a brokerage?"
+            },
+            {
+              "timestamp": "00:33:11",
+              "quote": "I'm not sure if this is a fit right now. I know there is some overlap on maybe some use cases"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked several productive qualifying questions, but the call ended on an undated, buyer-controlled next step \u2014 a follow-up email 'whenever you're ready' contingent on Shane's bandwidth, with no trial date pinned.",
+          "evidence": [
+            {
+              "timestamp": "00:13:17",
+              "quote": "are the brokerage guys are they are they still like hunting out there?"
+            },
+            {
+              "timestamp": "00:37:53",
+              "quote": "I'll I'll shoot your follow-up email later this week. Um, and then we'll get that account squared up whenever you're ready."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before each call, research the prospect's business model and freight profile (e.g., that Freightplus is managed-transportation-led, not a brokerage) and open with a specific tailored hypothesis, so the buyer isn't explaining their own company to you \u2014 and close by pinning a specific dated next step rather than deferring to their bandwidth."
+    }
+  },
+  "buyers": {
+    "Shane Duncan": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Explicit positive reaction in his own words after seeing the estimation/qualification value",
+          "timestamp": "00:32:06",
+          "quote": "This is intriguing. I like it. I like it. I mean, it just kind of gives us another layer of qualifications."
+        },
+        {
+          "signal": "Verbally agreed to a trial but gated it on bandwidth with no firm date (soft, buyer-owned next step)",
+          "timestamp": "00:34:14",
+          "quote": "Before you do that, then let me make sure I got enough bandwidth to actually try it out and stuff."
+        },
+        {
+          "signal": "Deep diligence question on data provenance and consent, indicating serious evaluation",
+          "timestamp": "00:18:42",
+          "quote": "if you're sharing like lane specific, shipper specific, and contact specific data with a company like Freight Plus or any other broker, I mean, is there any potential that they're like, \"Wait a minute, we didn't give you guys permission to sell our lane level data\""
+        },
+        {
+          "signal": "Persistent fit objection \u2014 product only touches ~10% of his business (brokerage), not his core managed-transportation model",
+          "timestamp": "00:08:52",
+          "quote": "What if we're managed transportation, we're not a brokerage? How does that fit potentially?"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "call": "demo-2026-06-16-12-28-edt",
+  "source": {
+    "recording": "Optimus demo  - 2026_06_16 12_28 EDT - Recording.mp4",
+    "notes": "Optimus demo  - 2026_06_16 12_28 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Alex Schnitzer": {
+      "words": 1301,
+      "questions": 22,
+      "speech_min": 4.6,
+      "loudness_mean": 0.846,
+      "loudness_cv": 0.647,
+      "f0_std_semitones": 5.06,
+      "pace_peaks_per_sec": 3.78,
+      "talk_share_pct": 33.8,
+      "arousal": 0.476,
+      "dominance": 0.505,
+      "valence": 0.44,
+      "arousal_thirds": [
+        0.481,
+        0.479,
+        0.471
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Max Riemer": {
+      "words": 2028,
+      "questions": 11,
+      "speech_min": 7.2,
+      "loudness_mean": 1.03,
+      "loudness_cv": 0.599,
+      "f0_std_semitones": 8.38,
+      "pace_peaks_per_sec": 4.14,
+      "talk_share_pct": 52.6,
+      "arousal": 0.497,
+      "dominance": 0.537,
+      "valence": 0.494,
+      "arousal_thirds": [
+        0.481,
+        0.546,
+        0.478
+      ],
+      "seconds_analyzed": 167.0
+    },
+    "Roshan Thakker": {
+      "words": 524,
+      "questions": 7,
+      "speech_min": 2.0,
+      "loudness_mean": 0.955,
+      "loudness_cv": 0.71,
+      "f0_std_semitones": 5.76,
+      "pace_peaks_per_sec": 4.08,
+      "talk_share_pct": 13.6,
+      "arousal": 0.565,
+      "dominance": 0.581,
+      "valence": 0.526,
+      "arousal_thirds": [
+        0.555,
+        0.568,
+        0.577
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Max Riemer gave two Transportation One strategic-enterprise reps (Roshan Thakker and Alex Schnitzer) a live demo of Optimus, positioning it as a 'ZoomInfo for freight' built on real transaction data (BOLs, PODs, invoices) rather than scraped data, with lane- and trading-partner-level intent for more specific outreach. Alex probed hard on contact and mobile-number quality and requested TMS data plus better cross-vendor search, while Roshan came in cold, warmed up over the call, and tied the trading-partner feature to their own target accounts. The call closed with a 30-credit trial set up and open feature-feedback requests, but no dated follow-up was booked.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was conversational and responsive, building genuine rapport and reacting to buyers' points in the moment rather than reciting a script; his pitch variation (8.38 st) is highly expressive and his warmth ran above his own 59-call baseline (valence z +0.4), supporting an engaged read despite candidly admitting he didn't know the mobile-number coverage figure.",
+          "evidence": [
+            {
+              "timestamp": "00:01:46",
+              "quote": "Did you get logistics right after?"
+            },
+            {
+              "timestamp": "00:11:59",
+              "quote": "You'd be surprised how many sales teams and brokerages don't answer the cell the phone."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate the pitch in one sentence: transaction-sourced freight data lets reps reference a shipper's specific lanes and contracted backhauls instead of the generic 'we have trucks in your lane' script \u2014 and Alex echoed it back as 'a granular layer of intent data,' confirming clarity.",
+          "evidence": [
+            {
+              "timestamp": "00:02:56",
+              "quote": "a zoom info centric to the logistics or freight space"
+            },
+            {
+              "timestamp": "00:09:02",
+              "quote": "you mention a specific lane that they run and that you have a contracted lane that could work as a back haul"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "The demo ran on generic examples anchored to Max's own city (Dallas\u2013Chattanooga, Miller Industries, Coca-Cola) and never used Transportation One's actual lanes or book; when Roshan named their real accounts, Max acknowledged it but didn't pivot to search them live.",
+          "evidence": [
+            {
+              "timestamp": "00:04:08",
+              "quote": "if I search Dallas, we'll do a 25 mile radius to Chattanooga"
+            },
+            {
+              "timestamp": "00:20:55",
+              "quote": "right now we're working on a lot of target stuff, Armada like our customers that we're working with"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Most of Max's questions were rapport or logistics rather than discovery of pain, current tools, deal size, or decision process, and the call ended with an open-ended 'email me' instead of a dated follow-up \u2014 a 30-credit trial was handed off with no scheduled review.",
+          "evidence": [
+            {
+              "timestamp": "00:00:52",
+              "quote": "So you you full outbound sales guy?"
+            },
+            {
+              "timestamp": "00:25:57",
+              "quote": "Any questions that pop up during, just shoot me an email, shoot me a text, give me a call, whatever."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the call ends, book a specific dated follow-up to review trial results together \u2014 don't leave the next step as an open-ended 'email me whenever.'"
+    }
+  },
+  "buyers": {
+    "Alex Schnitzer": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Probed the platform hard on his own critical evaluation criterion (mobile-number coverage), signaling both influence and serious evaluation",
+          "timestamp": "00:11:59",
+          "quote": "I'm pushing for the one that's got the most mobile numbers"
+        },
+        {
+          "signal": "Explicit positive endorsement of the product and its data",
+          "timestamp": "00:22:05",
+          "quote": "this product looks phenomenal. I can already tell there's some incredibly useful information"
+        },
+        {
+          "signal": "Forward-looking feature request (TMS data), showing he's already imagining operational use",
+          "timestamp": "00:23:15",
+          "quote": "TMS's, is there anything in here that shows um a particular TMS um or manage trans service that a shipper uses?"
+        },
+        {
+          "signal": "Own-words commitment to evaluate the trial",
+          "timestamp": "00:25:57",
+          "quote": "I'm excited to look at this and see the value"
+        }
+      ]
+    },
+    "Roshan Thakker": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Came in cold with low understanding but converted over the call",
+          "timestamp": "00:15:51",
+          "quote": "I had no idea what I was really looking at, but now it all makes sense"
+        },
+        {
+          "signal": "Own-words intent to test after the value clicked",
+          "timestamp": "00:20:55",
+          "quote": "now I can see the the overall what it's trying to do and I'm I'm excited to test it"
+        },
+        {
+          "signal": "Connected the tool to their real book of accounts, though at a surface level and with fewer, more basic questions than Alex",
+          "timestamp": "00:20:55",
+          "quote": "actually name dropping these customers and leads leads will definitely help"
+        }
+      ]
+    }
+  }
+}

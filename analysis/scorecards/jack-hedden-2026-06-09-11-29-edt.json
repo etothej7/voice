@@ -1,0 +1,143 @@
+{
+  "call": "jack-hedden-2026-06-09-11-29-edt",
+  "source": {
+    "recording": "Optimus _ Jack Hedden  - 2026_06_09 11_29 EDT - Recording.mp4",
+    "notes": "Optimus _ Jack Hedden  - 2026_06_09 11_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Jack Hedden": {
+      "words": 1113,
+      "questions": 6,
+      "speech_min": 4.4,
+      "loudness_mean": 0.894,
+      "loudness_cv": 0.732,
+      "f0_std_semitones": 7.9,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 75.0,
+      "arousal": 0.51,
+      "dominance": 0.55,
+      "valence": 0.527,
+      "arousal_thirds": [
+        0.451,
+        0.516,
+        0.545
+      ],
+      "seconds_analyzed": 169.0
+    },
+    "Max Riemer": {
+      "words": 371,
+      "questions": 4,
+      "speech_min": 1.1,
+      "loudness_mean": 1.048,
+      "loudness_cv": 0.66,
+      "f0_std_semitones": 8.24,
+      "pace_peaks_per_sec": 4.25,
+      "talk_share_pct": 25.0,
+      "arousal": 0.476,
+      "dominance": 0.517,
+      "valence": 0.479,
+      "arousal_thirds": [
+        0.407,
+        0.51,
+        0.493
+      ],
+      "seconds_analyzed": 114.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) took an evaluation call with Jack Hedden of ShipDLX, who is actively comparing data-enrichment vendors to run alongside his current provider. Jack drove almost the entire conversation\u2014asking implementation-level questions about the Salesforce integration and proposing a data test\u2014while Max answered accurately but reactively and never proactively pitched why Optimus should win. The call closed on a concrete but undated next step: Jack will send ~100 contacts/companies for a data test, and Max will check feasibility with engineering and follow up.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max answered each of Jack's questions directly and adapted his offer to what Jack asked for rather than reciting a script; acoustically he was calmer than his own 38-call baseline (arousal z -0.5) but spoke at a normal-to-brisk pace (pace z +1.3), consistent with an attentive if low-key delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:03:39",
+              "quote": "keys within Salesforce and then copying the API into"
+            },
+            {
+              "timestamp": "00:04:39",
+              "quote": "I could just do some research if you sent over like companies or specific contacts"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max described mechanics (trial unlocks, how push/pull works) but never made a quantified or concrete claim about why Optimus is better; the only differentiation voiced on the call came from the buyer, not the seller.",
+          "evidence": [
+            {
+              "timestamp": "00:04:39",
+              "quote": "There is a trial on Optimus that gives you five shipper unlocks. It would give you access to all of the contacts in those shippers."
+            },
+            {
+              "timestamp": "00:06:12",
+              "quote": "you just push that contact over and it follows the under that company domain with the email and phone number if we have"
+            },
+            {
+              "timestamp": "00:07:15",
+              "quote": "Nothing nothing formal."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never tied the offering to ShipDLX's specific freight network, lanes, or Jack's current data gaps; his responses stayed at generic platform mechanics and a generic request for a list.",
+          "evidence": [
+            {
+              "timestamp": "00:07:15",
+              "quote": "How many um shippers or contacts"
+            },
+            {
+              "timestamp": "00:08:23",
+              "quote": "can you just send me that contact list and then just a number you know I guess like 50 to 100"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked only logistical questions and did no real discovery of Jack's current pain, timeline, or decision criteria; he agreed to a concrete data test but left the follow-up undated rather than proposing a specific date.",
+          "evidence": [
+            {
+              "timestamp": "00:07:15",
+              "quote": "I could just talk to our engineers and see what we could gather"
+            },
+            {
+              "timestamp": "00:09:21",
+              "quote": "Yep. That's cool with me."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Own the close: before ending an evaluation call, lock a specific follow-up date and state the quantified result that would make Optimus the winner (e.g., '% net-new phone numbers our shipper data typically surfaces'), so you set the evaluation bar instead of letting the buyer define it."
+    }
+  },
+  "buyers": {
+    "Jack Hedden": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Actively shopping enrichment vendors and framed a clear evaluation path",
+          "timestamp": "00:02:23",
+          "quote": "we're right now in the process of looking at other data vendors to use as um, enrichment tools essentially um, in in tandem with our current data provider"
+        },
+        {
+          "signal": "Asked implementation-level questions, indicating serious intent to integrate",
+          "timestamp": "00:02:23",
+          "quote": "how do you set it up? I guess that's my question is like is it a mapping on your guys' end or do we have to custom build out stuff"
+        },
+        {
+          "signal": "Recognizes Optimus's differentiated data as a reason to engage",
+          "timestamp": "00:06:12",
+          "quote": "you guys offer like a whole another set of data that no one else does in terms of shipping and logistics related items"
+        },
+        {
+          "signal": "Committed to a buyer-owned next step and moved on it immediately",
+          "timestamp": "00:09:21",
+          "quote": "Well, I'll send that over right now."
+        }
+      ]
+    }
+  }
+}

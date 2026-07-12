@@ -1,0 +1,151 @@
+{
+  "call": "flock-demo-2026-06-30-09-29-edt",
+  "source": {
+    "recording": "Optimus __ Flock demo - 2026_06_30 09_29 EDT - Recording.mp4",
+    "notes": "Optimus __ Flock demo - 2026_06_30 09_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1276,
+      "questions": 14,
+      "speech_min": 4.3,
+      "loudness_mean": 1.01,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 9.53,
+      "pace_peaks_per_sec": 4.14,
+      "talk_share_pct": 31.9,
+      "arousal": 0.438,
+      "dominance": 0.487,
+      "valence": 0.423,
+      "arousal_thirds": [
+        0.462,
+        0.389,
+        0.466
+      ],
+      "seconds_analyzed": 183.0
+    },
+    "Michael Munday": {
+      "words": 2723,
+      "questions": 36,
+      "speech_min": 10.5,
+      "loudness_mean": 0.753,
+      "loudness_cv": 0.701,
+      "f0_std_semitones": 4.88,
+      "pace_peaks_per_sec": 3.71,
+      "talk_share_pct": 68.1,
+      "arousal": 0.482,
+      "dominance": 0.532,
+      "valence": 0.472,
+      "arousal_thirds": [
+        0.471,
+        0.493,
+        0.48
+      ],
+      "seconds_analyzed": 161.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus ran a live demo of a freight-broker prospecting and shipper-intelligence platform for Michael Munday of Flock Freight, with Michael driving most of the session (68% of words) by stress-testing the tool against his own live accounts like Aldi and Dollar General. Michael found the bill-of-lading-sourced data and Highway capacity-matching genuinely compelling but flagged significant UI/contact-prioritization issues and a central concern that the tool is too broad ('jack of all trades but a master of none') for a single buying group. They agreed loosely to reconnect after the holiday once Michael consults colleagues, but no dated next step was locked.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly unscripted and responsive \u2014 he tracked Michael's on-screen exploration, guided navigation in real time, and captured feedback for action rather than reciting a pitch, though he leaned on 'I'll ask our CTO' several times, showing gaps in his own product knowledge.",
+          "evidence": [
+            {
+              "timestamp": "00:13:05",
+              "quote": "No, I we need to hear it all and this will be recorded. I'll just send it over to Toby, our CTO, and he'll probably have it fixed within an hour."
+            },
+            {
+              "timestamp": "00:28:00",
+              "quote": "are your carrier sales reps responsible for the growth within shippers?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Concrete, differentiated claims surfaced \u2014 data sourced from scanned bills of lading (not scraped), 30-day contact refresh, and Highway-integrated capacity-to-shipper matching \u2014 enough for a neutral listener to summarize it as a freight-specific ZoomInfo built on real shipment paperwork.",
+          "evidence": [
+            {
+              "timestamp": "00:21:36",
+              "quote": "this isn't scraped, right? So the customers we see are from paperwork"
+            },
+            {
+              "timestamp": "00:17:04",
+              "quote": "the contacts get updated every 30 days"
+            },
+            {
+              "timestamp": "00:03:34",
+              "quote": "source shippers that match up well there. That's sort of the AI portion of it"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tightly tailored to Flock as a brokerage \u2014 Max anchored on Michael's Highway TMS, his carrier-capacity/gap-filling use case, and ran the entire demo on Michael's real accounts and lanes.",
+          "evidence": [
+            {
+              "timestamp": "00:03:34",
+              "quote": "do y'all use highway?"
+            },
+            {
+              "timestamp": "00:03:34",
+              "quote": "source shippers that match up well there. That's sort of the AI portion of it"
+            },
+            {
+              "timestamp": "00:28:00",
+              "quote": "are your carrier sales reps responsible for the growth within shippers?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked a few sharp qualifying questions but never proposed a concrete, dated next step \u2014 he let the buyer define a vague 'after the holiday' reconnect and closed passively rather than owning a scheduled follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:25:42",
+              "quote": "after the holiday, let's try and connect and see where things stand"
+            },
+            {
+              "timestamp": "00:25:42",
+              "quote": "I appreciate that."
+            },
+            {
+              "timestamp": "00:29:06",
+              "quote": "Let me up with any questions you got."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Close every demo by proposing a specific date and time for the next meeting and securing verbal agreement on the call \u2014 don't let a warm buyer leave with only a self-defined 'after the holiday' follow-up you don't own."
+    }
+  },
+  "buyers": {
+    "Michael Munday": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Repeated unprompted enthusiasm for the core data",
+          "timestamp": "00:21:36",
+          "quote": "this is super compelling to me"
+        },
+        {
+          "signal": "Buyer-owned next steps in his own words (keep testing, loop in Corey, reconnect)",
+          "timestamp": "00:25:42",
+          "quote": "after the holiday, let's try and connect and see where things stand"
+        },
+        {
+          "signal": "High question depth \u2014 stress-tested the tool against his own live accounts and pushed on data provenance",
+          "timestamp": "00:21:36",
+          "quote": "Can I see that raw data or no?"
+        },
+        {
+          "signal": "Substantive fit/adoption objection that tempers the interest",
+          "timestamp": "00:26:49",
+          "quote": "you're setting it up for it's a jack of all trades but a master of none"
+        }
+      ]
+    }
+  }
+}

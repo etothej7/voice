@@ -1,0 +1,306 @@
+{
+  "call": "circle-2026-05-05-13-59-edt",
+  "source": {
+    "recording": "Optimus _ Circle  - 2026_05_05 13_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Circle  - 2026_05_05 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Chad Buchanan": {
+      "words": 3255,
+      "questions": 18,
+      "speech_min": 13.5,
+      "loudness_mean": 0.824,
+      "loudness_cv": 0.722,
+      "f0_std_semitones": 6.75,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 29.6,
+      "arousal": 0.549,
+      "dominance": 0.584,
+      "valence": 0.479,
+      "arousal_thirds": [
+        0.544,
+        0.558,
+        0.543
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Derek Holst": {
+      "words": 1775,
+      "questions": 12,
+      "speech_min": 6.1,
+      "loudness_mean": 0.909,
+      "loudness_cv": 0.703,
+      "f0_std_semitones": 7.48,
+      "pace_peaks_per_sec": 3.99,
+      "talk_share_pct": 16.1,
+      "arousal": 0.531,
+      "dominance": 0.558,
+      "valence": 0.513,
+      "arousal_thirds": [
+        0.533,
+        0.621,
+        0.495
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Ed Stockman": {
+      "words": 4476,
+      "questions": 25,
+      "speech_min": 19.3,
+      "loudness_mean": 0.776,
+      "loudness_cv": 0.714,
+      "f0_std_semitones": 7.38,
+      "pace_peaks_per_sec": 4.0,
+      "talk_share_pct": 40.7,
+      "arousal": 0.515,
+      "dominance": 0.554,
+      "valence": 0.509,
+      "arousal_thirds": [
+        0.465,
+        0.514,
+        0.541
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Max Riemer": {
+      "words": 654,
+      "questions": 12,
+      "speech_min": 2.3,
+      "loudness_mean": 0.953,
+      "loudness_cv": 0.727,
+      "f0_std_semitones": 8.8,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 5.9,
+      "arousal": 0.504,
+      "dominance": 0.543,
+      "valence": 0.463,
+      "arousal_thirds": [
+        0.51,
+        null,
+        0.497
+      ],
+      "seconds_analyzed": 170.0
+    },
+    "Michael St Julien": {
+      "words": 846,
+      "questions": 10,
+      "speech_min": 2.6,
+      "loudness_mean": 1.004,
+      "loudness_cv": 0.722,
+      "f0_std_semitones": 6.9,
+      "pace_peaks_per_sec": 3.82,
+      "talk_share_pct": 7.7,
+      "arousal": 0.555,
+      "dominance": 0.588,
+      "valence": 0.522,
+      "arousal_thirds": [
+        0.552,
+        null,
+        0.564
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "Optimus founder Ed Stockman and Max Riemer pitched their freight shipper-intelligence platform to Circle (Chad Buchanan, Derek Holst, Michael St Julien), positioning it as a freight-specific replacement for ZoomInfo built on factoring data, with a roadmap toward CRM, co-pilot, and autopilot automation. The call mixed relationship-building, a live demo tailored to Circle's Pittsburgh network, and a wide-ranging discussion of AI's impact on brokerage. Derek pushed for a hands-on demo to validate 10 target accounts as a Zoom replacement and the group agreed to review the proposal roadmap, but no firm follow-up date was set.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed sounded prepared and knowledgeable and consistently responded to what buyers actually raised rather than reciting a script, engaging Derek's economy tangent and Chad's granularity and semiconductor questions in real time; his arousal built across the call and stayed near his own baseline.",
+          "evidence": [
+            {
+              "timestamp": "00:12:38",
+              "quote": "short answer is yes. I would say about 95% of all of the the shippers that we have in Optimus are SMBs"
+            },
+            {
+              "timestamp": "00:26:54",
+              "quote": "I was going to interrupt you while you were talking about the government and ask if this was a good time to send over a contract"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed framed the value in concrete, quantified terms a neutral listener could restate: a factoring-data platform covering ~$15B in spot freight that surfaces shippers' lanes, DCs, and decision-maker contacts, explicitly tied to ROI over cost.",
+          "evidence": [
+            {
+              "timestamp": "00:11:35",
+              "quote": "I'm seeing about 15ish billion dollars worth of"
+            },
+            {
+              "timestamp": "00:19:16",
+              "quote": "I also see a ton of lanes that we don't move with this particular customer. How do we increase wallet share"
+            },
+            {
+              "timestamp": "00:16:29",
+              "quote": "I think that there's a huge difference between cost and value"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He tailored the pitch to Circle specifically, pulling up their own shipper names live and anchoring to their HubSpot stack and Zoom-replacement need.",
+          "evidence": [
+            {
+              "timestamp": "00:14:03",
+              "quote": "I just looked up circle and I see um I don't know Stalantis, Titan Machinery, Vermeier, Warren Transport, Asco Equipment"
+            },
+            {
+              "timestamp": "00:41:33",
+              "quote": "you guys are on HubSpot, correct?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed did far more telling than asking and let the buyer (Derek) drive the only concrete action; he deflected the pilot and left the demo account and proposal review undated with no scheduled follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:55:19",
+              "quote": "Max and I will talk about it and make sure that we figure out the right way to do that"
+            },
+            {
+              "timestamp": "00:56:07",
+              "quote": "I'm less concerned about the dollar amounts right now and I'm more concerned about like the product evolution and the timeline"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock a specific dated next step \u2014 put Derek's 10-account demo test and a proposal-review call on the calendar for a named date instead of leaving it at 'Max and I will talk about it.'"
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was warm in the opener and delivered a clear, responsive demo, adapting the walkthrough to Michael's branch and handling buyers' interjected questions without losing the thread.",
+          "evidence": [
+            {
+              "timestamp": "00:38:09",
+              "quote": "Like Ed was saying, we want to make the co-pilot as easy for your reps to use"
+            },
+            {
+              "timestamp": "00:39:12",
+              "quote": "Looks like there's four lanes that they're moving out of Pittsburgh"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "The demo made the value concrete and visual \u2014 matching lanes, trading partners for warm intros, and key contacts \u2014 and he articulated the differentiator against Zoom in one line.",
+          "evidence": [
+            {
+              "timestamp": "00:41:33",
+              "quote": "Zoom is contacts and contacts are great, but this is just something that's more geared towards our industry"
+            },
+            {
+              "timestamp": "00:40:25",
+              "quote": "here's some people you could possibly get some warm intros with"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He ran the demo against Circle's actual context \u2014 their HubSpot integration and Michael's Pittsburgh lanes \u2014 rather than a generic sample dataset.",
+          "evidence": [
+            {
+              "timestamp": "00:38:09",
+              "quote": "we use HubSpot. So, you can see the HubSpot integrations done in here for us"
+            },
+            {
+              "timestamp": "00:39:12",
+              "quote": "we wanted to look at Lewisburg container"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max ran a one-way feature walkthrough; his questions were logistical/clarifying rather than discovery, and he advanced no next step, deferring deal progression entirely to Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:38:09",
+              "quote": "do a speed run for us."
+            },
+            {
+              "timestamp": "00:40:25",
+              "quote": "Here's people you could bring up to Lewisburg if you work with any of these"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Interrupt the feature tour with discovery \u2014 ask the buyer which of their real accounts or lanes to pull up so the demo tests their goals live, e.g. 'Give me one of your current customers and let's check coverage,' instead of narrating features."
+    }
+  },
+  "buyers": {
+    "Chad Buchanan": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Named a long-standing pain point the tool addresses",
+          "timestamp": "00:12:38",
+          "quote": "I've been looking for that for a long time"
+        },
+        {
+          "signal": "Openly impressed by the seller's credibility",
+          "timestamp": "00:06:29",
+          "quote": "can we hire you as a consultant? Sounds like you know how to do this"
+        },
+        {
+          "signal": "Positive but soft verbal endorsement, no personal commitment",
+          "timestamp": "00:45:19",
+          "quote": "Yeah. No, I mean I like it."
+        },
+        {
+          "signal": "Evaluating fit but handed off ownership and left the call early",
+          "timestamp": "00:41:33",
+          "quote": "Is that the CRM capability with embedded in it too"
+        }
+      ]
+    },
+    "Derek Holst": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Requested a hands-on trial (buyer-owned next step)",
+          "timestamp": "00:50:47",
+          "quote": "is there any chance of getting a demo to play one for a week?"
+        },
+        {
+          "signal": "Defined a concrete validation test with 10 real accounts",
+          "timestamp": "00:54:28",
+          "quote": "I can get a list of 10 leads that I just want to see"
+        },
+        {
+          "signal": "Framed the product against a live buying trigger (Zoom expiring)",
+          "timestamp": "00:02:38",
+          "quote": "if we look at maybe replacing Zoom, it it looks like a pretty efficient tool for that"
+        },
+        {
+          "signal": "Owned the internal follow-up to review the proposal",
+          "timestamp": "00:56:07",
+          "quote": "me and T probably can have a discussion"
+        }
+      ]
+    },
+    "Michael St Julien": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Acts as internal champion, upselling the vision to peers",
+          "timestamp": "00:14:03",
+          "quote": "I think Ed is on to something a lot bigger than that"
+        },
+        {
+          "signal": "Endorsed a full stack-replacement outcome",
+          "timestamp": "00:41:33",
+          "quote": "Optimus will eventually be a replacement for HubSpot, Zoom, and any power dialer we may be using. All of them together."
+        },
+        {
+          "signal": "Engaged in product refinement with a specific feature ask",
+          "timestamp": "00:47:58",
+          "quote": "every professional has 250 leads that are assigned to them. if we had visibility to that"
+        }
+      ]
+    }
+  }
+}

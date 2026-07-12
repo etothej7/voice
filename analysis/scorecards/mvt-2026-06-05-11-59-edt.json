@@ -1,0 +1,143 @@
+{
+  "call": "mvt-2026-06-05-11-59-edt",
+  "source": {
+    "recording": "Optimus _ MVT - 2026_06_05 11_59 EDT - Recording.mp4",
+    "notes": "Optimus _ MVT - 2026_06_05 11_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Marco Estrada": {
+      "words": 1315,
+      "questions": 6,
+      "speech_min": 4.9,
+      "loudness_mean": 1.023,
+      "loudness_cv": 0.663,
+      "f0_std_semitones": 8.88,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 48.1,
+      "arousal": 0.536,
+      "dominance": 0.58,
+      "valence": 0.504,
+      "arousal_thirds": [
+        0.504,
+        0.541,
+        0.538
+      ],
+      "seconds_analyzed": 176.0
+    },
+    "Max Riemer": {
+      "words": 1417,
+      "questions": 17,
+      "speech_min": 5.5,
+      "loudness_mean": 0.991,
+      "loudness_cv": 0.665,
+      "f0_std_semitones": 9.1,
+      "pace_peaks_per_sec": 4.16,
+      "talk_share_pct": 51.9,
+      "arousal": 0.565,
+      "dominance": 0.571,
+      "valence": 0.501,
+      "arousal_thirds": [
+        0.59,
+        0.524,
+        0.549
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "Max Riemer (Optimus) walked Marco Estrada \u2014 a cross-border logistics lead at MVT, a ~1,700-truck, 7,000-trailer El Paso carrier \u2014 through Optimus's freight-specific shipper data and built-in CRM/outreach tools. Marco engaged well and repeatedly said he liked the product, but was clear from the outset that he cannot buy and flagged a company-wide freeze on new-software spend during an ongoing AS400-to-Mcloud migration. The call ended with Marco agreeing to pitch it to brokerage lead Tyler Passmore that day and follow up with Max the next Tuesday, escalating to his boss Amy if Tyler passes.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded prepared and responsive, adapting in real time when Marco named a customer and when Marco said he couldn't buy; his vocal arousal ran ~1.9 SD above his own 42-call baseline, so he was more energized than usual rather than reading a flat script.",
+          "evidence": [
+            {
+              "timestamp": "00:07:30",
+              "quote": "just to give you an idea of Optimus to see if it's worth taking over to Tyler"
+            },
+            {
+              "timestamp": "00:11:46",
+              "quote": "So you click on Niagara they're a customer of yours and it's like oh dang I didn't know they did this much volume out of that Louisiana site."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain the core reason to care \u2014 Optimus supplies transportation-specific shipper data (lanes, volumes, freight spend) that generic tools like ZoomInfo lack, so reps can open with relevant lane info \u2014 though the value stayed qualitative with no quantified outcome or ROI.",
+          "evidence": [
+            {
+              "timestamp": "00:09:41",
+              "quote": "Zoom info doesn't have any transportation data. They have contacts."
+            },
+            {
+              "timestamp": "00:09:41",
+              "quote": "You give a decent sales rep, uh, some lane information, some value propositions to bring on call number one or email number one, whatever it is, you know, that's going to get the shipping manager's attention"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He tailored the demo to MVT's own footprint \u2014 pulling up their customer Niagara and framing an asset-capacity upsell of more trailers, which fits a 1,700-truck/7,000-trailer carrier \u2014 though he missed Marco's stated cross-border domain entirely.",
+          "evidence": [
+            {
+              "timestamp": "00:10:41",
+              "quote": "cross reference MVT, cross reference Optimus, see where y'all have capacity, see where y'all could help out Niagara"
+            },
+            {
+              "timestamp": "00:11:46",
+              "quote": "Let's go start a conversation about that about how we can put some more trailers over there."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked solid qualifying questions (asset vs. brokerage, CRM, rep count, decision authority) but didn't convert surfaced pain into value \u2014 he answered Marco's complaint that SalesLoft's data is 'a little old' with just 'Nice' instead of contrasting Optimus's 30-day refresh \u2014 and left the next step entirely buyer-owned with no calendar hold or direct route to the actual decision path.",
+          "evidence": [
+            {
+              "timestamp": "00:14:53",
+              "quote": "Nice."
+            },
+            {
+              "timestamp": "00:15:48",
+              "quote": "What CRM do y'all use?"
+            },
+            {
+              "timestamp": "00:18:53",
+              "quote": "Would you want to loop me in or just do that like internally with Tyler first?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Turn every named pain point into an immediate, specific value contrast: when Marco flagged SalesLoft's outdated data and bounce-backs, that was your cue to counter on the spot with Optimus's 30-day contact refresh and freight-specific sourcing, rather than acknowledging it and moving on."
+    }
+  },
+  "buyers": {
+    "Marco Estrada": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Volunteered genuine, unprompted enthusiasm after seeing a real customer in the tool",
+          "timestamp": "00:11:46",
+          "quote": "Looks cool. I like it actually."
+        },
+        {
+          "signal": "Proposed and owned a concrete, dated follow-up himself",
+          "timestamp": "00:19:45",
+          "quote": "if you want to call me Tuesday of next week and I'll let you know what Tyler says"
+        },
+        {
+          "signal": "Committed to championing it internally, with a fallback escalation to his boss",
+          "timestamp": "00:17:54",
+          "quote": "If Tyler's not interested, then I can mention it to Amy. She's my direct boss."
+        },
+        {
+          "signal": "Raised a hard budget/timing objection that caps near-term intent",
+          "timestamp": "00:16:56",
+          "quote": "they are cutting back on spending right now on new platforms"
+        }
+      ]
+    }
+  }
+}

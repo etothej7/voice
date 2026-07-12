@@ -1,0 +1,143 @@
+{
+  "call": "tls-2026-06-09-12-59-edt",
+  "source": {
+    "recording": "Optimus _ TLS  - 2026_06_09 12_59 EDT - Recording.mp4",
+    "notes": "Optimus _ TLS  - 2026_06_09 12_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Daniel McDonough": {
+      "words": 1938,
+      "questions": 15,
+      "speech_min": 6.8,
+      "loudness_mean": 0.832,
+      "loudness_cv": 0.639,
+      "f0_std_semitones": 7.17,
+      "pace_peaks_per_sec": 3.92,
+      "talk_share_pct": 57.7,
+      "arousal": 0.45,
+      "dominance": 0.515,
+      "valence": 0.462,
+      "arousal_thirds": [
+        0.429,
+        0.437,
+        0.524
+      ],
+      "seconds_analyzed": 155.0
+    },
+    "Max Riemer": {
+      "words": 1423,
+      "questions": 15,
+      "speech_min": 5.2,
+      "loudness_mean": 1.073,
+      "loudness_cv": 0.62,
+      "f0_std_semitones": 9.62,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 42.3,
+      "arousal": 0.5,
+      "dominance": 0.55,
+      "valence": 0.479,
+      "arousal_thirds": [
+        0.513,
+        0.503,
+        0.491
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "An existing small-brokerage customer (Daniel McDonough, TLS), on Optimus's lowest cost tier, asked Max Riemer for a working session on how to use the platform more effectively, and drove most of the conversation with detailed questions about equipment filters, data metrics, and lane-volume sorting. Max clarified the filter logic (independent lane vs. equipment parameters, rolling 90-day data), committed to switching Dan's role to admin to enable HubSpot integration, and demoed the new free internal CRM/sequences feature. Dan also volunteered to refer a warm enterprise lead (Quick Trip, ~2,000 trucks) in exchange for a possible discount.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive to Dan's actual questions rather than scripted, adapting in real time \u2014 for example pulling up the CRM the moment Dan asked about automated outreach \u2014 and his pitch variation (9.62 st, +0.8 vs. his own 52-call baseline) and steady arousal confirm engaged, non-monotone delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:11:01",
+              "quote": "if you see it that means we have at least one B or POD with them moving up a a drive van."
+            },
+            {
+              "timestamp": "00:18:40",
+              "quote": "Not yet. Let me go back to your profile. So, we're building a CRM."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never packaged a crisp 'why care' \u2014 his strongest concrete value point, a free CRM, was delivered offhandedly, and when Dan explicitly asked how to get more out of the tool Max answered 'there's really not,' surrendering a clear value moment.",
+          "evidence": [
+            {
+              "timestamp": "00:06:09",
+              "quote": "There's really not."
+            },
+            {
+              "timestamp": "00:18:40",
+              "quote": "No, it's free."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The discussion was anchored in Dan's real lanes and companies and his smaller-brokerage profile, and Max tailored his answers accordingly rather than delivering a generic pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:16:20",
+              "quote": "anything medium and up like especially large in enterprise, I'd say that's, you know, pretty pretty good assumption."
+            },
+            {
+              "timestamp": "00:18:40",
+              "quote": "It's more so for like the smaller brokerages that were just given away to keep track of accounts, contacts."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked productive scoping questions (CRM system, HubSpot, saved lists) but left every follow-up open-ended and undated \u2014 including the admin-role fix and the warm Quick Trip enterprise referral \u2014 closing with a vague 'let me know' instead of a scheduled next step.",
+          "evidence": [
+            {
+              "timestamp": "00:06:09",
+              "quote": "What CRM do you use?"
+            },
+            {
+              "timestamp": "00:08:25",
+              "quote": "let me get my engineer to change this role to admin and then you would be able to integrate it with HubSpot."
+            },
+            {
+              "timestamp": "00:21:02",
+              "quote": "If there's any other questions, anything pops up, let me know."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock one specific, dated next step \u2014 e.g., 'I'll have your role switched to admin by Thursday; let's do a 15-minute call Friday to finish the HubSpot integration and check on the Quick Trip lead' \u2014 instead of leaving the admin fix, integration, and enterprise referral open-ended."
+    }
+  },
+  "buyers": {
+    "Daniel McDonough": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Unprompted own-words enthusiasm about adopting the product",
+          "timestamp": "00:18:40",
+          "quote": "I want to use the s*** out of this."
+        },
+        {
+          "signal": "Buyer-owned next step: volunteering to refer a warm ~2,000-truck enterprise lead",
+          "timestamp": "00:04:05",
+          "quote": "I'll send them your direction if they if I can if they show enough interest to book a demo or anything."
+        },
+        {
+          "signal": "Deep, specific question about how the platform's data works, showing real usage intent",
+          "timestamp": "00:13:12",
+          "quote": "what do the what do the numbers denote exact is it just how many how many bs you guys have on file"
+        },
+        {
+          "signal": "Committed to keep the seller posted on the opportunity",
+          "timestamp": "00:21:02",
+          "quote": "I'll keep you posted on the quick trip thing."
+        }
+      ]
+    }
+  }
+}

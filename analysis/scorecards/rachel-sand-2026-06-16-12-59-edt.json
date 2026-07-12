@@ -1,0 +1,151 @@
+{
+  "call": "rachel-sand-2026-06-16-12-59-edt",
+  "source": {
+    "recording": "Optimus _ Rachel Sand  - 2026_06_16 12_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Rachel Sand  - 2026_06_16 12_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1832,
+      "questions": 17,
+      "speech_min": 7.2,
+      "loudness_mean": 1.043,
+      "loudness_cv": 0.623,
+      "f0_std_semitones": 8.79,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 64.2,
+      "arousal": 0.469,
+      "dominance": 0.518,
+      "valence": 0.444,
+      "arousal_thirds": [
+        null,
+        0.485,
+        0.456
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Rachel Sand": {
+      "words": 1021,
+      "questions": 21,
+      "speech_min": 3.5,
+      "loudness_mean": 0.842,
+      "loudness_cv": 0.679,
+      "f0_std_semitones": 4.82,
+      "pace_peaks_per_sec": 4.08,
+      "talk_share_pct": 35.8,
+      "arousal": 0.487,
+      "dominance": 0.509,
+      "valence": 0.485,
+      "arousal_thirds": [
+        0.531,
+        0.476,
+        0.496
+      ],
+      "seconds_analyzed": 186.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus ran a discovery-plus-live-demo call with Rachel Sand and her fellow BD reps at the Fox agency (a Kersh franchise), positioning Optimus's real-transaction freight data as a way to run lane-specific 'sniper' outreach versus their current ZoomInfo workflow. Rachel engaged heavily with the demo and pricing, and the call closed with an agreed one-week credit-based trial starting the next day, with Max to send the login link the following morning. Enterprise pricing of $750/month for unlimited seats (scoped to their team rather than the wider franchise) was presented, and a post-trial review call was agreed in principle but not dated.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly prepared and responsive, recalling prior-call details (team size, ZoomInfo) and reacting live to Rachel's lane request and follow-ups rather than reciting a script; acoustically his pitch variation is strong (8.79 st) even though his arousal/valence ran below his own baseline, so the calmer tone is not a knock.",
+          "evidence": [
+            {
+              "timestamp": "00:13:04",
+              "quote": "And you have a team of around was it 10?"
+            },
+            {
+              "timestamp": "00:13:56",
+              "quote": "I was at Axle Logistics before this and that's how we were."
+            },
+            {
+              "timestamp": "00:17:18",
+              "quote": "And just as an example, is there like a lane you'd want to look up?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "He gave a concrete, one-sentence-able value prop: real (non-scraped) transaction data lets a rep pull up a specific lane, see the actual shippers, and build tailored outreach instead of generic dialing.",
+          "evidence": [
+            {
+              "timestamp": "00:16:00",
+              "quote": "everything in Optimus is a real transaction. And what I mean by that is nothing is scraped."
+            },
+            {
+              "timestamp": "00:16:00",
+              "quote": "we call it like the sniper approach where if you search up a specific lane in Optimus, you're able to see shippers, see the exact lane, and sort of create your value proposition from there during your outreach."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to this prospect: he demoed the exact lane Rachel named, framed leads around brokerage referral/name-drop plays, and scoped pricing to their team rather than the Kersh franchise.",
+          "evidence": [
+            {
+              "timestamp": "00:17:18",
+              "quote": "So, we go in a 50 mile radius of both of those. We're going to pull up 57 companies."
+            },
+            {
+              "timestamp": "00:18:34",
+              "quote": "if you work with Ferguson already, these are people to call, maybe ask for referrals to, or just name drop Ferguson"
+            },
+            {
+              "timestamp": "00:27:03",
+              "quote": "we wouldn't go based off Kersh, but more so just your team and we would just do 750 a month for unlimited seats for the year."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "He asked productive qualifying questions about their tooling and workflow and secured a concrete, dated next step (trial starting tomorrow, login link tomorrow morning); the only gap is that the post-trial review call was left undated.",
+          "evidence": [
+            {
+              "timestamp": "00:14:47",
+              "quote": "you do y'all use any other of the features on there besides just like looking"
+            },
+            {
+              "timestamp": "00:22:32",
+              "quote": "And what CRM are y'all using?"
+            },
+            {
+              "timestamp": "00:28:26",
+              "quote": "I'll shoot you an email tomorrow morning and then you'll get one from Optimus with the login link and then from there you'll be able to invite everyone else."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending, lock the post-trial review call to a specific date and time on the calendar rather than leaving it as 'another call like this,' so the trial has a hard checkpoint and the deal can't quietly stall."
+    }
+  },
+  "buyers": {
+    "Rachel Sand": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Proactively asked for a trial before being pitched one",
+          "timestamp": "00:23:59",
+          "quote": "Is there like a trial period where we can kind of mess around with it a little bit before"
+        },
+        {
+          "signal": "Owned the process by proposing the trial-then-follow-up structure herself",
+          "timestamp": "00:26:02",
+          "quote": "Basically, I always like the week trial in another meeting to follow up with questions."
+        },
+        {
+          "signal": "Buyer-owned commitment to set up and onboard her team",
+          "timestamp": "00:27:03",
+          "quote": "just set it up for me and then I'll, you know, get these guys set up right away."
+        },
+        {
+          "signal": "Buyer-driven timing on the next step to include a key teammate",
+          "timestamp": "00:28:26",
+          "quote": "let's start it tomorrow because then I'll have Desire in here."
+        }
+      ]
+    }
+  }
+}

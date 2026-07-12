@@ -1,0 +1,215 @@
+{
+  "call": "mode-review-2026-07-09-11-29-edt",
+  "source": {
+    "recording": "Optimus __ MODE review  - 2026_07_09 11_29 EDT - Recording.mp4",
+    "notes": "Optimus __ MODE review  - 2026_07_09 11_29 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 2325,
+      "questions": 13,
+      "speech_min": 9.7,
+      "loudness_mean": 0.85,
+      "loudness_cv": 0.645,
+      "f0_std_semitones": 8.26,
+      "pace_peaks_per_sec": 4.28,
+      "talk_share_pct": 47.0,
+      "arousal": 0.527,
+      "dominance": 0.572,
+      "valence": 0.503,
+      "arousal_thirds": [
+        0.517,
+        0.543,
+        0.521
+      ],
+      "seconds_analyzed": 185.0
+    },
+    "Max Riemer": {
+      "words": 164,
+      "questions": 2,
+      "speech_min": 0.5,
+      "loudness_mean": 0.966,
+      "loudness_cv": 0.684,
+      "f0_std_semitones": 9.23,
+      "pace_peaks_per_sec": 3.62,
+      "talk_share_pct": 3.3,
+      "arousal": 0.521,
+      "dominance": 0.518,
+      "valence": 0.468,
+      "arousal_thirds": [
+        0.53,
+        0.436,
+        0.477
+      ],
+      "seconds_analyzed": 81.0
+    },
+    "Michael Sinkovitz": {
+      "words": 2463,
+      "questions": 24,
+      "speech_min": 10.2,
+      "loudness_mean": 0.95,
+      "loudness_cv": 0.619,
+      "f0_std_semitones": 10.87,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 49.7,
+      "arousal": 0.481,
+      "dominance": 0.551,
+      "valence": 0.511,
+      "arousal_thirds": [
+        0.49,
+        0.462,
+        0.498
+      ],
+      "seconds_analyzed": 188.0
+    }
+  },
+  "call_summary": "Ed Stockman ran a product-review call with Michael Sinkovitz of MODE (with near-silent support from Max Riemer); Michael had already tested Optimus against ZoomInfo using his old Heineken USA account and surfaced a parent-child data gap where Laredo-northbound volume was missing. Ed engaged deeply with the specific freight data, reinforced a 'same price as ZoomInfo plus shipment data' value prop, and offered a free ~20-seat trial for agent Bradley Dixon's team. The call ended with Michael owning all next steps (talk to the IBO/Agent Experience team, push Lauren and Ryan on usage) but with no firm date locked, and internal seller adoption plus corporate governance flagged as the main obstacles.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly responsive rather than scripted, pulling up lanes live to test Michael's Heineken hypothesis and explicitly affirming the buyer's read on parent-child routing; his acoustic profile (8.26 st pitch variation, 4.28 pace) is consistent with engaged, natural delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:07:32",
+              "quote": "Yeah, I am. I'm finding Laredo to Oal Florida. Laredo to Oxford, North Carolina."
+            },
+            {
+              "timestamp": "00:07:32",
+              "quote": "I think your your hypothesis is spoton around the parent entities."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could restate it in one sentence: pay the same as ZoomInfo, get comparable (95-97%) contact accuracy, plus shipment/lane data to drive new business. The accuracy claim is quantified and the price framing is concrete.",
+          "evidence": [
+            {
+              "timestamp": "00:09:36",
+              "quote": "I think we'll be 95 to 97% accurate with supply chain contacts"
+            },
+            {
+              "timestamp": "00:09:36",
+              "quote": "pay me what you pay them and for that you get all of this other stuff that is going to help you drive new business."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to MODE's world throughout: Ed worked the Heineken/Laredo data, framed the AI agent around MODE's own lanes and capacity, and cited BNSF and east-west rail cyclicality that directly matched Michael's Union Pacific concern.",
+          "evidence": [
+            {
+              "timestamp": "00:19:28",
+              "quote": "we look at your lanes, your customers, your capacity, what you guys are really good at."
+            },
+            {
+              "timestamp": "00:23:34",
+              "quote": "the the east to west, west to east is highly cyclical and very familiar with with that problem."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked sharp qualifying questions (notably tying the ZoomInfo contract end date to the renewal window) but never got that date on record and left every next step buyer-owned with no scheduled follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:13:34",
+              "quote": "remind me when your Zoom contract ends"
+            },
+            {
+              "timestamp": "00:30:50",
+              "quote": "let us know after you talk to that agency and we'll we'll do whatever we need to to prove some value here."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before the call ends, convert your buying-signal questions into commitments: get the ZoomInfo contract end date on record and book a specific dated follow-up (e.g., a 15-minute usage review next Thursday) instead of leaving next steps open and entirely buyer-owned."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max spoke very little (~0.5 min, 3.3% of words) but his interjections showed he was tracking the account and product accurately, so there is no tone problem to penalize.",
+          "evidence": [
+            {
+              "timestamp": "00:13:34",
+              "quote": "Ryan's with uh he's from SUNTC, right?"
+            },
+            {
+              "timestamp": "00:30:50",
+              "quote": "for 30 days."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max never articulated why the prospect should care; his airtime went to rapport and logistical asides, so there is no value statement a listener could restate.",
+          "evidence": [
+            {
+              "timestamp": "00:01:24",
+              "quote": "It's my father-in-law's old club. He just switched, so he gave me all of his gear."
+            },
+            {
+              "timestamp": "00:30:50",
+              "quote": "for 30 days."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "What little Max contributed was account-specific and showed genuine familiarity with MODE's structure and entities (SUNTC, having visited the Avenger office).",
+          "evidence": [
+            {
+              "timestamp": "00:14:32",
+              "quote": "Yep. I've been to the Avenger office."
+            },
+            {
+              "timestamp": "00:13:34",
+              "quote": "Ryan's with uh he's from SUNTC, right?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked only clarifying org-structure questions and advanced nothing toward a next step; he neither owned discovery nor proposed any dated action.",
+          "evidence": [
+            {
+              "timestamp": "00:13:34",
+              "quote": "Ryan's with uh he's from SUNTC, right?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Use your account familiarity to own a substantive segment of the next call - lead 2-3 discovery questions about their lanes, capacity, or adoption blockers - rather than limiting yourself to rapport and org-structure asides."
+    }
+  },
+  "buyers": {
+    "Michael Sinkovitz": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Tested the product hands-on before the call, using his old Heineken account as a validation case",
+          "timestamp": "00:04:36",
+          "quote": "from from me messing around with it because I used to be a seller"
+        },
+        {
+          "signal": "Unprompted positive endorsement of the tool",
+          "timestamp": "00:19:28",
+          "quote": "my experience with the tool is positive, guys."
+        },
+        {
+          "signal": "Owns concrete internal next steps to push adoption with the decision-makers",
+          "timestamp": "00:22:36",
+          "quote": "you still have 79 credits. If this is compelling, get some people get some more usage from your team."
+        },
+        {
+          "signal": "Objection/friction - defers timeline pending internal governance approval, the main obstacle to progress",
+          "timestamp": "00:18:18",
+          "quote": "Don't hold me to next week because from a corporate governance standpoint, I need to talk to our IBO experience team."
+        }
+      ]
+    }
+  }
+}

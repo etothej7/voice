@@ -1,0 +1,139 @@
+{
+  "call": "m7-2026-06-02-14-59-edt",
+  "source": {
+    "recording": "Optimus _ M7 - 2026_06_02 14_59 EDT - Recording.mp4",
+    "notes": "Optimus _ M7 - 2026_06_02 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Isaac Casias": {
+      "words": 864,
+      "questions": 7,
+      "speech_min": 3.2,
+      "loudness_mean": 1.065,
+      "loudness_cv": 0.625,
+      "f0_std_semitones": 7.43,
+      "pace_peaks_per_sec": 4.07,
+      "talk_share_pct": 50.0,
+      "arousal": 0.488,
+      "dominance": 0.536,
+      "valence": 0.504,
+      "arousal_thirds": [
+        null,
+        null,
+        0.488
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Max Riemer": {
+      "words": 864,
+      "questions": 5,
+      "speech_min": 2.9,
+      "loudness_mean": 1.028,
+      "loudness_cv": 0.648,
+      "f0_std_semitones": 8.03,
+      "pace_peaks_per_sec": 3.97,
+      "talk_share_pct": 50.0,
+      "arousal": 0.546,
+      "dominance": 0.529,
+      "valence": 0.459,
+      "arousal_thirds": [
+        0.552,
+        0.557,
+        0.478
+      ],
+      "seconds_analyzed": 171.0
+    }
+  },
+  "call_summary": "Reconnection call roughly five to six months after an initial February intro, in which Max reintroduced Optimus with a new per-seat model ($175/seat, annual term, 10% discount for full annual payment), a bundled CRM, and its core differentiator: proprietary freight/lane data pulled via OCR scanning of factoring invoices and bills of lading rather than just contacts. Isaac engaged actively, pressure-tested the tool against his own Texas/Houston lanes, and verbally committed to starting a one-seat trial for himself before bringing the wider team on. Next step is undated: Max to send a summary/proposal, Isaac to present it to his team and get back.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded prepared (he had reviewed the prior contact history) and responded directly and in real time to Isaac's questions rather than reciting a script, driving a live demo off the buyer's own prompts; his pitch variation (8.03 st) was healthy despite arousal fading over the call.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "We got stuff all the way back to February."
+            },
+            {
+              "timestamp": "00:12:41",
+              "quote": "It's the freight data that we have."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain it in one sentence: Optimus gives reps proprietary, OCR-sourced freight and lane data \u2014 what shippers are actually moving \u2014 not just contacts anyone can buy, which is a defensible edge. It is concrete though light on quantified proof (e.g., data volume or freshness).",
+          "evidence": [
+            {
+              "timestamp": "00:13:38",
+              "quote": "we do the OCR scanning for them."
+            },
+            {
+              "timestamp": "00:18:03",
+              "quote": "you can't build data."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to Isaac's actual freight network: when he mentioned Texas/Houston, Max immediately filtered the tool to Houston-origin, small-to-mid-size companies and surfaced a matching lane rather than showing a generic view.",
+          "evidence": [
+            {
+              "timestamp": "00:14:34",
+              "quote": "Yeah. So, I just selected Houston within 25 miles as the origin."
+            },
+            {
+              "timestamp": "00:15:26",
+              "quote": "I'm going to get rid of enterprise companies. So, let's just say we do smallmediumsiz companies."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked few discovery questions (the buyer drove most of the questioning) and never dug into team size, freight volume, budget, or current pain; he also accepted a vague, undated next step instead of pinning a trial start or follow-up date after Isaac self-qualified into a one-seat trial.",
+          "evidence": [
+            {
+              "timestamp": "00:18:03",
+              "quote": "and then I'll get right back with you."
+            },
+            {
+              "timestamp": "00:18:03",
+              "quote": "All right, sounds good."
+            }
+          ]
+        }
+      },
+      "coaching_action": "When a buyer self-qualifies (as Isaac did with the one-seat trial), immediately lock a concrete dated next step out loud \u2014 e.g., 'I'll send the summary today; can we get your seat provisioned and book a 15-minute kickoff this Thursday?' \u2014 instead of accepting an open-ended 'I'll get back to you.'"
+    }
+  },
+  "buyers": {
+    "Isaac Casias": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Verbal (but hedged) commitment to a one-seat trial for himself before rolling out to the team",
+          "timestamp": "00:18:03",
+          "quote": "I may be interested in just starting with one seat to start off for myself and just run with it before bringing the rest of"
+        },
+        {
+          "signal": "Buyer-owned next step: will take it to his team and requested a written summary to move forward",
+          "timestamp": "00:18:03",
+          "quote": "if you could just send me whatever is needed or the details of the outline or like a summary of what we talked about and then I'll get right back with you."
+        },
+        {
+          "signal": "Deep, fit-testing question mapping the tool to his own lanes (Texas/Houston, SoCal outbound)",
+          "timestamp": "00:14:34",
+          "quote": "if I wanted to like focus on more Texas stuff, I'd be able to kind of target it in and then kind of filter it that way"
+        },
+        {
+          "signal": "Explicit value recognition tied to consolidation and lane insight over his current Sales Dash workflow",
+          "timestamp": "00:18:03",
+          "quote": "I do like that a lot more because there's more value there, you know."
+        }
+      ]
+    }
+  }
+}

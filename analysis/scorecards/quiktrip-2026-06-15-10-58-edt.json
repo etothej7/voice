@@ -1,0 +1,155 @@
+{
+  "call": "quiktrip-2026-06-15-10-58-edt",
+  "source": {
+    "recording": "Optimus _ QuikTrip - 2026_06_15 10_58 EDT - Recording.mp4",
+    "notes": "Optimus _ QuikTrip - 2026_06_15 10_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1969,
+      "questions": 14,
+      "speech_min": 7.6,
+      "loudness_mean": 1.088,
+      "loudness_cv": 0.607,
+      "f0_std_semitones": 9.61,
+      "pace_peaks_per_sec": 4.18,
+      "talk_share_pct": 62.6,
+      "arousal": 0.477,
+      "dominance": 0.525,
+      "valence": 0.473,
+      "arousal_thirds": [
+        0.526,
+        0.467,
+        0.438
+      ],
+      "seconds_analyzed": 158.0
+    },
+    "Richard Ross": {
+      "words": 1175,
+      "questions": 9,
+      "speech_min": 3.8,
+      "loudness_mean": 0.95,
+      "loudness_cv": 0.715,
+      "f0_std_semitones": 7.54,
+      "pace_peaks_per_sec": 3.76,
+      "talk_share_pct": 37.4,
+      "arousal": 0.388,
+      "dominance": 0.446,
+      "valence": 0.436,
+      "arousal_thirds": [
+        0.398,
+        0.364,
+        0.39
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus demoed a logistics-focused shipper and contact database to three QuikTrip private-fleet logistics specialists (led by Richard Ross), positioning it against ZoomInfo by emphasizing lane history and backhaul context rather than generic contacts. He tailored the demo to QuikTrip's own facility profile and to a St. Louis\u2013Kansas City lane search on request, then closed a 20-credit pilot with a login link to be sent right after the call. The buyer was receptive but deferred the actual purchase decision to an absent boss (Justin), with Tom Redmond to test during the week and a loose plan to reconnect the following week.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was attentive and responsive \u2014 he asked live discovery questions about their process and pivoted the demo to the exact lane Richard requested rather than reciting a fixed script, and the acoustics support this (pitch variation 9.61 st, +0.8 vs his own baseline; volume steadier than usual at z -1.3). His energy did fade across the call (arousal by thirds 0.526\u21920.467\u21920.438), and he let a personal St. Louis anecdote sidetrack the early discovery.",
+          "evidence": [
+            {
+              "timestamp": "00:02:22",
+              "quote": "so do y'all is part of y'all's job like finding those back calls that Dan was talking about for your own fleet?"
+            },
+            {
+              "timestamp": "00:11:57",
+              "quote": "So there's 120 total that we've seen move that exact lane or within a 25 mile radius."
+            },
+            {
+              "timestamp": "00:03:19",
+              "quote": "sorry to get sidetracked. We had some flights get cancelceled."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it clearly: unlike ZoomInfo, Optimus pairs contacts with freight-specific lane and backhaul context so reps call the right shippers with a reason to be heard. He backed it with concrete numbers (40\u201345% of the spot market, 120 shippers on the requested lane).",
+          "evidence": [
+            {
+              "timestamp": "00:11:57",
+              "quote": "if you give a s***** sales rep a good contact, they're not going to land any more business. They're just going to know who to call and whose email they're going to send and it's going to get deleted."
+            },
+            {
+              "timestamp": "00:13:17",
+              "quote": "they're probably more willing to hear you out if you mention a specific lane, especially if it's a backhole opportunity where you could be competitive in your pricing and you have your own trucks and drivers"
+            },
+            {
+              "timestamp": "00:06:13",
+              "quote": "we're able to see about 40 45% of what we think is the spot market"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was clearly tailored to QuikTrip \u2014 he opened their own company profile and facilities, tied the product to their private-fleet backhaul problem, and ran the specific St. Louis\u2013Kansas City lane they asked for. The buyer engaged so directly that he corrected stale contacts on their own record.",
+          "evidence": [
+            {
+              "timestamp": "00:07:26",
+              "quote": "We'll see top commodities, equipment types. We've seen uh general company details. those facilities that we've tracked. Hope these all look accurate to you."
+            },
+            {
+              "timestamp": "00:11:57",
+              "quote": "So there's 120 total that we've seen move that exact lane or within a 25 mile radius."
+            },
+            {
+              "timestamp": "00:13:17",
+              "quote": "especially if it's a backhole opportunity where you could be competitive in your pricing and you have your own trucks and drivers"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "He asked productive qualifying questions (their sourcing process, broker use, prior ZoomInfo evaluation, team size) and landed a concrete pilot \u2014 20 credits with a login link to be sent right after the call. The weakness is the follow-up was left as 'sometime next week' with no specific date and no commitment secured from the actual decision-maker.",
+          "evidence": [
+            {
+              "timestamp": "00:04:07",
+              "quote": "other than Google, y'all don't you y'all don't have like a Zoom info or any like a contact database"
+            },
+            {
+              "timestamp": "00:18:15",
+              "quote": "we could do like 20 credits. Check it out. Check out the data."
+            },
+            {
+              "timestamp": "00:21:38",
+              "quote": "after the trial's up, we can um reconnect, I guess, sometime next week if you're back in the office"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, book a specific dated follow-up on the calendar and get the actual decision-maker (Justin) committed to attending, instead of leaving it as 'sometime next week' with the buyer who is out of office."
+    }
+  },
+  "buyers": {
+    "Richard Ross": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Own-words commitment to run the trial",
+          "timestamp": "00:19:26",
+          "quote": "definitely worth worth trying out and see, you know, see how it works"
+        },
+        {
+          "signal": "Repeated favorable comparison to the incumbent they evaluated (ZoomInfo)",
+          "timestamp": "00:10:28",
+          "quote": "this seems easier to search than what uh Zoom Info and all that stuff was."
+        },
+        {
+          "signal": "Engaged with pricing and ran the annual math himself \u2014 serious evaluation",
+          "timestamp": "00:15:41",
+          "quote": "So you're looking at what? Nine nine grand a year."
+        },
+        {
+          "signal": "Decision deferred to an absent boss and himself out of office \u2014 a real gating objection",
+          "timestamp": "00:05:12",
+          "quote": "our our boss Justin is he was going to try and make the call. He's out of town right now traveling."
+        }
+      ]
+    }
+  }
+}

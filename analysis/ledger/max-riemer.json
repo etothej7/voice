@@ -1,0 +1,1231 @@
+{
+  "rep": "Max Riemer",
+  "calls": [
+    {
+      "call": "flock-demo-2026-06-30-09-29-edt",
+      "talk_share_pct": 31.9,
+      "questions": 14,
+      "speech_min": 4.3,
+      "loudness_mean": 1.01,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 9.53,
+      "pace_peaks_per_sec": 4.14,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.438,
+      "valence": 0.423
+    },
+    {
+      "call": "freightplus-io-2026-07-07-13-59-edt",
+      "talk_share_pct": 36.8,
+      "questions": 15,
+      "speech_min": 8.8,
+      "loudness_mean": 1.084,
+      "loudness_cv": 0.612,
+      "f0_std_semitones": 8.91,
+      "pace_peaks_per_sec": 4.13,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.491,
+      "valence": 0.493
+    },
+    {
+      "call": "mode-review-2026-07-09-11-29-edt",
+      "talk_share_pct": 3.3,
+      "questions": 2,
+      "speech_min": 0.5,
+      "loudness_mean": 0.966,
+      "loudness_cv": 0.684,
+      "f0_std_semitones": 9.23,
+      "pace_peaks_per_sec": 3.62,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.521,
+      "valence": 0.468
+    },
+    {
+      "call": "andy-zurcher-and-max-riemer-2026-05-22-09-59-edt",
+      "talk_share_pct": 13.3,
+      "questions": 16,
+      "speech_min": 4.6,
+      "loudness_mean": 1.004,
+      "loudness_cv": 0.657,
+      "f0_std_semitones": 9.82,
+      "pace_peaks_per_sec": 4.15,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      },
+      "arousal": 0.519,
+      "valence": 0.524
+    },
+    {
+      "call": "brian-park-and-max-riemer-2026-05-20-13-29-edt",
+      "talk_share_pct": 84.8,
+      "questions": 10,
+      "speech_min": 8.8,
+      "loudness_mean": 0.977,
+      "loudness_cv": 0.625,
+      "f0_std_semitones": 8.23,
+      "pace_peaks_per_sec": 4.15,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.542,
+      "valence": 0.498
+    },
+    {
+      "call": "buck-transport-onboarding-2026-05-14-12-58-edt",
+      "talk_share_pct": 65.7,
+      "questions": 8,
+      "speech_min": 4.9,
+      "loudness_mean": 0.915,
+      "loudness_cv": 0.664,
+      "f0_std_semitones": 6.46,
+      "pace_peaks_per_sec": 3.9,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.521,
+      "valence": 0.472
+    },
+    {
+      "call": "check-in-w-fred-2026-03-11-10-00-edt",
+      "talk_share_pct": 41.1,
+      "questions": 14,
+      "speech_min": 3.5,
+      "loudness_mean": 0.827,
+      "loudness_cv": 0.741,
+      "f0_std_semitones": 8.78,
+      "pace_peaks_per_sec": 3.84,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.472,
+      "valence": 0.408
+    },
+    {
+      "call": "express-onboarding-2026-05-12-09-59-edt",
+      "talk_share_pct": 43.2,
+      "questions": 9,
+      "speech_min": 7.4,
+      "loudness_mean": 0.878,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 6.49,
+      "pace_peaks_per_sec": 3.98,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.44,
+      "valence": 0.47
+    },
+    {
+      "call": "freight-coach-onboarding-2026-06-04-15-59-edt",
+      "talk_share_pct": 45.3,
+      "questions": 12,
+      "speech_min": 6.3,
+      "loudness_mean": 0.997,
+      "loudness_cv": 0.653,
+      "f0_std_semitones": 7.3,
+      "pace_peaks_per_sec": 4.18,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.555,
+      "valence": 0.368
+    },
+    {
+      "call": "levi-west-and-max-riemer-2026-03-13-15-27-edt",
+      "talk_share_pct": 59.9,
+      "questions": 14,
+      "speech_min": 4.5,
+      "loudness_mean": 0.969,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 8.64,
+      "pace_peaks_per_sec": 4.08,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.436,
+      "valence": 0.437
+    },
+    {
+      "call": "matthew-harrison-and-max-riemer-2026-04-28-14-30-edt",
+      "talk_share_pct": 49.4,
+      "questions": 12,
+      "speech_min": 8.7,
+      "loudness_mean": 1.108,
+      "loudness_cv": 0.636,
+      "f0_std_semitones": 9.44,
+      "pace_peaks_per_sec": 4.18,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      },
+      "arousal": 0.488,
+      "valence": 0.437
+    },
+    {
+      "call": "max-paul-2026-06-04-13-59-edt",
+      "talk_share_pct": 48.8,
+      "questions": 36,
+      "speech_min": 12.9,
+      "loudness_mean": 1.044,
+      "loudness_cv": 0.65,
+      "f0_std_semitones": 7.83,
+      "pace_peaks_per_sec": 4.17,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.51,
+      "valence": 0.488
+    },
+    {
+      "call": "meghan-holmquist-and-max-riemer-2026-03-26-12-44-edt",
+      "talk_share_pct": 58.1,
+      "questions": 7,
+      "speech_min": 5.8,
+      "loudness_mean": 0.902,
+      "loudness_cv": 0.601,
+      "f0_std_semitones": 7.14,
+      "pace_peaks_per_sec": 4.12,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.435,
+      "valence": 0.501
+    },
+    {
+      "call": "al-hwy-partnership-details-2026-06-02-13-59-edt",
+      "talk_share_pct": 19.6,
+      "questions": 11,
+      "speech_min": 4.5,
+      "loudness_mean": 0.936,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 9.81,
+      "pace_peaks_per_sec": 3.95,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "pass"
+      },
+      "arousal": 0.523,
+      "valence": 0.454
+    },
+    {
+      "call": "alg-2026-03-30-12-58-edt",
+      "talk_share_pct": 7.2,
+      "questions": 6,
+      "speech_min": 2.4,
+      "loudness_mean": 0.862,
+      "loudness_cv": 0.708,
+      "f0_std_semitones": 9.04,
+      "pace_peaks_per_sec": 3.86,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "pass"
+      },
+      "arousal": 0.444,
+      "valence": 0.475
+    },
+    {
+      "call": "alg-trial-review-2026-04-23-12-29-edt",
+      "talk_share_pct": 21.3,
+      "questions": 7,
+      "speech_min": 3.8,
+      "loudness_mean": 0.911,
+      "loudness_cv": 0.705,
+      "f0_std_semitones": 9.45,
+      "pace_peaks_per_sec": 3.86,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.481,
+      "valence": 0.506
+    },
+    {
+      "call": "alg-trial-walkthrough-2026-04-13-12-57-edt",
+      "talk_share_pct": 71.5,
+      "questions": 18,
+      "speech_min": 9.8,
+      "loudness_mean": 1.075,
+      "loudness_cv": 0.601,
+      "f0_std_semitones": 9.21,
+      "pace_peaks_per_sec": 4.1,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      },
+      "arousal": 0.498,
+      "valence": 0.523
+    },
+    {
+      "call": "allen-lund-2026-04-14-13-59-edt",
+      "talk_share_pct": 36.9,
+      "questions": 15,
+      "speech_min": 5.6,
+      "loudness_mean": 1.012,
+      "loudness_cv": 0.687,
+      "f0_std_semitones": 6.9,
+      "pace_peaks_per_sec": 4.03,
+      "arousal": 0.556,
+      "valence": 0.486,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "armstrong-2026-06-15-12-59-edt",
+      "talk_share_pct": 48.5,
+      "questions": 13,
+      "speech_min": 6.4,
+      "loudness_mean": 1.103,
+      "loudness_cv": 0.618,
+      "f0_std_semitones": 9.51,
+      "pace_peaks_per_sec": 4.09,
+      "arousal": 0.495,
+      "valence": 0.5,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "bm2-2026-05-08-12-59-cdt",
+      "talk_share_pct": 62.3,
+      "questions": 42,
+      "speech_min": 21.3,
+      "loudness_mean": 0.978,
+      "loudness_cv": 0.713,
+      "f0_std_semitones": 13.02,
+      "pace_peaks_per_sec": 3.96,
+      "arousal": 0.578,
+      "valence": 0.506,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "bm2-trial-review-2026-03-19-09-57-edt",
+      "talk_share_pct": 23.6,
+      "questions": 11,
+      "speech_min": 3.7,
+      "loudness_mean": 0.914,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 6.81,
+      "pace_peaks_per_sec": 3.97,
+      "arousal": 0.497,
+      "valence": 0.472,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "cat-global-2026-04-09-12-27-edt",
+      "talk_share_pct": 11.6,
+      "questions": 8,
+      "speech_min": 2.9,
+      "loudness_mean": 0.763,
+      "loudness_cv": 0.731,
+      "f0_std_semitones": 7.76,
+      "pace_peaks_per_sec": 3.9,
+      "arousal": 0.426,
+      "valence": 0.502,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "cat-trial-review-2026-04-20-15-31-edt",
+      "talk_share_pct": 17.7,
+      "questions": 10,
+      "speech_min": 2.5,
+      "loudness_mean": 0.94,
+      "loudness_cv": 0.702,
+      "f0_std_semitones": 8.88,
+      "pace_peaks_per_sec": 4.03,
+      "arousal": 0.522,
+      "valence": 0.504,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "cake-freight-2026-05-20-14-59-edt",
+      "talk_share_pct": 31.3,
+      "questions": 9,
+      "speech_min": 4.9,
+      "loudness_mean": 0.8,
+      "loudness_cv": 0.686,
+      "f0_std_semitones": 6.8,
+      "pace_peaks_per_sec": 3.94,
+      "arousal": 0.534,
+      "valence": 0.517,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "circle-2026-05-05-13-59-edt",
+      "talk_share_pct": 5.9,
+      "questions": 12,
+      "speech_min": 2.3,
+      "loudness_mean": 0.953,
+      "loudness_cv": 0.727,
+      "f0_std_semitones": 8.8,
+      "pace_peaks_per_sec": 3.94,
+      "arousal": 0.504,
+      "valence": 0.463,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "circle-tech-call-2026-06-25-15-59-edt",
+      "talk_share_pct": 3.0,
+      "questions": 3,
+      "speech_min": 0.7,
+      "loudness_mean": 1.08,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 9.96,
+      "pace_peaks_per_sec": 4.6,
+      "arousal": 0.461,
+      "valence": 0.407,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "circle-logistics-2026-04-23-13-58-edt",
+      "talk_share_pct": 15.0,
+      "questions": 10,
+      "speech_min": 4.7,
+      "loudness_mean": 0.964,
+      "loudness_cv": 0.682,
+      "f0_std_semitones": 9.18,
+      "pace_peaks_per_sec": 4.06,
+      "arousal": 0.452,
+      "valence": 0.471,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "despir-2026-06-15-12-29-edt",
+      "talk_share_pct": 69.0,
+      "questions": 14,
+      "speech_min": 8.9,
+      "loudness_mean": 1.121,
+      "loudness_cv": 0.617,
+      "f0_std_semitones": 8.89,
+      "pace_peaks_per_sec": 4.16,
+      "arousal": 0.53,
+      "valence": 0.494,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "dynamic-connections-2026-05-14-15-29-edt",
+      "talk_share_pct": 62.7,
+      "questions": 5,
+      "speech_min": 6.9,
+      "loudness_mean": 1.031,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 9.57,
+      "pace_peaks_per_sec": 3.95,
+      "arousal": 0.464,
+      "valence": 0.477,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "efl-2026-05-06-12-59-edt",
+      "talk_share_pct": 8.2,
+      "questions": 6,
+      "speech_min": 3.4,
+      "loudness_mean": 0.909,
+      "loudness_cv": 0.707,
+      "f0_std_semitones": 8.93,
+      "pace_peaks_per_sec": 4.01,
+      "arousal": 0.473,
+      "valence": 0.494,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "efl-follow-up-2026-06-30-11-03-edt",
+      "talk_share_pct": 44.9,
+      "questions": 11,
+      "speech_min": 7.0,
+      "loudness_mean": 1.105,
+      "loudness_cv": 0.606,
+      "f0_std_semitones": 10.08,
+      "pace_peaks_per_sec": 4.19,
+      "arousal": 0.476,
+      "valence": 0.473,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "einride-2026-03-13-12-58-edt",
+      "talk_share_pct": 5.5,
+      "questions": 7,
+      "speech_min": 1.5,
+      "loudness_mean": 0.926,
+      "loudness_cv": 0.612,
+      "f0_std_semitones": 8.77,
+      "pace_peaks_per_sec": 4.15,
+      "arousal": 0.493,
+      "valence": 0.47,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "fetch-2026-05-01-09-59-edt",
+      "talk_share_pct": 6.5,
+      "questions": 5,
+      "speech_min": 2.1,
+      "loudness_mean": 1.013,
+      "loudness_cv": 0.684,
+      "f0_std_semitones": 9.13,
+      "pace_peaks_per_sec": 3.95,
+      "arousal": 0.547,
+      "valence": 0.504,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "fetch-2026-05-05-15-59-edt",
+      "talk_share_pct": 5.7,
+      "questions": 1,
+      "speech_min": 0.7,
+      "loudness_mean": 1.139,
+      "loudness_cv": 0.619,
+      "f0_std_semitones": 8.96,
+      "pace_peaks_per_sec": 4.15,
+      "arousal": 0.511,
+      "valence": 0.561,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "fetch-term-review-2026-04-27-14-59-edt",
+      "talk_share_pct": 6.6,
+      "questions": 7,
+      "speech_min": 2.7,
+      "loudness_mean": 0.966,
+      "loudness_cv": 0.712,
+      "f0_std_semitones": 9.99,
+      "pace_peaks_per_sec": 4.1,
+      "arousal": 0.513,
+      "valence": 0.453,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "fetch-2026-05-26-14-59-edt",
+      "talk_share_pct": 20.9,
+      "questions": 10,
+      "speech_min": 3.7,
+      "loudness_mean": 0.795,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 6.9,
+      "pace_peaks_per_sec": 3.84,
+      "arousal": 0.507,
+      "valence": 0.433,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "freight-buffalo-2026-05-12-16-23-edt",
+      "talk_share_pct": 55.0,
+      "questions": 16,
+      "speech_min": 5.0,
+      "loudness_mean": 0.89,
+      "loudness_cv": 0.759,
+      "f0_std_semitones": 8.69,
+      "pace_peaks_per_sec": 3.93,
+      "arousal": 0.471,
+      "valence": 0.457,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "giltner-2026-06-10-13-00-edt",
+      "talk_share_pct": 16.0,
+      "questions": 10,
+      "speech_min": 4.0,
+      "loudness_mean": 1.095,
+      "loudness_cv": 0.604,
+      "f0_std_semitones": 9.61,
+      "pace_peaks_per_sec": 4.19,
+      "arousal": 0.486,
+      "valence": 0.503,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "jack-hedden-2026-06-09-11-29-edt",
+      "talk_share_pct": 25.0,
+      "questions": 4,
+      "speech_min": 1.1,
+      "loudness_mean": 1.048,
+      "loudness_cv": 0.66,
+      "f0_std_semitones": 8.24,
+      "pace_peaks_per_sec": 4.25,
+      "arousal": 0.476,
+      "valence": 0.479,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "joe-gramc-2026-05-26-10-29-edt",
+      "talk_share_pct": 57.1,
+      "questions": 10,
+      "speech_min": 9.6,
+      "loudness_mean": 0.96,
+      "loudness_cv": 0.603,
+      "f0_std_semitones": 7.56,
+      "pace_peaks_per_sec": 4.09,
+      "arousal": 0.502,
+      "valence": 0.476,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "kti-proposal-review-2026-03-20-10-29-edt",
+      "talk_share_pct": 79.2,
+      "questions": 7,
+      "speech_min": 2.1,
+      "loudness_mean": 0.795,
+      "loudness_cv": 0.7,
+      "f0_std_semitones": 6.23,
+      "pace_peaks_per_sec": 3.82,
+      "arousal": 0.42,
+      "valence": 0.396,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "m7-2026-06-02-14-59-edt",
+      "talk_share_pct": 50.0,
+      "questions": 5,
+      "speech_min": 2.9,
+      "loudness_mean": 1.028,
+      "loudness_cv": 0.648,
+      "f0_std_semitones": 8.03,
+      "pace_peaks_per_sec": 3.97,
+      "arousal": 0.546,
+      "valence": 0.459,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "mvt-2026-06-05-11-59-edt",
+      "talk_share_pct": 51.9,
+      "questions": 17,
+      "speech_min": 5.5,
+      "loudness_mean": 0.991,
+      "loudness_cv": 0.665,
+      "f0_std_semitones": 9.1,
+      "pace_peaks_per_sec": 4.16,
+      "arousal": 0.565,
+      "valence": 0.501,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "otr-trial-review-2026-04-01-15-58-edt",
+      "talk_share_pct": 26.8,
+      "questions": 16,
+      "speech_min": 6.8,
+      "loudness_mean": 0.931,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 8.0,
+      "pace_peaks_per_sec": 4.0,
+      "arousal": 0.5,
+      "valence": 0.505,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "one-logistics-2026-05-14-10-59-edt",
+      "talk_share_pct": 39.9,
+      "questions": 21,
+      "speech_min": 8.4,
+      "loudness_mean": 0.965,
+      "loudness_cv": 0.698,
+      "f0_std_semitones": 8.21,
+      "pace_peaks_per_sec": 3.9,
+      "arousal": 0.531,
+      "valence": 0.503,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "quail-logistics-2026-06-17-14-29-edt",
+      "talk_share_pct": 55.4,
+      "questions": 3,
+      "speech_min": 4.3,
+      "loudness_mean": 1.058,
+      "loudness_cv": 0.597,
+      "f0_std_semitones": 9.26,
+      "pace_peaks_per_sec": 4.29,
+      "arousal": 0.511,
+      "valence": 0.475,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "quiktrip-2026-06-15-10-58-edt",
+      "talk_share_pct": 62.6,
+      "questions": 14,
+      "speech_min": 7.6,
+      "loudness_mean": 1.088,
+      "loudness_cv": 0.607,
+      "f0_std_semitones": 9.61,
+      "pace_peaks_per_sec": 4.18,
+      "arousal": 0.477,
+      "valence": 0.473,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "rachel-sand-2026-06-16-12-59-edt",
+      "talk_share_pct": 64.2,
+      "questions": 17,
+      "speech_min": 7.2,
+      "loudness_mean": 1.043,
+      "loudness_cv": 0.623,
+      "f0_std_semitones": 8.79,
+      "pace_peaks_per_sec": 4.15,
+      "arousal": 0.469,
+      "valence": 0.444,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "sims-global-2026-04-27-13-59-edt",
+      "talk_share_pct": 53.7,
+      "questions": 20,
+      "speech_min": 7.3,
+      "loudness_mean": 0.777,
+      "loudness_cv": 0.74,
+      "f0_std_semitones": 8.45,
+      "pace_peaks_per_sec": 3.88,
+      "arousal": 0.479,
+      "valence": 0.532,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "sims-global-2026-04-13-13-58-edt",
+      "talk_share_pct": 27.5,
+      "questions": 21,
+      "speech_min": 5.7,
+      "loudness_mean": 0.962,
+      "loudness_cv": 0.671,
+      "f0_std_semitones": 9.4,
+      "pace_peaks_per_sec": 3.95,
+      "arousal": 0.48,
+      "valence": 0.515,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "ta-services-2026-05-04-10-59-edt",
+      "talk_share_pct": 17.4,
+      "questions": 12,
+      "speech_min": 7.7,
+      "loudness_mean": 0.889,
+      "loudness_cv": 0.69,
+      "f0_std_semitones": 7.57,
+      "pace_peaks_per_sec": 4.02,
+      "arousal": 0.436,
+      "valence": 0.51,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "tj-2026-06-25-09-59-edt",
+      "talk_share_pct": 4.0,
+      "questions": 3,
+      "speech_min": 0.5,
+      "loudness_mean": 1.052,
+      "loudness_cv": 0.624,
+      "f0_std_semitones": 9.31,
+      "pace_peaks_per_sec": 3.98,
+      "arousal": 0.472,
+      "valence": 0.514,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "tls-2026-06-09-12-59-edt",
+      "talk_share_pct": 42.3,
+      "questions": 15,
+      "speech_min": 5.2,
+      "loudness_mean": 1.073,
+      "loudness_cv": 0.62,
+      "f0_std_semitones": 9.62,
+      "pace_peaks_per_sec": 4.11,
+      "arousal": 0.5,
+      "valence": 0.479,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "transloop-2026-05-18-11-59-edt",
+      "talk_share_pct": 14.5,
+      "questions": 15,
+      "speech_min": 4.5,
+      "loudness_mean": 1.053,
+      "loudness_cv": 0.621,
+      "f0_std_semitones": 9.55,
+      "pace_peaks_per_sec": 4.13,
+      "arousal": 0.449,
+      "valence": 0.486,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "transloop-2026-06-03-10-59-edt",
+      "talk_share_pct": 16.0,
+      "questions": 3,
+      "speech_min": 3.5,
+      "loudness_mean": 1.008,
+      "loudness_cv": 0.646,
+      "f0_std_semitones": 9.44,
+      "pace_peaks_per_sec": 4.0,
+      "arousal": 0.47,
+      "valence": 0.498,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "tuckey-2026-05-20-14-00-edt",
+      "talk_share_pct": 34.2,
+      "questions": 13,
+      "speech_min": 4.0,
+      "loudness_mean": 1.049,
+      "loudness_cv": 0.603,
+      "f0_std_semitones": 8.96,
+      "pace_peaks_per_sec": 4.16,
+      "arousal": 0.473,
+      "valence": 0.489,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "vic-2026-05-26-09-59-edt",
+      "talk_share_pct": 17.4,
+      "questions": 3,
+      "speech_min": 1.0,
+      "loudness_mean": 0.91,
+      "loudness_cv": 0.681,
+      "f0_std_semitones": 8.07,
+      "pace_peaks_per_sec": 3.69,
+      "arousal": 0.504,
+      "valence": 0.452,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "wsi-2026-06-22-09-59-cdt",
+      "talk_share_pct": 57.3,
+      "questions": 9,
+      "speech_min": 11.2,
+      "loudness_mean": 1.063,
+      "loudness_cv": 0.579,
+      "f0_std_semitones": 12.85,
+      "pace_peaks_per_sec": 4.76,
+      "arousal": 0.425,
+      "valence": 0.458,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "waabi-2026-05-27-14-59-edt",
+      "talk_share_pct": 24.0,
+      "questions": 8,
+      "speech_min": 3.9,
+      "loudness_mean": 0.897,
+      "loudness_cv": 0.693,
+      "f0_std_semitones": 8.35,
+      "pace_peaks_per_sec": 3.99,
+      "arousal": 0.506,
+      "valence": 0.542,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "demo-2026-06-16-12-28-edt",
+      "talk_share_pct": 52.6,
+      "questions": 11,
+      "speech_min": 7.2,
+      "loudness_mean": 1.03,
+      "loudness_cv": 0.599,
+      "f0_std_semitones": 8.38,
+      "pace_peaks_per_sec": 4.14,
+      "arousal": 0.497,
+      "valence": 0.494,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "needs_improvement",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "demo-2026-06-23-15-59-edt",
+      "talk_share_pct": 65.5,
+      "questions": 10,
+      "speech_min": 7.0,
+      "loudness_mean": 1.014,
+      "loudness_cv": 0.56,
+      "f0_std_semitones": 9.92,
+      "pace_peaks_per_sec": 4.35,
+      "arousal": 0.446,
+      "valence": 0.471,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "onboarding-call-2026-06-26-11-57-edt",
+      "talk_share_pct": 85.1,
+      "questions": 8,
+      "speech_min": 5.5,
+      "loudness_mean": 1.034,
+      "loudness_cv": 0.61,
+      "f0_std_semitones": 9.76,
+      "pace_peaks_per_sec": 4.15,
+      "arousal": 0.511,
+      "valence": 0.486,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "team-chip-reeves-2026-05-19-09-59-edt",
+      "talk_share_pct": 41.9,
+      "questions": 10,
+      "speech_min": 8.2,
+      "loudness_mean": 1.096,
+      "loudness_cv": 0.637,
+      "f0_std_semitones": 7.77,
+      "pace_peaks_per_sec": 3.87,
+      "arousal": 0.568,
+      "valence": 0.574,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "trial-review-2026-06-25-14-59-edt",
+      "talk_share_pct": 37.1,
+      "questions": 9,
+      "speech_min": 3.7,
+      "loudness_mean": 1.052,
+      "loudness_cv": 0.621,
+      "f0_std_semitones": 10.14,
+      "pace_peaks_per_sec": 4.35,
+      "arousal": 0.498,
+      "valence": 0.468,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "needs_improvement"
+      }
+    },
+    {
+      "call": "tom-thompson-and-max-riemer-2026-04-15-10-58-edt",
+      "talk_share_pct": 59.5,
+      "questions": 16,
+      "speech_min": 8.5,
+      "loudness_mean": 0.923,
+      "loudness_cv": 0.648,
+      "f0_std_semitones": 7.33,
+      "pace_peaks_per_sec": 3.93,
+      "arousal": 0.44,
+      "valence": 0.461,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "pass",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    },
+    {
+      "call": "waabi-network-builder-2026-05-22-15-00-edt",
+      "talk_share_pct": 36.9,
+      "questions": 8,
+      "speech_min": 6.5,
+      "loudness_mean": 1.045,
+      "loudness_cv": 0.631,
+      "f0_std_semitones": 8.87,
+      "pace_peaks_per_sec": 4.11,
+      "arousal": 0.478,
+      "valence": 0.5,
+      "rubric": {
+        "delivery_engagement": "pass",
+        "value_prop_clarity": "needs_improvement",
+        "relevance": "pass",
+        "discovery_progression": "pass"
+      }
+    }
+  ],
+  "baseline": {
+    "n_calls": 66,
+    "active": true,
+    "loudness_mean": {
+      "mean": 0.982,
+      "std": 0.09
+    },
+    "loudness_cv": {
+      "mean": 0.655,
+      "std": 0.044
+    },
+    "f0_std_semitones": {
+      "mean": 8.776,
+      "std": 1.236
+    },
+    "pace_peaks_per_sec": {
+      "mean": 4.06,
+      "std": 0.179
+    },
+    "arousal": {
+      "mean": 0.491,
+      "std": 0.037
+    },
+    "valence": {
+      "mean": 0.481,
+      "std": 0.036
+    }
+  },
+  "disposition": {
+    "level": "steady",
+    "n_calls": 66,
+    "mean_arousal": 0.491,
+    "ceiling": 0.551,
+    "fade_rate": 0.2,
+    "range_mean": 0.062,
+    "fade_warning": false,
+    "thresholds_version": "v1-heuristic"
+  }
+}

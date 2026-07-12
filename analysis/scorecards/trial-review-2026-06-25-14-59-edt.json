@@ -1,0 +1,173 @@
+{
+  "call": "trial-review-2026-06-25-14-59-edt",
+  "source": {
+    "recording": "Optimus trial review - 2026_06_25 14_59 EDT - Recording.mp4",
+    "notes": "Optimus trial review - 2026_06_25 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Desiree Nelson": {
+      "words": 46,
+      "questions": 1,
+      "speech_min": 0.2,
+      "loudness_mean": 0.889,
+      "loudness_cv": 0.716,
+      "f0_std_semitones": 5.33,
+      "pace_peaks_per_sec": 4.26,
+      "talk_share_pct": 1.7,
+      "arousal": 0.668,
+      "dominance": 0.632,
+      "valence": 0.689,
+      "arousal_thirds": [
+        0.668,
+        null,
+        null
+      ],
+      "seconds_analyzed": 13.0
+    },
+    "Max Riemer": {
+      "words": 1025,
+      "questions": 9,
+      "speech_min": 3.7,
+      "loudness_mean": 1.052,
+      "loudness_cv": 0.621,
+      "f0_std_semitones": 10.14,
+      "pace_peaks_per_sec": 4.35,
+      "talk_share_pct": 37.1,
+      "arousal": 0.498,
+      "dominance": 0.544,
+      "valence": 0.468,
+      "arousal_thirds": [
+        0.53,
+        0.489,
+        0.493
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Rachel Sand": {
+      "words": 1694,
+      "questions": 27,
+      "speech_min": 6.0,
+      "loudness_mean": 0.909,
+      "loudness_cv": 0.683,
+      "f0_std_semitones": 5.75,
+      "pace_peaks_per_sec": 4.11,
+      "talk_share_pct": 61.3,
+      "arousal": 0.563,
+      "dominance": 0.577,
+      "valence": 0.541,
+      "arousal_thirds": [
+        0.574,
+        0.523,
+        0.579
+      ],
+      "seconds_analyzed": 192.0
+    }
+  },
+  "call_summary": "Trial-review call between Optimus rep Max Riemer and Kirsch/Kersh freight agents, led by Rachel Sand (Desiree Nelson joined only briefly during setup). Rachel praised the CRM/call-planning workflow and lead quality for prospecting but flagged contact and industry-classification data accuracy issues and a hard blocker: their legacy Mloud CRM and Kersh network compliance rules that require all leads housed in Mloud. The purchase was deferred pending more testing, a CTO check on Mloud API feasibility, and a sales-team consult, with both sides agreeing to regroup the next day.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max opened the floor for honest feedback and responded to Rachel's actual points rather than scripting, e.g. reframing the ZoomInfo comparison and probing her lead-visibility pain; acoustically he was more animated than his own norm (pitch variation 10.14 st, z=+1.1; pace z=+1.6), consistent with engaged, unscripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:04:23",
+              "quote": "I want to hear the good, the bad, the ugly. You know, what worked, uh what you did like, if anything was like really useful to you."
+            },
+            {
+              "timestamp": "00:08:20",
+              "quote": "if you find a new lead, you can't see if someone at Kersh like corporate is like working it and and you're not allowed to work"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max articulated a concrete, freight-specific value prop: the AI prioritizes which leads to call based on margins, capacity, and back-haul opportunities on contracted lanes, though he never quantified the payoff (e.g. time saved or lift).",
+          "evidence": [
+            {
+              "timestamp": "00:07:15",
+              "quote": "which allows us to sort of filter out leads or push leads that would make the most sense for you to call on based on where you buy well, where your margins are high, where you have a lot of capacity or on contracted lanes where you could use back hauls"
+            },
+            {
+              "timestamp": "00:07:15",
+              "quote": "That's sort of like the AI portion of Optimus is generating outreach for you and pushing those leads up to you rather than going in and filtering out yourself."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was clearly tailored to this prospect: freight terms (lanes, capacity, back hauls), their email provider, team size and growth, and a pricing recommendation sized to their four reps scaling to eight.",
+          "evidence": [
+            {
+              "timestamp": "00:11:06",
+              "quote": "when you hit 750 bucks a month it goes to unlimited seats um so if you were to have four users now and eight users you know by this time next year uh the pricing wouldn't change"
+            },
+            {
+              "timestamp": "00:07:15",
+              "quote": "on contracted lanes where you could use back hauls, things like that"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked several productive discovery questions (email provider, team size, growth, lead process), but his questioning was scattered ('where I was going with this') and he let the buyer own and loosely date the next step rather than firming it up himself.",
+          "evidence": [
+            {
+              "timestamp": "00:10:11",
+              "quote": "How many total sales reps do y'all have?"
+            },
+            {
+              "timestamp": "00:16:25",
+              "quote": "All right. Well, sounds good. I'll uh we'll touch base tomorrow."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Own the close: instead of 'we'll touch base tomorrow,' propose a specific day-and-time, send a calendar invite on the spot, and restate the two open items you own (Mloud API feasibility with your CTO, and the pricing summary) as the agenda."
+    }
+  },
+  "buyers": {
+    "Rachel Sand": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Unprompted enthusiasm for a specific feature in her own words",
+          "timestamp": "00:04:23",
+          "quote": "one of the things I really loved was um when you add them to the CRM, you can go through and do like a a plan, a call plan"
+        },
+        {
+          "signal": "Buying-signal question about annual pricing",
+          "timestamp": "00:11:06",
+          "quote": "Is there any price break for paying out annually?"
+        },
+        {
+          "signal": "Articulated a real need the product could fill",
+          "timestamp": "00:12:08",
+          "quote": "We certainly need something outside of Mloud."
+        },
+        {
+          "signal": "Owned a concrete next step and committed to more testing",
+          "timestamp": "00:16:25",
+          "quote": "I'll deep dive it tonight. Um come up with some questions for you."
+        }
+      ]
+    },
+    "Desiree Nelson": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Only spoke during pre-call room logistics and never engaged with the product",
+          "timestamp": "00:02:39",
+          "quote": "I can probably try to come. Where are you guys Rachel? I can probably just come back there."
+        },
+        {
+          "signal": "No product questions, commitments, or objections at any point in the call",
+          "timestamp": "00:02:39",
+          "quote": "your people and whatnot as well. So, I will make sure you know I don't just to kind of give you a little"
+        }
+      ]
+    }
+  }
+}

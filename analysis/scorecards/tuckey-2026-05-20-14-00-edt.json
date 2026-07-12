@@ -1,0 +1,143 @@
+{
+  "call": "tuckey-2026-05-20-14-00-edt",
+  "source": {
+    "recording": "Optimus _ Tuckey  - 2026_05_20 14_00 EDT - Recording.mp4",
+    "notes": "Optimus _ Tuckey  - 2026_05_20 14_00 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Max Riemer": {
+      "words": 1073,
+      "questions": 13,
+      "speech_min": 4.0,
+      "loudness_mean": 1.049,
+      "loudness_cv": 0.603,
+      "f0_std_semitones": 8.96,
+      "pace_peaks_per_sec": 4.16,
+      "talk_share_pct": 34.2,
+      "arousal": 0.473,
+      "dominance": 0.524,
+      "valence": 0.489,
+      "arousal_thirds": [
+        0.519,
+        0.446,
+        0.475
+      ],
+      "seconds_analyzed": 179.0
+    },
+    "Reid Meierkort": {
+      "words": 2069,
+      "questions": 15,
+      "speech_min": 7.4,
+      "loudness_mean": 1.06,
+      "loudness_cv": 0.618,
+      "f0_std_semitones": 8.75,
+      "pace_peaks_per_sec": 4.05,
+      "talk_share_pct": 65.8,
+      "arousal": 0.49,
+      "dominance": 0.535,
+      "valence": 0.479,
+      "arousal_thirds": [
+        0.471,
+        0.473,
+        0.514
+      ],
+      "seconds_analyzed": 174.0
+    }
+  },
+  "call_summary": "Optimus rep Max Riemer gave a live demo of a freight-broker prospecting platform to Reid Meierkort, a flatbed agent who recently started working under Ryan at Tuckey. The two bonded over shared brokerage backgrounds, Max tailored the demo to Reid's flatbed/Denver focus and to the common 'customer-routed' objection, and quoted $175/user/month on a one-year contract. Reid was enthusiastic, said he'd talk to Ryan that afternoon and buy it himself if the group wouldn't add a seat, and committed to a follow-up email.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was clearly responsive rather than scripted, adapting the demo to Reid's answers and handling live technical glitches without losing composure; acoustics are steady and near his own baseline (pitch variation +0.2z, loudness notably steadier at -1.3z).",
+          "evidence": [
+            {
+              "timestamp": "00:04:56",
+              "quote": "Let's just do uh what what's a good target market for you?"
+            },
+            {
+              "timestamp": "00:06:12",
+              "quote": "What just happened? I gave our engineer some tasks to do. Maybe he's he's working right now."
+            },
+            {
+              "timestamp": "00:11:16",
+              "quote": "that's probably BS and you can call them out on it."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max delivered a crisp one-line positioning and tied it to a concrete broker outcome, and Reid restated the value in his own words, confirming a neutral listener could explain why it matters.",
+          "evidence": [
+            {
+              "timestamp": "00:04:56",
+              "quote": "the easiest way for me to describe Optimus when I'm cold calling people is a Zoom info built specifically for freight brokers."
+            },
+            {
+              "timestamp": "00:11:16",
+              "quote": "just trying to give you more data for your outreach, current customers, see what lanes you're not moving."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to Reid's flatbed lane, his Denver market, and the specific 'customer-routed' objection he raised, rather than a generic walkthrough.",
+          "evidence": [
+            {
+              "timestamp": "00:08:53",
+              "quote": "if I filter Denver here, you would see shippers that have a facility that has either received or moved a load that we've caught in our"
+            },
+            {
+              "timestamp": "00:12:14",
+              "quote": "you just call the customers and then if they say it's customer rated, which they probably will then it's like, all right, who's paying for it?"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked some useful qualifying questions (target market, HubSpot, CRM) but leaned heavily on rapport and left the decision, pricing conversation, and next step entirely to the buyer without securing a seller-driven, dated action.",
+          "evidence": [
+            {
+              "timestamp": "00:06:12",
+              "quote": "Do y'all use HubSpot?"
+            },
+            {
+              "timestamp": "00:15:02",
+              "quote": "We still do year-long contracts, so I'll just leave that up to to y'all to decide,"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before hanging up, propose and lock a specific dated next step yourself \u2014 e.g., offer to send the agreement and set a short follow-up call with Reid and Ryan for a named day \u2014 instead of leaving the timing and decision entirely to the buyer."
+    }
+  },
+  "buyers": {
+    "Reid Meierkort": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Explicit personal-value statement",
+          "timestamp": "00:15:59",
+          "quote": "Something like this would be invaluable for me for sure."
+        },
+        {
+          "signal": "Own-money buying commitment even if the group won't add a seat",
+          "timestamp": "00:15:02",
+          "quote": "if he's if he's not looking to add another spot, I'll probably just do it myself, but I'll go through him first just in case."
+        },
+        {
+          "signal": "Buyer-owned, dated next steps to advance the deal",
+          "timestamp": "00:17:01",
+          "quote": "I'll I'll talk to Ryan the next hour or so and chat him up and see what the angle we go is and I'll get back with you right away."
+        },
+        {
+          "signal": "Engaged articulation of the product's value in his own words",
+          "timestamp": "00:11:16",
+          "quote": "I really like the tool where it shows who's shipping to the people"
+        }
+      ]
+    }
+  }
+}

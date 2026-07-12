@@ -1,0 +1,219 @@
+{
+  "call": "fetch-term-review-2026-04-27-14-59-edt",
+  "source": {
+    "recording": "Optimus _ Fetch (Term review)  - 2026_04_27 14_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Fetch (Term review)  - 2026_04_27 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Brett Lankford": {
+      "words": 5202,
+      "questions": 26,
+      "speech_min": 20.5,
+      "loudness_mean": 0.882,
+      "loudness_cv": 0.726,
+      "f0_std_semitones": 10.51,
+      "pace_peaks_per_sec": 4.19,
+      "talk_share_pct": 47.7,
+      "arousal": 0.51,
+      "dominance": 0.558,
+      "valence": 0.522,
+      "arousal_thirds": [
+        0.504,
+        0.545,
+        0.487
+      ],
+      "seconds_analyzed": 184.0
+    },
+    "Ed Stockman": {
+      "words": 4997,
+      "questions": 29,
+      "speech_min": 20.3,
+      "loudness_mean": 0.869,
+      "loudness_cv": 0.727,
+      "f0_std_semitones": 9.88,
+      "pace_peaks_per_sec": 4.12,
+      "talk_share_pct": 45.8,
+      "arousal": 0.531,
+      "dominance": 0.575,
+      "valence": 0.531,
+      "arousal_thirds": [
+        0.543,
+        0.521,
+        0.533
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Max Riemer": {
+      "words": 717,
+      "questions": 7,
+      "speech_min": 2.7,
+      "loudness_mean": 0.966,
+      "loudness_cv": 0.712,
+      "f0_std_semitones": 9.99,
+      "pace_peaks_per_sec": 4.1,
+      "talk_share_pct": 6.6,
+      "arousal": 0.513,
+      "dominance": 0.503,
+      "valence": 0.453,
+      "arousal_thirds": [
+        0.515,
+        0.51,
+        0.493
+      ],
+      "seconds_analyzed": 165.0
+    }
+  },
+  "call_summary": "This was a term-review/renewal call between Optimus (Ed Stockman, founder, and Max Riemer, account owner) and Fetch (Brett Lankford). Ed spent most of the hour laying out Optimus's product vision and roadmap\u2014autonomous sales and account-management agents priced against the ~$80k cost of an underperforming rep\u2014and proposed a 12-month renewal at $1,500/month with both agents included at a 100% discount. Brett was highly engaged and asked deep questions but made no commitment on the renewal, deferring the decision to an internal discussion and a follow-up 'in a couple days.'",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was consistently responsive\u2014mirroring the buyer's own language and answering specific probing questions in detail rather than reciting\u2014and acoustically he was well above his own baseline in animation (pitch-variation z=+2.4, arousal z=+0.8), signaling genuine engagement.",
+          "evidence": [
+            {
+              "timestamp": "00:33:50",
+              "quote": "so I'm going to use the same vernacular"
+            },
+            {
+              "timestamp": "00:20:03",
+              "quote": "Well, that was going to be my next question. Good, good transition,"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: an AI sales agent that out-produces an underperforming rep for the same ~$80k, but as a forecastable, predictable cost\u2014a concrete, quantified claim.",
+          "evidence": [
+            {
+              "timestamp": "00:52:31",
+              "quote": "sales rep is able to generate x amount of margin per month for like the first 12 months and we will beat that for the 80k"
+            },
+            {
+              "timestamp": "00:53:41",
+              "quote": "Like I want I want you to have a forecastable 80k instead of what you guys are doing now is hiring somebody"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed anchored the pitch to Fetch specifically\u2014probing their rep count, building on Brett's own 'top-lanes secret intel' example, and engaging their actual VoIP provider (ND Solutions) rather than pitching generically.",
+          "evidence": [
+            {
+              "timestamp": "00:28:11",
+              "quote": "How many sales reps do you guys have?"
+            },
+            {
+              "timestamp": "00:38:37",
+              "quote": "before you call. You're going to have a much more impactful conversation with that individual."
+            },
+            {
+              "timestamp": "01:01:12",
+              "quote": "if you could figure out what what uh actual voipe system it's built on and if if it is like a white labelled solution under network data solutions, that would be a huge help"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked plenty of productive questions, but on a term-review call whose contract is nearly expired he secured no renewal commitment and no dated next step\u2014leaving it as 'another call if needed' before jumping off early.",
+          "evidence": [
+            {
+              "timestamp": "00:09:01",
+              "quote": "have you guys shipped any of this vibe coded product"
+            },
+            {
+              "timestamp": "01:03:29",
+              "quote": "very high level um we can do another call if if that's what's needed"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Spend less of the call on 12-month roadmap vision and use the last five minutes to convert the buyer's clear interest into commitment\u2014make a direct ask on the renewal and lock a specific next-meeting date on the calendar before hanging up."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Though he spoke only ~2.7 minutes, when present Max was attentive and proactive\u2014holding Brett accountable to his LinkedIn commitment and volunteering to enable an in-person visit; he should not be marked down for being quiet.",
+          "evidence": [
+            {
+              "timestamp": "00:23:42",
+              "quote": "you uh you owe us a LinkedIn post still"
+            },
+            {
+              "timestamp": "00:26:19",
+              "quote": "We're going to Birmingham Friday, my wife and I. We could leave earlier"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's substantive input stayed entirely on price and contract logistics; he never articulated why Fetch should care, ceding the entire value narrative to Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:48:49",
+              "quote": "for like fetch's size and reps, it's $1,500 a month and we're at $750 for the last six"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "needs_improvement",
+          "explanation": "Beyond quoting their contract terms, Max did not tailor anything to Fetch's freight network, lanes, or role\u2014a meaningful share of his limited airtime was off-topic personal chat.",
+          "evidence": [
+            {
+              "timestamp": "00:07:53",
+              "quote": "I've built like an app to like book the hotel and the tea times and to keep score"
+            },
+            {
+              "timestamp": "00:48:49",
+              "quote": "for like fetch's size and reps, it's $1,500 a month and we're at $750 for the last six"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "His questions were administrative (invoice/term status) and, as the account owner, he let the next step stay soft and undated\u2014'sort it out in a couple days'\u2014rather than driving a locked follow-up.",
+          "evidence": [
+            {
+              "timestamp": "00:46:44",
+              "quote": "there's like one more invoice, right? I think May, like first week of May was like the six month mark"
+            },
+            {
+              "timestamp": "01:05:17",
+              "quote": "we can we can sort that out in a couple days after we digest all this"
+            }
+          ]
+        }
+      },
+      "coaching_action": "As the account owner on the renewal, co-lead the substance instead of handling only logistics\u2014inject at least one Fetch-specific value point and own securing a dated next meeting rather than deferring to 'a couple days.'"
+    }
+  },
+  "buyers": {
+    "Brett Lankford": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "High question depth\u2014probed exactly how the agent works and its autonomy, showing real technical engagement",
+          "timestamp": "00:30:42",
+          "quote": "Is it autonomous or is it side saddle with those underperforming sales reps kind of delivering the message"
+        },
+        {
+          "signal": "Own-words commitment with immediate follow-through\u2014actually emailed the Jared agent during/after the call",
+          "timestamp": "01:04:27",
+          "quote": "I did email Jared, so see what he has to say back"
+        },
+        {
+          "signal": "Buyer-owned next step, but deferring the decision internally and adding another stakeholder (not yet decision-ready)",
+          "timestamp": "01:03:29",
+          "quote": "I think we'll probably need to set up another meeting and talk through it. I may invite Mitchell to that too as well"
+        },
+        {
+          "signal": "Caution / non-commitment\u2014felt over-loaded and made no commitment on the actual renewal or terms",
+          "timestamp": "00:57:54",
+          "quote": "this is a lot. I wasn't anticipating uh all of this today"
+        }
+      ]
+    }
+  }
+}

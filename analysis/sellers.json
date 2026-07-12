@@ -1,0 +1,5 @@
+{
+  "sellers": ["Ed Stockman", "Max Riemer"],
+  "team": ["Toby Pasquale", "Tobias Pasquale", "Mark Curatolo"],
+  "min_calls_for_baseline": 5
+}

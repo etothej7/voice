@@ -1,0 +1,125 @@
+{
+  "flock": {
+    "speakers": {
+      "Max Riemer": {
+        "role": "seller",
+        "talk_share_words_pct": 31.9,
+        "talk_time_est_min": 9.2,
+        "n_turns": 147,
+        "questions": 14,
+        "questions_per_10min_talk": 15.2,
+        "longest_turn_est_sec": 21.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 4.3,
+        "loudness_mean": 1.01,
+        "loudness_cv": 0.668,
+        "f0_std_semitones": 9.53,
+        "pace_peaks_per_sec": 4.14
+      },
+      "Michael Munday": {
+        "role": "buyer",
+        "talk_share_words_pct": 68.1,
+        "talk_time_est_min": 19.9,
+        "n_turns": 147,
+        "questions": 36,
+        "questions_per_10min_talk": 18.1,
+        "longest_turn_est_sec": 82.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 10.5,
+        "loudness_mean": 0.753,
+        "loudness_cv": 0.701,
+        "f0_std_semitones": 4.88,
+        "pace_peaks_per_sec": 3.71
+      }
+    },
+    "n_turn_switches": 293,
+    "duration_min": 31.0
+  },
+  "freightplus": {
+    "speakers": {
+      "Max Riemer": {
+        "role": "seller",
+        "talk_share_words_pct": 36.8,
+        "talk_time_est_min": 16.0,
+        "n_turns": 223,
+        "questions": 15,
+        "questions_per_10min_talk": 9.4,
+        "longest_turn_est_sec": 100.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 8.8,
+        "loudness_mean": 1.084,
+        "loudness_cv": 0.612,
+        "f0_std_semitones": 8.91,
+        "pace_peaks_per_sec": 4.13
+      },
+      "Shane Duncan": {
+        "role": "buyer",
+        "talk_share_words_pct": 63.2,
+        "talk_time_est_min": 24.1,
+        "n_turns": 222,
+        "questions": 54,
+        "questions_per_10min_talk": 22.4,
+        "longest_turn_est_sec": 90.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 14.8,
+        "loudness_mean": 0.992,
+        "loudness_cv": 0.647,
+        "f0_std_semitones": 4.92,
+        "pace_peaks_per_sec": 4.02
+      }
+    },
+    "n_turn_switches": 444,
+    "duration_min": 42.2
+  },
+  "mode": {
+    "speakers": {
+      "Ed Stockman": {
+        "role": "seller",
+        "talk_share_words_pct": 47.0,
+        "talk_time_est_min": 14.1,
+        "n_turns": 115,
+        "questions": 13,
+        "questions_per_10min_talk": 9.2,
+        "longest_turn_est_sec": 68.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 9.7,
+        "loudness_mean": 0.85,
+        "loudness_cv": 0.645,
+        "f0_std_semitones": 8.26,
+        "pace_peaks_per_sec": 4.28
+      },
+      "Max Riemer": {
+        "role": "seller",
+        "talk_share_words_pct": 3.3,
+        "talk_time_est_min": 1.7,
+        "n_turns": 23,
+        "questions": 2,
+        "questions_per_10min_talk": 12.1,
+        "longest_turn_est_sec": 36.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 0.5,
+        "loudness_mean": 0.966,
+        "loudness_cv": 0.684,
+        "f0_std_semitones": 9.23,
+        "pace_peaks_per_sec": 3.62
+      },
+      "Michael Sinkovitz": {
+        "role": "buyer",
+        "talk_share_words_pct": 49.7,
+        "talk_time_est_min": 14.7,
+        "n_turns": 114,
+        "questions": 24,
+        "questions_per_10min_talk": 16.3,
+        "longest_turn_est_sec": 45.0,
+        "median_response_latency_sec": 0.0,
+        "prosody_frames_min": 10.2,
+        "loudness_mean": 0.95,
+        "loudness_cv": 0.619,
+        "f0_std_semitones": 10.87,
+        "pace_peaks_per_sec": 4.23
+      }
+    },
+    "n_turn_switches": 251,
+    "duration_min": 32.1
+  }
+}

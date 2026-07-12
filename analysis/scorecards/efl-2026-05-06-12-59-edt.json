@@ -1,0 +1,307 @@
+{
+  "call": "efl-2026-05-06-12-59-edt",
+  "source": {
+    "recording": "Optimus _ EFL  - 2026_05_06 12_59 EDT - Recording.mp4",
+    "notes": "Optimus _ EFL  - 2026_05_06 12_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Cooper R": {
+      "words": 913,
+      "questions": 8,
+      "speech_min": 3.8,
+      "loudness_mean": 0.847,
+      "loudness_cv": 0.735,
+      "f0_std_semitones": 9.54,
+      "pace_peaks_per_sec": 3.94,
+      "talk_share_pct": 8.8,
+      "arousal": 0.455,
+      "dominance": 0.506,
+      "valence": 0.498,
+      "arousal_thirds": [
+        0.465,
+        0.411,
+        0.477
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Ed Stockman": {
+      "words": 6221,
+      "questions": 33,
+      "speech_min": 28.5,
+      "loudness_mean": 0.811,
+      "loudness_cv": 0.712,
+      "f0_std_semitones": 7.77,
+      "pace_peaks_per_sec": 3.98,
+      "talk_share_pct": 60.1,
+      "arousal": 0.489,
+      "dominance": 0.545,
+      "valence": 0.46,
+      "arousal_thirds": [
+        0.451,
+        0.514,
+        0.51
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Maggie Yepez": {
+      "words": 359,
+      "questions": 2,
+      "speech_min": 1.5,
+      "loudness_mean": 0.892,
+      "loudness_cv": 0.697,
+      "f0_std_semitones": 6.88,
+      "pace_peaks_per_sec": 3.89,
+      "talk_share_pct": 3.5,
+      "arousal": 0.42,
+      "dominance": 0.481,
+      "valence": 0.456,
+      "arousal_thirds": [
+        null,
+        0.42,
+        null
+      ],
+      "seconds_analyzed": 139.0
+    },
+    "Max Riemer": {
+      "words": 852,
+      "questions": 6,
+      "speech_min": 3.4,
+      "loudness_mean": 0.909,
+      "loudness_cv": 0.707,
+      "f0_std_semitones": 8.93,
+      "pace_peaks_per_sec": 4.01,
+      "talk_share_pct": 8.2,
+      "arousal": 0.473,
+      "dominance": 0.53,
+      "valence": 0.494,
+      "arousal_thirds": [
+        0.457,
+        0.508,
+        0.471
+      ],
+      "seconds_analyzed": 169.0
+    },
+    "NEIL": {
+      "words": 2009,
+      "questions": 13,
+      "speech_min": 7.8,
+      "loudness_mean": 0.81,
+      "loudness_cv": 0.738,
+      "f0_std_semitones": 8.77,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 19.4,
+      "arousal": 0.463,
+      "dominance": 0.523,
+      "valence": 0.484,
+      "arousal_thirds": [
+        0.464,
+        0.462,
+        0.464
+      ],
+      "seconds_analyzed": 176.0
+    }
+  },
+  "call_summary": "This was an intro/demo call between Optimus (founder/CEO Ed Stockman and Max Riemer, who drove the demo) and EFL, a global forwarder trying to grow a smaller domestic freight product. Optimus pitched a sales-lead engine built on proprietary factoring-company invoice/POD data \u2014 wallet-share expansion, lookalike new logos, and two-way backhaul matching \u2014 and ran a live demo on EFL's own lanes (Chicago\u2194Columbus, Niagara Bottling, Costco trading partners). The call ended warm: Ed committed to a same-day warm intro to Niagara's procurement head and a 12-month deal with TMS integration in 90 days, but the firm next step with decision-owner Maggie (who left early) was left open.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed consistently adapted to what buyers actually raised \u2014 running a live Smith Optics side-by-side the moment Cooper flagged Revenue Vessel's bad emails, and re-checking NEIL's exact backhaul direction before searching \u2014 and his arousal built across the call, even though he ran flatter than his own baseline (valence z -1.5, arousal z -1.2), which weighs less than his clear transcript responsiveness.",
+          "evidence": [
+            {
+              "timestamp": "00:43:19",
+              "quote": "Max, will you go into Smith Optics? I want to do a side by side right now."
+            },
+            {
+              "timestamp": "00:37:55",
+              "quote": "Wait. So, you want to do Chicago to Columbus or Columbus to Chicago?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus uses proprietary factoring-company invoice/POD data to tell brokers who to call, why, and when, expanding wallet share and finding new logos with a per-dollar ROI commitment.",
+          "evidence": [
+            {
+              "timestamp": "00:32:40",
+              "quote": "being able to tell um uh brokers and forwarders who to call, why to call them, what's the value prop, what should you be saying to that shipper, and when to call them"
+            },
+            {
+              "timestamp": "00:47:33",
+              "quote": "for every dollar you spend, you get X amount back from Optimus"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to EFL's actual network \u2014 their ocean-transload flows into Groveport, their requested Chicago-to-Columbus backhaul, and Niagara Bottling's real top lanes \u2014 and spoke directly to NEIL's procurement role.",
+          "evidence": [
+            {
+              "timestamp": "00:35:06",
+              "quote": "If you're if you guys are moving a lot of the import goods into Groveport, then a lot of their their domestic is going to be coming out of that facility."
+            },
+            {
+              "timestamp": "00:38:57",
+              "quote": "if you go into Niagara Bottling, scroll down, there are two top lanes, Gahana, Ohio to Chicago and Gahana to Wanetka, Illinois"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Ed asked productive qualifying questions (entity structure, TMS, sales headcount) and landed concrete dated commitments \u2014 a same-day Niagara warm intro and a 90-day TMS integration \u2014 though the firm next meeting with decision-owner Maggie was never dated.",
+          "evidence": [
+            {
+              "timestamp": "00:06:09",
+              "quote": "Um is everything done on the same TMS?"
+            },
+            {
+              "timestamp": "01:01:11",
+              "quote": "I will text him uh in 30 minutes after my next call and try to just tee up a warm"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending a warm call, lock a specific dated next step with the true decision-maker \u2014 here, book Maggie for a follow-up on a set date \u2014 instead of leaving momentum to your own action items."
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max drove the demo responsively to NEIL's live requests, inverting the lane on cue and surfacing the facility filter for backhauls, with healthy pitch variation (8.93 st) and above-baseline valence.",
+          "evidence": [
+            {
+              "timestamp": "00:37:55",
+              "quote": "So we should inverse this."
+            },
+            {
+              "timestamp": "00:42:29",
+              "quote": "if you have a facility somewhere where you're looking for back holes, you can use the facility filter"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's spoken contributions centered on demo mechanics and onboarding logistics (HubSpot integration, cohorts, sending emails) rather than the quantified 'why care'; the ROI narrative came entirely from Ed, so a neutral listener couldn't derive the value prop from Max's words alone.",
+          "evidence": [
+            {
+              "timestamp": "00:49:32",
+              "quote": "I know y'all are in HubSpot. We do have a native HubSpot integration."
+            },
+            {
+              "timestamp": "00:50:23",
+              "quote": "it's very just get everyone in there and start"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max tied the demo to EFL specifically \u2014 inverting their real Chicago-Columbus lane, showing the backhaul facility filter, and noting their existing HubSpot stack for a native integration.",
+          "evidence": [
+            {
+              "timestamp": "00:42:29",
+              "quote": "if you have a facility somewhere where you're looking for back holes, you can use the facility filter"
+            },
+            {
+              "timestamp": "00:49:32",
+              "quote": "I know y'all are in HubSpot. We do have a native HubSpot integration."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max's questions were rapport- and navigation-level, and while he explained onboarding cohorts, he didn't probe EFL's needs or own a dated next step, deferring progression to Ed.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "Where are you uh calling from?"
+            },
+            {
+              "timestamp": "00:48:37",
+              "quote": "we have a we do so we do have an onboarding date. Do monthly cohorts."
+            }
+          ]
+        }
+      },
+      "coaching_action": "As you drive the demo, translate each screen into EFL's ROI in your own words (e.g., 'these 157 backhaul matches could cut your one-way Chicago\u2013Columbus cost'), instead of narrating features and leaving the value story to Ed."
+    }
+  },
+  "buyers": {
+    "NEIL": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Own-words value recognition \u2014 visualized using it immediately",
+          "timestamp": "01:01:11",
+          "quote": "soon as you showed it, my mind started racing on how I would leverage the system"
+        },
+        {
+          "signal": "Built the use case himself with his own volume numbers",
+          "timestamp": "01:01:11",
+          "quote": "we have close to a hundred full truckloads coming into the Columbus market every week from Chicago. Then we could work together to present to create some interesting pricing"
+        },
+        {
+          "signal": "Buyer-owned next step \u2014 volunteered to pursue the Niagara intro",
+          "timestamp": "01:01:11",
+          "quote": "I'd be more than happy to uh follow up on that one um if you were to share that information."
+        },
+        {
+          "signal": "Qualifier \u2014 routed the actual decision to Maggie",
+          "timestamp": "01:01:11",
+          "quote": "this is Maggie who's going to be running this down"
+        }
+      ]
+    },
+    "Cooper R": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Positive head-to-head comparison vs incumbent",
+          "timestamp": "00:46:24",
+          "quote": "already I could definitely see the the contacts seem to be better than Revenue Vessel."
+        },
+        {
+          "signal": "Forward-looking buying question about onboarding",
+          "timestamp": "00:48:37",
+          "quote": "how long would be like an onboarding time if we like went with you guys to like like start getting everything going?"
+        },
+        {
+          "signal": "Concrete incumbent pain motivating a switch",
+          "timestamp": "00:43:19",
+          "quote": "four out of the five emails they pulled like personal emails"
+        },
+        {
+          "signal": "Endorsed usability but owns no next step (not the decision-maker)",
+          "timestamp": "00:50:23",
+          "quote": "it seems pretty pretty straightforward and user friendly. So, I mean, I I can't imagine anyone would have too much trouble"
+        }
+      ]
+    },
+    "Maggie Yepez": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Stated the specific gap driving interest",
+          "timestamp": "00:21:16",
+          "quote": "giving us the domestic data so much and that's why we're interested in you"
+        },
+        {
+          "signal": "Asked to see the product",
+          "timestamp": "00:29:13",
+          "quote": "Let's see it. Let's see it."
+        },
+        {
+          "signal": "Informed and dissatisfied with the incumbent (Revenue Vessel pricing)",
+          "timestamp": "00:22:12",
+          "quote": "they're um because we're one of their customers and we're probably too close with them. Um and they have now increased their price quite a lot."
+        },
+        {
+          "signal": "Low engagement \u2014 left the call early despite owning the decision",
+          "timestamp": "00:42:29",
+          "quote": "Yeah, she had another call."
+        }
+      ]
+    }
+  }
+}

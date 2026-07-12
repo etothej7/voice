@@ -1,0 +1,227 @@
+{
+  "call": "andy-zurcher-and-max-riemer-2026-05-22-09-59-edt",
+  "source": {
+    "recording": "Andy Zurcher and Max Riemer - 2026_05_22 09_59 EDT - Recording.mp4",
+    "notes": "Andy Zurcher and Max Riemer - 2026_05_22 09_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Andy": {
+      "words": 1875,
+      "questions": 20,
+      "speech_min": 7.5,
+      "loudness_mean": 0.91,
+      "loudness_cv": 0.667,
+      "f0_std_semitones": 8.65,
+      "pace_peaks_per_sec": 4.23,
+      "talk_share_pct": 22.5,
+      "arousal": 0.525,
+      "dominance": 0.578,
+      "valence": 0.476,
+      "arousal_thirds": [
+        0.522,
+        0.495,
+        0.538
+      ],
+      "seconds_analyzed": 162.0
+    },
+    "Ed Stockman": {
+      "words": 5353,
+      "questions": 29,
+      "speech_min": 23.0,
+      "loudness_mean": 0.891,
+      "loudness_cv": 0.655,
+      "f0_std_semitones": 8.92,
+      "pace_peaks_per_sec": 4.1,
+      "talk_share_pct": 64.2,
+      "arousal": 0.513,
+      "dominance": 0.556,
+      "valence": 0.487,
+      "arousal_thirds": [
+        0.458,
+        0.521,
+        0.547
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Max Riemer": {
+      "words": 1111,
+      "questions": 16,
+      "speech_min": 4.6,
+      "loudness_mean": 1.004,
+      "loudness_cv": 0.657,
+      "f0_std_semitones": 9.82,
+      "pace_peaks_per_sec": 4.15,
+      "talk_share_pct": 13.3,
+      "arousal": 0.519,
+      "dominance": 0.554,
+      "valence": 0.524,
+      "arousal_thirds": [
+        0.537,
+        0.506,
+        null
+      ],
+      "seconds_analyzed": 171.0
+    }
+  },
+  "call_summary": "Optimus founder/CEO Ed Stockman and AE Max Riemer pitched a shipper-prospecting and AI-agent platform to Mega Corps, a top-30 brokerage represented by Andy (sales ops) and Sam Foy (Salesforce admin). Ed detailed the data moat (POD-level shipment data from factoring companies across eight sources, ~65k shippers, less noise than ZoomInfo/Gen Logs) plus an AI-agent-as-employee and unlimited-user, ROI-based licensing model, while Max ran a live demo tailored to Wilmington. Andy was engaged and asked deep pricing, contract, and integration questions and committed to reviewing internally with his VP of sales, but the call ended with only an open-ended follow-up and no dated next step.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly prepared and responsive to what the buyer actually raised\u2014honest about scope limits, resourceful in real time, and directly addressing objections\u2014though his 64% talk share and self-described 'long-winded' roadmap detours risk crowding out the buyer.",
+          "evidence": [
+            {
+              "timestamp": "00:16:20",
+              "quote": "I would I would say like that is not really our forte."
+            },
+            {
+              "timestamp": "00:31:06",
+              "quote": "I'm texting Katy right now to see if you guys are on low block."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain it in one sentence: Optimus sees actual pickup/delivery data at the POD level so brokers can prospect shippers off real freight movement, and it is backed by concrete, quantified claims.",
+          "evidence": [
+            {
+              "timestamp": "00:09:37",
+              "quote": "Our goal is to understand where every shipment is and we don't make assumptions in that."
+            },
+            {
+              "timestamp": "00:15:13",
+              "quote": "you would see roughly 65,000 shippers"
+            },
+            {
+              "timestamp": "00:23:02",
+              "quote": "that agent will spin up two new or four new leads for one of your high performers to close"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Ed tailored the pitch to Mega Corps' size, their Highway/Loadlock usage and capacity-tool question, and their specific farmer/broker org structure and ZoomInfo seat waste rather than delivering a generic pitch.",
+          "evidence": [
+            {
+              "timestamp": "00:31:06",
+              "quote": "that's exactly what we're going to be doing with with Highway"
+            },
+            {
+              "timestamp": "00:45:54",
+              "quote": "give it to everybody including the farmers because one of the very first things that those farmers are going to do when they get Optimus is look at their existing customers."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked strong qualifying questions that surfaced org structure and seat waste, but he led the close and accepted an open-ended follow-up with no specific date or time locked.",
+          "evidence": [
+            {
+              "timestamp": "00:20:46",
+              "quote": "how many sales people do you guys have?"
+            },
+            {
+              "timestamp": "00:44:52",
+              "quote": "how many Zoom Info seats do you have?"
+            },
+            {
+              "timestamp": "00:46:48",
+              "quote": "Yeah, that'd be great."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending any call, propose a specific date and time for the next step and confirm it on the calendar\u2014do not settle for an open-ended 'send a follow-up.'"
+    },
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max opened with genuine, specific rapport and drove a live demo responsively, adjusting on the fly to keep it relevant to the buyer.",
+          "evidence": [
+            {
+              "timestamp": "00:00:00",
+              "quote": "I went to UNC Chapel Hill. My mom's side, the family's from North Carolina"
+            },
+            {
+              "timestamp": "00:28:14",
+              "quote": "He's in Ireland. I don't want Dave. This guy's in the US."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max framed the platform's output concretely as warm leads reps can act on, using their own top vendors as intro and value-prop levers.",
+          "evidence": [
+            {
+              "timestamp": "00:27:11",
+              "quote": "warm leads for your prosp or for your sales reps."
+            },
+            {
+              "timestamp": "00:27:11",
+              "quote": "using Zelman Industries as a value prop when you're reaching out to Ferguson"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Max filtered the demo to the prospect's own Wilmington facility and showed their actual outbound shipments and top lanes, making the data unmistakably theirs.",
+          "evidence": [
+            {
+              "timestamp": "00:25:10",
+              "quote": "just outbound Wilmington with a facility in Wilmington"
+            },
+            {
+              "timestamp": "00:26:18",
+              "quote": "They have a facility in Wilmington. They've done two outbound shipments in the last couple months."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "pass",
+          "explanation": "Max opened with productive scoping questions on their role, tools, and data, and progressed the call from intro to a live tailored demo; the fuller demo was left undated, but that gap sat mainly with the close Ed led.",
+          "evidence": [
+            {
+              "timestamp": "00:02:13",
+              "quote": "could you just give me sort of like the the 30 foot of y'all's role, the sales team"
+            },
+            {
+              "timestamp": "00:04:15",
+              "quote": "do y'all use Gen Logs on like the prospecting side or is it mostly for like carrier procurement"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Pause after your strongest tailored demo screens and ask the buyer to react (e.g., 'What would sourcing shippers off your own delivery lanes change for your reps?') to convert 'wow' moments into stated needs and a next commitment."
+    }
+  },
+  "buyers": {
+    "Andy": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Buying-stage question depth\u2014probed commercial terms directly",
+          "timestamp": "00:43:50",
+          "quote": "Speaking of a contract, is it like do you do yeartoear?"
+        },
+        {
+          "signal": "Buyer-owned next step\u2014committed to an internal review with additional stakeholders",
+          "timestamp": "00:46:48",
+          "quote": "I would like to have a followup after we kind of talk it over Sam and I and then some other people."
+        },
+        {
+          "signal": "Own-words alignment with the seller's quality-over-quantity philosophy",
+          "timestamp": "00:40:56",
+          "quote": "I'd rather have 50 quality calls than a hundred just bang out calls"
+        },
+        {
+          "signal": "Substantive objection / due diligence on outreach quality (handled, not a dealbreaker)",
+          "timestamp": "00:37:11",
+          "quote": "I don't want it just to blow up my customer and like make them feel like I'm annoyed with them"
+        }
+      ]
+    }
+  }
+}

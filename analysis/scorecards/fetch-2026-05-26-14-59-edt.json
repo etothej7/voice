@@ -1,0 +1,158 @@
+{
+  "call": "fetch-2026-05-26-14-59-edt",
+  "source": {
+    "recording": "Optimus _ Fetch - 2026_05_26 14_59 EDT - Recording.mp4",
+    "notes": "Optimus _ Fetch - 2026_05_26 14_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Brooke C": {
+      "words": 2041,
+      "questions": 18,
+      "speech_min": 7.6,
+      "loudness_mean": 0.862,
+      "loudness_cv": 0.679,
+      "f0_std_semitones": 8.07,
+      "pace_peaks_per_sec": 3.91,
+      "talk_share_pct": 48.4,
+      "arousal": 0.525,
+      "dominance": 0.564,
+      "valence": 0.474,
+      "arousal_thirds": [
+        0.559,
+        0.501,
+        0.537
+      ],
+      "seconds_analyzed": 175.0
+    },
+    "Max Riemer": {
+      "words": 883,
+      "questions": 10,
+      "speech_min": 3.7,
+      "loudness_mean": 0.795,
+      "loudness_cv": 0.694,
+      "f0_std_semitones": 6.9,
+      "pace_peaks_per_sec": 3.84,
+      "talk_share_pct": 20.9,
+      "arousal": 0.507,
+      "dominance": 0.522,
+      "valence": 0.433,
+      "arousal_thirds": [
+        0.523,
+        0.514,
+        0.482
+      ],
+      "seconds_analyzed": 173.0
+    },
+    "Toby Pasquale": {
+      "words": 1294,
+      "questions": 10,
+      "speech_min": 5.1,
+      "loudness_mean": 0.775,
+      "loudness_cv": 0.684,
+      "f0_std_semitones": 5.83,
+      "pace_peaks_per_sec": 3.78,
+      "talk_share_pct": 30.7,
+      "arousal": 0.56,
+      "dominance": 0.587,
+      "valence": 0.541,
+      "arousal_thirds": [
+        0.575,
+        0.543,
+        0.565
+      ],
+      "seconds_analyzed": 168.0
+    }
+  },
+  "call_summary": "This was a re-onboarding/kickoff call between Optimus (Max Riemer, seller; Toby Pasquale, technical) and existing customer Fetch (Brooke C). The core topics were standing up API connectivity between Fetch's TMS (Mloud) and Optimus so billing/order-history data can feed Optimus's AI recommendation engine, the data-privacy tiers around the Optimus network, and tightening the feedback loop on data quality. The parties agreed to a monthly cadence, with Fetch to scope API permissioning/token access this week and Max to open an IT coordination thread.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max was acoustically subdued relative to his own 35-call baseline (pitch variation z -1.5, pace z -1.3, valence z -1.2), but per the rubric tone alone is not a markdown; substantively he answered Brooke's actual questions directly and specifically rather than reciting a script.",
+          "evidence": [
+            {
+              "timestamp": "00:12:22",
+              "quote": "here's the shipper we found you should reach out to. Here's our reasoning of why. And then here's like a, you know, contact, email, phone number, all that."
+            },
+            {
+              "timestamp": "00:15:31",
+              "quote": "So if we saw the same shipper, the same lane with Fetch and then like four or five other brokerages, then it's like, all right, this isn't really propri, it's not a proprietary lane."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could summarize it: Optimus reads Fetch's margins/order history and recommends net-new shippers in the exact lanes and verticals where Fetch already wins, delivered as a daily email with contact info and reasoning. The Birmingham-Omaha margin example makes it concrete.",
+          "evidence": [
+            {
+              "timestamp": "00:10:11",
+              "quote": "obviously pickups and deliveries, but also margins and where you're buying best. And that's going to be the going to have a pretty big influence in um suggestions of shippers and prospects, whether that's markets or verticals."
+            },
+            {
+              "timestamp": "00:11:27",
+              "quote": "Then it's like, all right, let's go find shippers that are matching up this vertical or, you know, flatb freight out of Birmingham to Nebraska. That's what y'all are really strong in."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was framed around Fetch's own freight network and data \u2014 its strong lanes/verticals, its contact accuracy, and specific errors in its own shipper profiles \u2014 rather than a generic capabilities tour.",
+          "evidence": [
+            {
+              "timestamp": "00:11:27",
+              "quote": "flatb freight out of Birmingham to Nebraska. That's what y'all are really strong in."
+            },
+            {
+              "timestamp": "00:20:20",
+              "quote": "there was a couple steel manufacturers and it had like grocery items and like apple juices listed in there. So just like little things like that that help us clean up profiles"
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "A concrete next step did land (Max owns opening the IT thread, plus a monthly cadence), but the buyer drove nearly all of it \u2014 Brooke proposed the meeting cadence and dated the API work, while Max mostly agreed and asked few substantive discovery questions of his own.",
+          "evidence": [
+            {
+              "timestamp": "00:24:21",
+              "quote": "I'll start a I'll start a thread after this call with Toby in there, Brett, and then you can loop in any any IT tech guys that Toby would need to be in contact with"
+            },
+            {
+              "timestamp": "00:23:13",
+              "quote": "Yeah, we can do that."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Take the lead on discovery next call: prepare and ask 3-4 pointed questions about Fetch's current priorities and its highest-margin lanes, and before hanging up restate each next step with a named owner and a specific date instead of letting the buyer set the agenda."
+    }
+  },
+  "buyers": {
+    "Brooke C": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Buyer-owned, dated next step to unblock the integration",
+          "timestamp": "00:24:21",
+          "quote": "So work on we'll work on that this week and I should have an update for you probably later this week on that"
+        },
+        {
+          "signal": "Proposed the ongoing cadence herself to drive accountability",
+          "timestamp": "00:23:13",
+          "quote": "I think that we should probably meet once a month. Max,"
+        },
+        {
+          "signal": "Deep, probing question protecting proprietary data before committing",
+          "timestamp": "00:14:17",
+          "quote": "Would it be used to populate the platform for others like new shippers, new lanes?"
+        },
+        {
+          "signal": "Explicitly invested in fixing the relationship going forward",
+          "timestamp": "00:15:31",
+          "quote": "trying to make sure that we don't have some of the same pitfalls we had, you know, the last six months with being able to make sure we're providing feedback"
+        }
+      ]
+    }
+  }
+}

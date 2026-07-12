@@ -1,0 +1,155 @@
+{
+  "call": "bm2-trial-review-2026-03-30-13-59-edt",
+  "source": {
+    "recording": "Optimus _ BM2 (trial review)  - 2026_03_30 13_59 EDT - Recording.mp4",
+    "notes": "Optimus _ BM2 (trial review)  - 2026_03_30 13_59 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 2524,
+      "questions": 7,
+      "speech_min": 10.2,
+      "loudness_mean": 0.839,
+      "loudness_cv": 0.742,
+      "f0_std_semitones": 6.31,
+      "pace_peaks_per_sec": 3.79,
+      "talk_share_pct": 66.6,
+      "arousal": 0.508,
+      "dominance": 0.544,
+      "valence": 0.52,
+      "arousal_thirds": [
+        0.488,
+        0.51,
+        0.518
+      ],
+      "seconds_analyzed": 168.0
+    },
+    "Talmadge Studer": {
+      "words": 1267,
+      "questions": 10,
+      "speech_min": 5.8,
+      "loudness_mean": 0.873,
+      "loudness_cv": 0.738,
+      "f0_std_semitones": 6.31,
+      "pace_peaks_per_sec": 3.62,
+      "talk_share_pct": 33.4,
+      "arousal": 0.509,
+      "dominance": 0.541,
+      "valence": 0.506,
+      "arousal_thirds": [
+        0.56,
+        0.468,
+        0.442
+      ],
+      "seconds_analyzed": 177.0
+    }
+  },
+  "call_summary": "Trial-review call between Optimus (Ed Stockman, Max Riemer) and freight brokerage BM2 (Talmadge Studer and 'Jay'/Jess). Trial feedback was strongly positive \u2014 reps found the transportation data far more valuable than minor contact-data gaps versus ZoomInfo \u2014 but the deal is blocked by BM2's existing annual ZoomInfo contract (~$20\u201325k, Feb-to-Feb) that would force double-paying. Ed floated a reduced fee (~$250\u2013500/mo) plus a gain-share model tied to a TMS integration, which surfaced data-sharing concerns he offered to solve with contract language; the agreed path is for Talmadge to pursue an early ZoomInfo exit while Optimus emails pricing options.",
+  "sellers": {
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed was clearly attentive and built directly on what the buyer said rather than reciting a script, mirroring Talmadge's 'data outweighs contacts' logic and immediately asking for specifics to act on; acoustic arousal was steady-to-rising across thirds [0.488, 0.51, 0.518] with positive valence.",
+          "evidence": [
+            {
+              "timestamp": "00:05:57",
+              "quote": "I'm so curious on some of those names and contacts. Um, if you can send us over any examples, I I will dive into those in a heartbeat."
+            },
+            {
+              "timestamp": "00:05:57",
+              "quote": "Like, that stuff keeps me up at night. Like, I obsess over that stuff."
+            },
+            {
+              "timestamp": "00:07:00",
+              "quote": "And that's that for us, like we've weeded out a lot of like bad partners because of that."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed articulated a concrete, quantified proposition: a low fixed fee plus gain-share, with the platform proactively surfacing warm leads matched to BM2's own network and auto-writing value-prop emails to help reps close more deals.",
+          "evidence": [
+            {
+              "timestamp": "00:13:26",
+              "quote": "What if we did um what if we proposed something very minimal like 250 or 500 bucks a month and gain share."
+            },
+            {
+              "timestamp": "00:14:58",
+              "quote": "we'll start proactively pushing them alerts. The shipper matches your customer. This is a good lead."
+            },
+            {
+              "timestamp": "00:16:04",
+              "quote": "It's going to look at the shippers network, figure out what that right value proposition is, and write that email for that sales rep."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "The pitch was tailored to BM2 as a freight broker \u2014 Ed referenced their lanes, backhaul network, customers and margins, and probed their specific TMS to frame the integration value.",
+          "evidence": [
+            {
+              "timestamp": "00:14:58",
+              "quote": "back haul lanes fits in your network"
+            },
+            {
+              "timestamp": "00:16:04",
+              "quote": "we look at your customers, your lanes, your profit margins, and sit there and say like this should be your ICP."
+            },
+            {
+              "timestamp": "00:13:26",
+              "quote": "And remind me what TMS you guys are on."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked genuinely productive questions (price per seat, TMS, whether gain-share could justify cost), but the call closed on an open-ended 'we'll send an email' with no scheduled follow-up or date attached to any next step.",
+          "evidence": [
+            {
+              "timestamp": "00:03:55",
+              "quote": "do you know your do you know your average like roughly um price per seat?"
+            },
+            {
+              "timestamp": "00:14:58",
+              "quote": "is that a possibility where if you make more money, is that an easy way to justify a cost?"
+            },
+            {
+              "timestamp": "00:20:21",
+              "quote": "We'll follow up with an email with a couple of different options and just bullet points and see what we could do."
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock a specific dated next step \u2014 propose an actual follow-up meeting (day and time) to walk through the emailed pricing options and Talmadge's ZoomInfo contract findings, instead of leaving it at 'we'll send an email.'"
+    }
+  },
+  "buyers": {
+    "Talmadge Studer": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Strong own-words endorsement of product value across the org",
+          "timestamp": "00:07:52",
+          "quote": "we've gotten nothing but great great feedback across uh the organization and the floor."
+        },
+        {
+          "signal": "Explicit intent to adopt once the contract blocker is cleared",
+          "timestamp": "00:19:14",
+          "quote": "I would rather go the traditional way of seeing what this Zoom Info contract looks like, trying to get out of that and then locking it."
+        },
+        {
+          "signal": "Buyer-owned next step to unblock the deal",
+          "timestamp": "00:10:09",
+          "quote": "I got to do my part in engaging with Zoom Info and seeing, you know, is there an out clause?"
+        },
+        {
+          "signal": "Serious-buyer diligence via a substantive data-sharing objection",
+          "timestamp": "00:17:09",
+          "quote": "we've been down that road before."
+        }
+      ]
+    }
+  }
+}

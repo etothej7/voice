@@ -1,0 +1,226 @@
+{
+  "call": "alg-trial-walkthrough-2026-04-13-12-57-edt",
+  "source": {
+    "recording": "Optimus _ ALG trial walkthrough  - 2026_04_13 12_57 EDT - Recording.mp4",
+    "notes": "Optimus _ ALG trial walkthrough  - 2026_04_13 12_57 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v1-2026-07-10",
+  "acoustics": {
+    "Brock Lavins": {
+      "words": 216,
+      "questions": 2,
+      "speech_min": 0.7,
+      "loudness_mean": 1.009,
+      "loudness_cv": 0.642,
+      "f0_std_semitones": 8.73,
+      "pace_peaks_per_sec": 4.08,
+      "talk_share_pct": 6.7,
+      "arousal": 0.535,
+      "dominance": 0.569,
+      "valence": 0.52,
+      "arousal_thirds": [
+        null,
+        null,
+        0.535
+      ],
+      "seconds_analyzed": 66.0
+    },
+    "Max Riemer": {
+      "words": 2308,
+      "questions": 18,
+      "speech_min": 9.8,
+      "loudness_mean": 1.075,
+      "loudness_cv": 0.601,
+      "f0_std_semitones": 9.21,
+      "pace_peaks_per_sec": 4.1,
+      "talk_share_pct": 71.5,
+      "arousal": 0.498,
+      "dominance": 0.544,
+      "valence": 0.523,
+      "arousal_thirds": [
+        0.501,
+        0.483,
+        0.536
+      ],
+      "seconds_analyzed": 174.0
+    },
+    "Scott Teed": {
+      "words": 151,
+      "questions": 8,
+      "speech_min": 0.5,
+      "loudness_mean": 1.051,
+      "loudness_cv": 0.686,
+      "f0_std_semitones": 6.46,
+      "pace_peaks_per_sec": 4.21,
+      "talk_share_pct": 4.7,
+      "arousal": 0.484,
+      "dominance": 0.503,
+      "valence": 0.442,
+      "arousal_thirds": [
+        0.484,
+        null,
+        null
+      ],
+      "seconds_analyzed": 103.0
+    },
+    "Teo Rotstein": {
+      "words": 552,
+      "questions": 7,
+      "speech_min": 2.1,
+      "loudness_mean": 0.941,
+      "loudness_cv": 0.665,
+      "f0_std_semitones": 9.76,
+      "pace_peaks_per_sec": 3.93,
+      "talk_share_pct": 17.1,
+      "arousal": 0.456,
+      "dominance": 0.513,
+      "valence": 0.558,
+      "arousal_thirds": [
+        null,
+        null,
+        0.456
+      ],
+      "seconds_analyzed": 178.0
+    }
+  },
+  "call_summary": "Max Riemer of Optimus ran a live walkthrough of the Optimus B2B prospecting platform for Associated Logistics Group's sales team, confirming a 3-day trial starting the next morning and a Monday-after-2-Central review call. The demo covered lane/shipper search, trading-partner warm leads, contact enrichment, and data provenance (real Bill-of-Lading invoices via factoring partnerships). Internal champion Teo Rotstein drove much of the relevance by pulling up ALG's own customer (LX Hoses), rep Brock Lavins probed data sourcing and workflow overlap, and Scott Teed stayed largely passive.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max sounded prepared and interactive \u2014 he invited interruptions up front and pivoted smoothly to a live scenario when Teo asked, with pitch variation (9.21 st) and steadier-than-baseline energy (loudness CV z=-1.6) supporting an engaged, non-scripted delivery.",
+          "evidence": [
+            {
+              "timestamp": "00:03:13",
+              "quote": "If there's any specific questions that come up, feel free to just interrupt me and, uh, let me know."
+            },
+            {
+              "timestamp": "00:13:34",
+              "quote": "Yeah, for sure. Well, I guess the one thing would be two is account management."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "A neutral listener could explain the pitch: the platform surfaces real, recent shipment lanes and enriched contacts so reps can open with a specific lane-based value proposition. He backed it with concrete, quantified claims rather than generalities.",
+          "evidence": [
+            {
+              "timestamp": "00:14:41",
+              "quote": "we have flatbed capacity in Chattanooga. I know you're going right down the road in Georgia. That's a strong lane for us."
+            },
+            {
+              "timestamp": "00:06:50",
+              "quote": "we're going to have their top 10 lanes by volume. This is going to be recent activity within the last like 60 days"
+            },
+            {
+              "timestamp": "00:11:26",
+              "quote": "A big way is going to be partnerships with factoring companies."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He localized examples to St. Paul (ALG's HQ) and demoed on ALG's actual customer, LX Hoses, rather than a generic account \u2014 though much of the tailoring was prompted by Teo rather than initiated by Max.",
+          "evidence": [
+            {
+              "timestamp": "00:05:29",
+              "quote": "if I am filtering for St. Paul, Minnesota origins, and I want to go within 50 miles of St. Paul, I'll add that in there."
+            },
+            {
+              "timestamp": "00:18:14",
+              "quote": "look like they have a pretty substantial network here. Find out any opportunities you haven't seen yet."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "He secured a concrete, dated next step (admin login sent, trial Wed\u2013Thu, Monday-after-2-Central review), but asked essentially no discovery questions about ALG's freight mix, current prospecting process, or trial success criteria \u2014 the buyer supplied the relevance, not the seller.",
+          "evidence": [
+            {
+              "timestamp": "00:20:13",
+              "quote": "Monday, I'd like to go ahead and get a sort of review call, let you collect some feedback."
+            },
+            {
+              "timestamp": "00:00:00",
+              "quote": "Where are you calling from, Scott?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Open your next demo with two or three discovery questions about ALG's freight mix, current prospecting workflow, and what would make the 3-day trial a success \u2014 then tailor the walkthrough to those answers instead of running a generic feature tour."
+    }
+  },
+  "buyers": {
+    "Teo Rotstein": {
+      "interest": "strong",
+      "signals": [
+        {
+          "signal": "Proactively confirmed and locked the trial start",
+          "timestamp": "00:03:13",
+          "quote": "And Max, where can we get that trial started uh tomorrow for three days?"
+        },
+        {
+          "signal": "Acted as internal champion, demoing on ALG's own customer to show real fit",
+          "timestamp": "00:17:09",
+          "quote": "They've got all the lanes that I've bid, that we've bid, that we've ran on RFPs, all of them."
+        },
+        {
+          "signal": "Sold adoption internally and set expectations for his reps",
+          "timestamp": "00:19:06",
+          "quote": "the three days that's that's the only trial we get and you guys were the selected one. So I I'm going to be uh making sure that you guys are using it as much as possible."
+        },
+        {
+          "signal": "Owned the next step by committing a review-call time",
+          "timestamp": "00:20:13",
+          "quote": "Yeah, Monday. Um probably after two central would be okay."
+        }
+      ]
+    },
+    "Brock Lavins": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Probed data provenance to evaluate quality",
+          "timestamp": "00:10:29",
+          "quote": "how are you guys getting that information? Where's that coming from?"
+        },
+        {
+          "signal": "Vetted the vendor's business model and neutrality",
+          "timestamp": "00:11:26",
+          "quote": "are you guys moving freight as well? Do you have customers on here?"
+        },
+        {
+          "signal": "Raised an operational concern about rep-to-rep overlap (buying-mode friction)",
+          "timestamp": "00:12:38",
+          "quote": "we're not bumping heads going after the same customers looking like ding-dongs"
+        },
+        {
+          "signal": "Engaged hands-on and reacted positively while drilling into a profile",
+          "timestamp": "00:19:06",
+          "quote": "It's got all the same information. Oh, wow."
+        }
+      ]
+    },
+    "Scott Teed": {
+      "interest": "weak",
+      "signals": [
+        {
+          "signal": "Passive confirmation only, no product questions",
+          "timestamp": "00:03:13",
+          "quote": "Yep."
+        },
+        {
+          "signal": "Brief agreement to the pitch tactic without elaboration",
+          "timestamp": "00:15:57",
+          "quote": "Yeah, definitely."
+        },
+        {
+          "signal": "Polite close with no commitment or next-step ownership",
+          "timestamp": "00:20:13",
+          "quote": "Yeah, thank you."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "call": "otr-trial-review-2026-04-01-15-58-edt",
+  "source": {
+    "recording": "Optimus _ OTR (trial review) - 2026_04_01 15_58 EDT - Recording.mp4",
+    "notes": "Optimus _ OTR (trial review) - 2026_04_01 15_58 EDT - Notes by Gemini.docx"
+  },
+  "rubric_version": "v2-2026-07-10",
+  "acoustics": {
+    "Ed Stockman": {
+      "words": 977,
+      "questions": 4,
+      "speech_min": 3.1,
+      "loudness_mean": 0.795,
+      "loudness_cv": 0.724,
+      "f0_std_semitones": 5.53,
+      "pace_peaks_per_sec": 3.88,
+      "talk_share_pct": 16.1,
+      "arousal": 0.504,
+      "dominance": 0.544,
+      "valence": 0.542,
+      "arousal_thirds": [
+        null,
+        0.522,
+        0.498
+      ],
+      "seconds_analyzed": 172.0
+    },
+    "Kevin Green": {
+      "words": 3469,
+      "questions": 44,
+      "speech_min": 13.4,
+      "loudness_mean": 0.903,
+      "loudness_cv": 0.719,
+      "f0_std_semitones": 6.73,
+      "pace_peaks_per_sec": 3.85,
+      "talk_share_pct": 57.1,
+      "arousal": 0.477,
+      "dominance": 0.516,
+      "valence": 0.445,
+      "arousal_thirds": [
+        0.375,
+        0.496,
+        0.537
+      ],
+      "seconds_analyzed": 177.0
+    },
+    "Max Riemer": {
+      "words": 1629,
+      "questions": 16,
+      "speech_min": 6.8,
+      "loudness_mean": 0.931,
+      "loudness_cv": 0.668,
+      "f0_std_semitones": 8.0,
+      "pace_peaks_per_sec": 4.0,
+      "talk_share_pct": 26.8,
+      "arousal": 0.5,
+      "dominance": 0.535,
+      "valence": 0.505,
+      "arousal_thirds": [
+        0.505,
+        0.55,
+        0.396
+      ],
+      "seconds_analyzed": 173.0
+    }
+  },
+  "call_summary": "Trial-review call for Optimus with OTR broker Kevin Green (the decision-maker) and reps Max Riemer and, joining ~20 minutes in, Ed Stockman. Kevin declined to continue with the current product, citing inaccurate contacts and a UI that was hard to action, but voiced strong interest in the forthcoming TMS-integration / 'Jared' feature for data-driven prospecting. Ed reframed the deal around replacing Zoom Info at a discount plus a gain-share model and secured one concrete action (Kevin to send Zoom Info pricing), though no follow-up date was set.",
+  "sellers": {
+    "Max Riemer": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Max stayed responsive rather than scripted, validating Kevin's frustration and mapping his data-driven vision directly onto the 'Jared'/TMS roadmap; his voice was expressive (pitch variation 8.0 st) even as energy faded in the final third.",
+          "evidence": [
+            {
+              "timestamp": "00:14:33",
+              "quote": "I completely, you know, get all of that. That's that's part of the problem that Ed talks about every day with everyone is that reps, these reps, they don't do what they should do."
+            },
+            {
+              "timestamp": "00:15:39",
+              "quote": "And that's live with the TMS integrations, which is where Optimus, the agent, we call him Jared."
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Max backed value with concrete usage results and described the future engine clearly enough that a listener could state the benefit in a sentence.",
+          "evidence": [
+            {
+              "timestamp": "00:15:39",
+              "quote": "everyone I've emailed has either opened my email or replied. I got an email yesterday from Optimus and quoted someone today on March 18th."
+            },
+            {
+              "timestamp": "00:15:39",
+              "quote": "So he finds your shippers, finds your capacity, gives you those shippers that match up with your capacity, and then also like you said with eggs."
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "He anchored the pitch to Kevin's own examples\u2014eggs, best-customer commodities, and named reps\u2014rather than a generic script.",
+          "evidence": [
+            {
+              "timestamp": "00:15:39",
+              "quote": "So find other shippers that you know match your best customers to reach out"
+            },
+            {
+              "timestamp": "00:15:39",
+              "quote": "Cooper and Anthony both said the contacts worked well for them."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Max asked mostly backchannel questions and, when Kevin declared the product a 'no,' deferred to Ed instead of steering toward a concrete, dated next step.",
+          "evidence": [
+            {
+              "timestamp": "00:16:48",
+              "quote": "We have not done that with anyone yet. Ed's he's he's still testing it out."
+            },
+            {
+              "timestamp": "00:16:48",
+              "quote": "Ed, I need Ed in here."
+            }
+          ]
+        }
+      },
+      "coaching_action": "When the buyer signals a 'no' or you hit the edge of what you can answer, don't hand off or just agree\u2014ask one forward-looking question that ties their stated need to a specific next step and a date."
+    },
+    "Ed Stockman": {
+      "criteria": {
+        "delivery_engagement": {
+          "verdict": "pass",
+          "explanation": "Ed's tone was markedly flatter and slower than his own baseline (pitch variation z -2.7, pace z -1.3), but he was sharply responsive\u2014diagnosing the real problem within minutes and reframing the whole conversation\u2014so tone alone should not count against him.",
+          "evidence": [
+            {
+              "timestamp": "00:24:43",
+              "quote": "How would I change this? Because the data that you're talking about like that exists."
+            },
+            {
+              "timestamp": "00:24:43",
+              "quote": "Is is this a presentation problem? Like is this a it doesn't sound like it's a data pro problem. Am I reading this right?"
+            }
+          ]
+        },
+        "value_prop_clarity": {
+          "verdict": "pass",
+          "explanation": "Ed framed a low-risk, cost-neutral proposition: replace their existing Zoom Info spend at a discount and layer on prescriptive, TMS-driven leads with pricing tied to results.",
+          "evidence": [
+            {
+              "timestamp": "00:28:28",
+              "quote": "Can I replace that at a discount, get you guys in and work with you guys very very closely to figure out exactly what you need"
+            },
+            {
+              "timestamp": "00:30:40",
+              "quote": "making it super obvious on what you need to do next, give you the answers to the test"
+            }
+          ]
+        },
+        "relevance": {
+          "verdict": "pass",
+          "explanation": "Highly tailored\u2014he qualified their TMS and revenue, drew on having built the same system at Redwood, and tied his interest to OTR's specific ambition to scale a systematic sales process.",
+          "evidence": [
+            {
+              "timestamp": "00:31:45",
+              "quote": "This is exactly what I built at Redwood."
+            },
+            {
+              "timestamp": "00:34:33",
+              "quote": "the number one component to me here is you guys are thinking about things the same way as us to scale a sales team."
+            }
+          ]
+        },
+        "discovery_progression": {
+          "verdict": "needs_improvement",
+          "explanation": "Ed asked excellent diagnostic questions and secured a concrete buyer action (send Zoom Info pricing), but never attached a date or scheduled a follow-up meeting, leaving the reopened momentum open-ended.",
+          "evidence": [
+            {
+              "timestamp": "00:26:48",
+              "quote": "Can you do me a huge favor and find out what you pay for Zoom info?"
+            },
+            {
+              "timestamp": "00:32:35",
+              "quote": "Where's Where's the team? Is everybody in Chicago?"
+            }
+          ]
+        }
+      },
+      "coaching_action": "Before ending the call, lock a specific date for the next step\u2014e.g., 'send me the Zoom Info cost by Friday and let's meet Tuesday to review a proposal'\u2014instead of leaving the follow-up open-ended."
+    }
+  },
+  "buyers": {
+    "Kevin Green": {
+      "interest": "moderate",
+      "signals": [
+        {
+          "signal": "Strong but conditional verbal commitment tied to the unreleased TMS feature",
+          "timestamp": "00:16:48",
+          "quote": "if that if that comes along and is banger, like count me in, you know."
+        },
+        {
+          "signal": "Declined the current product yet explicitly kept the relationship open",
+          "timestamp": "00:19:35",
+          "quote": "we're a no. Um, I want to keep a prize though of you guys and what you're doing."
+        },
+        {
+          "signal": "Deep, own-words engagement co-authoring the target workflow (44 questions, arousal building across the call)",
+          "timestamp": "00:28:28",
+          "quote": "if I could actually like see and and tee them up with a workflow that like they literally just drove all day, that would be a dream come true."
+        },
+        {
+          "signal": "Accepted a buyer-owned next step\u2014pulling and sending current Zoom Info pricing",
+          "timestamp": "00:26:48",
+          "quote": "Yep. Yep."
+        }
+      ]
+    }
+  }
+}
